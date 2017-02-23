@@ -60,6 +60,12 @@
                 android:targetClass="com.android.systemui.tuner.LockscreenActivity" />
     </Preference>
 
+    <com.extra.settings.preferences.SecureSettingSwitchPreference
+        android:key="lockscreen_hide_status_bar"
+        android:title="@string/lockscreen_hide_status_bar_title"
+        android:summary="@string/lockscreen_hide_status_bar_summary"
+        android:defaultValue="false" />
+
     <com.extra.settings.preferences.SystemSettingSwitchPreference   
         android:key="lockscreen_info"
         android:title="@string/lockscreen_info_title"
