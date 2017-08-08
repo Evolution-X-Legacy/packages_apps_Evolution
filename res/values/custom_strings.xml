@@ -394,4 +394,8 @@
     <string name="corner_fwvals">Use framework values</string>
     <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
 
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+
 </resources>
