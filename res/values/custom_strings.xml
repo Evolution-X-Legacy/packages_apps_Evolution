@@ -18,6 +18,7 @@
     <!-- Categories -->
     <string name="status_bar_title">Status bar</string>
     <string name="quick_settings_title">Quick settings</string>
+    <string name="navigation_title">Navigation</string>
     <string name="navbar_title">Navigation bar</string>
     <string name="power_menu_title">Power menu</string>
     <string name="volume_keys_title">Volume keys</string>
@@ -740,5 +741,9 @@
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Lockscreen shortcuts</string>
     <string name="lockscreen_tuner_summary">Change the bottom left/right shortcuts</string>
+
+    <!-- Navbar tuner -->
+    <string name="navbar_tuner_title">Navbar buttons</string>
+    <string name="navbar_tuner_summary">Customize the buttons displayed on Navbar</string>
 
 </resources>

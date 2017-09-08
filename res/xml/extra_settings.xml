@@ -52,6 +52,13 @@
             android:fragment="com.extra.settings.fragments.VolumeKeys"
             android:icon="@drawable/ic_settings_rocker"/>
 
+        <!-- Navigation -->
+        <Preference
+            android:key="navigation_category"
+            android:title="@string/navigation_title"
+            android:icon="@drawable/ic_settings_navigation"
+            android:fragment="com.extra.settings.fragments.NavigationSettings" />
+
         <!-- Gestures -->
         <Preference
             android:key="gesture_settings"
