@@ -15,10 +15,22 @@
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
             android:title="@string/status_bar_title">
 
-     <!-- status bar battery -->
-     <Preference
-         android:key="status_bar_battery_category"
-         android:title="@string/status_bar_battery_title" 
-         android:fragment="com.extra.settings.fragments.StatusBarBattery"/>
+    <PreferenceCategory
+        android:key="misc_extensions_gestures_category"
+        android:title="@string/gestures_category">
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="double_tap_sleep_gesture"
+        android:title="@string/double_tap_to_sleep_title"
+        android:summary="@string/double_tap_to_sleep_summary"
+        android:defaultValue="true" />
+
+    </PreferenceCategory>
+
+    <!-- status bar battery -->
+    <Preference
+        android:key="status_bar_battery_category"
+        android:title="@string/status_bar_battery_title" 
+        android:fragment="com.extra.settings.fragments.StatusBarBattery"/>
 
 </PreferenceScreen>
