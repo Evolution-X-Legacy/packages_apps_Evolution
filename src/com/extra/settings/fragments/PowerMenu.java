@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017-2018 The Dirty Unicorns Project
+ * Copyright (C) 2017 AospExtended ROM Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -16,70 +16,68 @@
 
 package com.extra.settings.fragments;
 
+import android.app.ActivityManagerNative;
 import android.content.Context;
+import android.content.ContentResolver;
+import android.content.pm.PackageManager.NameNotFoundException;
+import android.content.res.Resources;
 import android.os.Bundle;
 import android.os.UserHandle;
-import android.support.v7.preference.PreferenceCategory;
-import android.support.v7.preference.ListPreference;
+import android.os.RemoteException;
+import android.os.ServiceManager;
 import android.support.v7.preference.Preference;
+import android.support.v7.preference.ListPreference;
+import android.support.v7.preference.PreferenceCategory;
 import android.support.v7.preference.PreferenceScreen;
 import android.support.v7.preference.Preference.OnPreferenceChangeListener;
-import android.support.v14.preference.SwitchPreference;
 import android.provider.Settings;
+import android.provider.SearchIndexableResource;
+import android.util.Log;
+import android.view.WindowManagerGlobal;
+import android.view.IWindowManager;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
-import com.android.internal.widget.LockPatternUtils;
+import java.util.Locale;
+import android.text.TextUtils;
+import android.view.View;
 
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
+import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
+import com.android.settings.Utils;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.search.Indexable;
 
 import java.util.ArrayList;
 import java.util.List;
-import android.provider.SearchIndexableResource;
-
-import com.android.settings.Utils;
-
-import com.android.internal.logging.nano.MetricsProto;
 
 public class PowerMenu extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
-
-    private static final String KEY_LOCKDOWN_IN_POWER_MENU = "lockdown_in_power_menu";
-    private static final int MY_USER_ID = UserHandle.myUserId();
-
-    private SwitchPreference mPowerMenuLockDown;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         addPreferencesFromResource(R.xml.power_menu);
 
+        final ContentResolver resolver = getActivity().getContentResolver();
         final PreferenceScreen prefSet = getPreferenceScreen();
-        final LockPatternUtils lockPatternUtils = new LockPatternUtils(getActivity());
 
-        mPowerMenuLockDown = (SwitchPreference) findPreference(KEY_LOCKDOWN_IN_POWER_MENU);
-        if (lockPatternUtils.isSecure(MY_USER_ID)) {
-            mPowerMenuLockDown.setChecked((Settings.Secure.getInt(getContentResolver(),
-                    Settings.Secure.LOCKDOWN_IN_POWER_MENU, 0) == 1));
-            mPowerMenuLockDown.setOnPreferenceChangeListener(this);
-        } else {
-            prefSet.removePreference(mPowerMenuLockDown);
-        }
-    }
-
-    public boolean onPreferenceChange(Preference preference, Object objValue) {
-        if (preference == mPowerMenuLockDown) {
-            boolean value = (Boolean) objValue;
-            Settings.Secure.putInt(getActivity().getContentResolver(),
-                    Settings.Secure.LOCKDOWN_IN_POWER_MENU, value ? 1 : 0);
-            return true;
-        }
-        return false;
     }
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.CUSTOM_SETTINGS;
+        return MetricsEvent.CUSTOM_SETTINGS;
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+    }
+
+    @Override
+    public boolean onPreferenceChange(Preference preference, Object objValue) {
+        return false;
     }
 
     public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
