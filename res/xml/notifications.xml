@@ -16,11 +16,21 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/notification_settings_title">
 
+    <PreferenceCategory
+        android:key="headsup_notifications_category"
+        android:title="@string/headsup_category">
+
+     <Preference
+        android:key="heads_up_notifications"
+        android:title="@string/heads_up_notifications"
+        android:fragment="com.extra.settings.fragments.HeadsUpSettings"/>
+
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="less_boring_heads_up"
         android:title="@string/less_boring_heads_up_title"
         android:summary="@string/less_boring_heads_up_summary"
-        android:defaultValue="false"
-        android:icon="@drawable/ic_headsup" />
+        android:defaultValue="false" />
+
+    </PreferenceCategory>
 
 </PreferenceScreen>
