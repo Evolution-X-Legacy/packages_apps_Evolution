@@ -48,6 +48,8 @@ import com.android.settings.Utils;
 
 public class Notifications extends SettingsPreferenceFragment implements OnPreferenceChangeListener {
 
+    private static final String INCALL_VIB_OPTIONS = "incall_vib_options";
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -56,6 +58,11 @@ public class Notifications extends SettingsPreferenceFragment implements OnPrefe
 
         final ContentResolver resolver = getActivity().getContentResolver();
         final PreferenceScreen prefSet = getPreferenceScreen();
+
+        PreferenceCategory incallVibCategory = (PreferenceCategory) findPreference(INCALL_VIB_OPTIONS);
+        if (!Utils.isVoiceCapable(getActivity())) {
+                prefSet.removePreference(incallVibCategory);
+        }
 
     }
 
