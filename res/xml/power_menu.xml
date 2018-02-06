@@ -16,12 +16,6 @@
             android:title="@string/power_menu_title">
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
-        android:key="powermenu_lockscreen"
-        android:title="@string/powermenu_lockscreen_title"
-        android:summary="@string/powermenu_lockscreen_summary"
-        android:defaultValue="true" />
-
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="powermenu_power"
         android:title="@string/powermenu_power"
         android:defaultValue="true" />
@@ -34,6 +28,7 @@
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="powermenu_restart_recovery"
         android:title="@string/powermenu_restart_recovery"
+        android:summary="@string/powermenu_advanced_restart_summary"
         android:defaultValue="true" />
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
@@ -54,11 +49,18 @@
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="powermenu_lockdown"
         android:title="@string/powermenu_lockdown"
+        android:summary="@string/lockdown_settings_summary"
         android:defaultValue="false" />
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="powermenu_users"
         android:title="@string/powermenu_users"
         android:defaultValue="false" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="powermenu_lockscreen"
+        android:title="@string/powermenu_lockscreen_title"
+        android:summary="@string/powermenu_lockscreen_summary"   
+        android:defaultValue="true" />  
 
 </PreferenceScreen>

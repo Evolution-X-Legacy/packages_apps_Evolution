@@ -57,10 +57,22 @@
     <string name="color_default">Default</string>
     <string name="system_colors">Colors</string>
 
+    <!-- Preferences Categories -->
+    <string name="cat_general_ui">UI tweaks</string>
+    <string name="cat_general_system">System related tweaks</string>
+    <string name="cat_powermenu_items">Power menu items</string>
+    <string name="cat_volume_keys">Volume keys</string>
+    <string name="cat_misc_app">App related</string>
+    <string name="anim_general_category">Overall Animations</string>
+    <string name="anim_system_category">System related</string>
+    <string name="misc_settings_cat_title">Settings app related</string>
+    <string name="general_system_stuff_preference">System Behaviour</string>
+
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Restart</string>
     <string name="powermenu_advanced_reboot_title">Advanced restart</string>
     <string name="powermenu_advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
+    <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
     <string name="powermenu_lockdown_title">Lockdown</string>
     <string name="powermenu_screenshot_title">Screenshot</string>
 
@@ -134,6 +146,7 @@
     <!-- Heads up -->
     <string name="headsup_category">HeadsUp Settings</string>
     <string name="heads_up_notifications">Heads up</string>
+    <string name="heads_up_notifications_summary">Customize heads up notifications settings</string>
     <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
     <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
     <string name="add_heads_up_package">Add app</string>
@@ -260,7 +273,9 @@
     <string name="bluetooth_battery_title">Bluetooth battery status</string>
     <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
 
+    <!-- Gestures -->
     <string name="gesture_settings_title">Gestures</string>
+    <string name="gesture_settings_aosp_title">AOSP Gestures</string>
     <string name="gesture_settings_info">Navigation bar must be disabled!\n\nAvailable gestures:\n\nBack\n- Swipe up on left or right side\n\nHome\n- Swipe up center\n\nRecent apps\n- Swipe up center and hold\n\nLong press home\n- Short swipe up and hold in the center</string>
     <string name="gesture_settings_info_new">Navigation bar must be disabled!\n\nAvailable gestures:\n\nBack\n- Swipe up on left or right side\n\nHome\n- Swipe up center\n\nRecent apps\n- Swipe up center and hold\n\nSwitch to last app\n- Short swipe up and hold in the center</string>
     <string name="use_bottom_gesture_title">Navigation gestures</string>
@@ -420,5 +435,14 @@
     <!-- Notification with screen on -->
     <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
     <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+
+    <!-- Less Notification sounds -->
+    <string name="less_notification_sounds_title">Smart notification sounds</string>
+    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
+    <string name="less_notification_sounds_default">App default</string>
+    <string name="less_notification_sounds_10s">Every 10 seconds</string>
+    <string name="less_notification_sounds_30s">Every 30 seconds</string>
+    <string name="less_notification_sounds_1m">Every minute</string>
+    <string name="less_notification_sounds_2m">Every 2 minutes</string>
 
 </resources>
