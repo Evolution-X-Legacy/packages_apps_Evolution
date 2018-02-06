@@ -17,16 +17,20 @@
     android:title="@string/general_tweaks_title">
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
-            android:key="sensor_block"
-            android:title="@string/sensor_block_title"
-            android:summary="@string/sensor_block_summary"
-            android:defaultValue="false" />
+        android:key="sensor_block"
+        android:title="@string/sensor_block_title"
+        android:summary="@string/sensor_block_summary"
+        android:defaultValue="false" />
 
     <com.extra.settings.preferences.GlobalSettingSwitchPreference
         android:key="allow_signature_fake"
         android:title="@string/allow_signature_fake"
         android:summary="@string/allow_signature_fake_summary"
         android:defaultValue="false" />
+
+    <PreferenceCategory
+        android:key="gestures_category"
+        android:title="@string/gestures_category" >
 
     <ListPreference
         android:key="torch_power_button_gesture"
@@ -45,16 +49,6 @@
         android:title="@string/screen_shot_shortcut"
         android:summary="@string/screen_shot_shortcut_summary"
         android:defaultValue="true" />
-
-    <PreferenceCategory
-            android:key="gestures_category"
-            android:title="@string/gestures_category" >
-
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
-        android:key="three_finger_gesture"
-        android:title="@string/three_finger_gesture"
-        android:summary="@string/three_finger_gesture_summary"
-        android:defaultValue="false" />
 
     </PreferenceCategory>
 

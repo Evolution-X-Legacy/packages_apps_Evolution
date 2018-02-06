@@ -24,6 +24,13 @@
             android:fragment="com.extra.settings.fragments.StatusBar"
             android:icon="@drawable/ic_settings_statusbar"/>
 
+        <!-- Quick Settings -->
+        <Preference
+            android:key="quick_settings_category"
+            android:title="@string/quick_settings_title" 
+            android:fragment="com.extra.settings.fragments.QuickSettings"
+            android:icon="@drawable/ic_settings_quicksettings"/>
+
         <!-- Themes -->
         <Preference
             android:key="theme_settings"
@@ -38,12 +45,12 @@
             android:fragment="com.extra.settings.fragments.LockScreen"
             android:icon="@drawable/ic_settings_lockscreen"/>
 
-        <!-- Quick Settings -->
+        <!-- Volume Keys -->
         <Preference
-            android:key="quick_settings_category"
-            android:title="@string/quick_settings_title" 
-            android:fragment="com.extra.settings.fragments.QuickSettings"
-            android:icon="@drawable/ic_settings_quicksettings"/>
+            android:key="volume_keys_category"
+            android:title="@string/volume_keys_title" 
+            android:fragment="com.extra.settings.fragments.VolumeKeys"
+            android:icon="@drawable/ic_settings_rocker"/>
 
         <!-- Gestures -->
         <Preference
@@ -65,13 +72,6 @@
             android:title="@string/power_menu_title" 
             android:fragment="com.extra.settings.fragments.PowerMenu"
             android:icon="@drawable/ic_settings_powermenu"/>
-
-        <!-- Volume Keys -->
-        <Preference
-            android:key="volume_keys_category"
-            android:title="@string/volume_keys_title" 
-            android:fragment="com.extra.settings.fragments.VolumeKeys"
-            android:icon="@drawable/ic_settings_rocker"/>
 
         <!-- General Tweaks -->
         <Preference
