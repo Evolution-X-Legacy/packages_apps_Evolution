@@ -23,6 +23,7 @@
     <string name="volume_keys_title">Volume Keys</string>
     <string name="lock_screen_title">Lock Screen</string>
     <string name="notification_settings_title">Notification Settings</string>
+    <string name="general_tweaks_title">General Tweaks</string>
 
     <!-- General app strings -->
     <string name="general_category">General</string>
@@ -31,21 +32,6 @@
     <string name="security_category">Security</string>
     <string name="hardware_category">Hardware</string>
     <string name="icons_category">Icons</string>
-
-    <!-- Extensions categories -->
-    <string name="recents_category">Recents</string>
-    <string name="recents_category_summary">Customize your recents overview</string>
-    <string name="status_bar_category">Statusbar</string>
-    <string name="status_bar_category_summary">Customize your statusbar</string>
-    <string name="quick_settings_category">Quick settings panel</string>
-    <string name="quick_settings_category_summary">Customize your QS panel</string>
-    <string name="notifications_category">Notifications</string>
-    <string name="notifications_category_summary">Customize your notification settings</string>
-    <string name="system_category">System</string>
-    <string name="system_category_summary">Various system extensions</string>
-    <string name="lockscreen_category">Lockscreen</string>
-    <string name="lockscreen_category_summary">Lockscreen settings</string>
-    <string name="volume_keys_category_summary">Modify volume rocker settings</string>
 
     <!-- Sub Categories -->
     <string name="lock_screen_ui_title">Interface</string>
@@ -196,5 +182,9 @@
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Show data disabled icon</string>
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+
+    <!--3-Finger screenshot-->
+    <string name="three_finger_gesture">Three finger gesture</string>
+    <string name="three_finger_gesture_summary">Swipe three finger to screenshot</string>
 
 </resources>

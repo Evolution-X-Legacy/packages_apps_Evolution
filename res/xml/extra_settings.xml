@@ -38,12 +38,19 @@
             android:fragment="com.extra.settings.fragments.QuickSettings"
             android:icon="@drawable/ic_settings_quicksettings"/>
 
+        <!-- General Tweaks -->
+        <Preference
+            android:key="general_tweaks"
+            android:title="@string/general_tweaks_title"
+            android:fragment="com.extra.settings.fragments.GeneralTweaks"
+            android:icon="@drawable/ic_general_tweaks"/>
+
         <!-- Notification Settings -->
         <Preference
-            android:fragment="com.extra.settings.fragments.Notifications"
             android:key="notifications"
-            android:icon="@drawable/ic_settings_notifications"
-            android:title="@string/notification_settings_title" />
+            android:title="@string/notification_settings_title"
+            android:fragment="com.extra.settings.fragments.Notifications"
+            android:icon="@drawable/ic_settings_notifications"/>
 
         <!-- Power Menu -->
         <Preference
