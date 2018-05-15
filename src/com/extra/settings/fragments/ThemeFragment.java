@@ -24,11 +24,15 @@ import android.os.UserHandle;
 import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
+import android.content.res.Resources;
 import android.provider.SearchIndexableResource;
+import android.provider.Settings;
+import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceCategory;
 import android.support.v7.preference.PreferenceScreen;
 import android.support.v14.preference.PreferenceFragment;
+import android.util.Log;
 
 import com.android.settings.R;
 import com.android.internal.logging.nano.MetricsProto;
@@ -37,6 +41,7 @@ import com.android.settings.search.Indexable;
 import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.wrapper.OverlayManagerWrapper;
 import com.android.settings.wrapper.OverlayManagerWrapper.OverlayInfo;
+import com.extra.settings.preferences.CustomSeekBarPreference;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -50,9 +55,18 @@ public class ThemeFragment extends SettingsPreferenceFragment
     private OverlayManagerWrapper mOverlayService;
     private PackageManager mPackageManager;
 
+    private static final String QS_PANEL_ALPHA = "qs_panel_alpha";
+    private CustomSeekBarPreference mQsPanelAlpha;
+
     @Override
     public boolean onPreferenceChange(Preference preference, Object newValue) {
-        return false;
+        if (preference == mQsPanelAlpha) {
+            int bgAlpha = (Integer) newValue;
+            Settings.System.putIntForUser(getContentResolver(),
+                    Settings.System.QS_PANEL_BG_ALPHA, bgAlpha,
+                    UserHandle.USER_CURRENT);
+        }
+        return true;
     }
 
     @Override
@@ -73,6 +87,15 @@ public class ThemeFragment extends SettingsPreferenceFragment
             label = currentPkg;
         }
         mSystemThemeColor.setSummary(label);
+        setupQsPrefs();
+    }
+
+    private void setupQsPrefs() {
+        mQsPanelAlpha = (CustomSeekBarPreference) findPreference(QS_PANEL_ALPHA);
+        int qsPanelAlpha = Settings.System.getIntForUser(getContentResolver(),
+                Settings.System.QS_PANEL_BG_ALPHA, 255, UserHandle.USER_CURRENT);
+        mQsPanelAlpha.setValue(qsPanelAlpha);
+        mQsPanelAlpha.setOnPreferenceChangeListener(this);
     }
 
     public void updateEnableState() {
