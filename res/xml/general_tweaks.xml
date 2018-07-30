@@ -28,6 +28,24 @@
         android:summary="@string/allow_signature_fake_summary"
         android:defaultValue="false" />
 
+   <PreferenceCategory
+        android:key="battery_actions"
+        android:title="@string/advanced_doze_settings">
+	
+        <Preference 
+            android:key="time_in_state" 
+            android:title="@string/time_in_state_title" 
+            android:summary="@string/time_in_state_summary" 
+            android:fragment="com.extra.settings.fragments.TimeInState" /> 
+
+        <Preference 
+            android:key="doze_settings" 
+            android:title="@string/doze_settings_title" 
+            android:summary="@string/doze_settings_summary" 
+            android:fragment="com.extra.settings.fragments.DozeSettings" /> 
+
+    </PreferenceCategory>
+
     <PreferenceCategory
         android:key="gestures_category"
         android:title="@string/gestures_category" >
