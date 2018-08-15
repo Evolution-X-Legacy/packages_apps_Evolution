@@ -14,7 +14,7 @@
  * under the License.
  */
 
-package com.nitrogen.settings.preferences;
+package com.extra.settings.preferences;
 
 import android.app.Activity;
 import android.content.Context;

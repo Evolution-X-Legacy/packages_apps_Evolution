@@ -18,7 +18,7 @@
     android:title="@string/extra_settings_title" >
 
         <!-- Navigation Bar -->
-        <PreferenceScreen
+        <Preference
             android:key="navigationbar_category"
             android:title="@string/navbar_title" 
             android:fragment="com.extra.settings.fragments.NavbarSettings"
