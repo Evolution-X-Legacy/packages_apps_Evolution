@@ -38,6 +38,13 @@
            android:key="notifications_general_category"
            android:title="@string/general_category">
 
+        <!-- Flashlight on incoming calls -->
+        <ListPreference
+            android:key="flashlight_on_call"
+            android:title="@string/flashlight_on_call_title"
+            android:entries="@array/flashlight_on_call_entries"
+            android:entryValues="@array/flashlight_on_call_values" />
+
         <com.extra.settings.preferences.SystemSettingSwitchPreference
             android:key="notification_sound_vib_screen_on"
             android:title="@string/notification_sound_vib_screen_on_title"
