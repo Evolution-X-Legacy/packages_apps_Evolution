@@ -15,6 +15,12 @@
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
             android:title="@string/status_bar_title">
 
+    <Preference
+        android:key="clock_settings"
+        android:title="@string/clock_style_category_title"
+        android:summary="@string/clock_style_category_summary"
+        android:fragment="com.extra.settings.fragments.ClockSettings" />
+
     <PreferenceCategory
         android:key="misc_extensions_gestures_category"
         android:title="@string/gestures_category">
@@ -37,13 +43,13 @@
         android:key="misc_extensions_icons_category"
         android:title="@string/icons_category">
 
-    <Preference
+        <Preference
             android:title="@string/statusbar_items_title"
             android:summary="@string/statusbar_items_summary" >
             <intent android:action="android.intent.action.MAIN"
                 android:targetPackage="com.android.systemui"
                 android:targetClass="com.android.systemui.tuner.StatusbarItemsActivity" />
-    </Preference>
+	</Preference>
 
         <!-- status bar battery -->
         <Preference
