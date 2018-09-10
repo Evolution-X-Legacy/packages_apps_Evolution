@@ -20,8 +20,7 @@
          android:key="double_tap_sleep_lockscreen"
          android:title="@string/double_tap_sleep_lockscreen_title"
          android:summary="@string/double_tap_sleep_lockscreen_sumary"
-         android:defaultValue="false"
-         android:icon="@drawable/ic_double_tap" />
+         android:defaultValue="false" />
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="fingerprint_success_vib"
