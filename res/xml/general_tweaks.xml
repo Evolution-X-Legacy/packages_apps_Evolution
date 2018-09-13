@@ -25,12 +25,14 @@
     <Preference
         android:key="wakelock_blocker"
         android:fragment="com.extra.settings.fragments.WakeLockBlocker"
+        android:summary="@string/wakelock_blocker_summary"
         android:title="@string/wakelock_blocker_title" />
 
     <Preference
         android:id="@+id/alarm_blocker"
         android:fragment="com.extra.settings.fragments.AlarmBlocker"
-        android:title="@string/alarm_blocker" />
+        android:summary="@string/alarm_blocker_summary"
+        android:title="@string/alarm_blocker_title" />
 
     <com.extra.settings.preferences.GlobalSettingSwitchPreference
         android:key="allow_signature_fake"
