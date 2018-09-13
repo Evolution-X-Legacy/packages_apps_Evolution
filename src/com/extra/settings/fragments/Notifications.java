@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2017 AospExtended ROM Project
+ * Copyright (C) 2019 The Evolution X Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -35,6 +36,7 @@ import android.provider.SearchIndexableResource;
 import android.util.Log;
 import android.view.WindowManagerGlobal;
 import android.view.IWindowManager;
+import android.widget.Toast;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -52,13 +54,19 @@ import com.android.settings.search.Indexable;
 import java.util.ArrayList;
 import java.util.List;
 
+import net.margaritov.preference.colorpicker.ColorPickerPreference;
+
 public class Notifications extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
 
     private static final String INCALL_VIB_OPTIONS = "incall_vib_options";
     private static final String FLASHLIGHT_ON_CALL = "flashlight_on_call";
+    private static final String TOAST_ICON_COLOR = "toast_icon_color";
+    private static final String TOAST_TEXT_COLOR = "toast_text_color";
 
     private ListPreference mAnnoyingNotification;
     private ListPreference mFlashlightOnCall;
+    private ColorPickerPreference mIconColor;
+    private ColorPickerPreference mTextColor;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -88,11 +96,32 @@ public class Notifications extends SettingsPreferenceFragment implements OnPrefe
         mFlashlightOnCall.setValue(String.valueOf(flashlightValue));
         mFlashlightOnCall.setSummary(mFlashlightOnCall.getEntry());
         mFlashlightOnCall.setOnPreferenceChangeListener(this);
+
+        int intColor = 0xffffffff;
+        String hexColor = String.format("#%08x", (0xffffffff & 0xffffffff));
+
+        // Toast icon color
+        mIconColor = (ColorPickerPreference) findPreference(TOAST_ICON_COLOR);
+        intColor = Settings.System.getInt(resolver,
+                Settings.System.TOAST_ICON_COLOR, 0xffffffff);
+        hexColor = String.format("#%08x", (0xffffffff & intColor));
+        mIconColor.setNewPreviewColor(intColor);
+        mIconColor.setSummary(hexColor);
+        mIconColor.setOnPreferenceChangeListener(this);
+
+        // Toast text color
+        mTextColor = (ColorPickerPreference) findPreference(TOAST_TEXT_COLOR);
+        intColor = Settings.System.getInt(resolver,
+                Settings.System.TOAST_TEXT_COLOR, 0xeeff0000);
+        hexColor = String.format("#%08x", intColor);
+        mTextColor.setNewPreviewColor(intColor);
+        mTextColor.setSummary(hexColor);
+        mTextColor.setOnPreferenceChangeListener(this);
     }
 
     @Override
     public int getMetricsCategory() {
-        return MetricsEvent.CUSTOM_SETTINGS;
+        return MetricsEvent.EVOX_SETTINGS;
     }
 
     @Override
@@ -116,6 +145,22 @@ public class Notifications extends SettingsPreferenceFragment implements OnPrefe
             mFlashlightOnCall.setValue(String.valueOf(flashlightValue));
             mFlashlightOnCall.setSummary(mFlashlightOnCall.getEntry());
             return true;
+            }  else if (preference == mIconColor) {
+                String hex = ColorPickerPreference.convertToARGB(Integer
+                       .valueOf(String.valueOf(newValue)));
+                preference.setSummary(hex);
+                int intHex = ColorPickerPreference.convertToColorInt(hex);
+                Settings.System.putInt(resolver,
+                       Settings.System.TOAST_ICON_COLOR, intHex);
+                return true;
+            } else if (preference == mTextColor) {
+                String hex = ColorPickerPreference.convertToARGB(Integer
+                      .valueOf(String.valueOf(newValue)));
+                preference.setSummary(hex);
+                int intHex = ColorPickerPreference.convertToColorInt(hex);
+                Settings.System.putInt(resolver,
+                      Settings.System.TOAST_TEXT_COLOR, intHex);
+                return true;
 	}
         return false;
     }
