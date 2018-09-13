@@ -33,4 +33,9 @@
         android:title="@string/status_bar_battery_title" 
         android:fragment="com.extra.settings.fragments.StatusBarBattery"/>
 
+    <Preference
+        android:title="@string/traffic_title"
+        android:key="traffic"
+        android:fragment="com.extra.settings.fragments.Traffic"/>
+
 </PreferenceScreen>
