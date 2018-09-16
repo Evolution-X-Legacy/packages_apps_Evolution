@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2018 pe_ex
+ * Copyright (C) 2019 The Evolution X Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -31,6 +32,7 @@ import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.search.Indexable;
 
+import com.extra.settings.preferences.CustomSeekBarPreference;
 import com.extra.settings.preferences.SystemSettingListPreference;
 
 import java.util.ArrayList;
@@ -44,10 +46,12 @@ public class LockScreenUI extends SettingsPreferenceFragment implements OnPrefer
     private static final String LOCK_CLOCK_FONTS = "lock_clock_fonts";
     private static final String LOCK_DATE_FONTS = "lock_date_fonts";
     private static final String LOCKSCREEN_CLOCK_SELECTION  = "lockscreen_clock_selection";
+    private static final String LOCKSCREEN_MAX_NOTIF_CONFIG = "lockscreen_max_notif_cofig";
 
     ListPreference mLockClockFonts;
     ListPreference mLockDateFonts;
     SystemSettingListPreference mLockClockStyle;
+    private CustomSeekBarPreference mMaxKeyguardNotifConfig;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -73,6 +77,12 @@ public class LockScreenUI extends SettingsPreferenceFragment implements OnPrefer
                 getContentResolver(), Settings.System.LOCK_DATE_FONTS, 0)));
         mLockDateFonts.setSummary(mLockDateFonts.getEntry());
         mLockDateFonts.setOnPreferenceChangeListener(this);
+
+        mMaxKeyguardNotifConfig = (CustomSeekBarPreference) findPreference(LOCKSCREEN_MAX_NOTIF_CONFIG);
+        int kgconf = Settings.System.getInt(getContentResolver(),
+                Settings.System.LOCKSCREEN_MAX_NOTIF_CONFIG, 3);
+        mMaxKeyguardNotifConfig.setValue(kgconf);
+        mMaxKeyguardNotifConfig.setOnPreferenceChangeListener(this);
     }
 
     @Override
@@ -98,6 +108,11 @@ public class LockScreenUI extends SettingsPreferenceFragment implements OnPrefer
             } else {
                 Settings.System.putInt(getContentResolver(), Settings.System.LOCKSCREEN_INFO, 1);
             }
+            return true;
+        } else if (preference == mMaxKeyguardNotifConfig) {
+            int kgconf = (Integer) newValue;
+            Settings.System.putInt(getActivity().getContentResolver(),
+                    Settings.System.LOCKSCREEN_MAX_NOTIF_CONFIG, kgconf);
             return true;
         }
         return false;
