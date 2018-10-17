@@ -42,6 +42,10 @@ import com.android.settings.R;
 public class QuickSettings extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
 
     ListPreference mQuickPulldown;
+    private static final String QS_TILE_STYLE = "qs_tile_style";
+
+    ListPreference mQuickPulldown;
+    private ListPreference mQsTileStyle;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -49,16 +53,28 @@ public class QuickSettings extends SettingsPreferenceFragment implements OnPrefe
 
         addPreferencesFromResource(R.xml.quick_settings);
 
+	ContentResolver resolver = getActivity().getContentResolver();
+
         //qs_panel quick pulldown
         int qpmode = Settings.System.getIntForUser(getContentResolver(),
         Settings.System.STATUS_BAR_QUICK_QS_PULLDOWN, 1, UserHandle.USER_CURRENT);
         mQuickPulldown = (ListPreference) findPreference("status_bar_quick_qs_pulldown");
         mQuickPulldown.setValue(String.valueOf(qpmode));
         mQuickPulldown.setOnPreferenceChangeListener(this);
+
+        mQsTileStyle = (ListPreference) findPreference(QS_TILE_STYLE);
+        int qsTileStyle = Settings.System.getIntForUser(resolver,
+                Settings.System.QS_TILE_STYLE, 0,
+  	        UserHandle.USER_CURRENT);
+        int valueIndex = mQsTileStyle.findIndexOfValue(String.valueOf(qsTileStyle));
+        mQsTileStyle.setValueIndex(valueIndex >= 0 ? valueIndex : 0);
+        mQsTileStyle.setSummary(mQsTileStyle.getEntry());
+        mQsTileStyle.setOnPreferenceChangeListener(this);
     }
 
     public boolean onPreferenceChange(Preference preference, Object newValue) {
         ContentResolver resolver = getActivity().getContentResolver();
+
         if (preference == mQuickPulldown) { //qs_panel quick pulldown
             int value = Integer.parseInt((String) newValue);
             Settings.System.putIntForUser(resolver,
@@ -68,8 +84,13 @@ public class QuickSettings extends SettingsPreferenceFragment implements OnPrefe
             mQuickPulldown.setSummary(
                     mQuickPulldown.getEntries()[index]);
             return true;
+        } else if (preference == mQsTileStyle) {
+            int qsTileStyleValue = Integer.valueOf((String) newValue);
+            Settings.System.putIntForUser(resolver, Settings.System.QS_TILE_STYLE,
+                    qsTileStyleValue, UserHandle.USER_CURRENT);
+            mQsTileStyle.setSummary(mQsTileStyle.getEntries()[qsTileStyleValue]);
         }
-        return false;
+        return true;
     }
 
     @Override
