@@ -37,6 +37,12 @@
         android:fragment="com.evolution.settings.fragments.ClockDateSettings" />
 
     <Preference
+        android:key="ticker_settings"  
+        android:title="@string/ticker_category"
+        android:summary="@string/ticker_summary"
+        android:fragment="com.evolution.settings.fragments.TickerCategory" />
+
+    <Preference
         android:key="traffic_settings"
         android:title="@string/traffic_title"
 	android:summary="@string/traffic_summary"

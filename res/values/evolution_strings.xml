@@ -739,4 +739,12 @@
     <string name="lockscreen_charging_animation_title">Charging animation</string>
     <string name="lockscreen_charging_animation_summary">Display a bolt animation when the device is charging</string>
 
+    <!-- Statusbar ticker -->
+    <string name="ticker_category">Ticker</string>
+    <string name="ticker_summary">Notification preview in status bar</string>
+    <string name="ticker_animation_mode_title">Ticker animation</string>
+    <string name="ticker_animation_mode_alpha_fade">Fade</string>
+    <string name="ticker_animation_mode_scroll">Scroll</string>
+    <string name="ticker_tick_duration_title">Ticker duration</string>
+
 </resources>
