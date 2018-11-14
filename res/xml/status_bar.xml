@@ -21,6 +21,12 @@
         android:summary="@string/clock_style_category_summary"
         android:fragment="com.extra.settings.fragments.ClockSettings" />
 
+    <Preference
+        android:key="carrierlabel_settings"
+        android:title="@string/carrier_label_category_title"
+	android:summary="@string/carrier_label_category_summary"
+        android:fragment="com.extra.settings.fragments.CarrierLabelSettings" />
+
     <PreferenceCategory
         android:key="misc_extensions_gestures_category"
         android:title="@string/gestures_category">
