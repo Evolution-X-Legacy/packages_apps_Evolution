@@ -23,6 +23,18 @@
         android:summary="@string/volume_steps_summary" />
 
     <PreferenceCategory
+           android:key="notifications_general_category"
+           android:title="@string/general_category">
+
+        <com.extra.settings.preferences.SystemSettingSwitchPreference
+           android:key="notification_guts_kill_app_button"
+           android:title="@string/notification_guts_kill_app_button_title"
+           android:summary="@string/notification_guts_kill_app_button_summary"
+           android:defaultValue="false" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:key="headsup_notifications_category"
         android:title="@string/headsup_category">
 
