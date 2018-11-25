@@ -13,20 +13,14 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-            android:title="@string/lock_screen_title">
+            android:title="@string/lock_screen_ui_title">
 
-    <!-- Lock Screen UI -->
-    <Preference
-        android:key="lock_screen_ui_category"
-        android:title="@string/lock_screen_ui_title" 
-        android:fragment="com.extra.settings.fragments.LockScreenUI"
-        android:icon="@drawable/ic_settings_ui"/> 
-
-    <!-- Lock Screen Misc -->
-    <Preference
-        android:key="lock_screen_misc_category"
-        android:title="@string/lock_screen_misc_title" 
-        android:fragment="com.extra.settings.fragments.LockScreenMisc"
-        android:icon="@drawable/ic_settings_miscs"/> 
+    <!-- Lockscreen media art toggle -->
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="lockscreen_media_metadata"
+        android:title="@string/media_art_title"
+        android:summary="@string/media_art_summary"
+        android:defaultValue="false"
+        android:icon="@drawable/ic_movie" />
 
 </PreferenceScreen>
