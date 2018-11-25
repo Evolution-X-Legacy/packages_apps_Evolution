@@ -11,11 +11,13 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
     <!-- App Title -->
     <string name="extra_settings_title">Extra Settings</string>
 
     <!-- Categories -->
     <string name="navbar_title">Navigation bar</string>
+    <string name="power_menu_title">Power Menu</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -32,4 +34,12 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
+
+    <!-- Power Menu -->
+    <string name="powermenu_reboot_title">Restart</string>
+    <string name="powermenu_advanced_restart_title">Advanced restart</string>
+    <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
+    <string name="powermenu_lockdown_title">Lockdown</string>
+    <string name="powermenu_screenshot_title">Screenshot</string>
+
 </resources>
