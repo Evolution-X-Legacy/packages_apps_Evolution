@@ -31,11 +31,18 @@
             android:fragment="com.android.settings.smartnav.NavigationBarSettings"
             android:icon="@drawable/ic_settings_navbar"/>
 
-       <!-- Power Menu -->
+        <!-- Power Menu -->
         <Preference
             android:key="power_menu_category"
             android:title="@string/power_menu_title" 
-            android:fragment="com.extra.settings.fragments.PowerMenuSettings"
+            android:fragment="com.extra.settings.fragments.PowerMenu"
             android:icon="@drawable/ic_lock_power_off"/>
+
+        <!-- Volume Keys -->
+        <Preference
+            android:key="volume_keys_category"
+            android:title="@string/volume_keys_title" 
+            android:fragment="com.extra.settings.fragments.VolumeKeys"
+            android:icon="@drawable/ic_volume_icon"/>
 
 </PreferenceScreen>

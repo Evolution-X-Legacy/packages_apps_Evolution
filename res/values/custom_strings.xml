@@ -19,6 +19,7 @@
     <string name="quick_settings_title">Quick Settings</string>
     <string name="navbar_title">Navigation Bar</string>
     <string name="power_menu_title">Power Menu</string>
+    <string name="volume_keys_title">Volume Keys</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -48,5 +49,9 @@
     <string name="quick_pulldown_none">Disabled</string>
     <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
     <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
 
 </resources>
