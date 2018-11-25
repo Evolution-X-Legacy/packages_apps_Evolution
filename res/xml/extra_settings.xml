@@ -45,4 +45,11 @@
             android:fragment="com.extra.settings.fragments.VolumeKeys"
             android:icon="@drawable/ic_volume_icon"/>
 
+        <!-- Lock Screen -->
+        <Preference
+            android:key="lock_screen_category"
+            android:title="@string/lock_screen_title" 
+            android:fragment="com.extra.settings.fragments.LockScreen"
+            android:icon="@drawable/ic_volume_icon"/>
+
 </PreferenceScreen>

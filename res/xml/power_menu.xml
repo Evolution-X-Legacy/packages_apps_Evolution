@@ -15,12 +15,14 @@
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
             android:title="@string/power_menu_title">
 
+    <!-- power menu reboot -->
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="reboot_in_power_menu"
         android:title="@string/powermenu_reboot_title"
         android:defaultValue="true"
         android:icon="@drawable/ic_restart" />
 
+    <!-- power menu advanced reboot -->
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="advanced_reboot_in_power_menu"
         android:title="@string/powermenu_advanced_restart_title"
@@ -28,12 +30,14 @@
         android:defaultValue="false"
         android:icon="@drawable/ic_restart_advanced" />
 
+    <!-- power menu lockdown -->
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="lockdown_in_power_menu"
         android:title="@string/powermenu_lockdown_title"
         android:defaultValue="false"
         android:icon="@drawable/ic_lock_lockdown" />
 
+    <!-- power menu screenshot-->
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="screenshot_in_power_menu"
         android:title="@string/powermenu_screenshot_title"

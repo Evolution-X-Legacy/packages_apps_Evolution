@@ -13,14 +13,14 @@
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
-            android:title="@string/volume_keys_title">
+            android:title="@string/lock_screen_misc_title">
 
-    <!-- volume keys music control when screen off -->
+    <!-- Lockscreen dt2s -->
     <com.extra.settings.preferences.SystemSettingSwitchPreference
-        android:key="volume_button_music_control"
-        android:title="@string/volume_button_music_control_title"
-        android:summary="@string/volume_button_music_control_summary"
-        android:defaultValue="false" 
-        android:icon="@drawable/ic_music_note_24dp"/>
+         android:key="double_tap_sleep_lockscreen"
+         android:title="@string/double_tap_sleep_lockscreen_title"
+         android:summary="@string/double_tap_sleep_lockscreen_sumary"
+         android:defaultValue="false"
+         android:icon="@drawable/ic_double_tap" />
 
 </PreferenceScreen>

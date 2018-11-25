@@ -20,6 +20,10 @@
     <string name="navbar_title">Navigation Bar</string>
     <string name="power_menu_title">Power Menu</string>
     <string name="volume_keys_title">Volume Keys</string>
+    <string name="lock_screen_title">Lock Screen</string>
+
+    <!-- Sub Categories -->
+    <string name="lock_screen_misc_title">Misc</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -53,5 +57,9 @@
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Playback control</string>
     <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+
+    <!-- Lockscreen dt2s -->
+    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
+    <string name="double_tap_sleep_lockscreen_sumary">Double tap anywhere on the lockscreen to put the phone to sleep</string>
 
 </resources>
