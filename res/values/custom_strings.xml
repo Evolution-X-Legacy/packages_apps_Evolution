@@ -16,7 +16,8 @@
     <string name="extra_settings_title">Extra Settings</string>
 
     <!-- Categories -->
-    <string name="navbar_title">Navigation bar</string>
+    <string name="quick_settings_title">Quick Settings</string>
+    <string name="navbar_title">Navigation Bar</string>
     <string name="power_menu_title">Power Menu</string>
 
     <!-- General strings -->
@@ -41,5 +42,11 @@
     <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
     <string name="powermenu_lockdown_title">Lockdown</string>
     <string name="powermenu_screenshot_title">Screenshot</string>
+
+    <!-- Quick QS Pulldown -->
+    <string name="status_bar_quick_qs_pulldown">Quick QS pulldown</string>
+    <string name="quick_pulldown_none">Disabled</string>
+    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
+    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
 
 </resources>
