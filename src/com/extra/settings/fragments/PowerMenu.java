@@ -34,7 +34,7 @@ import com.android.settings.Utils;
 
 import com.android.internal.logging.nano.MetricsProto;
 
-public class PowerMenuSettings extends SettingsPreferenceFragment implements Preference.OnPreferenceChangeListener {
+public class PowerMenu extends SettingsPreferenceFragment implements Preference.OnPreferenceChangeListener {
 
     private static final String KEY_LOCKDOWN_IN_POWER_MENU = "lockdown_in_power_menu";
     private static final int MY_USER_ID = UserHandle.myUserId();

@@ -27,7 +27,6 @@ import android.support.v14.preference.SwitchPreference;
 import android.provider.Settings;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.development.DevelopmentSettings;
 import com.android.settings.SettingsPreferenceFragment;
 
 import com.android.settings.R;
@@ -38,14 +37,11 @@ public class VolumeKeys extends SettingsPreferenceFragment implements Preference
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        addPreferencesFromResource(R.xml.volume_keus);
+        addPreferencesFromResource(R.xml.volume_keys);
 
     }
 
     public boolean onPreferenceChange(Preference preference, Object newValue) {
-        ContentResolver resolver = getActivity().getContentResolver();
-            return true;
-        }
         return false;
     }
 

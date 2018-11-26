@@ -27,12 +27,11 @@ import android.support.v14.preference.SwitchPreference;
 import android.provider.Settings;
 
 import com.android.internal.logging.nano.MetricsProto;
-import com.android.settings.development.DevelopmentSettings;
 import com.android.settings.SettingsPreferenceFragment;
 
 import com.android.settings.R;
 
-public class QuickSettings extends SettingsPreferenceFragment implements Preference.OnPreferenceChangeListener {
+public class NotificationSettings extends SettingsPreferenceFragment implements Preference.OnPreferenceChangeListener {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -43,9 +42,6 @@ public class QuickSettings extends SettingsPreferenceFragment implements Prefere
     }
 
     public boolean onPreferenceChange(Preference preference, Object newValue) {
-        ContentResolver resolver = getActivity().getContentResolver();
-            return true;
-        }
         return false;
     }
 
