@@ -595,10 +595,12 @@
     <string name="hide_from_recents_add_app">Add App</string>
     <string name="hide_apps_from_recents_summary">Select certian apps to hide in recents</string>
 
-    <!-- Recents style -->
-    <string name="recents_component_type_title">Recents style</string>
-    <string name="recents_pie">Pie</string>
-    <string name="recents_oreo">Oreo</string>
+    <!-- Pie and Oreo recents -->
+    <string name="recents_component_type_title">Recents Style</string>
+    <string name="recents_quickstep">Quickstep</string>
+    <string name="recents_stock">Stock</string>
+    <string name="recents_grid">Grid</string>
+    <string name="recents_go">Android Go</string>
 
     <!-- AOSP recents -->
     <string name="aosp_first_time_title">AOSP recents</string>
