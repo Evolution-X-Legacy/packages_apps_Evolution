@@ -372,4 +372,7 @@
     <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
     <string name="lock_date_font_dialog_title">Select lock date font</string>
 
+    <!-- Themes -->
+    <string name="accent_color">Accent color</string>
+
 </resources>
