@@ -818,4 +818,8 @@
     <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
     <string name="flashlight_on_call_always">Always blink flashlight</string>
 
+    <!-- Evox logo -->
+    <string name="evox_logo_title">Evolution X Logo</string>
+    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
+
 </resources>
