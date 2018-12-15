@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2019 The Evolution X Project
-
+<!-- Copyright (C) 2016 The Nitrogen OS
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -23,11 +20,12 @@
     <string name="quick_settings_title">Ajustes rapidos</string>
     <string name="navbar_title">Barra de navegacion</string>
     <string name="power_menu_title">Menu de encendido</string>
-    <string name="volume_keys_title">Botones de volumen</string>
+    <string name="volume_keys_title">Teclas de volumen</string>
     <string name="lock_screen_title">Pantalla de bloqueo</string>
     <string name="notification_settings_title">Notificaciones</string>
     <string name="general_tweaks_title">Ajustes generales</string>
     <string name="theme_main">Temas</string>
+	<string name="theme_main_summary">Colorealo!</string>
 
     <!-- General app strings -->
     <string name="general_category">General</string>
@@ -62,7 +60,7 @@
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Reiniciar</string>
     <string name="powermenu_advanced_reboot_title">Reincio avanzado</string>
-    <string name="powermenu_advanced_reboot_summary">Cuando este desbloqueado, incluir opciones para reiniciar a Recovery o Bootloader</string>
+    <string name="powermenu_advanced_reboot_summary">Cuando este desbloqueado, incluir las opciones para entrar al Recovery o al Bootloader</string>
     <string name="powermenu_lockdown_title">Bloqueo</string>
     <string name="powermenu_screenshot_title">Captura de pantalla</string>
 
@@ -74,7 +72,7 @@
 
     <!-- Volume rocker music control -->
     <string name="volume_button_music_control_title">Controles de musica</string>
-    <string name="volume_button_music_control_summary">Cuando la pantalla esta apagada, mantener los botones de volumen para saltar o retroceder canciones</string>
+    <string name="volume_button_music_control_summary">Cuando la pantalla esta apagada, manten los botones de volumen para saltar o volver canciones</string>
 
     <!-- Lockscreen dt2s -->
     <string name="double_tap_sleep_lockscreen_title">Doble toque para apagar/bloquear pantalla</string>
@@ -163,14 +161,14 @@
     <string name="heads_up_snooze_summary">Deslizar hacia arriba en las notificaciones flotantes las pospondra en esa aplicacion por <xliff:g id="number">%d</xliff:g> minuto</string>
     <string name="heads_up_snooze_disabled_summary">Tiempo para posponer esta desactivado</string>
     <string name="heads_up_snooze_1min">1 minuto</string>
-    <string name="heads_up_snooze_5min">5 minutos</string>
-    <string name="heads_up_snooze_10min">10 minutos</string>
-    <string name="heads_up_snooze_15min">15 minutos</string>
-    <string name="heads_up_snooze_20min">20 minutos</string>
+    <string name="heads_up_snooze_5min">5 minuto</string>
+    <string name="heads_up_snooze_10min">10 minuto</string>
+    <string name="heads_up_snooze_15min">15 minuto</string>
+    <string name="heads_up_snooze_20min">20 minuto</string>
 
     <!-- Power menu on secure lockscreen -->
     <string name="powermenu_lockscreen_title">Visibilidad en pantalla de bloqueo</string>
-    <string name="powermenu_lockscreen_summary">Activar posibilidad de usar el menu de apagado desde la pantalla de bloqueo</string>
+    <string name="powermenu_lockscreen_summary">Activa la posibilidad de usar el menu de apagado desde la pantalla de bloqueo</string>
 
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Indicador de roaming</string>
@@ -182,7 +180,7 @@
 
     <!-- Show VoLTE icon on statusbar -->
     <string name="volte_icon_title">Icono VoLTE</string>
-    <string name="volte_icon_summary">Mostrar icono VoLTE (Necesita un reinicio de SystemUI para que tenga efecto)</string>
+    <string name="volte_icon_summary">Mostrar icono VoLTE (Necesita un reinicio de SystemUI para surtir efecto)</string>
 
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Mostrar icono de datos moviles desactivados</string>
@@ -225,20 +223,13 @@
     <string name="incall_vibrate_call_wait_title">Vibrar en espera</string>
     <string name="incall_vibrate_disconnect_title">Vibrar al colgar</string>
 
-    <!-- Rounded corners -->
-    <string name="corners_category">Esquinas</string>
-    <string name="corner_radius">Radio de esquinas redondeadas</string>
-    <string name="content_padding">Relleno de contenido en esquinas</string>
-    <string name="corner_fwvals">Usar valores de framework</string>
-    <string name="corner_fwvals_summary">Util si tu dispositivo ya tiene las esquinas redondeadas</string>
-
     <!-- Lockscreen visualizer -->
     <string name="lockscreen_visualizer_title">Visualizador en pantalla de bloqueo</string>
     <string name="lockscreen_visualizer_summary">Mostrar barras musicales en pantalla de bloqueo cuando hay musica en reproduccion</string>
 
     <!-- Ambient visualizer -->
     <string name="ambient_visualizer_title">Mostrar visualizador de pantalla de bloqueo en pantalla ambiente</string>
-    <string name="ambient_visualizer_summary">Mostrar las barras musicales en pantalla ambiente (menos opacas)</string>
+    <string name="ambient_visualizer_summary">Mostrar las barras musicales en pantalla ambiente (pero menos opacas)</string>
 
     <!-- Quick Settings brightness slider -->
     <string name="qs_brightness_position_bottom_title">Barra de brillo abajo</string>
@@ -289,6 +280,11 @@
     <!-- ScreenShot Shortcut -->
     <string name="screen_shot_shortcut">Atajo de captura de pantalla</string>
     <string name="screen_shot_shortcut_summary">Encendido + Volumen Abajo activa la captura de pantala si esta activada</string>
+
+	<!-- Text shown for the title of the lockdown option -->
+    <string name="lockdown_settings_title">Muestra opciones de bloqueoShow lockdown option</string>
+    <!-- Text shown for the description of the lockdown option -->
+    <string name="lockdown_settings_summary">Muestra opciones en el menu de apagado para desactivar Smart Lock, desbloqueo con lector de huellas y notificaciones en la pantalla de bloqueo</string>
 
     <!-- Audio Panel view  -->
      <string name="audio_panel_view">Vista de panel de volumen</string>
@@ -344,13 +340,61 @@
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Linterna con pantalla apagada</string>
     <string name="torch_power_button_gesture_none">Desactivado</string>
-    <string name="torch_power_button_gesture_dt">Doble toque en boton de encendido (añadirá un pequeño retraso al toque simple)</string>
-    <string name="torch_power_button_gesture_lp">Toque largo al botón de encendido</string>
+    <string name="torch_power_button_gesture_dt">Doble toque en boton de encendido(añadira un retraso al toque simple)</string>
+    <string name="torch_power_button_gesture_lp">Toque largo al botono de encendido</string>
+
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Desbloqueo con lector de huellas</string>
+    <string name="fp_unlock_keystore_summary">Desbloquear con lector de huellas despues de un reinicio sin PIN/Contraseña/Patron\nNota: a tu propio riesgo!</string>
+
+    <!-- Lockscreen battery info indicator -->
+    <string name="lockscreen_battery_info_title">Informacion de carga en pantalla de bloqueo</string>
+    <string name="lockscreen_battery_info_summary">Mostrar el amperaje, voltaje y temperatura de bateria mientras se carga en la pantalla de bloqueo</string>
+
+    <!-- Lock Clock Fonts -->
+    <string name="lock_clock_font_title">Opciones de fuente para reloj</string>
+    <string name="lock_clock_font_summary">Cambia la fuente por defecto en el reloj e la pantalla de bloqueo</string>
+    <string name="lock_clock_font_dialog_title">Selecciona la fuente para el reloj</string>
+    <string name="lock_clock_font_stock">Normal (Por defecto)</string>
+    <string name="lock_clock_font_bold">Negrita</string>
+    <string name="lock_clock_font_italic">Cursiva</string>
+    <string name="lock_clock_font_bold_italic">Negrita Cursiva</string>
+    <string name="lock_clock_font_light_italic">Ligera Cursiva</string>
+    <string name="lock_clock_font_thin_italic">Delgada Cursiva</string>
+    <string name="lock_clock_font_light">Ligera</string>
+    <string name="lock_clock_font_thin">Delgada</string>
+    <string name="lock_clock_font_condensed_normal">Condensada</string>
+    <string name="lock_clock_font_condensed_italic">Condensada Cursiva</string>
+    <string name="lock_clock_font_condensed_bold">Condensada Negrita</string>
+    <string name="lock_clock_font_condensed_bold_italic">Condensada Negrita Cursiva</string>
+    <string name="lock_clock_font_condensed_light">Condensada Ligera</string>
+    <string name="lock_clock_font_condensed_light_italic">Condensada Ligera Cursiva</string> 
+    <string name="lock_clock_font_medium_normal">Mediana</string>
+    <string name="lock_clock_font_medium_italic">Mediana Cursiva</string>
+    <string name="lock_clock_font_black">Negra</string>
+    <string name="lock_clock_font_black_italic">Negra Cursiva</string> 
+    <string name="lock_clock_font_dancingscript">DancingScript</string>
+    <string name="lock_clock_font_dancingscript_bold">DancingScript Bold</string>
+    <string name="lock_clock_font_comingsoon">ComingSoon</string>
+    <string name="lock_clock_font_notoserif">NotoSerif Normal</string>
+    <string name="lock_clock_font_notoserif_italic">NotoSerif Italic</string>
+    <string name="lock_clock_font_notoserif_bold">NotoSerif Bold</string>
+    <string name="lock_clock_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+    <string name="lock_clock_font_gobold">GoBold Light</string>
+    <string name="lock_clock_font_roadrage">Road Rage</string>
+    <string name="lock_clock_font_snowstorm">Snowstorm</string>
+    <string name="lock_clock_font_googlesans">Google Sans</string>
+    <string name="lock_clock_font_neoneon">Neoneon</string>
+    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
+    <string name="lock_clock_font_samsung">Shamshung</string>
+
+    <!-- Lock Date Fonts -->
+    <string name="lock_date_font_title">Opciones de fuente en la fecha</string>
+    <string name="lock_date_font_summary">Cambia la fuente por defecto de la fecha en la pantalla de bloqueo</string>
+    <string name="lock_date_font_dialog_title">Selecciona la fuente de la fecha</string>
 
     <!-- Themes -->
     <string name="accent_color">Color de acento</string>
-    <string name="prefer_black_themes">Preferir temas negros(AMOLED)</string>
-    <string name="prefer_black_themes_summary">Usar negro AMOLED en lugar de oscuro si es posible</string>
 
     <!-- QS themes -->
     <string name="qs_themes_category_title">Colores de configuraciones rapidas</string>
@@ -359,8 +403,15 @@
     <string name="qs_bg_wall_title">Usar color del fondo de pantalla</string>
     <string name="qs_bg_wall_summary">Usar color del fondo de pantalla para fondo de configuraciones rapidas</string>
     <string name="qs_bg_accent_title">Usar color de acento</string>
-    <string name="qs_bg_accent_summary">Usar color de acento para fondo de configuraciones rapidas</string>
+    <string name="qs_bg_accent_summary">Usar color ce acento para fondo de configuraciones rapidas</string>
     <string name="qs_bg_use_fw">Usar color por defecto</string>
     <string name="qs_bg_use_fw_summary">Desactivar color personalizado de temas externos</string>
+	
+    <!-- Rounded corners -->
+    <string name="corners_category">Esquinas</string>
+    <string name="corner_radius">Radio de redondeo de esquinas</string>
+    <string name="content_padding">Relleno de contenido en esquinas</string>
+    <string name="corner_fwvals">Usar valores de framework</string>
+    <string name="corner_fwvals_summary">Util si tu dispositivo ya tiene las esquinas redondeadas</string>
 
 </resources>
