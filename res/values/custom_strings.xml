@@ -375,4 +375,7 @@
     <!-- Themes -->
     <string name="accent_color">Accent color</string>
 
+    <!-- QS themes -->
+    <string name="qs_themes_category_title">Quick Settings colors</string>
+
 </resources>
