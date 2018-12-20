@@ -21,4 +21,9 @@
             android:title="@string/accent_color" />
     </PreferenceCategory>
 
+    <PreferenceCategory
+        android:key="qs_category"
+        android:title="@string/qs_themes_category_title" >
+    </PreferenceCategory>
+
 </PreferenceScreen>
