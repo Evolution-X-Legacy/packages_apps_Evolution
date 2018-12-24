@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2018 pe_ex
+ * Copyright (C) 2019 The Evolution X Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,9 +19,10 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v7.preference.ListPreference;
-
+import android.os.UserHandle;
 import android.provider.SearchIndexableResource;
+import android.provider.Settings;
+import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceScreen;
 import android.support.v7.preference.Preference.OnPreferenceChangeListener;
@@ -44,6 +45,12 @@ public class StatusBar extends SettingsPreferenceFragment implements
     private static final String KEY_STATUS_BAR_LOGO = "status_bar_logo";
 
     private SwitchPreference mShowEvoxLogo;
+    private ListPreference mLogoStyle;
+
+    @Override
+    public int getMetricsCategory() {
+        return MetricsProto.MetricsEvent.EVOX_SETTINGS;
+    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -56,6 +63,13 @@ public class StatusBar extends SettingsPreferenceFragment implements
              Settings.System.STATUS_BAR_LOGO, 0) == 1));
         mShowEvoxLogo.setOnPreferenceChangeListener(this);
 
+        mLogoStyle = (ListPreference) findPreference("status_bar_logo_style");
+        mLogoStyle.setOnPreferenceChangeListener(this);
+        int logoStyle = Settings.System.getIntForUser(getContentResolver(),
+                Settings.System.STATUS_BAR_LOGO_STYLE,
+                0, UserHandle.USER_CURRENT);
+        mLogoStyle.setValue(String.valueOf(logoStyle));
+        mLogoStyle.setSummary(mLogoStyle.getEntry());
     }
 
     public boolean onPreferenceChange(Preference preference, Object objValue) {
@@ -64,15 +78,21 @@ public class StatusBar extends SettingsPreferenceFragment implements
             Settings.System.putInt(getActivity().getContentResolver(),
                     Settings.System.STATUS_BAR_LOGO, value ? 1 : 0);
             return true;
+        } else if (preference.equals(mLogoStyle)) {
+            int logoStyle = Integer.parseInt(((String) objValue).toString());
+            Settings.System.putIntForUser(getContentResolver(),
+                    Settings.System.STATUS_BAR_LOGO_STYLE, logoStyle, UserHandle.USER_CURRENT);
+            int index = mLogoStyle.findIndexOfValue((String) objValue);
+            mLogoStyle.setSummary(
+                    mLogoStyle.getEntries()[index]);
+            return true;
         }
         return false;
     }
 
-    @Override
-    public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.CUSTOM_SETTINGS;
-    }
-
+    /**
+     * For Search.
+     */
     public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
             new BaseSearchIndexProvider() {
                  @Override

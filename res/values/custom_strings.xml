@@ -821,6 +821,7 @@
     <!-- Evox logo -->
     <string name="evox_logo_title">Evolution X Logo</string>
     <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
+    <string name="status_bar_logo_style_title">Custom logo style</string>
 
     <!-- QS footer icons -->
     <string name="footer_title">Footer</string>
