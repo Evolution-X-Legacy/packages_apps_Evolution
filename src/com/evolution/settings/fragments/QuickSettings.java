@@ -119,7 +119,9 @@ public class QuickSettings extends SettingsPreferenceFragment implements
         mQsPanelAlpha = (CustomSeekBarPreference) findPreference(QS_PANEL_BG_ALPHA);
         int qsPanelAlpha = Settings.System.getIntForUser(resolver,
                 Settings.System.QS_PANEL_BG_ALPHA, 255, UserHandle.USER_CURRENT);
-        mQsPanelAlpha.setValue(qsPanelAlpha);
+        // Convert QS alpha values 100-255 to corresponding transparency value 100-0
+        int qsTransparencyValue = (int) (100 - (qsPanelAlpha - 100) * 100 / 155);
+        mQsPanelAlpha.setValue(qsTransparencyValue);
         mQsPanelAlpha.setOnPreferenceChangeListener(this);
 
         mQsPanelColor = (ColorPickerPreference) findPreference(QS_PANEL_COLOR);
@@ -168,7 +170,9 @@ public class QuickSettings extends SettingsPreferenceFragment implements
             updateTileAnimationInterpolatorSummary(tileAnimationInterpolator);
             return true;
         } else if (preference == mQsPanelAlpha) {
-            mQsPanelAlphaValue = (Integer) newValue;
+            int qsTransparencyValue = (int) newValue;
+            // Convert QS transparency value on scale of 0-100 to corresponding alpha values 255-100
+            mQsPanelAlphaValue = (int) (255 - (qsTransparencyValue * 155 / 100));
             if (!mChangeQsPanelAlpha)
                 return true;
             mChangeQsPanelAlpha = false;
