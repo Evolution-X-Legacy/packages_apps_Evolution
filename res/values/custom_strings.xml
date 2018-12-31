@@ -224,4 +224,8 @@
     <string name="lockscreen_visualizer_title">Lockscreen visualizer</string>
     <string name="lockscreen_visualizer_summary">Displays a live design on lockscreen while music is playing</string>
 
+    <!-- Ambient visualizer -->
+    <string name="ambient_visualizer_title">Show LS visualizer on Ambient Display</string>
+    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+
 </resources>
