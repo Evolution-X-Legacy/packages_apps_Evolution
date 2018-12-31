@@ -22,4 +22,22 @@
         android:summary="@string/media_art_summary"
         android:defaultValue="false" />
 
+        <PreferenceCategory
+            android:key="hide_lockscreen_items_category"
+            android:title="@string/hide_lockscreen_items_title" >
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference   
+        android:key="lockscreen_clock"
+        android:title="@string/lockscreen_clock_title"
+        android:summary="@string/lockscreen_clock_summary"
+        android:defaultValue="true" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference   
+        android:key="lockscreen_info"
+        android:title="@string/lockscreen_info_title"
+        android:summary="@string/lockscreen_info_summary"
+        android:defaultValue="true" />
+
+    </PreferenceCategory>
+
 </PreferenceScreen>
