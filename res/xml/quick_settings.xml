@@ -15,8 +15,7 @@
             android:title="@string/quick_settings_title">
 
     <PreferenceCategory
-        android:key="quick_settings_general_category"
-        android:title="@string/general_category">
+        android:title="@string/brightness_slider_title">
 
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="qs_show_brightness"
@@ -30,6 +29,25 @@
         android:summary="@string/qs_brightness_position_bottom_summary"
         android:defaultValue="false"
         android:dependency="qs_show_brightness" />
+
+    <com.extra.settings.preferences.SecureSettingSwitchPreference
+        android:key="qs_show_auto_brightness"
+        android:title="@string/tuner_show_auto_brightness"
+        android:defaultValue="true" />
+
+    <com.extra.settings.preferences.SecureSettingSwitchPreference
+        android:key="qs_auto_brightness_right"
+        android:title="@string/tuner_auto_brightness_right"
+        android:defaultValue="true" />
+
+    <com.extra.settings.preferences.SecureSettingSwitchPreference
+        android:key="qs_show_brightness_buttons"
+        android:title="@string/tuner_show_brightness_buttons"
+        android:defaultValue="true" />
+
+    <PreferenceCategory
+        android:key="quick_settings_general_category"
+        android:title="@string/general_category">
 
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="quick_settings_vibrate"
