@@ -40,9 +40,9 @@ import com.android.settings.search.Indexable;
 import java.util.List;
 import java.util.Arrays;
 
-public class GestureSettings extends SettingsPreferenceFragment implements
+public class GesturesSettings extends SettingsPreferenceFragment implements
         Preference.OnPreferenceChangeListener, Indexable {
-    private static final String TAG = "GestureSettings";
+    private static final String TAG = "GesturesSettings";
     private static final String KEY_SWIPE_LENGTH = "gesture_swipe_length";
     private static final String KEY_SWIPE_TIMEOUT = "gesture_swipe_timeout";
 

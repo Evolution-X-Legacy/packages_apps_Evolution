@@ -43,7 +43,7 @@
             android:key="gesture_settings"
             android:icon="@drawable/ic_settings_gestures"
             android:title="@string/gesture_settings_title"
-            android:fragment="com.extra.settings.fragments.GestureSettings" />
+            android:fragment="com.extra.settings.fragments.GesturesSettings" />
 
         <!-- Notification Settings -->
         <Preference

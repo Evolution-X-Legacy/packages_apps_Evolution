@@ -16,6 +16,7 @@
 
 package com.extra.settings.fragments;
 
+import android.content.Context;
 import android.os.Bundle;
 import android.os.UserHandle;
 import android.support.v7.preference.PreferenceCategory;
@@ -30,11 +31,18 @@ import com.android.internal.widget.LockPatternUtils;
 
 import com.android.settings.R;
 import com.android.settings.SettingsPreferenceFragment;
+import com.android.settings.search.BaseSearchIndexProvider;
+import com.android.settings.search.Indexable;
+
+import java.util.ArrayList;
+import java.util.List;
+import android.provider.SearchIndexableResource;
+
 import com.android.settings.Utils;
 
 import com.android.internal.logging.nano.MetricsProto;
 
-public class PowerMenu extends SettingsPreferenceFragment implements Preference.OnPreferenceChangeListener {
+public class PowerMenu extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
 
     private static final String KEY_LOCKDOWN_IN_POWER_MENU = "lockdown_in_power_menu";
     private static final int MY_USER_ID = UserHandle.myUserId();
@@ -73,4 +81,22 @@ public class PowerMenu extends SettingsPreferenceFragment implements Preference.
     public int getMetricsCategory() {
         return MetricsProto.MetricsEvent.CUSTOM_SETTINGS;
     }
+
+    public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
+            new BaseSearchIndexProvider() {
+                 @Override
+                public List<SearchIndexableResource> getXmlResourcesToIndex(Context context,
+                        boolean enabled) {
+                    final ArrayList<SearchIndexableResource> result = new ArrayList<>();
+                     final SearchIndexableResource sir = new SearchIndexableResource(context);
+                    sir.xmlResId = R.xml.power_menu;
+                    result.add(sir);
+                    return result;
+                }
+                 @Override
+                public List<String> getNonIndexableKeys(Context context) {
+                    final List<String> keys = super.getNonIndexableKeys(context);
+                    return keys;
+                }
+    };
 }
