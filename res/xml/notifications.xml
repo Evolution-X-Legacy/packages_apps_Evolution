@@ -16,6 +16,12 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/notification_settings_title">
 
+    <Preference
+        android:key="vol_steps"
+        android:fragment="com.extra.settings.fragments.VolumeStepsFragment"
+        android:title="@string/volume_steps_fragment_title"
+        android:summary="@string/volume_steps_summary" />
+
     <PreferenceCategory
         android:key="headsup_notifications_category"
         android:title="@string/headsup_category">
