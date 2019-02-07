@@ -25,6 +25,18 @@
             android:targetClass="com.android.systemui.DemoMode" />
     </Preference>
 
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="screen_record_shortcut"
+        android:title="@string/screen_record_shortcut"
+        android:summary="@string/screen_record_shortcut_summary"
+        android:defaultValue="true" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="screen_shot_shortcut"
+        android:title="@string/screen_shot_shortcut"
+        android:summary="@string/screen_shot_shortcut_summary"
+        android:defaultValue="true" />
+
     <PreferenceCategory
             android:key="gestures_category"
             android:title="@string/gestures_category" >
