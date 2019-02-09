@@ -22,11 +22,11 @@
         android:summary="@string/allow_signature_fake_summary"
         android:defaultValue="false" />
 
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
-        android:key="three_finger_gesture"
-        android:title="@string/three_finger_gesture"
-        android:summary="@string/three_finger_gesture_summary"
-        android:defaultValue="false" />
+    <ListPreference
+        android:key="torch_power_button_gesture"
+        android:title="@string/torch_power_button_gesture_title"
+        android:entries="@array/torch_power_button_gesture_entries"
+        android:entryValues="@array/torch_power_button_gesture_values" />
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="screen_record_shortcut"

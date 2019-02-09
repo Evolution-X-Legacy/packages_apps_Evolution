@@ -41,7 +41,6 @@ import com.android.settings.R;
 
 public class QuickSettings extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
 
-    ListPreference mQuickPulldown;
     private static final String QS_TILE_STYLE = "qs_tile_style";
 
     ListPreference mQuickPulldown;

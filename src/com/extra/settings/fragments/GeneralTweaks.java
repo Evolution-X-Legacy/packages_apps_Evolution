@@ -50,9 +50,14 @@ import com.android.settings.search.Indexable;
 import java.util.ArrayList;
 import java.util.List;
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
+import com.android.internal.util.pixys.PixysUtils;
 import com.android.settings.Utils;
 
 public class GeneralTweaks extends SettingsPreferenceFragment implements OnPreferenceChangeListener, Indexable {
+
+    private static final String TORCH_POWER_BUTTON_GESTURE = "torch_power_button_gesture";
+
+    private ListPreference mTorchPowerButton;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -62,6 +67,21 @@ public class GeneralTweaks extends SettingsPreferenceFragment implements OnPrefe
 
         final ContentResolver resolver = getActivity().getContentResolver();
         final PreferenceScreen prefSet = getPreferenceScreen();
+        final PreferenceScreen prefScreen = getPreferenceScreen();
+
+        if (!com.extra.settings.preferences.Utils.deviceSupportsFlashLight(getContext())) {
+            Preference toRemove = prefScreen.findPreference(TORCH_POWER_BUTTON_GESTURE);
+            if (toRemove != null) {
+                prefScreen.removePreference(toRemove);
+            }
+        } else {
+            mTorchPowerButton = (ListPreference) findPreference(TORCH_POWER_BUTTON_GESTURE);
+            int mTorchPowerButtonValue = Settings.Secure.getInt(resolver,
+                    Settings.Secure.TORCH_POWER_BUTTON_GESTURE, 0);
+            mTorchPowerButton.setValue(Integer.toString(mTorchPowerButtonValue));
+            mTorchPowerButton.setSummary(mTorchPowerButton.getEntry());
+            mTorchPowerButton.setOnPreferenceChangeListener(this);
+        }
 
     }
 
@@ -76,8 +96,23 @@ public class GeneralTweaks extends SettingsPreferenceFragment implements OnPrefe
     }
 
     @Override
-    public boolean onPreferenceChange(Preference preference, Object objValue) {
-        return false;
+    public boolean onPreferenceChange(Preference preference, Object newValue) {
+        ContentResolver resolver = getActivity().getContentResolver();
+        if (preference == mTorchPowerButton) {
+            int mTorchPowerButtonValue = Integer.valueOf((String) newValue);
+            int index = mTorchPowerButton.findIndexOfValue((String) newValue);
+            mTorchPowerButton.setSummary(
+                    mTorchPowerButton.getEntries()[index]);
+            Settings.Secure.putInt(resolver, Settings.Secure.TORCH_POWER_BUTTON_GESTURE,
+                    mTorchPowerButtonValue);
+            if (mTorchPowerButtonValue == 1) {
+                //if doubletap for torch is enabled, switch off double tap for camera
+                Settings.Secure.putInt(resolver, Settings.Secure.CAMERA_DOUBLE_TAP_POWER_GESTURE_DISABLED,
+                        1);
+            }
+            return true;
+        }
+        return true;
     }
 
     public static final SearchIndexProvider SEARCH_INDEX_DATA_PROVIDER =
