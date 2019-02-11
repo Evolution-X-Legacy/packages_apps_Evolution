@@ -209,7 +209,7 @@
     <string name="lockscreen_clock_selection_shishu_dreams" translatable="false">Shishu Dreams UI</string>
     <string name="lockscreen_clock_selection_shishu_immensity" translatable="false">Shishu Immensity UI</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
-    <string name="lockscreen_clock_selection_gradient_normal">Gradient clock</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
     <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
     <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
