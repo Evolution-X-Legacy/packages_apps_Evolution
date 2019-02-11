@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Nitrogen OS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- App Title -->
+  <string name="extra_settings_title">การตั้งค่า Evolution</string>
+  <!-- Categories -->
+  <string name="status_bar_title">แถบสถานะ</string>
+  <string name="quick_settings_title">ตั้งค่าด่วน</string>
+  <string name="navbar_title">แถบนำทาง</string>
+  <string name="power_menu_title">ปุ่มเมนูเพาเวอร์</string>
+  <string name="volume_keys_title">ปุ่มระดับเสียง</string>
+  <string name="lock_screen_title">หน้าจอล็อค</string>
+  <string name="notification_settings_title">การแจ้งเตือน</string>
+  <string name="general_tweaks_title">ปรับแต่งทั่วไป</string>
+  <!-- General app strings -->
+  <string name="general_category">ทั่วไป</string>
+  <string name="gestures_category">ท่าทาง</string>
+  <string name="music_category">เพลง</string>
+  <string name="security_category">ความปลอดภัย</string>
+  <string name="hardware_category">ฮาร์ดแวร์</string>
+  <string name="icons_category">ไอคอน</string>
+  <!-- Sub Categories -->
+  <string name="lock_screen_ui_title">อินเตอร์เฟซ</string>
+  <string name="lock_screen_misc_title">อื่นๆ</string>
+  <string name="status_bar_battery_title">ไอคอนแบตเตอรี่</string>
+  <!-- General strings -->
+  <string name="ok">โอเค</string>
+  <string name="reset">รีเซ็ต</string>
+  <string name="cancel">ยกเลิก</string>
+  <string name="save">บันทึก</string>
+  <!-- Color Picker -->
+  <string name="dialog_color_picker">ตัวเลือกสี</string>
+  <string name="press_color_to_apply">เลือกสีด้านล่างเพื่อใช้</string>
+  <string name="arrow_right">→</string>
+  <string name="arrow_down">↓</string>
+  <string name="hex">Hex:</string>
+  <string name="hex_hint">#ff000000</string>
+  <string name="set">ตั้งค่า</string>
+  <string name="color_default">ค่าเริ่มต้น</string>
+  <!-- Power Menu -->
+  <string name="powermenu_reboot_title">รีสตาร์ท</string>
+  <string name="powermenu_advanced_reboot_title">รีสตาร์ทขั้นสูง</string>
+  <string name="powermenu_advanced_reboot_summary">เมื่อปลดล็อค รวมตัวเลือกในเมนูเพาเวอร์สำหรับการรีสตาร์ท recovery หรือ bootloader</string>
+  <string name="powermenu_lockdown_title">Lockdown</string>
+  <string name="powermenu_screenshot_title">ถ่ายภาพหน้าจอ</string>
+  <!-- Quick QS Pulldown -->
+  <string name="status_bar_quick_qs_pulldown">เลื่อนแถบการตั้งค่าด่วน ลงอย่างรวดเร็ว</string>
+  <string name="quick_pulldown_none">ปิดใช้งาน</string>
+  <string name="quick_pulldown_right">แถบสถานะแบบเลื่อนลงจากด้านขวา</string>
+  <string name="quick_pulldown_left">แถบสถานะแบบเลื่อนลงจากด้านซ้าย</string>
+  <!-- Volume rocker music control -->
+  <string name="volume_button_music_control_title">การควบคุมการเล่น</string>
+  <string name="volume_button_music_control_summary">เมื่อหน้าจอปิดอยู่การกดปุ่มระดับเสียงค้างไว้นาน ๆ จะข้ามแทร็คเพลง</string>
+  <!-- Lockscreen dt2s -->
+  <string name="double_tap_sleep_lockscreen_title">แตะหน้าจอสองครั้งเพื่อปิดหน้าจอ</string>
+  <string name="double_tap_sleep_lockscreen_sumary">แตะหน้าจอสองครั้งที่ใดก็ได้บนหน้าจอล็อคเพื่อปิดหน้าจอ</string>
+  <!-- Lockscreen cover art -->
+  <string name="media_art_title">ภาพหน้าปกของสื่อ</string>
+  <string name="media_art_summary">เปิดใช้งานภาพหน้าปกของสื่อบนหน้าจอล็อค</string>
+  <!-- less boring heads up -->
+  <string name="less_boring_heads_up_title">แสดง heads-up ที่น้อยลง</string>
+  <string name="less_boring_heads_up_summary">แสดง heads-up สำหรับแอปโทรออกหรือส่งข้อความเท่านั้น</string>
+  <!-- Battery Styles -->
+  <string name="battery_style_title">รูปแบบไอคอนแบตเตอรี่</string>
+  <string name="battery_style_summary">เปลี่ยนรูปแบบของแบตเตอรี่ที่แถบสถานะ</string>
+  <string name="battery_style_port">แนวตั้ง</string>
+  <string name="battery_style_circle">วงกลม</string>
+  <string name="battery_style_dotted_circle">วงกลมแบบจุด</string>
+  <string name="battery_style_big_circle">วงกลมใหญ่</string>
+  <string name="battery_style_big_dotted_circle">วงกลมใหญ่แบบจุด</string>
+  <string name="battery_style_text">ข้อความ</string>
+  <string name="battery_style_hidden">ซ่อน</string>
+  <string name="battery_percent_hidden">ซ่อน</string>
+  <string name="show_battery_percent_title">แสดงเปอร์เซ็นต์แบตเตอรี่</string>
+  <string name="show_battery_percent_summary">แสดงเปอร์เซ็นต์แบตเตอรี่ใกล้กับไอคอน</string>
+  <string name="battery_style_category_title">ระดับแบตเตอรี่</string>
+  <string name="battery_percent_outside">ด้านนอก</string>
+  <string name="battery_percent_inside">ด้านใน</string>
+  <!-- SeekBar -->
+  <string name="seekbar_no_default_value">ไม่มีการตั้งค่าเริ่มต้น</string>
+  <string name="seekbar_default_value_set">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ค่าที่ตั้งเป็นค่าเริ่มต้นของ                                                                                                                                             <xliff:g id="number">%d</xliff:g>
+  </string>
+  <string name="seekbar_default_value_already_set">ตั้งค่าเริ่มต้นแล้ว</string>
+  <string name="seekbar_default_string">ค่าเริ่มต้น</string>
+  <!-- Fingerprint authentication vibration -->
+  <string name="fprint_sucess_vib_title">สั่นเมื่อทำการตรวจสอบลายนิ้วมือ</string>
+  <string name="fprint_sucess_vib_summary">สั่นเมื่อทำการตรวจสอบลายนิ้วมือสำเร็จ</string>
+  <!-- Volume rocker wake -->
+  <string name="volume_rocker_wake_title">Volume rocker wake</string>
+  <string name="volume_rocker_wake_summary">การกดปุ่มปรับระดับเสียงจะทำการปลุกอุปกรณ์ของคุณ</string>
+  <!-- Double tap-to-sleep -->
+  <string name="double_tap_to_sleep_title">แตะหน้าจอสองครั้งเพื่อปิดหน้าจอ</string>
+  <string name="double_tap_to_sleep_summary">แตะที่แถบสถานะสองครั้งเพื่อให้อุปกรณ์เข้าสู่โหมดสลีป</string>
+  <!-- Network traffic -->
+  <string name="traffic_title">ตัวบ่งบอกการรับ - ส่ง ข้อมูลอินเตอร์เน็ต</string>
+  <string name="network_traffic_title">การรับ - ส่ง ข้อมูลอินเตอร์เน็ต</string>
+  <string name="network_traffic_type">เลือกประเภทการรับ - ส่ง ข้อมูลอินเตอร์เน็ต</string>
+  <string name="show_network_traffic_up">ส่งข้อมูล</string>
+  <string name="show_network_traffic_down">รับข้อมูล</string>
+  <string name="show_network_traffic_all">ส่งและรับข้อมูล</string>
+  <string name="network_traffic_state_title">แสดงการรับ - ส่ง ข้อมูลบนแถบสถานะ</string>
+  <string name="network_traffic_autohide_threshold_title">ตัวบอกการรับ - ส่งข้อมูล จะถูกซ่อนอัตโนมัติเมื่อปริมาณการรับส่งไม่ถึงขีดจำกัดที่ตั้งไว้ (KB/s)</string>
+  <!-- Heads up -->
+  <string name="headsup_category">ตั้งค่า Heads-Up</string>
+  <string name="heads_up_notifications">Heads-Up</string>
+  <string name="summary_heads_up_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัป</string>
+  <string name="summary_heads_up_disabled">ปิดใช้งานการแจ้งเตือนป๊อปอัป</string>
+  <string name="add_heads_up_package">เพิ่มแอปพลิเคชั่น</string>
+  <string name="add_heads_up_stoplist_summary">ปิดใช้งานการแจ้งเตือนในแอปพลิเคชันเหล่านี้</string>
+  <string name="add_heads_up_blacklist_summary">ปิดการใช้งาน heads-up จากแอปพลิเคชั่นเหล่านี้</string>
+  <string name="heads_up_stoplist_title">Stoplist</string>
+  <string name="heads_up_blacklist_title">Blacklist</string>
+  <string name="profile_choose_app">เลือกแอปพลิเคชั่น</string>
+  <string name="dialog_delete_title">ลบ</string>
+  <string name="dialog_delete_message">ลบรายการที่เลือก?</string>
+  <!-- Heads up timeout -->
+  <string name="heads_up_time_out_title">ระยะเวลาในการแสดง</string>
+  <string name="heads_up_time_out_summary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+เวลาในการแจ้งเตือนที่จะปรากฏขึ้น                                                                                                                            <xliff:g id="number">%d</xliff:g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ วินาที                                                                      </string>
+  <string name="heads_up_time_out_2sec">2 วินาที</string>
+  <string name="heads_up_time_out_4sec">4 วินาที</string>
+  <string name="heads_up_time_out_5sec">5 วินาที</string>
+  <string name="heads_up_time_out_6sec">6 วินาที</string>
+  <string name="heads_up_time_out_8sec">8 วินาที</string>
+  <string name="heads_up_time_out_10sec">10 วินาที</string>
+  <!-- Heads up snooze -->
+  <string name="heads_up_snooze_title">Snooze timer</string>
+  <string name="heads_up_snooze_summary_one_minute">เลื่อนขึ้นเพื่อดูการแจ้งเตือน will snooze heads up from that application for 1 minute</string>
+  <string name="heads_up_snooze_summary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Swiping up on peeking notifications will snooze heads up from that application for                                                                                                                                             <xliff:g id="number">%d</xliff:g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ นาที                                                                      </string>
+  <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
+  <string name="heads_up_snooze_1min">1 นาที</string>
+  <string name="heads_up_snooze_5min">5 นาที</string>
+  <string name="heads_up_snooze_10min">10 นาที</string>
+  <string name="heads_up_snooze_15min">15 นาที</string>
+  <string name="heads_up_snooze_20min">20 นาที</string>
+  <!-- Power menu on secure lockscreen -->
+  <string name="powermenu_lockscreen_title">การแสดงผลหน้าจอล็อค</string>
+  <string name="powermenu_lockscreen_summary">เปิดใช้งานความสามารถในการแสดงและใช้เมนูเพาเวอร์ในขณะที่อยู่บนหน้าจอล็อค</string>
+  <!-- Roaming indicator icon -->
+  <string name="roaming_indicator_icon_title">การแสดงไอคอนโรมมิ่ง</string>
+  <string name="roaming_indicator_icon_summary">แสดงตัวบอกการโรมมิ่งในไอคอนสัญญาณเมื่ออยู่ในโหมดโรมมิ่ง</string>
+  <!-- 4G icon -->
+  <string name="show_fourg_icon_title">ไอคอน 4G</string>
+  <string name="show_fourg_icon_summary">แสดงไอคอน 4G ในไอคอนสัญญาณแทนไอคอน LTE</string>
+  <!-- Show VoLTE icon on statusbar -->
+  <string name="volte_icon_title">ไอคอน VoLTE</string>
+  <string name="volte_icon_summary">แสดงไอคอน VoLTE (ต้องรีสตาร์ท SystemUI เพื่อให้เกิดผล)</string>
+  <!-- Data disabled icon -->
+  <string name="data_disabled_icon_title">แสดงไอคอนปิดใช้งานข้อมูล</string>
+  <string name="data_disabled_icon_summary">แสดงเครื่องหมายกากบาทถัดจากแถบสัญญาณเมื่อปิดใช้งานข้อมูล</string>
+  <!--3-Finger screenshot-->
+  <string name="three_finger_gesture">ท่างทางสามนิ้ว</string>
+  <string name="three_finger_gesture_summary">ใช้สามนิ้วปัดเพื่อถ่ายภาพหน้าจอ</string>
+  <!-- Lockscreen icons -->
+  <string name="hide_lockscreen_items_title">รายการล็อคหน้าจอ</string>
+  <!-- Lockscreen items -->
+  <string name="lockscreen_clock_title">วิดเจ็ตนาฬิกา</string>
+  <string name="lockscreen_clock_summary">แสดงวิดเจ็ตนาฬิกาบนหน้าจอล็อค</string>
+  <string name="lockscreen_info_title">รายการใต้นาฬิกา</string>
+  <string name="lockscreen_info_summary">แสดงวันที่, สภาพอากาศ, สัญญาณเตือนและลายเซ็น บนหน้าจอล็อค</string>
+  <!-- Lockscreen clock styles -->
+  <string name="lockscreen_clock_styles_category">รูปแบบหน้าจอล็อค</string>
+  <string name="lockscreen_clock_selection_title">รูปแบบนาฬิกา</string>
+  <string name="lockscreen_clock_selection_digital">ค่าเริ่มต้น</string>
+  <string name="lockscreen_clock_selection_digital_bold">ดิจิตอล (ตัวหนา)</string>
+  <string name="lockscreen_clock_selection_analog">อนาล็อก</string>
+  <string name="lockscreen_clock_selection_sammy">แซมมี่</string>
+  <string name="lockscreen_clock_selection_sammy_bold">แซมมี่ (ตัวหนา)</string>
+  <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
+  <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+  <string name="lockscreen_clock_selection_shishu_dreams" translatable="false">Shishu Dreams UI</string>
+  <string name="lockscreen_clock_selection_shishu_immensity" translatable="false">Shishu Immensity UI</string>
+  <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
+  <string name="lockscreen_clock_selection_gradient_btlglogo">นาฬิกาไล่โทนสี (พร้อมโลโก้ bootleg)</string>
+  <string name="lockscreen_clock_selection_gradient_shishu">นาฬิกาไล่โทนสี (พร้อมโลโก้ shishu)</string>
+  <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
+  <string name="lockscreen_clock_selection_gradient_likeqs">นาฬิกาไล่โทนสีขาวดำ</string>
+  <!-- Incall vibrate options -->
+  <string name="incall_vibration_category">ตัวเลือกการสั่นขณะโทร</string>
+  <string name="incall_vibrate_connect_title">สั่นเมื่อรับสาย</string>
+  <string name="incall_vibrate_call_wait_title">สั่นเมื่อรอสาย</string>
+  <string name="incall_vibrate_disconnect_title">สั่นเมื่อวางสาย</string>
+  <!-- Lockscreen visualizer -->
+  <string name="lockscreen_visualizer_title">วิชวลไลเซอร์บนหน้าจอล็อค</string>
+  <string name="lockscreen_visualizer_summary">แสดงวิชวลไลเซอร์แบบเคลื่อนไหวบนหน้าจอล็อคในขณะที่กำลังเล่นเพลง</string>
+  <!-- Ambient visualizer -->
+  <string name="ambient_visualizer_title">แสดงวิชวลไลเซอร์ บน Ambient Display</string>
+  <string name="ambient_visualizer_summary">แสดง visualization ด้วย บน ambient display (แต่ทึบน้อยกว่า)</string>
+  <!-- Quick Settings brightness slider -->
+  <string name="qs_brightness_position_bottom_title">แถบเลื่อนความสว่างที่ด้านล่าง</string>
+  <string name="qs_brightness_position_bottom_summary">แสดงแถบเลื่อนความสว่างด้านล่างที่การตั้งค่าด่วน</string>
+  <!-- QuickSettings haptic feedback -->
+  <string name="quick_settings_vibrate_title">สั่นเมื่อสัมผัส</string>
+  <string name="quick_settings_vibrate_summary">สั่นเมื่อสัมผัสตัวเลือกในแผงการตั้งค่าด่วน</string>
+  <!-- SystemUI Tuner -->
+  <string name="systemui_tuner_title">SystemUI Tuner</string>
+  <string name="systemui_tuner_summary">Experimental SystemUI Tweaks</string>
+  <!-- Quick Settings brightness slider -->
+  <string name="qs_brightness_slider_title">แถบเลื่อนความสว่าง</string>
+  <string name="qs_brightness_slider_summary">แสดงแถบเลื่อนความสว่างในแผงการตั้งค่าด่วน</string>
+  <!-- Quick Settings brightness icon -->
+  <string name="brightness_icon_title">ปุ่มปรับความสว่าง</string>
+  <string name="brightness_icon_summary">แสดงปุ่มปรับความสว่างอัตโนมัติ</string>
+  <!-- Quick Settings brightness side buttons -->
+  <string name="brightness_side_buttons_title">ปุ่มควบคุมความสว่าง</string>
+  <string name="brightness_side_buttons_summary">แสดงปุ่มเพื่อเพิ่มหรือลดความสว่าง</string>
+  <!-- Bluetooth battery status -->
+  <string name="bluetooth_battery_title">สถานะแบตเตอรี่ของบลูทูธ</string>
+  <string name="bluetooth_battery_summary">แสดงสถานะแบตเตอรี่สำหรับอุปกรณ์บลูทูธหากมีการเชื่อมต่อ</string>
+  <string name="gesture_settings_title">ท่าทาง</string>
+  <string name="gesture_settings_info">ต้องปิดการใช้งานแถบนำทาง!\n\n ท่าทางที่ใช้งานได้:\n\n กลับ\n- ปัดขึ้นทางซ้ายหรือขวา\n\n หน้าแรก\n- ปัดขึ้นตรงกลาง\n\n แอปล่าสุด\n- กวาดนิ้วตรงกลางและค้างไว้n\n กดยาวที่หน้าแรก\n- กวาดนิ้วขึ้นค้างไว้ที่กึ่งกลาง</string>
+  <string name="gesture_settings_info_new">ต้องปิดการใช้งานแถบนำทาง!\n\n ท่าทางที่ใช้งานได้:\n\n กลับ\n- ปัดขึ้นทางซ้ายหรือขวา\n\n หน้าแรก\n- ปัดขึ้นตรงกลาง\n\n แอปล่าสุด\n- กวาดนิ้วตรงกลางและค้างไว้n\n สลับไปที่แอปล่าสุด\n- กวาดนิ้วสั้น ๆ ค้างไว้ที่กึ่งกลาง</string>
+  <string name="use_bottom_gesture_title">ท่าทางนำทาง</string>
+  <string name="use_bottom_gesture_summary">ใช้ท่าทางสัมผัสปัดด้านล่างเพื่อนำทาง</string>
+  <string name="gesture_swipe_length_title">Swipe trigger height</string>
+  <string name="gesture_swipe_length_summary">ความสูงจากด้านล่างเพื่อปัดทริกเกอร์</string>
+  <string name="gesture_action_timeout_title">Swipe trigger timeout</string>
+  <string name="gesture_action_timeout_summary">หมดเวลาก่อนที่ท่าทางการกระทำจะเริ่มขึ้น</string>
+  <!-- The volume key answer -->
+  <string name="volume_answer_call_title">รับสายด้วยปุ่มปรับระดับเสียง</string>
+  <string name="volume_answer_call_summary">ใช้ปุ่มปรับระดับเสียงเพื่อรับสาย</string>
+  <!-- ScreenRecord Shortcut -->
+  <string name="screen_record_shortcut">ทางลัดการบันทึกวีดีโอหน้าจอ</string>
+  <string name="screen_record_shortcut_summary">กดปุ่ม เพาเวอร์+ปุ่มเพิ่มเสียง เพื่อบันทึกวีดีโอหน้าจอ เมื่อเปิดใช้งาน</string>
+  <!-- ScreenShot Shortcut -->
+  <string name="screen_shot_shortcut">ทางลัดการบันทึกภาพหน้าจอ</string>
+  <string name="screen_shot_shortcut_summary">กดปุ่ม เพาเวอร์+ปุ่มลดเสียง เพื่อถ่ายภาพหน้าจอ เมื่อเปิดใช้งาน</string>
+  <!-- Text shown for the title of the lockdown option -->
+  <string name="lockdown_settings_title">แสดงตัวเลือกการ Lockdown</string>
+  <!-- Text shown for the description of the lockdown option -->
+  <string name="lockdown_settings_summary">แสดงตัวเลือกที่ปุ่มเพาเวอร์ ที่จะปิด Smart Lock, การปลดล็อคลายนิ้วมือและการแจ้งเตือนบนหน้าจอล็อค</string>
+  <!-- Audio Panel view  -->
+  <string name="audio_panel_view">มุมมองแผงควบคุมระดับเสียง</string>
+  <string name="audio_panel_view_media_title">เสียงของสื่อ</string>
+  <string name="audio_panel_view_ringer_title">เสียงเรียกเข้า</string>
+  <string name="audio_panel_view_notification_title">เสียงแจ้งเตือน</string>
+  <string name="audio_panel_view_alarm_title">เสียงนาฬิกาปลุก</string>
+  <string name="audio_panel_view_voice_title">เสียงการโทร</string>
+  <string name="audio_panel_view_bt_sco_title">เสียงบลูทูธ</string>
+  <!-- Volume Panel on Left -->
+  <string name="volume_panel_category">แผงควบคุมระดับเสียง</string>
+  <string name="volume_panel_on_left_title">แผงควบคุมระดับเสียงด้านซ้าย</string>
+  <string name="volume_panel_on_left_summary">เปลี่ยนแผงควบคุมระดับเสียงจากด้านขวาเป็นด้านซ้าย</string>
+  <!-- Power Menu -->
+  <string name="powermenu_screenshot">ภาพหน้าจอ</string>
+  <string name="powermenu_power">ปิดเครื่อง</string>
+  <string name="powermenu_restart">รีสตาร์ท</string>
+  <string name="powermenu_restart_recovery">รีสตาร์ทขั้นสูง</string>
+  <string name="powermenu_airplane">โหมดเครื่องบิน</string>
+  <string name="powermenu_settings">การตั้งค่า</string>
+  <string name="powermenu_lockdown">Lock Down</string>
+  <string name="powermenu_soundpanel">แผงควงคุมเสียง</string>
+  <string name="powermenu_users">ผู้ใช้</string>
+  <string name="powermenu_logout">ออกจากระบบ</string>
+  <!-- Allow fake signature -->
+  <string name="allow_signature_fake">อนุญาตการปลอมแปลงลายเซ็น</string>
+  <string name="allow_signature_fake_summary">อนุญาตให้แอพพลิเคชั่นหลีกเลี่ยงระบบรักษาความปลอดภัย โดยแอบอ้างว่าเป็น app แตกต่างกัน</string>
+  <!-- QS tile styles -->
+  <string name="qs_tile_style_title">รูปแบบไทล์การตั้งค่าด่วน</string>
+  <string name="qstile_default">ค่าเริ่มต้น</string>
+  <string name="qstile_circle_trim">วงกลมพร้อมตกแต่ง</string>
+  <string name="qstile_dual_tone_circle">วงกลมสีทรูโทน</string>
+  <string name="qstile_squircle_trim">หมุนเป็นวงกลม</string>
+  <string name="qstile_circle_gradient">วงกลมกับการไล่ระดับสี</string>
+  <string name="qstile_wavey">คลื่น</string>
+  <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
+  <string name="qstile_pokesign">Pokesign</string>
+  <string name="qstile_ninja">นินจา</string>
+  <string name="qstile_dottedcircle">Dotted Circle</string>
+  <string name="qstile_attemptmountain">An attempt of a mountain</string>
+  <string name="qstile_squaremedo">The Squaremedo</string>
+  <string name="qstile_oreo">Oreo Style</string>
+  <string name="qstile_oreo_circle_trim">Oreo (Circle Trim)</string>
+  <string name="qstile_oreo_squircle_trim">Oreo (Squircle Trim)</string>
+  <string name="qstile_inkdrop">Ink</string>
+  <string name="qstile_cookie">Cookie</string>
+  <string name="qstile_circleoutline">CircleOutline</string>
+  <!-- Torch Power button gestures -->
+  <string name="torch_power_button_gesture_title">ปุ่มเปิด - ปิดไฟฉาย</string>
+  <string name="torch_power_button_gesture_none">ปิดใช้งาน</string>
+  <string name="torch_power_button_gesture_dt">กดปุ่มเพาเวอร์สองครั้งเพื่อเปิดไฟฉาย</string>
+  <string name="torch_power_button_gesture_lp">กดปุ่มเพาเวอร์ค้างเพื่อเปิดไฟฉาย</string>
+</resources>
+
