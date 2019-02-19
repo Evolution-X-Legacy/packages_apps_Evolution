@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Nitrogen OS
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- App Title -->
+    <string name="extra_settings_title">Setelan Evolution</string>
+
+    <!-- Categories -->
+    <string name="status_bar_title">Status bar</string>
+    <string name="quick_settings_title">Quick settings</string>
+    <string name="navbar_title">Bilah navigasi</string>
+    <string name="power_menu_title">Menu daya</string>
+    <string name="volume_keys_title">Tombol volume</string>
+    <string name="lock_screen_title">Layar kunci</string>
+    <string name="notification_settings_title">Notifikasi</string>
+    <string name="general_tweaks_title">Tweak umum</string>
+
+    <!-- General app strings -->
+    <string name="general_category">Umum</string>
+    <string name="gestures_category">Gestur</string>
+    <string name="music_category">Musik</string>
+    <string name="security_category">Keamanan</string>
+    <string name="hardware_category">Perangkat</string>
+    <string name="icons_category">Ikon</string>
+
+    <!-- Sub Categories -->
+    <string name="lock_screen_ui_title">Antarmuka</string>
+    <string name="lock_screen_misc_title">Lain-lain</string>
+    <string name="status_bar_battery_title">Ikon Baterai</string>
+
+    <!-- General strings -->
+    <string name="ok">OK</string>
+    <string name="reset">Setel ulang</string>
+    <string name="cancel">Batal</string>
+    <string name="save">Simpan</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">Pemilih warna</string>
+    <string name="press_color_to_apply">Tekan pada warna di bawah ini untuk menerapkan</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">Hex:</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">Setel</string>
+    <string name="color_default">Default</string>
+
+    <!-- Power Menu -->
+    <string name="powermenu_reboot_title">Mulai ulang</string>
+    <string name="powermenu_advanced_reboot_title">Mulai ulang lanjutan</string>
+    <string name="powermenu_advanced_reboot_summary">Ketika tidak terkunci, berisi pilihan pada menu daya untuk mulai ulang ke pemulihan atau bootloader</string>
+    <string name="powermenu_lockdown_title">Kunci total</string>
+    <string name="powermenu_screenshot_title">Screenshot</string>
+
+    <!-- Quick QS Pulldown -->
+    <string name="status_bar_quick_qs_pulldown">Tarik QS cepat</string>
+    <string name="quick_pulldown_none">Mati</string>
+    <string name="quick_pulldown_right">Tarik statusbar dari sebelah kiri</string>
+    <string name="quick_pulldown_left">Tarik statusbar dari sebelah kanan</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">Kontrol pemutaran</string>
+    <string name="volume_button_music_control_summary">Ketika layar mati, menekan tombol volume dengan lama akan melewati trek musik</string>
+
+    <!-- Lockscreen dt2s -->
+    <string name="double_tap_sleep_lockscreen_title">Ketuk layar dua kali untuk tidur</string>
+    <string name="double_tap_sleep_lockscreen_sumary">Ketuk layar dua kali di layar kunci untuk menidurkan perangkat</string>
+
+    <!-- Lockscreen cover art -->
+    <string name="media_art_title">Sampul media</string>
+    <string name="media_art_summary">Aktifkan sampul media di layar kunci</string>
+
+    <!-- less boring heads up -->
+    <string name="less_boring_heads_up_title">Less boring heads up</string>
+    <string name="less_boring_heads_up_summary">Tampilkan heads up hanya untuk aplikasi telepon atau SMS</string>	
+
+    <!-- Battery Styles -->
+    <string name="battery_style_title">Gaya ikon baterai</string>
+    <string name="battery_style_summary">Ubah gaya ikon baterai pada status bar</string>
+    <string name="battery_style_port">Potret</string>
+    <string name="battery_style_circle">Lingkaran</string>
+    <string name="battery_style_dotted_circle">Lingkaran bertitik</string>
+    <string name="battery_style_big_circle">Lingkaran besar</string>
+    <string name="battery_style_big_dotted_circle">Lingkaran bertitik besar</string>
+    <string name="battery_style_text">Teks</string>
+    <string name="battery_style_hidden">Sembunyi</string>
+    <string name="battery_percent_hidden">Sembunyi</string>
+    <string name="show_battery_percent_title">Tampilkan persentase baterai</string>
+    <string name="show_battery_percent_summary">Tampilkan persentase baterai di dekan ikon</string>
+    <string name="battery_style_category_title">Level baterai</string>
+    <string name="battery_percent_outside">Di luar</string>
+    <string name="battery_percent_inside">Di dalam</string>
+
+    <!-- SeekBar -->
+    <string name="seekbar_no_default_value">Tidak ada nilai default yang ditetapkan</string>
+    <string name="seekbar_default_value_set">Nilai diatur ke default dari<xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Nilai default sudah ditetapkan</string>
+    <string name="seekbar_default_string">Default</string>
+
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">Getaran otentikasi sidik jari</string>
+    <string name="fprint_sucess_vib_summary">Getar pada otentikasi sidik jari yang berhasil</string>
+
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">Volume rocker wake</string>
+    <string name="volume_rocker_wake_summary">Menekan tombol volume akan membangunkan perangkat anda</string>
+
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">Status bar</string>
+    <string name="double_tap_to_sleep_summary">Ketuk status bar dua kali untuk menidurkan perangkat</string>
+
+    <!-- Network traffic -->
+    <string name="traffic_title">Indikator trafik</string>
+    <string name="network_traffic_title">Trafik jaringan</string>
+    <string name="network_traffic_type">Pilih jenis aktifitas jaringan</string>
+    <string name="show_network_traffic_up">Uplink</string>
+    <string name="show_network_traffic_down">Downlink</string>
+    <string name="show_network_traffic_all">Uplink dan Downlink</string>
+    <string name="network_traffic_state_title">Tampilkan aktifitas jaringan di status bar</string>
+    <string name="network_traffic_autohide_threshold_title">Ambang batas sembunyikan aktifitas jaringan otomatis (KB/s)</string>
+
+    <!-- Heads up -->
+    <string name="headsup_category">Setelan HeadsUp</string>
+    <string name="heads_up_notifications">Heads up</string>
+    <string name="summary_heads_up_enabled">Pemberitahuan pop-up diaktifkan</string>
+    <string name="summary_heads_up_disabled">Pemberitahuan pop-up dinonaktifkan</string>
+    <string name="add_heads_up_package">Tambahkan apl</string>
+    <string name="add_heads_up_stoplist_summary">Nonaktifkan notifikasi heads up di dalam aplikasi ini</string>
+    <string name="add_heads_up_blacklist_summary">Nonaktifkan notifikasi heads up dari aplikasi ini</string>
+    <string name="heads_up_stoplist_title">Stoplist</string>
+    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="profile_choose_app">Pilih apl</string>
+    <string name="dialog_delete_title">Hapus</string>
+    <string name="dialog_delete_message">Hapus item yang dipilih?</string>
+
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">Waktu habis</string>
+    <string name="heads_up_time_out_summary">Pemberitahuan mengintip akan ditampilkan untuk <xliff:g id="number">%d</xliff:g> detik</string>
+    <string name="heads_up_time_out_2sec">2 detik</string>
+    <string name="heads_up_time_out_4sec">4 detik</string>
+    <string name="heads_up_time_out_5sec">5 detik</string>
+    <string name="heads_up_time_out_6sec">6 detik</string>
+    <string name="heads_up_time_out_8sec">8 detik</string>
+    <string name="heads_up_time_out_10sec">10 detik</string>
+
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">Timer tunda</string>
+    <string name="heads_up_snooze_summary_one_minute">Menggesek notifikasi mengintip akan menunda heads up dari aplikasi itu selama 1 menit</string>
+    <string name="heads_up_snooze_summary">Menggesek notifikasi mengintip akan menunda heads up dari aplikasi itu selama <xliff:g id="number">%d</xliff:g> menit</string>
+    <string name="heads_up_snooze_disabled_summary">Timer tunda dinonaktifkan</string>
+    <string name="heads_up_snooze_1min">1 menit</string>
+    <string name="heads_up_snooze_5min">5 menit</string>
+    <string name="heads_up_snooze_10min">10 menit</string>
+    <string name="heads_up_snooze_15min">15 menit</string>
+    <string name="heads_up_snooze_20min">20 menit</string>
+
+    <!-- Power menu on secure lockscreen -->
+    <string name="powermenu_lockscreen_title">Visibilitas di layar kunci</string>
+    <string name="powermenu_lockscreen_summary">Aktifkan kemampuan untuk menampilkan dan menggunakan dialog menu daya saat berada di layar kunci</string>
+
+    <!-- Roaming indicator icon -->
+    <string name="roaming_indicator_icon_title">Indikator roaming</string>
+    <string name="roaming_indicator_icon_summary">Tampilkan indikator roaming di ikon sinyal ketika dalam mode roaming</string>
+
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">Ikon 4G</string>
+    <string name="show_fourg_icon_summary">Tampilkan ikon 4G dalam ikon sinyal</string>
+
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">Ikon VoLTE</string>
+    <string name="volte_icon_summary">Tampilkan ikon VoLTE (Membutuhkan mulai ulang SystemUI)</string>
+
+    <!-- Data disabled icon -->
+    <string name="data_disabled_icon_title">Tampilkan ikon data yang dinonaktifkan</string>
+    <string name="data_disabled_icon_summary">Tampilkan tanda silang di sebelah bar sinyal ketika data dinonaktifkan</string>
+
+    <!--3-Finger screenshot-->
+    <string name="three_finger_gesture">Gestur tiga jari</string>
+    <string name="three_finger_gesture_summary">Geser tiga jari untuk mengambil screenshot</string>
+
+    <!-- Lockscreen icons -->
+    <string name="hide_lockscreen_items_title">Item layar kunci</string>
+
+    <!-- Lockscreen battery info indicator  -->
+    <string name="lockscreen_battery_info_title">Info pengisian daya layar kunci</string>
+    <string name="lockscreen_battery_info_summary">Menampilkan arus maksimal, tegangan dan suhu baterai pada layar kunci ketika sedang mengisi daya</string>
+
+    <!-- Lockscreen items -->
+    <string name="lockscreen_clock_title">Widget jam</string>
+    <string name="lockscreen_clock_summary">Tampilkan widget jam di layar kunci</string>
+    <string name="lockscreen_info_title">Item di bawah jam</string>
+    <string name="lockscreen_info_summary">Perlihatkan tanggal, cuaca dan alarm pada layar kunci</string>
+
+    <!-- Lockscreen clock styles -->
+    <string name="lockscreen_clock_styles_category">Gaya layar kunci</string>
+    <string name="lockscreen_clock_selection_title">Gaya jam</string>
+    <string name="lockscreen_clock_selection_digital">Default</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
+    <string name="lockscreen_clock_selection_analog">Analog</string>
+    <string name="lockscreen_clock_selection_sammy">Sammy</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+    <string name="lockscreen_clock_selection_shishu_dreams" translatable="false">Shishu Dreams UI</string>
+    <string name="lockscreen_clock_selection_shishu_immensity" translatable="false">Shishu Immensity UI</string>
+    <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
+    <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
+    <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
+    <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
+
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">Opsi getaran panggilan masuk</string>
+    <string name="incall_vibrate_connect_title">Getar saat terhubung</string>
+    <string name="incall_vibrate_call_wait_title">Getar saat menunggu panggilan</string>
+    <string name="incall_vibrate_disconnect_title">Getar saat panggilan terputus</string>
+
+    <!-- Rounded corners -->
+    <string name="corners_category">Sudut</string>
+    <string name="corner_radius">Radius sudut membulat</string>
+    <string name="content_padding">Padding konten sudut</string>
+    <string name="corner_fwvals">Gunakan nilai framework</string>
+    <string name="corner_fwvals_summary">Berguna jika perangkat benar-benar memiliki sudut membulat</string>
+
+    <!-- QuickSettings Panel Transparency -->
+    <string name="qs_panel_alpha_title">Kegelapan</string>
+    <string name="qs_opacity_category">Kegelapan panel QS</string>
+
+    <!-- Lockscreen visualizer -->
+    <string name="lockscreen_visualizer_title">Visualizer layar kunci</string>
+    <string name="lockscreen_visualizer_summary">Menampilkan desain langsung di layar kunci saat musik diputar</string>
+
+    <!-- Ambient visualizer -->
+    <string name="ambient_visualizer_title">Tampilkan visualizer layar kunci pada tampilan ambien</string>
+    <string name="ambient_visualizer_summary">Tampilkan bar visualisasi pada tampilan ambien (tapi kurang buram)</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_position_bottom_title">Slider kecerahan di bagian bawah</string>
+    <string name="qs_brightness_position_bottom_summary">Tampilkan slider kecerahan di bagian bawah quick settings</string>
+
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">Bergetar ketika disentuh</string>
+    <string name="quick_settings_vibrate_summary">Bergetar ketika menyentuh tile QS</string>
+
+    <!-- SystemUI Tuner -->
+    <string name="systemui_tuner_title">Penyetel Antarmuka Pengguna Sistem</string>
+    <string name="systemui_tuner_summary">Tweak System UI eksperimental</string>
+
+</resources>

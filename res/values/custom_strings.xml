@@ -13,17 +13,17 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
-    <string name="extra_settings_title">Extra Settings</string>
+    <string name="extra_settings_title">Evolution settings</string>
 
     <!-- Categories -->
-    <string name="status_bar_title">Status Bar</string>
-    <string name="quick_settings_title">Quick Settings</string>
-    <string name="navbar_title">Navigation Bar</string>
-    <string name="power_menu_title">Power Menu</string>
-    <string name="volume_keys_title">Volume Keys</string>
-    <string name="lock_screen_title">Lock Screen</string>
-    <string name="notification_settings_title">Notification Settings</string>
-    <string name="general_tweaks_title">General Tweaks</string>
+    <string name="status_bar_title">Status bar</string>
+    <string name="quick_settings_title">Quick settings</string>
+    <string name="navbar_title">Navigation bar</string>
+    <string name="power_menu_title">Power menu</string>
+    <string name="volume_keys_title">Volume keys</string>
+    <string name="lock_screen_title">Lock screen</string>
+    <string name="notification_settings_title">Notifications</string>
+    <string name="general_tweaks_title">General tweaks</string>
 
     <!-- General app strings -->
     <string name="general_category">General</string>
@@ -36,7 +36,7 @@
     <!-- Sub Categories -->
     <string name="lock_screen_ui_title">Interface</string>
     <string name="lock_screen_misc_title">Misc</string>
-    <string name="status_bar_battery_title">Battery Icon</string>
+    <string name="status_bar_battery_title">Battery icon</string>
 
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -45,7 +45,7 @@
     <string name="save">Save</string>
 
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
+    <string name="dialog_color_picker">Color picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
@@ -56,8 +56,8 @@
 
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Restart</string>
-    <string name="powermenu_advanced_restart_title">Advanced restart</string>
-    <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
+    <string name="powermenu_advanced_reboot_title">Advanced restart</string>
+    <string name="powermenu_advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
     <string name="powermenu_lockdown_title">Lockdown</string>
     <string name="powermenu_screenshot_title">Screenshot</string>
 
