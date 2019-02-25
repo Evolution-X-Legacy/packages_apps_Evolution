@@ -16,14 +16,11 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/general_tweaks_title">
 
-    <Preference
-        android:key="stock_tuner"
-        android:title="@string/systemui_tuner_title"
-        android:summary="@string/systemui_tuner_summary">
-        <intent android:action="android.intent.action.MAIN"
-            android:targetPackage="com.android.systemui"
-            android:targetClass="com.android.systemui.DemoMode" />
-    </Preference>
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="three_finger_gesture"
+        android:title="@string/three_finger_gesture"
+        android:summary="@string/three_finger_gesture_summary"
+        android:defaultValue="false" />
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference
         android:key="screen_record_shortcut"

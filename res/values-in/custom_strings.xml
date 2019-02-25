@@ -250,5 +250,82 @@
     <!-- SystemUI Tuner -->
     <string name="systemui_tuner_title">Penyetel Antarmuka Pengguna Sistem</string>
     <string name="systemui_tuner_summary">Fitur Eksperimental Sistem UI</string>
+     
+    <!-- Statusbar Clock -->
+    <string name="status_bar_clock">Tanggal dan waktu</string>
+    <string name="status_bar_clock_summary">Konfigurasi tampilan status bar jam dan waktu</string>
+    <string name="status_bar_clock_title">Pengaturam jam</string>
+    <string name="status_bar_clock_show">Tampilkan jam dan waktu</string>
+    <string name="status_bar_clock_style_title">Gaya jam</string>
+    <string name="status_bar_clock_style_right">Kanan</string>
+    <string name="status_bar_clock_style_center">Tengah</string>
+    <string name="status_bar_clock_style_left">Kiri</string>
+    <string name="status_bar_am_pm_title">Gaya AM/PM</string>
+    <string name="status_bar_am_pm_info">Format 24 jam diaktifkan</string>
+    <string name="status_bar_am_pm_normal">Normal</string>
+    <string name="status_bar_am_pm_small">Kecil</string>
+    <string name="status_bar_am_pm_hidden">Tersembunyi (bawaan)</string>
+    <string name="clock_seconds_display">Tampilkan detik</string>
+    <string name="clock_date_display">Tanggal</string>
+    <string name="clock_date_display_summary">Tampilkan tanggal khusus sebelum jam</string>
+    <string name="clock_date_display_none">Jangan tampilkan</string>
+    <string name="clock_date_display_small">Ukuran font kecil</string>
+    <string name="clock_date_display_normal">Ukuran font normal</string>
+    <string name="clock_date_style">Gaya tanggal</string>
+    <string name="clock_date_style_normal">Normal</string>
+    <string name="clock_date_style_lowercase">Huruf kecil</string>
+    <string name="clock_date_style_uppercase">Huruf besar</string>
+    <string name="clock_date_format_custom">Format java khusus</string>
+    <string name="clock_date_format">Format tanggal</string>
+    <string name="clock_date_string_edittext_title">Harus dalam format tanggal bb/hh/tt</string>
+    <string name="clock_date_string_edittext_summary">Masukkan string</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_slider_title">Slider kecerahan</string>
+    <string name="qs_brightness_slider_summary">Tampilkan slider kecerahan di panel pengaturan cepat</string>
+
+    <!-- Quick Settings brightness icon -->
+    <string name="brightness_icon_title">Tombol kecerahan adaptif</string>
+    <string name="brightness_icon_summary">Tampilkan tombol kecerahan adaptif</string>
+
+    <!-- Quick Settings brightness side buttons -->
+    <string name="brightness_side_buttons_title">Tombol kontrol kecerahan</string>
+    <string name="brightness_side_buttons_summary">Tampilkan tombol untuk menambah atau mengurangi kecerahan</string>
+
+    <!-- Bluetooth battery status -->
+    <string name="bluetooth_battery_title">Status baterai Bluetooth</string>
+    <string name="bluetooth_battery_summary">Tampilkan status baterai untuk perangkat bluetooth yang terhubung, jika tersedia</string>
+
+    <string name="gesture_settings_title">Gestur</string>
+    <string name="gesture_settings_info">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nBeranda\n- Geser ke atas tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\n\nTekan lama beranda\n- Geser cepat ke atas dan tahan di tengah</string>
+    <string name="gesture_settings_info_new">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nRumah\n- Geser ke tengah tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\ n\nPindah ke aplikasi terakhir\n- Geser cepat ke atas dan tahan di tengah</string>
+    <string name="use_bottom_gesture_title">Gestur navigasi</string>
+    <string name="use_bottom_gesture_summary">Gunakan gerakan geser ke bawah dan ke atas untuk navigasi</string>
+    <string name="gesture_swipe_length_title">Geser pemicu tinggi</string>
+    <string name="gesture_swipe_length_summary">Tinggi dari bawah untuk memicu geseran</string>
+    <string name="gesture_action_timeout_title">Batas waktu pemicu geser</string>
+    <string name="gesture_action_timeout_summary">Waktu tunggu sebelum tindakan isyarat dimulai</string>
+
+    <!-- Old mobile icon -->
+    <string name="use_old_mobiletype_title">Gunakan gaya seluler tipe lama</string>
+    <string name="use_old_mobiletype_summary">Tampilkan gaya ikon sinyal kecil yang digunakan sejak Android KitKat</string>
+
+    <!-- The volume key answer -->
+    <string name="volume_answer_call_title">Tombol volume jawab</string>
+    <string name="volume_answer_call_summary">Jawab panggilan saat tombol volume ditekan</string>
+
+    <!-- ScreenRecord Shortcut -->
+    <string name="screen_record_shortcut">Pintasan perekam layar</string>
+    <string name="screen_record_shortcut_summary">Tombol power + volume atas memicu perekam layar saat diaktifkan</string>
+
+    <!-- ScreenShot Shortcut -->
+    <string name="screen_shot_shortcut">Pintasan screenshot</string>
+    <string name="screen_shot_shortcut_summary">Tombol power + volume bawah memicu screenshot saat diaktifkan</string>
+
+    <!-- Text shown for the title of the lockdown option -->
+    <string name="lockdown_settings_title">Tampilkan opsi kuncian</string>
+    <!-- Text shown for the description of the lockdown option -->
+    <string name="lockdown_settings_summary">Opsi tampilan tombol daya yang mematikan Smart Lock, membuka kunci sidik jari, dan notifikasi pada layar kunci</string>
+
 
 </resources>

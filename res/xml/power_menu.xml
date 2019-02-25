@@ -24,7 +24,8 @@
     <!-- power menu lockdown -->
     <com.extra.settings.preferences.SecureSettingSwitchPreference
         android:key="lockdown_in_power_menu"
-        android:title="@string/powermenu_lockdown_title"
+        android:title="@string/lockdown_settings_title"
+        android:summary="@string/lockdown_settings_summary"
         android:defaultValue="false" />
 
 </PreferenceScreen>

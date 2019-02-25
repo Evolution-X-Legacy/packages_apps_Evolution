@@ -44,10 +44,4 @@
             settings:units="ms"
             android:dependency="use_bottom_gesture_navigation" />
 
-        <com.extra.settings.preferences.SystemSettingSwitchPreference
-            android:key="three_finger_gesture"
-            android:title="@string/three_finger_gesture"
-            android:summary="@string/three_finger_gesture_summary"
-            android:defaultValue="false" />
-
 </PreferenceScreen>

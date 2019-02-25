@@ -15,6 +15,15 @@
             xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
             android:title="@string/status_bar_title">
 
+    <Preference
+        android:key="stock_tuner"
+        android:title="@string/systemui_tuner_title"
+        android:summary="@string/systemui_tuner_summary">
+        <intent android:action="android.intent.action.MAIN"
+            android:targetPackage="com.android.systemui"
+            android:targetClass="com.android.systemui.DemoMode" />
+    </Preference>
+
     <PreferenceCategory
         android:key="misc_extensions_gestures_category"
         android:title="@string/gestures_category">
@@ -27,20 +36,22 @@
 
     </PreferenceCategory>
 
-    <!-- status bar battery -->
-    <Preference
-        android:key="status_bar_battery_category"
-        android:title="@string/status_bar_battery_title" 
-        android:fragment="com.extra.settings.fragments.StatusBarBattery"/>
-
-    <Preference
-        android:title="@string/traffic_title"
-        android:key="traffic"
-        android:fragment="com.extra.settings.fragments.Traffic"/>
-
     <PreferenceCategory
         android:key="misc_extensions_icons_category"
         android:title="@string/icons_category">
+
+        <!-- status bar battery -->
+        <Preference
+            android:key="status_bar_battery_category"
+            android:title="@string/battery_style_title"
+            android:summary="@string/battery_style_summary"
+            android:fragment="com.extra.settings.fragments.StatusBarBattery"/>
+
+        <Preference
+            android:title="@string/traffic_title"
+            android:key="traffic"
+            android:summary="@string/network_traffic_state_title"
+            android:fragment="com.extra.settings.fragments.Traffic"/>
 
         <com.extra.settings.preferences.SystemSettingSwitchPreference
             android:key="roaming_indicator_icon"
@@ -69,4 +80,3 @@
     </PreferenceCategory>
 
 </PreferenceScreen>
-
