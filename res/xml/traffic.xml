@@ -21,13 +21,6 @@
         android:title="@string/network_traffic_state_title"
         android:defaultValue="false" />
 
-    <com.extra.settings.preferences.SystemSettingSwitchPreference
-        android:key="network_traffic_hidearrow"
-        android:title="@string/network_traffic_hidearrow"
-        android:summary="@string/network_traffic_hidearrow_summary"
-        android:dependency="network_traffic_state"
-        android:defaultValue="false" />
-
     <ListPreference
         android:key="network_traffic_type"
         android:title="@string/network_traffic_type"
@@ -37,6 +30,21 @@
         android:persistent="false" />
 
     <com.extra.settings.preferences.CustomSeekBarPreference
+        android:key="network_traffic_font_size"
+        android:title="@string/nettraf_font_size"
+        android:max="21"
+        settings:min="14"
+        settings:defaultValue="15"
+        settings:units="dp" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference   
+        android:key="network_traffic_hidearrow"
+        android:title="@string/network_traffic_hidearrow"
+        android:summary="@string/network_traffic_hidearrow_summary"
+        android:dependency="network_traffic_state"
+        android:defaultValue="false" />
+
+    <com.extra.settings.preferences.CustomSeekBarPreference
         android:key="network_traffic_autohide_threshold"
         android:title="@string/network_traffic_autohide_threshold_title"
         android:max="10"
@@ -44,4 +52,3 @@
         settings:units="" />
 
 </PreferenceScreen>
-
