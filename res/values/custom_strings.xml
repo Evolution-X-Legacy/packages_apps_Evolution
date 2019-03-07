@@ -24,6 +24,8 @@
     <string name="lock_screen_title">Lock screen</string>
     <string name="notification_settings_title">Notifications</string>
     <string name="general_tweaks_title">General tweaks</string>
+    <string name="theme_main">Themes</string>
+    <string name="theme_main_summary">Color it up!</string>
 
     <!-- General app strings -->
     <string name="general_category">General</string>

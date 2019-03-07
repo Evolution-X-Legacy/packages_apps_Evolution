@@ -24,6 +24,13 @@
             android:fragment="com.extra.settings.fragments.StatusBar"
             android:icon="@drawable/ic_settings_statusbar"/>
 
+        <!-- Themes -->
+        <Preference
+            android:key="theme_settings"
+            android:title="@string/theme_main"
+            android:fragment="com.extra.settings.fragments.ThemeFragment"
+            android:icon="@drawable/ic_settings_theme" />
+
         <!-- Lock Screen -->
         <Preference
             android:key="lock_screen_category"
