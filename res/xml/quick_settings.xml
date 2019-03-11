@@ -110,6 +110,12 @@
             android:summary="@string/qs_edit_summary"
             android:defaultValue="true" />
 
+        <com.extra.support.preferences.SystemSettingSwitchPreference
+            android:key="qs_footer_show_user"
+            android:title="@string/qs_footer_user_title"
+            android:summary="@string/qs_footer_user_summary"
+            android:defaultValue="true" />
+
     </PreferenceCategory>
 
 </PreferenceScreen>
