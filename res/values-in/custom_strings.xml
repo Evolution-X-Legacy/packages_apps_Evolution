@@ -5,6 +5,7 @@
      You may obtain a copy of the License at
           http://www.apache.org/licenses/LICENSE-2.0
      Unless required by applicable law or agreed to in writing, software
+
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
      See the License for the specific language governing permissions and
@@ -24,6 +25,8 @@
     <string name="lock_screen_title">Layar kunci</string>
     <string name="notification_settings_title">Notifikasi</string>
     <string name="general_tweaks_title">Pengaturan umum</string>
+    <string name="theme_main">Tema</string>
+    <string name="theme_main_summary">Warnai itu!</string>
 
     <!-- General app strings -->
     <string name="general_category">Umum</string>
@@ -53,11 +56,24 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
+    <string name="system_colors">Warna</string>
+
+    <!-- Preferences Categories -->
+    <string name="cat_general_ui">Tweaks UI</string>
+    <string name="cat_general_system">Tweak terkait system</string>
+    <string name="cat_powermenu_items">Item menu daya</string>
+    <string name="cat_volume_keys">Tombol volume</string>
+    <string name="cat_misc_app">Aplikasi terkait</string>
+    <string name="anim_general_category">Animasi keseluruhan</string>
+    <string name="anim_system_category">Sistem terkait</string>
+    <string name="misc_settings_cat_title">Pengaturan terkait aplikasi</string>
+    <string name="general_system_stuff_preference">Perilaku sistem</string>
 
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Nyalakan ulang</string>
     <string name="powermenu_advanced_reboot_title">Nyalakan ulang lanjutan</string>
     <string name="powermenu_advanced_reboot_summary">Saat tidak terkunci, sertakan opsi di menu daya untuk memulai kembali ke mode pemulihan atau bootloader</string>
+    <string name="powermenu_advanced_restart_summary">Mengaktifkan menu mulai ulang lanjutan untuk opsi memulai ulang lainnya</string>
     <string name="powermenu_lockdown_title">Tampilkan opsi penguncian</string>
     <string name="powermenu_screenshot_title">Screenshot</string>
 
@@ -81,7 +97,7 @@
 
     <!-- less boring heads up -->
     <string name="less_boring_heads_up_title">Kurangi pemunculan notifikasi</string>
-    <string name="less_boring_heads_up_summary">Munculkan notifikasi di layar hanya untuk telepon atau pesan</string>	
+    <string name="less_boring_heads_up_summary">Munculkan notifikasi di layar hanya untuk telepon atau pesan</string>   
 
     <!-- Battery Styles -->
     <string name="battery_style_title">Gaya ikon baterai</string>
@@ -131,6 +147,7 @@
     <!-- Heads up -->
     <string name="headsup_category">Setelan pemunculan notifikasi</string>
     <string name="heads_up_notifications">Munculkan notifikasi</string>
+    <string name="heads_up_notifications_summary">Kustomisasi pengaturan munculan notifikasi</string>
     <string name="summary_heads_up_enabled">Pemunculan notifikasi telah diaktifkan</string>
     <string name="summary_heads_up_disabled">Pemunculan notifikasi telah dinonaktifkan</string>
     <string name="add_heads_up_package">Tambah aplikasi</string>
@@ -217,19 +234,11 @@
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opsi getaran dalam panggilan</string>
     <string name="incall_vibrate_connect_title">Getar saat terhubung</string>
+    <string name="incall_vibrate_connect_summary">Aktifkan getaran saat panggilan terhubung</string>
     <string name="incall_vibrate_call_wait_title">Getar saat menunggu panggilan</string>
+    <string name="incall_vibrate_call_wait_summary">Aktifkan getar saat menunggu panggilan</string>
     <string name="incall_vibrate_disconnect_title">Getar saat terputus</string>
-
-    <!-- Rounded corners -->
-    <string name="corners_category">Sudut</string>
-    <string name="corner_radius">Radius sudut membulat</string>
-    <string name="content_padding">Kepadatan konten di sudut</string>
-    <string name="corner_fwvals">Gunakan nilai framework</string>
-    <string name="corner_fwvals_summary">Berguna jika perangkat benar-benar memiliki sudut membulat</string>
-
-    <!-- QuickSettings Panel Transparency -->
-    <string name="qs_panel_alpha_title">Transparansi</string>
-    <string name="qs_opacity_category">Transparansi panel pengaturan cepat</string>
+    <string name="incall_vibrate_disconnect_summary">Aktifkan getar saat terputus</string>
 
     <!-- Lockscreen visualizer -->
     <string name="lockscreen_visualizer_title">Visualizer layar kunci</string>
@@ -250,65 +259,31 @@
     <!-- SystemUI Tuner -->
     <string name="systemui_tuner_title">Penyetel Antarmuka Pengguna Sistem</string>
     <string name="systemui_tuner_summary">Fitur Eksperimental Sistem UI</string>
-     
-    <!-- Statusbar Clock -->
-    <string name="status_bar_clock">Tanggal dan waktu</string>
-    <string name="status_bar_clock_summary">Konfigurasi tampilan status bar jam dan waktu</string>
-    <string name="status_bar_clock_title">Pengaturam jam</string>
-    <string name="status_bar_clock_show">Tampilkan jam dan waktu</string>
-    <string name="status_bar_clock_style_title">Gaya jam</string>
-    <string name="status_bar_clock_style_right">Kanan</string>
-    <string name="status_bar_clock_style_center">Tengah</string>
-    <string name="status_bar_clock_style_left">Kiri</string>
-    <string name="status_bar_am_pm_title">Gaya AM/PM</string>
-    <string name="status_bar_am_pm_info">Format 24 jam diaktifkan</string>
-    <string name="status_bar_am_pm_normal">Normal</string>
-    <string name="status_bar_am_pm_small">Kecil</string>
-    <string name="status_bar_am_pm_hidden">Tersembunyi (bawaan)</string>
-    <string name="clock_seconds_display">Tampilkan detik</string>
-    <string name="clock_date_display">Tanggal</string>
-    <string name="clock_date_display_summary">Tampilkan tanggal khusus sebelum jam</string>
-    <string name="clock_date_display_none">Jangan tampilkan</string>
-    <string name="clock_date_display_small">Ukuran font kecil</string>
-    <string name="clock_date_display_normal">Ukuran font normal</string>
-    <string name="clock_date_style">Gaya tanggal</string>
-    <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Huruf kecil</string>
-    <string name="clock_date_style_uppercase">Huruf besar</string>
-    <string name="clock_date_format_custom">Format java khusus</string>
-    <string name="clock_date_format">Format tanggal</string>
-    <string name="clock_date_string_edittext_title">Harus dalam format tanggal bb/hh/tt</string>
-    <string name="clock_date_string_edittext_summary">Masukkan string</string>
 
-    <!-- Quick Settings brightness slider -->
+    <!-- Brightness slider tweaks -->
     <string name="qs_brightness_slider_title">Slider kecerahan</string>
     <string name="qs_brightness_slider_summary">Tampilkan slider kecerahan di panel pengaturan cepat</string>
+    <string name="tuner_show_auto_brightness">Tombol kecerahan adaptif</string>
+    <string name="tuner_auto_brightness_right">Posisi kanan untuk tombol kecerahan adaptif</string>
+    <string name="tuner_show_brightness_buttons">Tombol kontrol kecerahan</string>
 
-    <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Tombol kecerahan adaptif</string>
-    <string name="brightness_icon_summary">Tampilkan tombol kecerahan adaptif</string>
-
-    <!-- Quick Settings brightness side buttons -->
-    <string name="brightness_side_buttons_title">Tombol kontrol kecerahan</string>
-    <string name="brightness_side_buttons_summary">Tampilkan tombol untuk menambah atau mengurangi kecerahan</string>
+    <!--Brightness slider title -->
+    <string name="brightness_slider_title">Slider kecerahan</string>
 
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Status baterai Bluetooth</string>
     <string name="bluetooth_battery_summary">Tampilkan status baterai untuk perangkat bluetooth yang terhubung, jika tersedia</string>
 
+    <!-- Gestures -->
     <string name="gesture_settings_title">Gestur</string>
     <string name="gesture_settings_info">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nBeranda\n- Geser ke atas tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\n\nTekan lama beranda\n- Geser cepat ke atas dan tahan di tengah</string>
-    <string name="gesture_settings_info_new">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nRumah\n- Geser ke tengah tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\ n\nPindah ke aplikasi terakhir\n- Geser cepat ke atas dan tahan di tengah</string>
+    <string name="gesture_settings_info_new">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nRumah\n- Geser ke tengah tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\n\nPindah ke aplikasi terakhir\n- Geser cepat ke atas dan tahan di tengah</string>
     <string name="use_bottom_gesture_title">Gestur navigasi</string>
     <string name="use_bottom_gesture_summary">Gunakan gerakan geser ke bawah dan ke atas untuk navigasi</string>
     <string name="gesture_swipe_length_title">Geser pemicu tinggi</string>
     <string name="gesture_swipe_length_summary">Tinggi dari bawah untuk memicu geseran</string>
     <string name="gesture_action_timeout_title">Batas waktu pemicu geser</string>
     <string name="gesture_action_timeout_summary">Waktu tunggu sebelum tindakan isyarat dimulai</string>
-
-    <!-- Old mobile icon -->
-    <string name="use_old_mobiletype_title">Gunakan gaya seluler tipe lama</string>
-    <string name="use_old_mobiletype_summary">Tampilkan gaya ikon sinyal kecil yang digunakan sejak Android KitKat</string>
 
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Tombol volume jawab</string>
@@ -321,15 +296,14 @@
     <!-- ScreenShot Shortcut -->
     <string name="screen_shot_shortcut">Pintasan screenshot</string>
     <string name="screen_shot_shortcut_summary">Tombol power + volume bawah memicu screenshot saat diaktifkan</string>
-     
+
+    <!-- Text shown for the title of the lockdown option -->
+    <string name="lockdown_settings_title">Tampilkan opsi kuncian</string>
+    <!-- Text shown for the description of the lockdown option -->
+    <string name="lockdown_settings_summary">Opsi tampilan tombol daya yang mematikan Smart Lock, membuka kunci sidik jari, dan notifikasi pada layar kunci</string>
+
     <!-- Audio Panel view  -->
     <string name="audio_panel_view">Tampilan panel volume</string>
-    <string name="audio_panel_view_media_title">Media</string>
-    <string name="audio_panel_view_ringer_title">Dering</string>
-    <string name="audio_panel_view_notification_title">Notifikasi</string>
-    <string name="audio_panel_view_alarm_title">Alarm</string>
-    <string name="audio_panel_view_voice_title">Suara</string>
-    <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
 
     <!-- Volume Panel on Left -->
     <string name="volume_panel_category">Panel volume</string>
@@ -348,10 +322,83 @@
     <string name="powermenu_users">Pengguna</string>
     <string name="powermenu_logout">Keluar</string>
 
-    <!-- Text shown for the title of the lockdown option -->
-    <string name="lockdown_settings_title">Tampilkan opsi kuncian</string>
-    <!-- Text shown for the description of the lockdown option -->
-    <string name="lockdown_settings_summary">Opsi tampilan tombol daya yang mematikan Smart Lock, membuka kunci sidik jari, dan notifikasi pada layar kunci</string>
+    <!-- Allow fake signature -->
+    <string name="allow_signature_fake">Izinkan tanda tangan spoofing</string>
+    <string name="allow_signature_fake_summary">Izinkan aplikasi memintas sistem keamanan dengan berpura-pura menjadi aplikasi yang berbeda</string>
 
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">Tombol daya untuk senter saat layar mati</string>
+    <string name="torch_power_button_gesture_none">Nonaktifkan</string>
+    <string name="torch_power_button_gesture_dt">Tap dua kali tombol daya untuk menyalakan senter (akan menambahkan penundaan kecil pada tap satu kali)</string>
+    <string name="torch_power_button_gesture_lp">Long press power to toggle torch</string>
 
+    <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Buka kunci sidik jari</string>
+    <string name="fp_unlock_keystore_summary">Buka kunci perangat dengan sidik jari setelah mulai ulang tanpa PIN/Sandi/Pola\nCatatan: dengan risiko Anda sendiri!</string>
+
+    <!-- Lock Clock Fonts -->
+    <string name="lock_clock_font_title">Opsi font jam</string>
+    <string name="lock_clock_font_summary">Ubah font default widget jam layar kunci</string>
+    <string name="lock_clock_font_dialog_title">Pilih font jam layar kunci</string>
+    <string name="lock_clock_font_stock">Normal (default)</string>
+
+    <!-- Lock Date Fonts -->
+    <string name="lock_date_font_title">Opsi font tanggal</string>
+    <string name="lock_date_font_summary">Ubah font default widget tanggal layar kunci</string>
+    <string name="lock_date_font_dialog_title">Pilih font tanggal layar kunci</string>
+
+    <!-- Themes -->
+    <string name="accent_color">Warna aksen</string>
+
+    <!-- QS themes -->
+    <string name="qs_themes_category_title">Warna setelan cepat</string>
+    <string name="qs_panel_alpha_title">Transparansi</string>
+    <string name="qs_panel_color_title">Warna</string>
+    <string name="qs_bg_wall_title">Gunakan warna walpaper</string>
+    <string name="qs_bg_wall_summary">Atur warna latar belakang QS dari wallpaper</string>
+    <string name="qs_bg_use_fw">Gunakan warna default</string>
+    <string name="qs_bg_use_fw_summary">Nonaktifkan gaya setelan cepat khusus untuk mesin tema eksternal</string>
+    <string name="qs_bg_accent_title">Gunakan warna aksen</string>
+    <string name="qs_bg_accent_summary">Atur warna latar belakang QS dari aksen sistem</string>
+
+    <!-- Rounded corners -->
+    <string name="corners_category">Sudut</string>
+    <string name="corner_radius">Radius sudut membulat</string>
+    <string name="content_padding">Kepadatan konten di sudut</string>
+    <string name="corner_fwvals">Gunakan nilai framework</string>
+    <string name="corner_fwvals_summary">Berguna jika perangkat benar-benar memiliki sudut membulat</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Blok sensor per-paket</string>
+    <string name="sensor_block_summary">Memblokir akses ke sensor tertentu untuk beberapa aplikasi guna menghemat baterai</string>
+
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Langkah volume</string>
+    <string name="volume_steps_summary">Kustomisasi langkah volume</string>
+    <string name="volume_steps_alarm_title">Langkah volume: Alarm</string>
+    <string name="volume_steps_dtmf_title">Langkah volume: DTMF</string>
+    <string name="volume_steps_music_title">Langkah volume: Media</string>
+    <string name="volume_steps_notification_title">Langkah volume: Notifikasi</string>
+    <string name="volume_steps_ring_title">Langkah volume: Dering</string>
+    <string name="volume_steps_system_title">Langkah volume: Sistem</string>
+    <string name="volume_steps_voice_call_title">Langkah volume: Panggilan Suara</string>
+    <string name="volume_steps_reset">Setel ulang</string>
+
+    <!-- Notification guts kill app button -->
+    <string name="notification_guts_kill_app_button_title">Tombol tutup aplikasi</string>
+    <string name="notification_guts_kill_app_button_summary">Tampilkan tombol tutup aplikasi di menu pemberitahuan tekan lama</string>
+
+    <!-- Notification with screen on -->
+    <string name="notification_sound_vib_screen_on_title">Pemberitahuan berisik jika layar hidup</string>
+    <string name="notification_sound_vib_screen_on_summary">Nonaktifkan untuk memblokir suara dan getaran notifikasi saat layar hidup</string>
+
+    <!-- Less Notification sounds -->
+    <string name="less_notification_sounds_title">Suara notifkasi pintar</string>
+    <string name="less_notification_sounds_summary">Putar suara notifikasi dari setiap aplikasi hanya sekali per periode waktu yang ditetapkan</string>
+    <string name="less_notification_sounds_default">Aplikasi default</string>
+    <string name="less_notification_sounds_10s">Setiap 10 detik</string>
+    <string name="less_notification_sounds_30s">Setiap 30 detik</string>
+    <string name="less_notification_sounds_1m">Setiap menit</string>
+    <string name="less_notification_sounds_2m">Setiap 2 menit</string>
+    
 </resources>

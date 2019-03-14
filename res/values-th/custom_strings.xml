@@ -12,7 +12,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
-  <string name="extra_settings_title">การตั้งค่า Evolution</string>
+  <string name="extra_settings_title">การตั้งค่า Evolution X</string>
   <!-- Categories -->
   <string name="status_bar_title">แถบสถานะ</string>
   <string name="quick_settings_title">ตั้งค่าด่วน</string>
@@ -22,6 +22,8 @@
   <string name="lock_screen_title">หน้าจอล็อค</string>
   <string name="notification_settings_title">การแจ้งเตือน</string>
   <string name="general_tweaks_title">ปรับแต่งทั่วไป</string>
+  <string name="theme_main">ธีม</string>
+  <string name="theme_main_summary">Color it up!</string>
   <!-- General app strings -->
   <string name="general_category">ทั่วไป</string>
   <string name="gestures_category">ท่าทาง</string>
@@ -47,10 +49,21 @@
   <string name="hex_hint">#ff000000</string>
   <string name="set">ตั้งค่า</string>
   <string name="color_default">ค่าเริ่มต้น</string>
+  <!-- Preferences Categories -->
+  <string name="cat_general_ui">การปรับแต่ง UI</string>
+  <string name="cat_general_system">การปรับแต่งระบบ</string>
+  <string name="cat_powermenu_items">รายการเมนูเพาเวอร์</string>
+  <string name="cat_volume_keys">ปุ่มปรับระดับเสียง</string>
+  <string name="cat_misc_app">แอปที่เกี่ยวข้อง</string>
+  <string name="anim_general_category">การเคลื่อนไหวโดยรวม</string>
+  <string name="anim_system_category">ระบบที่เกี่ยวข้อง</string>
+  <string name="misc_settings_cat_title">การตั้งค่าแอปที่เกี่ยวข้อง</string>
+  <string name="general_system_stuff_preference">พฤติกรรมของระบบ</string>
   <!-- Power Menu -->
   <string name="powermenu_reboot_title">รีสตาร์ท</string>
   <string name="powermenu_advanced_reboot_title">รีสตาร์ทขั้นสูง</string>
   <string name="powermenu_advanced_reboot_summary">เมื่อปลดล็อค รวมตัวเลือกในเมนูเพาเวอร์สำหรับการรีสตาร์ท recovery หรือ bootloader</string>
+  <string name="powermenu_advanced_restart_summary">เปิดใช้งานเมนูการรีสตาร์ทขั้นสูงสำหรับตัวเลือกการรีสตาร์ทแบบอื่น ๆ</string>
   <string name="powermenu_lockdown_title">Lockdown</string>
   <string name="powermenu_screenshot_title">ถ่ายภาพหน้าจอ</string>
   <!-- Quick QS Pulldown -->
@@ -88,42 +101,7 @@
   <string name="battery_percent_inside">ด้านใน</string>
   <!-- SeekBar -->
   <string name="seekbar_no_default_value">ไม่มีการตั้งค่าเริ่มต้น</string>
-  <string name="seekbar_default_value_set">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ค่าที่ตั้งเป็นค่าเริ่มต้นของ                                                                                                                                             <xliff:g id="number">%d</xliff:g>
+  <string name="seekbar_default_value_set">ค่าที่ตั้งเป็นค่าเริ่มต้นของ<xliff:g id="number">%d</xliff:g>
   </string>
   <string name="seekbar_default_value_already_set">ตั้งค่าเริ่มต้นแล้ว</string>
   <string name="seekbar_default_string">ค่าเริ่มต้น</string>
@@ -131,7 +109,7 @@
   <string name="fprint_sucess_vib_title">สั่นเมื่อทำการตรวจสอบลายนิ้วมือ</string>
   <string name="fprint_sucess_vib_summary">สั่นเมื่อทำการตรวจสอบลายนิ้วมือสำเร็จ</string>
   <!-- Volume rocker wake -->
-  <string name="volume_rocker_wake_title">Volume rocker wake</string>
+  <string name="volume_rocker_wake_title">กดปุ่มเพิ่ม - ลดเสียงเพื่อปลุกอุปกรณ์</string>
   <string name="volume_rocker_wake_summary">การกดปุ่มปรับระดับเสียงจะทำการปลุกอุปกรณ์ของคุณ</string>
   <!-- Double tap-to-sleep -->
   <string name="double_tap_to_sleep_title">แตะหน้าจอสองครั้งเพื่อปิดหน้าจอ</string>
@@ -148,8 +126,9 @@
   <!-- Heads up -->
   <string name="headsup_category">ตั้งค่า Heads-Up</string>
   <string name="heads_up_notifications">Heads-Up</string>
-  <string name="summary_heads_up_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัป</string>
-  <string name="summary_heads_up_disabled">ปิดใช้งานการแจ้งเตือนป๊อปอัป</string>
+  <string name="heads_up_notifications_summary">ปรับแต่งการตั้งค่าการแจ้งเตือนแบบป๊อปอัพ</string>
+  <string name="summary_heads_up_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
+  <string name="summary_heads_up_disabled">ปิดใช้งานการแจ้งเตือนป๊อปอัพ</string>
   <string name="add_heads_up_package">เพิ่มแอปพลิเคชั่น</string>
   <string name="add_heads_up_stoplist_summary">ปิดใช้งานการแจ้งเตือนในแอปพลิเคชันเหล่านี้</string>
   <string name="add_heads_up_blacklist_summary">ปิดการใช้งาน heads-up จากแอปพลิเคชั่นเหล่านี้</string>
@@ -160,77 +139,7 @@
   <string name="dialog_delete_message">ลบรายการที่เลือก?</string>
   <!-- Heads up timeout -->
   <string name="heads_up_time_out_title">ระยะเวลาในการแสดง</string>
-  <string name="heads_up_time_out_summary">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-เวลาในการแจ้งเตือนที่จะปรากฏขึ้น                                                                                                                            <xliff:g id="number">%d</xliff:g>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- วินาที                                                                      </string>
+  <string name="heads_up_time_out_summary">เวลาในการแจ้งเตือนที่จะปรากฏขึ้น<xliff:g id="number">%d</xliff:g>วินาที</string>
   <string name="heads_up_time_out_2sec">2 วินาที</string>
   <string name="heads_up_time_out_4sec">4 วินาที</string>
   <string name="heads_up_time_out_5sec">5 วินาที</string>
@@ -238,88 +147,18 @@
   <string name="heads_up_time_out_8sec">8 วินาที</string>
   <string name="heads_up_time_out_10sec">10 วินาที</string>
   <!-- Heads up snooze -->
-  <string name="heads_up_snooze_title">Snooze timer</string>
-  <string name="heads_up_snooze_summary_one_minute">เลื่อนขึ้นเพื่อดูการแจ้งเตือน will snooze heads up from that application for 1 minute</string>
-  <string name="heads_up_snooze_summary">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Swiping up on peeking notifications will snooze heads up from that application for                                                                                                                                             <xliff:g id="number">%d</xliff:g>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- นาที                                                                      </string>
-  <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
+  <string name="heads_up_snooze_title">การปัดขึ้นเพื่อปิดการแจ้งเตือนชั่วคราว</string>
+  <string name="heads_up_snooze_summary_one_minute">การปัดขึ้นเมื่อมีการแจ้งเตือนแบบป็อปอัพจะปิดการแจ้งเตือนของแอปนั้นๆ เป็นเวลา 1 นาที</string>
+  <string name="heads_up_snooze_summary">การปัดขึ้นเมื่อมีการแจ้งเตือนแบบป็อปอัพจะปิดการแจ้งเตือนของแอปนั้นๆ เป็นเวลา<xliff:g id="number">%d</xliff:g>นาที</string>
+  <string name="heads_up_snooze_disabled_summary">ปิดการใช้งาน</string>
   <string name="heads_up_snooze_1min">1 นาที</string>
   <string name="heads_up_snooze_5min">5 นาที</string>
   <string name="heads_up_snooze_10min">10 นาที</string>
   <string name="heads_up_snooze_15min">15 นาที</string>
   <string name="heads_up_snooze_20min">20 นาที</string>
   <!-- Power menu on secure lockscreen -->
-  <string name="powermenu_lockscreen_title">การแสดงผลหน้าจอล็อค</string>
-  <string name="powermenu_lockscreen_summary">เปิดใช้งานความสามารถในการแสดงและใช้เมนูเพาเวอร์ในขณะที่อยู่บนหน้าจอล็อค</string>
+  <string name="powermenu_lockscreen_title">การแสดงเมนูเพาเวอร์บนหน้าจอล็อค</string>
+  <string name="powermenu_lockscreen_summary">เปิดใช้งานเมนูเพาเวอร์ในขณะที่อยู่บนหน้าจอล็อค</string>
   <!-- Roaming indicator icon -->
   <string name="roaming_indicator_icon_title">การแสดงไอคอนโรมมิ่ง</string>
   <string name="roaming_indicator_icon_summary">แสดงตัวบอกการโรมมิ่งในไอคอนสัญญาณเมื่ออยู่ในโหมดโรมมิ่ง</string>
@@ -369,7 +208,7 @@ Swiping up on peeking notifications will snooze heads up from that application f
   <string name="lockscreen_visualizer_summary">แสดงวิชวลไลเซอร์แบบเคลื่อนไหวบนหน้าจอล็อคในขณะที่กำลังเล่นเพลง</string>
   <!-- Ambient visualizer -->
   <string name="ambient_visualizer_title">แสดงวิชวลไลเซอร์ บน Ambient Display</string>
-  <string name="ambient_visualizer_summary">แสดง visualization ด้วย บน ambient display (แต่ทึบน้อยกว่า)</string>
+  <string name="ambient_visualizer_summary">แสดงวิชวลไลเซอร์ บน ambient display (แต่ทึบน้อยกว่า)</string>
   <!-- Quick Settings brightness slider -->
   <string name="qs_brightness_position_bottom_title">แถบเลื่อนความสว่างที่ด้านล่าง</string>
   <string name="qs_brightness_position_bottom_summary">แสดงแถบเลื่อนความสว่างด้านล่างที่การตั้งค่าด่วน</string>
@@ -378,22 +217,24 @@ Swiping up on peeking notifications will snooze heads up from that application f
   <string name="quick_settings_vibrate_summary">สั่นเมื่อสัมผัสตัวเลือกในแผงการตั้งค่าด่วน</string>
   <!-- SystemUI Tuner -->
   <string name="systemui_tuner_title">SystemUI Tuner</string>
-  <string name="systemui_tuner_summary">Experimental SystemUI Tweaks</string>
+  <string name="systemui_tuner_summary">ฟีเจอร์นี้เป็นรุ่นทดลอง โปรดดำเนินการอย่างระมัดระวัง</string>
   <!-- Quick Settings brightness slider -->
   <string name="qs_brightness_slider_title">แถบเลื่อนความสว่าง</string>
   <string name="qs_brightness_slider_summary">แสดงแถบเลื่อนความสว่างในแผงการตั้งค่าด่วน</string>
   <!-- Quick Settings brightness icon -->
-  <string name="brightness_icon_title">ปุ่มปรับความสว่าง</string>
-  <string name="brightness_icon_summary">แสดงปุ่มปรับความสว่างอัตโนมัติ</string>
+  <string name="brightness_icon_title">ปุ่มปรับความสว่างอัตโนมัติ</string>
+  <string name="brightness_icon_summary">แสดงปุ่มปรับความสว่างอัตโนมัติเพื่อให้เหมาะสมกับสภาพแสง</string>
   <!-- Quick Settings brightness side buttons -->
   <string name="brightness_side_buttons_title">ปุ่มควบคุมความสว่าง</string>
-  <string name="brightness_side_buttons_summary">แสดงปุ่มเพื่อเพิ่มหรือลดความสว่าง</string>
+  <string name="brightness_side_buttons_summary">แสดงปุ่มกดเพื่อเพิ่มหรือลดความสว่าง</string>
   <!-- Bluetooth battery status -->
   <string name="bluetooth_battery_title">สถานะแบตเตอรี่ของบลูทูธ</string>
   <string name="bluetooth_battery_summary">แสดงสถานะแบตเตอรี่สำหรับอุปกรณ์บลูทูธหากมีการเชื่อมต่อ</string>
+  <!-- Gestures -->
   <string name="gesture_settings_title">ท่าทาง</string>
-  <string name="gesture_settings_info">ต้องปิดการใช้งานแถบนำทาง!\n\n ท่าทางที่ใช้งานได้:\n\n กลับ\n- ปัดขึ้นทางซ้ายหรือขวา\n\n หน้าแรก\n- ปัดขึ้นตรงกลาง\n\n แอปล่าสุด\n- กวาดนิ้วตรงกลางและค้างไว้n\n กดยาวที่หน้าแรก\n- กวาดนิ้วขึ้นค้างไว้ที่กึ่งกลาง</string>
-  <string name="gesture_settings_info_new">ต้องปิดการใช้งานแถบนำทาง!\n\n ท่าทางที่ใช้งานได้:\n\n กลับ\n- ปัดขึ้นทางซ้ายหรือขวา\n\n หน้าแรก\n- ปัดขึ้นตรงกลาง\n\n แอปล่าสุด\n- กวาดนิ้วตรงกลางและค้างไว้n\n สลับไปที่แอปล่าสุด\n- กวาดนิ้วสั้น ๆ ค้างไว้ที่กึ่งกลาง</string>
+  <string name="gesture_settings_aosp_title">ท่าทาง AOSP</string>
+  <string name="gesture_settings_info">ต้องปิดใช้งานแถบนำทาง!\n\nท่าทางที่ใช้งานได้:\n\nกลับ\n- ปัดขึ้นทางซ้ายหรือขวา\n\nหน้าแรก\n- ปัดขึ้นตรงกลาง\n\nแอปพลิเคขั่นล่าสุด\n- ปัดขึ้นตรงกลางแล้วค้างไว้\n\nLong press home\n- Short swipe up and hold in the center</string>
+  <string name="gesture_settings_info_new">ต้องปิดใช้งานแถบนำทาง!\n\nท่างทางที่ใช้งานได้:\n\nกลับ\n- ปัดขึ้นทางซ้ายหรือขวา\n\nหน้าแรก\n- ปัดขึ้นตรงกลาง\n\nแอปพลิเคชั่นล่าสุด\n- ปัดขึ้นตรงกลางแล้วค้างไว้\n\nสลับไปที่แอปพลิเคชั่นล่าสุด\n- Short swipe up and hold in the center</string>
   <string name="use_bottom_gesture_title">ท่าทางนำทาง</string>
   <string name="use_bottom_gesture_summary">ใช้ท่าทางสัมผัสปัดด้านล่างเพื่อนำทาง</string>
   <string name="gesture_swipe_length_title">Swipe trigger height</string>
@@ -423,7 +264,7 @@ Swiping up on peeking notifications will snooze heads up from that application f
   <string name="audio_panel_view_bt_sco_title">เสียงบลูทูธ</string>
   <!-- Volume Panel on Left -->
   <string name="volume_panel_category">แผงควบคุมระดับเสียง</string>
-  <string name="volume_panel_on_left_title">แผงควบคุมระดับเสียงด้านซ้าย</string>
+  <string name="volume_panel_on_left_title">แผงควบคุมระดับเสียงที่ด้านซ้าย</string>
   <string name="volume_panel_on_left_summary">เปลี่ยนแผงควบคุมระดับเสียงจากด้านขวาเป็นด้านซ้าย</string>
   <!-- Power Menu -->
   <string name="powermenu_screenshot">ภาพหน้าจอ</string>
@@ -464,5 +305,94 @@ Swiping up on peeking notifications will snooze heads up from that application f
   <string name="torch_power_button_gesture_none">ปิดใช้งาน</string>
   <string name="torch_power_button_gesture_dt">กดปุ่มเพาเวอร์สองครั้งเพื่อเปิดไฟฉาย</string>
   <string name="torch_power_button_gesture_lp">กดปุ่มเพาเวอร์ค้างเพื่อเปิดไฟฉาย</string>
+  <!-- Fingerprint unlock keystore -->
+  <string name="fp_unlock_keystore_title">ปลดล็อคด้วยลายนิ้วมือ</string>
+  <string name="fp_unlock_keystore_summary">ปลดล็อคอุปกรณ์ด้วยลายนิ้วมือหลังจากรีบูตโดยไม่จำเป็นต้องใส่ PIN / รหัสผ่านหรือรูปแบบการปลดล็อค\หมายเหตุ: อุปกรณ์ของคุณอาจมีความเสี่ยง</string>
+  <!-- Lock Clock Fonts -->
+  <string name="lock_clock_font_title">ตัวเลือกรูปแบบอักษรของนาฬิกา</string>
+  <string name="lock_clock_font_summary">เปลี่ยนรูปแบบอักษรเริ่มต้นของวิดเจ็ตนาฬิกาบนหน้าจอล็อค</string>
+  <string name="lock_clock_font_dialog_title">เลือกรูปแบบนาฬิกาของหน้าจอล็อค</string>
+  <string name="lock_clock_font_stock">ปกติ (ค่าเริ่มต้น)</string>
+  <string name="lock_clock_font_bold">Bold</string>
+  <string name="lock_clock_font_italic">Italic</string>
+  <string name="lock_clock_font_bold_italic">Bold Italic</string>
+  <string name="lock_clock_font_light_italic">Light Italic</string>
+  <string name="lock_clock_font_thin_italic">Thin Italic</string>
+  <string name="lock_clock_font_light">Light</string>
+  <string name="lock_clock_font_thin">Thin</string>
+  <string name="lock_clock_font_condensed_normal">condensed</string>
+  <string name="lock_clock_font_condensed_italic">Condensed Italic</string>
+  <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
+  <string name="lock_clock_font_condensed_bold_italic">Condensed Bold Italic</string>
+  <string name="lock_clock_font_condensed_light">Condensed Light</string>
+  <string name="lock_clock_font_condensed_light_italic">Condensed Light Italic</string>
+  <string name="lock_clock_font_medium_normal">Medium</string>
+  <string name="lock_clock_font_medium_italic">Medium Italic</string>
+  <string name="lock_clock_font_black">Black</string>
+  <string name="lock_clock_font_black_italic">Black Italic</string>
+  <string name="lock_clock_font_dancingscript">DancingScript</string>
+  <string name="lock_clock_font_dancingscript_bold">DancingScript Bold</string>
+  <string name="lock_clock_font_comingsoon">ComingSoon</string>
+  <string name="lock_clock_font_notoserif">NotoSerif Normal</string>
+  <string name="lock_clock_font_notoserif_italic">NotoSerif Italic</string>
+  <string name="lock_clock_font_notoserif_bold">NotoSerif Bold</string>
+  <string name="lock_clock_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+  <string name="lock_clock_font_gobold">GoBold Light</string>
+  <string name="lock_clock_font_roadrage">Road Rage</string>
+  <string name="lock_clock_font_snowstorm">Snowstorm</string>
+  <string name="lock_clock_font_googlesans">Google Sans</string>
+  <string name="lock_clock_font_neoneon">Neoneon</string>
+  <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
+  <string name="lock_clock_font_samsung">Samsung</string>
+  <!-- Lock Date Fonts -->
+  <string name="lock_date_font_title">ตัวเลือกแบบอักษรวันที่ ของหน้าจอล็อค</string>
+  <string name="lock_date_font_summary">เปลี่ยนแบบอักษรเริ่มต้นของวันที่ในหน้าจอล็อค</string>
+  <string name="lock_date_font_dialog_title">เลือกรูปแบบอักษรวันที่ของหน้าจอล็อค</string>
+  <!-- Themes -->
+  <string name="accent_color">Accent color</string>
+  <!-- QS themes -->
+  <string name="qs_themes_category_title">สีของการตั้งค่าด่วน</string>
+  <string name="qs_panel_alpha_title">ความโปร่งใส</string>
+  <string name="qs_panel_color_title">สี</string>
+  <string name="qs_bg_wall_title">ใช้สีของภาพหน้าจอ</string>
+  <string name="qs_bg_wall_summary">ตั้งค่าสีพื้นหลังของการตั้งค่าด่วนจากวอลล์เปเปอร์</string>
+  <string name="qs_bg_use_fw">ใช้สีเริ่มต้น</string>
+  <string name="qs_bg_use_fw_summary">ปิดใช้งานรูปแบบการตั้งค่าด่วนแบบกำหนดเองสำหรับเอ็นจิ้นธีมภายนอก</string>
+  <string name="qs_bg_accent_title">ใช้ Accent color</string>
+  <string name="qs_bg_accent_summary">ตั้งค่าสีพื้นหลังของการตั้งค่าด่วนจาก Accent ระบบ</string>
+  <!-- Rounded corners -->
+  <string name="corners_category">มุมแบบโค้งมน</string>
+  <string name="corner_radius">รัศมีมุมโค้งมน</string>
+  <string name="content_padding">เลื่อนไอคอนบนแถบสถานะ</string>
+  <string name="corner_fwvals">ปิดใช้งานมุมที่โค้งมน</string>
+  <string name="corner_fwvals_summary">มีประโยชน์สำหรับอุปกรณ์ที่มีมุมที่โค้งมนอยู่แล้ว</string>
+  <!-- Sensor block per-package -->
+  <string name="sensor_block_title">บล็อกการเข้าถึงเซ็นเซอร์</string>
+  <string name="sensor_block_summary">บล็อกการเข้าถึงเซ็นเซอร์สำหรับแอพบางตัวเพื่อประหยัดแบตเตอรี่</string>
+  <!-- Volume Steps Fragment -->
+  <string name="volume_steps_fragment_title">ระดับการกดปุ่มเพิ่ม - ลดเสียง</string>
+  <string name="volume_steps_summary">ปรับแต่งระดับการกดปุ่มเพิ่ม - ลดเสียง</string>
+  <string name="volume_steps_alarm_title">ระดับการกด: นาฬิกาปลุก</string>
+  <string name="volume_steps_dtmf_title">ระดับการกด: แป้นตัวเลข</string>
+  <string name="volume_steps_music_title">ระดับการกด: สื่อ</string>
+  <string name="volume_steps_notification_title">ระดับการกด: การแจ้งเตือน</string>
+  <string name="volume_steps_ring_title">ระดับการกด: เสียงเรียกเข้า</string>
+  <string name="volume_steps_system_title">ระดับการกด: ระบบ</string>
+  <string name="volume_steps_voice_call_title">ระดับการกด: การสนทนา</string>
+  <string name="volume_steps_reset">รีเซ็ต</string>
+  <!-- Notification guts kill app button -->
+  <string name="notification_guts_kill_app_button_title">ปุ่มล้างแอปพลิเคชั่น</string>
+  <string name="notification_guts_kill_app_button_summary">แสดงปุ่มล้างแอปในการแจ้งเตือน กดรายการแจ้งเตือนค้างไว้</string>
+     
+  <!-- Notification with screen on -->
+  <string name="notification_sound_vib_screen_on_title">มีเสียงดังแจ้งเตือนหากเปิดหน้าจอ</string>
+  <string name="notification_sound_vib_screen_on_summary">ปิดใช้งานเพื่อปิดกั้นเสียงการแจ้งเตือนและการสั่นเมื่อหน้าจอเปิดอยู่</string>
+  <!-- Less Notification sounds -->
+  <string name="less_notification_sounds_title">เสียงแจ้งเตือนอัจฉริยะ</string>
+  <string name="less_notification_sounds_summary">เล่นเสียงแจ้งเตือนของแต่ละแอปเพียงครั้งเดียว ในแต่ละช่วงเวลาที่กำหนด</string>
+  <string name="less_notification_sounds_default">แอปพลิเคชั่นเริ่มต้น</string>
+  <string name="less_notification_sounds_10s">ทุกๆ 10 วินาที</string>
+  <string name="less_notification_sounds_30s">ทุกๆ 30 วินาที</string>
+  <string name="less_notification_sounds_1m">ทุกๆ นาที</string>
+  <string name="less_notification_sounds_2m">ทุกๆ 2 นาที</string>
 </resources>
-
