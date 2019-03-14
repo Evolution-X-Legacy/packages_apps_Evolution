@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Copyright (C) 2019 The Evolution X Project
-
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
-
           http://www.apache.org/licenses/LICENSE-2.0
-
      Unless required by applicable law or agreed to in writing, software
      distributed under the License is distributed on an "AS IS" BASIS,
      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
@@ -16,7 +13,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- App Title -->
-    <string name="extra_settings_title">Evolution ayarları</string>
+    <string name="extra_settings_title">Evolution X</string>
 
     <!-- Categories -->
     <string name="status_bar_title">Durum çubuğu</string>
@@ -27,6 +24,8 @@
     <string name="lock_screen_title">Kilit Ekranı</string>
     <string name="notification_settings_title">Bildirimler</string>
     <string name="general_tweaks_title">Genel ince ayarlar</string>
+    <string name="theme_main">Tema</string>
+    <string name="theme_main_summary">Renklendir!</string>
 
     <!-- General app strings -->
     <string name="general_category">Genel</string>
@@ -56,11 +55,24 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Varsayılan</string>
+    <string name="system_colors">Renkler</string>
+
+    <!-- Preferences Categories -->
+    <string name="cat_general_ui">UI ince ayarlar</string>
+    <string name="cat_general_system">Sistem ile ilgili ince ayarlar</string>
+    <string name="cat_powermenu_items">Güç menüsü öğeleri</string>
+    <string name="cat_volume_keys">Ses tuşları</string>
+    <string name="cat_misc_app">Uygulama ile ilgili</string>
+    <string name="anim_general_category">Genel Animasyonlar</string>
+    <string name="anim_system_category">Sistem ile ilgili</string>
+    <string name="misc_settings_cat_title">Ayarlar uygulamasıyla ilgili</string>
+    <string name="general_system_stuff_preference">Sistem Davranışı</string>
 
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Yeniden Başlat</string>
     <string name="powermenu_advanced_reboot_title">Gelişmiş yeniden başlatma</string>
     <string name="powermenu_advanced_reboot_summary">Kilit açıldığında, kurtarma veya önyükleyiciye yeniden başlamak için güç menüsündeki seçenekleri ekleyin</string>
+    <string name="powermenu_advanced_restart_summary">Diğer yeniden başlatma seçenekleri için gelişmiş yeniden başlatma menüsünü etkinleştirir</string>
     <string name="powermenu_lockdown_title">Kilitleme</string>
     <string name="powermenu_screenshot_title">Ekran görüntüsü</string>
 
@@ -134,6 +146,7 @@
     <!-- Heads up -->
     <string name="headsup_category">HeadsUp Ayarları</string>
     <string name="heads_up_notifications">Heads up</string>
+    <string name="heads_up_notifications_summary">Heads up bildirimleri ayarlarını özelleştirin</string>
     <string name="summary_heads_up_enabled">Pop-up bildirimleri etkin</string>
     <string name="summary_heads_up_disabled">Pop-up bildirimleri devre dışı</string>
     <string name="add_heads_up_package">Uygulama ekle</string>
@@ -220,15 +233,11 @@
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Çağrı içi titreşim seçenekleri</string>
     <string name="incall_vibrate_connect_title">Bağlantıda titret</string>
+    <string name="incall_vibrate_connect_summary">Çağrı bağlandıktan sonra titret</string>
     <string name="incall_vibrate_call_wait_title">Çağrı bekletme sırasında titret</string>
+    <string name="incall_vibrate_call_wait_summary">Arama bekletilirken titremeyi etkinleştir</string>
     <string name="incall_vibrate_disconnect_title">Bağlantı kesildiğinde titret</string>
-
-    <!-- Rounded corners -->
-    <string name="corners_category">Köşeler</string>
-    <string name="corner_radius">Yuvarlak köşe yarıçapı</string>
-    <string name="content_padding">Köşe içerik dolgusu</string>
-    <string name="corner_fwvals">Çerçeve değerlerini kullan</string>
-    <string name="corner_fwvals_summary">Cihazın aslında köşeleri yuvarlatılmışsa kullanışlıdır</string>
+    <string name="incall_vibrate_disconnect_summary">Çağrı kesildikten sonra titremeyi etkinleştir</string>
 
     <!-- Lockscreen visualizer -->
     <string name="lockscreen_visualizer_title">Kilit ekranı görselleştiricisi</string>
@@ -250,23 +259,23 @@
     <string name="systemui_tuner_title">Sistem Kullanıcı Arabirimi Tuner</string>
     <string name="systemui_tuner_summary">Deneysel Sistem Kullanıcı Arabirimi Düzenlemeleri</string>
 
-    <!-- Quick Settings brightness slider -->
+    <!-- Brightness slider tweaks -->
     <string name="qs_brightness_slider_title">Parlaklık kaydırıcısı</string>
     <string name="qs_brightness_slider_summary">Hızlı ayarlar panelinde bir parlaklık kaydırıcısını gösterin</string>
+    <string name="tuner_show_auto_brightness">Uyarlanabilir parlaklık düğmesi</string>
+    <string name="tuner_auto_brightness_right">Uyarlanabilir parlaklık düğmesi için doğru konum</string>
+    <string name="tuner_show_brightness_buttons">Parlaklık kontrol düğmeleri</string>
 
-    <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Uyarlanabilir parlaklık düğmesi</string>
-    <string name="brightness_icon_summary">Uyarlanabilir parlaklık düğmesini göster</string>
-
-    <!-- Quick Settings brightness side buttons -->
-    <string name="brightness_side_buttons_title">Parlaklık kontrol düğmeleri</string>
-    <string name="brightness_side_buttons_summary">Parlaklığı arttırmak veya azaltmak için düğmeleri göster</string>
+    <!--Brightness slider title -->
+    <string name="brightness_slider_title">Brightness slider</string>
 
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Bluetooth batarya durumu</string>
     <string name="bluetooth_battery_summary">Varsa, bağlı bluetooth cihazı için pil durumunu görüntüleme</string>
 
+    <!-- Gestures -->
     <string name="gesture_settings_title">Hareketler</string>
+    <string name="gesture_settings_aosp_title">AOSP Hareketler</string>
     <string name="gesture_settings_info">Gezinti çubuğu devre dışı bırakılmalıdır!\n\nMevcut hareketler:\n\nGeri\n- Sola veya sağa kaydırın\n\nAnasayfa\n- Yukarı kaydırın\n\nSon uygulamalar\n- Yukarı tutun ve kaydırın\n\nUzun basın Anasayfa\n- Kısa kaydırın ve ortada tutun</string>
     <string name="gesture_settings_info_new">Gezinti çubuğu devre dışı bırakılmalıdır!\n\nMevcut hareketler:\n\nGeri\n- Sola veya sağa kaydırın\n\nAnasayfa\n- Yukarı kaydırın\n\nSon uygulamalar\n- Yukarı tutun ve kaydırın\n\nUzun basın Anasayfa\n- Kısa kaydırın ve ortada tutun</string>
     <string name="use_bottom_gesture_title">Gezinme hareketleri</string>
@@ -285,17 +294,16 @@
     <string name="screen_record_shortcut_summary">Güç + Ses yükseltme, etkinleştirildiğinde Ekran kaydını başlatır</string>
 
     <!-- ScreenShot Shortcut -->
-    <string name="screen_shot_shortcut">Ekran Kısayolu</string>
+    <string name="screen_shot_shortcut">Ekran Görüntüsü Kısayolu</string>
     <string name="screen_shot_shortcut_summary">Güç + Ses kısma, etkinleştirildiğinde ekran görüntüsünü alır.</string>
 
+    <!-- Text shown for the title of the lockdown option -->
+    <string name="lockdown_settings_title">Kilitleme seçeneğini göster</string>
+    <!-- Text shown for the description of the lockdown option -->
+    <string name="lockdown_settings_summary">Akıllı Kilit, parmak izi kilidi açma ve kilit ekranında bildirimleri kapatan güç düğmesi seçeneğini görüntüleyin</string>
+
     <!-- Audio Panel view  -->
-     <string name="audio_panel_view">Ses seviyesi paneli görünümü</string>
-     <string name="audio_panel_view_media_title">Medya</string>
-     <string name="audio_panel_view_ringer_title">Arama</string>
-     <string name="audio_panel_view_notification_title">Bildirim</string>
-     <string name="audio_panel_view_alarm_title">Alarm</string>
-     <string name="audio_panel_view_voice_title">Ses</string>
-     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
+    <string name="audio_panel_view">Ses seviyesi paneli görünümü</string>
 
     <!-- Volume Panel on Left -->
     <string name="volume_panel_category">Ses paneli</string>
@@ -344,5 +352,105 @@
     <string name="torch_power_button_gesture_none">Devre dışı</string>
     <string name="torch_power_button_gesture_dt">El feneri değiştirmek için çift tıklama (tek dokunuşa küçük bir gecikme ekleyecektir)</string>
     <string name="torch_power_button_gesture_lp">El feneri değiştirmek için uzun basın</string>
+
+     <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">Parmak izi kilit</string>
+    <string name="fp_unlock_keystore_summary">PIN / Şifre / Desen olmadan yeniden başlattıktan sonra parmak izi olan cihazın kilidini açın \nNot: riski size aittir!</string>
+
+    <!-- Lock Clock Fonts -->
+    <string name="lock_clock_font_title">Saat yazı tipi seçenekleri</string>
+    <string name="lock_clock_font_summary">Kilit ekranı saati widget\'ının varsayılan yazı tipini değiştirme</string>
+    <string name="lock_clock_font_dialog_title">Kilit saati yazı tipini seçin</string>
+    <string name="lock_clock_font_stock">Normal (default)</string>
+    <string name="lock_clock_font_bold">Bold</string>
+    <string name="lock_clock_font_italic">Italic</string>
+    <string name="lock_clock_font_bold_italic">Bold Italic</string>
+    <string name="lock_clock_font_light_italic">Light Italic</string>
+    <string name="lock_clock_font_thin_italic">Thin Italic</string>
+    <string name="lock_clock_font_light">Light</string>
+    <string name="lock_clock_font_thin">Thin</string>
+    <string name="lock_clock_font_condensed_normal">Condensed</string>
+    <string name="lock_clock_font_condensed_italic">Condensed Italic</string>
+    <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
+    <string name="lock_clock_font_condensed_bold_italic">Condensed Bold Italic</string>
+    <string name="lock_clock_font_condensed_light">Condensed Light</string>
+    <string name="lock_clock_font_condensed_light_italic">Condensed Light Italic</string> 
+    <string name="lock_clock_font_medium_normal">Medium</string>
+    <string name="lock_clock_font_medium_italic">Medium Italic</string>
+    <string name="lock_clock_font_black">Black</string>
+    <string name="lock_clock_font_black_italic">Black Italic</string> 
+    <string name="lock_clock_font_dancingscript">DancingScript</string>
+    <string name="lock_clock_font_dancingscript_bold">DancingScript Bold</string>
+    <string name="lock_clock_font_comingsoon">ComingSoon</string>
+    <string name="lock_clock_font_notoserif">NotoSerif Normal</string>
+    <string name="lock_clock_font_notoserif_italic">NotoSerif Italic</string>
+    <string name="lock_clock_font_notoserif_bold">NotoSerif Bold</string>
+    <string name="lock_clock_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
+    <string name="lock_clock_font_gobold">GoBold Light</string>
+    <string name="lock_clock_font_roadrage">Road Rage</string>
+    <string name="lock_clock_font_snowstorm">Snowstorm</string>
+    <string name="lock_clock_font_googlesans">Google Sans</string>
+    <string name="lock_clock_font_neoneon">Neoneon</string>
+    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
+    <string name="lock_clock_font_samsung">Shamshung</string>
+
+    <!-- Lock Date Fonts -->
+    <string name="lock_date_font_title">Tarih yazı tipi seçenekleri</string>
+    <string name="lock_date_font_summary">Kilit ekranı tarih widget\'ının varsayılan yazı tipini değiştirme</string>
+    <string name="lock_date_font_dialog_title">Kilit Ekran tarih yazı tipini seçin</string>
+
+    <!-- Themes -->
+    <string name="accent_color">Vurgu renkleri</string>
+
+    <!-- QS themes -->
+    <string name="qs_themes_category_title">Hızlı Ayarlar renkleri</string>
+    <string name="qs_panel_alpha_title">Şefaf</string>
+    <string name="qs_panel_color_title">Renk</string>
+    <string name="qs_bg_wall_title">Duvar kağıdı renklerini kullan</string>
+    <string name="qs_bg_wall_summary">QS arka plan rengini Duvar Kağıdı\'ndan ayarla</string>
+    <string name="qs_bg_use_fw">Varsayılan renkleri kullan</string>
+    <string name="qs_bg_use_fw_summary">Harici tema motorları için özel hızlı ayar stillerini devre dışı bırak</string>
+    <string name="qs_bg_accent_title">Accent renk kullan</string>
+    <string name="qs_bg_accent_summary">QS arka plan rengini Sistem Aksanından ayarla</string>
+
+    <!-- Rounded corners -->
+    <string name="corners_category">Köşeler</string>
+    <string name="corner_radius">Yuvarlak köşe yarıçapı</string>
+    <string name="content_padding">Köşe içerik dolgusu</string>
+    <string name="corner_fwvals">Çerçeve değerlerini kullan</string>
+    <string name="corner_fwvals_summary">Cihazın aslında köşeleri yuvarlatılmışsa kullanışlıdır</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Paket başına sensör bloğu</string>
+    <string name="sensor_block_summary">Bazı uygulamaların pil tasarrufu yapması için belirli sensörlere erişimi engelleyin</string>
+
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Ses adımları</string>
+    <string name="volume_steps_summary">Ses adımları özelleştir</string>
+    <string name="volume_steps_alarm_title">Ses adımları: Alarm</string>
+    <string name="volume_steps_dtmf_title">Ses adımları: DTMF</string>
+    <string name="volume_steps_music_title">Ses adımları: Medya</string>
+    <string name="volume_steps_notification_title">Ses adımları: Bildirimler</string>
+    <string name="volume_steps_ring_title">Ses adımları: Zil</string>
+    <string name="volume_steps_system_title">Ses adımları: Sistem</string>
+    <string name="volume_steps_voice_call_title">Ses adımları: Sesli arama</string>
+    <string name="volume_steps_reset">Reset</string>
+
+    <!-- Notification guts kill app button -->
+    <string name="notification_guts_kill_app_button_title">Uygulamayı durdur düğmesi</string>
+    <string name="notification_guts_kill_app_button_summary">Bildirimin menüsüne uzun basın Uygulama durdurma düğmesini göster</string>
+
+    <!-- Notification with screen on -->
+    <string name="notification_sound_vib_screen_on_title">Ekran açıksa gürültülü bildirimler</string>
+    <string name="notification_sound_vib_screen_on_summary">Ekran uyanıkken bildirimlerin ses ve titreşimini engelle</string>
+
+    <!-- Less Notification sounds -->
+    <string name="less_notification_sounds_title">Akıllı bildirim sesleri</string>
+    <string name="less_notification_sounds_summary">Her uygulamanın bildirim sesini ayarlanan zaman aralığı başına yalnızca bir kez çalın</string>
+    <string name="less_notification_sounds_default">Uygulama varsayılanı</string>
+    <string name="less_notification_sounds_10s">10 saniyede bir</string>
+    <string name="less_notification_sounds_30s">30 saniyede bir</string>
+    <string name="less_notification_sounds_1m">Her dakika</string>
+    <string name="less_notification_sounds_2m">2 dakikada bir</string>
 
 </resources>

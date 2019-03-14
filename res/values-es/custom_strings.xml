@@ -57,10 +57,22 @@
     <string name="color_default">Por defecto</string>
     <string name="system_colors">Colores</string>
 
+    <!-- Preferences Categories -->
+    <string name="cat_general_ui">Retoques UI</string>
+    <string name="cat_general_system">Retoques relacionados con el sistema</string>
+    <string name="cat_powermenu_items">Elementos del menu de apagado</string>
+    <string name="cat_volume_keys">Botones de volumen</string>
+    <string name="cat_misc_app">Relacionados con aplicaciones</string>
+    <string name="anim_general_category">Animaciones en general</string>
+    <string name="anim_system_category">Relacionados con el sistema</string>
+    <string name="misc_settings_cat_title">Relacionados con la aplicacion de ajustes</string>
+    <string name="general_system_stuff_preference">Comportamiento del sistema</string>
+
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Reiniciar</string>
     <string name="powermenu_advanced_reboot_title">Reincio avanzado</string>
     <string name="powermenu_advanced_reboot_summary">Cuando este desbloqueado, incluir las opciones para entrar al Recovery o al Bootloader</string>
+    <string name="powermenu_advanced_restart_summary">Activar el reinicio avanzado para las otras opciones de reinicio</string>
     <string name="powermenu_lockdown_title">Bloqueo</string>
     <string name="powermenu_screenshot_title">Captura de pantalla</string>
 
@@ -134,6 +146,7 @@
     <!-- Heads up -->
     <string name="headsup_category">Configuracion de notificaciones flotantes</string>
     <string name="heads_up_notifications">Notificaciones flotantes</string>
+    <string name="heads_up_notifications_summary">Personalizar las opciones de las notificaciones flotantes</string>
     <string name="summary_heads_up_enabled">Notificaciones flotantes activadas</string>
     <string name="summary_heads_up_disabled">Notificaciones flotantes desactivadas</string>
     <string name="add_heads_up_package">Añadir aplicacion</string>
@@ -220,8 +233,11 @@
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Opciones de vibracion durante una llamada</string>
     <string name="incall_vibrate_connect_title">Vibrar al conectar</string>
+    <string name="incall_vibrate_connect_summary">Activar la vibracion cuando la llamada es respondida</string>
     <string name="incall_vibrate_call_wait_title">Vibrar en espera</string>
+    <string name="incall_vibrate_call_wait_summary">Activar la vibracion mientras esperas la llamada</string>
     <string name="incall_vibrate_disconnect_title">Vibrar al colgar</string>
+    <string name="incall_vibrate_disconnect_summary">Activar la vibracion cuando la llamada termina</string>
 
     <!-- Lockscreen visualizer -->
     <string name="lockscreen_visualizer_title">Visualizador en pantalla de bloqueo</string>
@@ -243,23 +259,23 @@
     <string name="systemui_tuner_title">SystemUI Tuner</string>
     <string name="systemui_tuner_summary">Ajustes experimentales de SystemUI</string>
 
-    <!-- Quick Settings brightness slider -->
+    <!-- Brightness slider tweaks -->
     <string name="qs_brightness_slider_title">Barra de brillo</string>
-    <string name="qs_brightness_slider_summary">Mostrar la barra de brillo en las configuraciones rapidas</string>
+    <string name="qs_brightness_slider_summary">Mostrar la barra de brillo en los ajustes rapidos</string>
+    <string name="tuner_show_auto_brightness">Botono de brillo adaptativo</string>
+    <string name="tuner_auto_brightness_right">Boton de brillo a la derecha</string>
+    <string name="tuner_show_brightness_buttons">Botones de control de brillo</string>
 
-    <!-- Quick Settings brightness icon -->
-    <string name="brightness_icon_title">Icono de brillo adaptativo</string>
-    <string name="brightness_icon_summary">Mostrar el icono de brillo adaptativo</string>
-
-    <!-- Quick Settings brightness side buttons -->
-    <string name="brightness_side_buttons_title">Botones de control de brillo</string>
-    <string name="brightness_side_buttons_summary">Mostrar botones para aumentar o disminuir el brillo</string>
-
+    <!--Brightness slider title -->
+    <string name="brightness_slider_title">Barra de brillo</string>
+    
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Estado de bateria de bluetooth</string>
     <string name="bluetooth_battery_summary">Mostrar el estado de bateria de los dispositivos bluetooth conectado, si esta disponible</string>
 
+    <!-- Gestures -->
     <string name="gesture_settings_title">Gestos</string>
+    <string name="gesture_settings_aosp_title">Gestos AOSP</string>
     <string name="gesture_settings_info">La barra de navegacion sera desactivada!\n\nGestos disponibles:\n\nVolver\n- Deslizar hacia arriba en el lado izquierdo o derecho\n\nInicio\n- Desliza hacia arriba en el centro\n\nRecientes\n- Desliza hacia arriba en el centro y manten\n\nPulsacion larga de inicio\n- Desliza un poco hacia arriba en el centro y manten</string>
     <string name="gesture_settings_info_new">La barra de navegacion sera desactivada!\n\nGestos disponibles:\n\nBack\n- Deslizar hacia arriba en el lado izquierdo o derecho\n\nInicio\n- Desliza hacia arriba en el centro\n\nRecientes\n- Desliza hacia arriba en el centro y manten\n\nCambiar a la aplicacion anterior\n- Desliza un poco hacia arriba en el centro y manten</string>
     <string name="use_bottom_gesture_title">Gestos de navegacion</string>
@@ -281,19 +297,13 @@
     <string name="screen_shot_shortcut">Atajo de captura de pantalla</string>
     <string name="screen_shot_shortcut_summary">Encendido + Volumen Abajo activa la captura de pantala si esta activada</string>
 
-	<!-- Text shown for the title of the lockdown option -->
+    <!-- Text shown for the title of the lockdown option -->
     <string name="lockdown_settings_title">Muestra opciones de bloqueoShow lockdown option</string>
     <!-- Text shown for the description of the lockdown option -->
     <string name="lockdown_settings_summary">Muestra opciones en el menu de apagado para desactivar Smart Lock, desbloqueo con lector de huellas y notificaciones en la pantalla de bloqueo</string>
 
     <!-- Audio Panel view  -->
      <string name="audio_panel_view">Vista de panel de volumen</string>
-     <string name="audio_panel_view_media_title">Multimedia</string>
-     <string name="audio_panel_view_ringer_title">Tono</string>
-     <string name="audio_panel_view_notification_title">Notificaciones</string>
-     <string name="audio_panel_view_alarm_title">Alarma</string>
-     <string name="audio_panel_view_voice_title">Voz de llamada</string>
-     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
 
     <!-- Volume Panel on Left -->
     <string name="volume_panel_category">Panel de volumen</string>
@@ -346,10 +356,6 @@
     <!-- Fingerprint unlock keystore -->
     <string name="fp_unlock_keystore_title">Desbloqueo con lector de huellas</string>
     <string name="fp_unlock_keystore_summary">Desbloquear con lector de huellas despues de un reinicio sin PIN/Contraseña/Patron\nNota: a tu propio riesgo!</string>
-
-    <!-- Lockscreen battery info indicator -->
-    <string name="lockscreen_battery_info_title">Informacion de carga en pantalla de bloqueo</string>
-    <string name="lockscreen_battery_info_summary">Mostrar el amperaje, voltaje y temperatura de bateria mientras se carga en la pantalla de bloqueo</string>
 
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Opciones de fuente para reloj</string>
@@ -413,5 +419,38 @@
     <string name="content_padding">Relleno de contenido en esquinas</string>
     <string name="corner_fwvals">Usar valores de framework</string>
     <string name="corner_fwvals_summary">Util si tu dispositivo ya tiene las esquinas redondeadas</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">Bloqueo de sensores por aplicacion</string>
+    <string name="sensor_block_summary">Bloquea ciertos sensores en algunas aplicaciones para ahorrar bateria</string>
+
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">Niveles de volumen</string>
+    <string name="volume_steps_summary">Personalizar niveles de volumen</string>
+    <string name="volume_steps_alarm_title">Niveles de volumen: Alarma</string>
+    <string name="volume_steps_dtmf_title">Niveles de volumen: DTMF</string>
+    <string name="volume_steps_music_title">Niveles de volumen: Multimedia</string>
+    <string name="volume_steps_notification_title">Niveles de volumen: Notificationes</string>
+    <string name="volume_steps_ring_title">Niveles de volumen: Tono de llamada</string>
+    <string name="volume_steps_system_title">Niveles de volumen: Sistema</string>
+    <string name="volume_steps_voice_call_title">Niveles de volumen: Llamada de voz</string>
+    <string name="volume_steps_reset">Por defecto</string>
+
+    <!-- Notification guts kill app button -->
+    <string name="notification_guts_kill_app_button_title">Boton para matar aplicacion</string>
+    <string name="notification_guts_kill_app_button_summary">Muestra un boton para matar la aplicacion si mantienes en la notificacion</string>
+
+    <!-- Notification with screen on -->
+    <string name="notification_sound_vib_screen_on_title">Notificaciones ruidosas si la pantalla esta encendida</string>
+    <string name="notification_sound_vib_screen_on_summary">Desactivar para que la pantalla no suene ni vibre si la pantalla esta encendida</string>
+
+    <!-- Less Notification sounds -->
+    <string name="less_notification_sounds_title">Sonidos de notificacion inteligente</string>
+    <string name="less_notification_sounds_summary">Reproducir sonido de notificacion para aplicacion cada tiempo determinado</string>
+    <string name="less_notification_sounds_default">Por defecto para aplicacion</string>
+    <string name="less_notification_sounds_10s">Cada 10 segundos</string>
+    <string name="less_notification_sounds_30s">Cada 30 segundos</string>
+    <string name="less_notification_sounds_1m">Cada minuto</string>
+    <string name="less_notification_sounds_2m">Cada 2 minutos</string>
 
 </resources>
