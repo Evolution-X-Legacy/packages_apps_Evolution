@@ -276,6 +276,7 @@
 
     <!-- Gestures -->
     <string name="gesture_settings_title">Gestur</string>
+    <string name="gesture_settings_aosp_title">Gestur AOSP</string>
     <string name="gesture_settings_info">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nBeranda\n- Geser ke atas tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\n\nTekan lama beranda\n- Geser cepat ke atas dan tahan di tengah</string>
     <string name="gesture_settings_info_new">navigasi bar harus dinonaktifkan!\n\nSyarat yang tersedia:\n\nKembali\n- Geser ke atas di sisi kiri atau kanan\n\nRumah\n- Geser ke tengah tengah\n\nAplikasi terbaru\n- Geser ke atas tengah dan tahan\n\nPindah ke aplikasi terakhir\n- Geser cepat ke atas dan tahan di tengah</string>
     <string name="use_bottom_gesture_title">Gestur navigasi</string>
@@ -326,11 +327,14 @@
     <string name="allow_signature_fake">Izinkan tanda tangan spoofing</string>
     <string name="allow_signature_fake_summary">Izinkan aplikasi memintas sistem keamanan dengan berpura-pura menjadi aplikasi yang berbeda</string>
 
+    <!-- QS tile styles -->
+    <string name="qs_tile_style_title">Gaya ubin setelan cepat</string>
+
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Tombol daya untuk senter saat layar mati</string>
     <string name="torch_power_button_gesture_none">Nonaktifkan</string>
     <string name="torch_power_button_gesture_dt">Tap dua kali tombol daya untuk menyalakan senter (akan menambahkan penundaan kecil pada tap satu kali)</string>
-    <string name="torch_power_button_gesture_lp">Long press power to toggle torch</string>
+    <string name="torch_power_button_gesture_lp">Tekan lama tombol daya untuk menghidupkan senter</string>
 
     <!-- Fingerprint unlock keystore -->
     <string name="fp_unlock_keystore_title">Buka kunci sidik jari</string>
@@ -355,11 +359,11 @@
     <string name="qs_panel_alpha_title">Transparansi</string>
     <string name="qs_panel_color_title">Warna</string>
     <string name="qs_bg_wall_title">Gunakan warna walpaper</string>
-    <string name="qs_bg_wall_summary">Atur warna latar belakang QS dari wallpaper</string>
+    <string name="qs_bg_wall_summary">Atur warna latar belakang setelan cepat dari wallpaper</string>
     <string name="qs_bg_use_fw">Gunakan warna default</string>
     <string name="qs_bg_use_fw_summary">Nonaktifkan gaya setelan cepat khusus untuk mesin tema eksternal</string>
     <string name="qs_bg_accent_title">Gunakan warna aksen</string>
-    <string name="qs_bg_accent_summary">Atur warna latar belakang QS dari aksen sistem</string>
+    <string name="qs_bg_accent_summary">Atur warna latar belakang setelan cepat dari aksen sistem</string>
 
     <!-- Rounded corners -->
     <string name="corners_category">Sudut</string>
@@ -401,4 +405,24 @@
     <string name="less_notification_sounds_1m">Setiap menit</string>
     <string name="less_notification_sounds_2m">Setiap 2 menit</string>
     
+    <!-- Ambient display music ticker -->
+    <string name="force_ambient_for_media_pref_title">Ticker musik ambient</string>
+    <string name="force_ambient_for_media_pref_summary">Konfigurasikan ticker musik ambient</string>
+    <string name="ambient_ticker_footer">Ticker musik ambient menunjukkan memutar info trek musik di dalam layar tampilan Ambient.\n\nItu juga dipicu jika Tampilan Ambient dinonaktifkan saat trek baru dimulai, memaksa layar ambient yang bersih dengan info trek di tengah layar.\n\nAnda juga dapat mengetuk dua kali info trek untuk melewati trek.</string>
+    <string name="force_ambient_for_media_title">Aktifkan</string>
+
+    <!-- Doze settings editor --> 
+    <string name="advanced_doze_settings">Pengaturan doze lanjutan</string>
+    <string name="doze_settings_title">Pengaturan doze</string> 
+    <string name="doze_settings_summary">Edit pengaturan konfigurasi doze</string> 
+    <string name="action_restoredefault">Pulihkan ke default</string> 
+    <string name="action_profile">Profil</string> 
+    <string name="action_save_as_profile">Simpan sebagai profil</string> 
+    <string name="delete_profile">Hapus profil</string> 
+    <string name="profile_name">Nama</string> 
+    <string name="string_seconds">Detik</string> 
+    <string name="string_default">Default</string> 
+    <string name="action_filter">Filter</string> 
+    <string name="doze_settings_applied">Pengaturan diterapkan</string>
+
 </resources>
