@@ -16,6 +16,7 @@
     <string name="extra_settings_title">Evolution X</string>
 
     <!-- Categories -->
+    <string name="button_title">Tuşlar</string>
     <string name="status_bar_title">Durum çubuğu</string>
     <string name="quick_settings_title">Hızlı Ayarlar</string>
     <string name="navbar_title">Gezinti çubuğu</string>
@@ -45,6 +46,8 @@
     <string name="reset">Reset</string>
     <string name="cancel">İptal</string>
     <string name="save">Kaydet</string>
+    <string name="action_save">Kaydet</string>
+    <string name="action_cancel">İptal</string>
 
     <!-- Color Picker -->
     <string name="dialog_color_picker">Renk seçici</string>
