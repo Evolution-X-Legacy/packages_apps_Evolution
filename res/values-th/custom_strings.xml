@@ -20,7 +20,7 @@
 	<string name="quick_settings_title">แถบการตั้งค่าด่วน</string>
 	<string name="navbar_title">แถบนำทาง</string>
 	<string name="power_menu_title">ปุ่มเมนูเพาเวอร์</string>
-	<string name="volume_keys_title">ปุ่มระดับเสียง</string>
+	<string name="volume_keys_title">คีย์เพิ่มลดเสียง</string>
 	<string name="lock_screen_title">หน้าจอล็อค</string>
 	<string name="notification_settings_title">การแจ้งเตือน</string>
 	<string name="general_tweaks_title">ปรับแต่งทั่วไป</string>
@@ -63,7 +63,7 @@
 	<string name="cat_general_ui">การปรับแต่ง UI</string>
 	<string name="cat_general_system">การปรับแต่งระบบ</string>
 	<string name="cat_powermenu_items">รายการเมนูเพาเวอร์</string>
-	<string name="cat_volume_keys">ปุ่มปรับระดับเสียง</string>
+	<string name="cat_volume_keys">คีย์เพิ่มลดเสียง</string>
 	<string name="cat_misc_app">แอปที่เกี่ยวข้อง</string>
 	<string name="anim_general_category">การเคลื่อนไหวโดยรวม</string>
 	<string name="anim_system_category">ระบบที่เกี่ยวข้อง</string>
@@ -553,14 +553,18 @@
 	<string name="no_stat_because_reset_state">กดรีเซ็ตเพื่อเริ่มการรวบรวมข้อมูล time in state</string>
 	<string name="no_stat_because_reset_wakelock">กดรีเซ็ตเพื่อเริ่มการรวบรวมข้อมูล wakelock</string>
 	<string name="no_stat_because_plugged">โปรดถอดปลั๊กไฟเพื่อรับข้อมูล wakelock</string>
-	<string name="no_states_file_found">ไม่พบไฟล์ states! คุณแน่ใจหรือว่าโทรศัพท์ของคุณใช้งาน
-          ร่วมกันได้\n\nหากคุณใช้ ROM หรือเคอร์เนลแบบกำหนดเอง ลอง
-          ติดต่อผู้พัฒนาเพื่อแจ้งให้เขาทราบว่าไฟล์ state นั้นไม่สามารถอ่านได้</string>
+	<string name="no_states_file_found">ไม่พบไฟล์ states! คุณแน่ใจหรือว่าโทรศัพท์ของคุณใช้งานร่วมกันได้ \n\nหากคุณใช้ ROM หรือเคอร์เนลแบบกำหนดเอง ลองติดต่อผู้พัฒนาเพื่อแจ้งให้เขาทราบว่าไฟล์ state นั้นไม่สามารถอ่านได้</string>
 	<string name="deep_sleep">"Deep Sleep"</string>
 	<string name="mt_refresh">รีเฟรช</string>
 	<string name="mt_share">แชร์</string>
 	<string name="mt_reset">รีเซ็ต</string>
 	<string name="time_in_state_title">สถานะ CPU ในแต่ละเวลา</string>
 	<string name="time_in_state_summary">แสดงสถิติความถี่ของ CPU</string>
+	
+	<!-- Lockscreen cover art filter -->
+	<string name="lockscreen_cover_filter_title">ฟิลเตอร์ภาพหน้าปกของสื่อบนหน้าจอล็อค</string>
+	<string name="lockscreen_cover_filter_none">ไม่มี</string>
+	<string name="lockscreen_cover_filter_grayscale">โทนสีเทา</string>
+	<string name="lockscreen_cover_filter_blur">เบลอ</string>
 
 </resources>

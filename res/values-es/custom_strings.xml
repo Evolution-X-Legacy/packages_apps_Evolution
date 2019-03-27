@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2016 The Nitrogen OS
+<!-- Copyright (C) 2019 The Evolution X Project
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
      You may obtain a copy of the License at
@@ -61,9 +61,9 @@
     <string name="system_colors">Colores</string>
 
     <!-- Preferences Categories -->
-    <string name="cat_general_ui">Retoques UI</string>
-    <string name="cat_general_system">Retoques relacionados con el sistema</string>
-    <string name="cat_powermenu_items">Elementos del menu de apagado</string>
+    <string name="cat_general_ui">Ajustes generales de UI</string>
+    <string name="cat_general_system">Ajustes relacionados con el sistema</string>
+    <string name="cat_powermenu_items">Elementos en el menu de apagado</string>
     <string name="cat_volume_keys">Botones de volumen</string>
     <string name="cat_misc_app">Relacionados con aplicaciones</string>
     <string name="anim_general_category">Animaciones en general</string>
@@ -75,7 +75,7 @@
     <string name="powermenu_reboot_title">Reiniciar</string>
     <string name="powermenu_advanced_reboot_title">Reincio avanzado</string>
     <string name="powermenu_advanced_reboot_summary">Cuando este desbloqueado, incluir las opciones para entrar al Recovery o al Bootloader</string>
-    <string name="powermenu_advanced_restart_summary">Activar el reinicio avanzado para las otras opciones de reinicio</string>
+    <string name="powermenu_advanced_restart_summary">Activar el reinicio avanzado para otras opciones de reinicio</string>
     <string name="powermenu_lockdown_title">Bloqueo</string>
     <string name="powermenu_screenshot_title">Captura de pantalla</string>
 
@@ -90,7 +90,7 @@
     <string name="volume_button_music_control_summary">Cuando la pantalla esta apagada, manten los botones de volumen para saltar o volver canciones</string>
 
     <!-- Lockscreen dt2s -->
-    <string name="double_tap_sleep_lockscreen_title">Doble toque para apagar/bloquear pantalla</string>
+    <string name="double_tap_sleep_lockscreen_title">Doble toque para apagar pantalla</string>
     <string name="double_tap_sleep_lockscreen_sumary">Doble toque en cualquier lugar en la pantalla de bloqueo para apagar/bloquear pantalla</string>
 
     <!-- Lockscreen cover art -->
@@ -177,10 +177,10 @@
     <string name="heads_up_snooze_summary">Deslizar hacia arriba en las notificaciones flotantes las pospondra en esa aplicacion por <xliff:g id="number">%d</xliff:g> minuto</string>
     <string name="heads_up_snooze_disabled_summary">Tiempo para posponer esta desactivado</string>
     <string name="heads_up_snooze_1min">1 minuto</string>
-    <string name="heads_up_snooze_5min">5 minuto</string>
-    <string name="heads_up_snooze_10min">10 minuto</string>
-    <string name="heads_up_snooze_15min">15 minuto</string>
-    <string name="heads_up_snooze_20min">20 minuto</string>
+    <string name="heads_up_snooze_5min">5 minutos</string>
+    <string name="heads_up_snooze_10min">10 minutos</string>
+    <string name="heads_up_snooze_15min">15 minutos</string>
+    <string name="heads_up_snooze_20min">20 minutos</string>
 
     <!-- Power menu on secure lockscreen -->
     <string name="powermenu_lockscreen_title">Visibilidad en pantalla de bloqueo</string>
@@ -556,14 +556,14 @@
     <string name="google_it">Googlearlo</string> 
     <string name="app_details">Detalle de aplicaciones</string> 
     <string name="no_stat_because_reset_state">Presiona reinicio para empezar a recolectar tiempo de estado</string> 
-    <string name="no_stat_because_reset_wakelock">Presiona reinicio para empezar a recolectar informacion wakelocks</string> 
-    <string name="no_stat_because_plugged">Porfavor desconecta la carga para obtener informacion wakelock</string> 
-    <string name="no_states_file_found">No se encontro archivo de estado. Estas seguro de que tu telefono es 
+    <string name="no_stat_because_reset_wakelock">Presiona reinicio para empezar a recolectar informacion sobre wakelocks</string> 
+    <string name="no_stat_because_plugged">Por favor, desconecta la carga para obtener informacion sobre wakelock</string> 
+    <string name="no_states_file_found">No se encontro archivo de estado. ¿Estas seguro de que tu telefono es 
         compatible?\n\nSi estas usando una custom rom o kernel, intenta 
-        contactando al desarrollador para informar de que el archivo de estado no se 
+        contacar al desarrollador para informar de que el archivo de estado no se 
         puede leer.</string> 
     <string name="deep_sleep">"Sueño profundo"</string> 
-    <string name="mt_refresh">Refrescar</string> 
+    <string name="mt_refresh">Actualizar</string> 
     <string name="mt_share">Compartir</string> 
     <string name="mt_reset">Reinciar</string> 
     <string name="time_in_state_title">Tiempo en estado</string> 
