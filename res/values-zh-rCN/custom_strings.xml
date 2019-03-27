@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2019 The Evolution X Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- App Title -->
+    <string name="extra_settings_title">Evolution X</string>
+
+    <!-- Categories -->
+    <string name="status_bar_title">状态列</string>
+    <string name="quick_settings_title">快速设定</string>
+    <string name="navbar_title">导航列</string>
+    <string name="power_menu_title">电源选单</string>
+    <string name="volume_keys_title">音量按钮</string>
+    <string name="lock_screen_title">锁屏</string>
+    <string name="notification_settings_title">通知</string>
+    <string name="general_tweaks_title">细部调整</string>
+    <string name="theme_main">主题</string>
+    <string name="theme_main_summary">为您的人生添上更多色彩\uff01</string>
+
+    <!-- General app strings -->
+    <string name="general_category">一般</string>
+    <string name="gestures_category">手势</string>
+    <string name="music_category">音乐</string>
+    <string name="security_category">安全性</string>
+    <string name="hardware_category">设备硬件</string>
+    <string name="icons_category">图标</string>
+
+    <!-- Sub Categories -->
+    <string name="lock_screen_ui_title">介面</string>
+    <string name="lock_screen_misc_title">杂项</string>
+    <string name="status_bar_battery_title">电池图标</string>
+
+    <!-- General strings -->
+    <string name="ok">完成</string>
+    <string name="reset">重设</string>
+    <string name="cancel">取消</string>
+    <string name="save">储存</string>
+    <string name="action_save">储存</string>
+    <string name="action_cancel">取消</string>
+
+    <!-- Color Picker -->
+    <string name="dialog_color_picker">选色器</string>
+    <string name="press_color_to_apply">轻触色彩以套用</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
+    <string name="hex">色彩 Hex 值\uff1a</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">套用</string>
+    <string name="color_default">默认</string>
+    <string name="system_colors">色彩</string>
+
+    <!-- Preferences Categories -->
+    <string name="cat_general_ui">系统使用者介面调整</string>
+    <string name="cat_general_system">系统相关调整</string>
+    <string name="cat_powermenu_items">电源选单显示项目</string>
+    <string name="cat_volume_keys">音量按钮</string>
+    <string name="cat_misc_app">应用程式相关</string>
+    <string name="anim_general_category">通用动画</string>
+    <string name="anim_system_category">系统相关</string>
+    <string name="misc_settings_cat_title">\u300c设定\u300d相关</string>
+    <string name="general_system_stuff_preference">系统行为</string>
+
+    <!-- Power Menu -->
+    <string name="powermenu_reboot_title">重启</string>
+    <string name="powermenu_advanced_reboot_title">高级重启</string>
+    <string name="powermenu_advanced_reboot_summary">屏幕解锁时\uff0c在电源选单显示直接重启至 Recovery 及 Bootloader 的选项</string>
+    <string name="powermenu_advanced_restart_summary">启用高级重启选单以显示更多重启项目项目</string>
+    <string name="powermenu_lockdown_title">锁定</string>
+    <string name="powermenu_screenshot_title">截屏</string>
+
+    <!-- Quick QS Pulldown -->
+    <string name="status_bar_quick_qs_pulldown">快速下拉</string>
+    <string name="quick_pulldown_none">停用</string>
+    <string name="quick_pulldown_right">从右边下拉状态列</string>
+    <string name="quick_pulldown_left">从左边下拉状态列</string>
+
+    <!-- Volume rocker music control -->
+    <string name="volume_button_music_control_title">播放控制</string>
+    <string name="volume_button_music_control_summary">当屏幕关闭时\uff0c长压音量按钮将跳过正在播放的音乐</string>
+
+    <!-- Lockscreen dt2s -->
+    <string name="double_tap_sleep_lockscreen_title">轻触两下以关闭屏幕</string>
+    <string name="double_tap_sleep_lockscreen">在锁屏轻触两下以关闭屏幕</string>
+
+    <!-- Lockscreen cover art -->
+    <string name="media_art_title">媒体封面</string>
+    <string name="media_art_summary">在锁屏显示播放中的媒体封面</string>
+
+    <!-- less boring heads up -->
+    <string name="less_boring_heads_up_title">关闭不必要的弹出通知</string>
+    <string name="less_boring_heads_up_summary">仅显示来自通话及简讯的弹出通知</string>	
+
+    <!-- Battery Styles -->
+    <string name="battery_style_title">电池图标样式</string>
+    <string name="battery_style_summary">更改状态列电池图标样式</string>
+    <string name="battery_style_port">直立</string>
+    <string name="battery_style_circle">圆圈</string>
+    <string name="battery_style_dotted_circle">虚线圆圈</string>
+    <string name="battery_style_big_circle">大圆圈</string>
+    <string name="battery_style_big_dotted_circle">大虚线圆圈</string>
+    <string name="battery_style_text">文字\uff08请调整\u300c电池百分比显示位置\u300d\uff09</string>
+    <string name="battery_style_hidden">隐藏</string>
+    <string name="battery_percent_hidden">隐藏</string>
+    <string name="show_battery_percent_title">显示电池百分比</string>
+    <string name="show_battery_percent_summary">电池百分比显示位置</string>
+    <string name="battery_style_category_title">电池阶级</string>
+    <string name="battery_percent_outside">外部</string>
+    <string name="battery_percent_inside">内部</string>
+
+    <!-- SeekBar -->
+    <string name="seekbar_no_default_value">无默认值</string>
+    <string name="seekbar_default_value_set">已设定默认值为 <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">已设定默认值</string>
+    <string name="seekbar_default_string">默认</string>
+
+    <!-- Fingerprint authentication vibration -->
+    <string name="fprint_sucess_vib_title">指纹辨识震动</string>
+    <string name="fprint_sucess_vib_summary">成功辨识指纹辨识时震动</string>
+
+    <!-- Volume rocker wake -->
+    <string name="volume_rocker_wake_title">音量按钮唤醒</string>
+    <string name="volume_rocker_wake_summary">使用音量按钮点亮设备</string>
+
+    <!-- Double tap-to-sleep -->
+    <string name="double_tap_to_sleep_title">状态列</string>
+    <string name="double_tap_sleep_gesture_title">在状态列轻触两下以关闭屏幕</string>
+
+    <!-- Network traffic -->
+    <string name="traffic_title">流量指标</string>
+    <string name="network_traffic_title">网络流量</string>
+    <string name="network_traffic_type">选择显示项目</string>
+    <string name="show_network_traffic_up">上传</string>
+    <string name="show_network_traffic_down">下载</string>
+    <string name="show_network_traffic_all">上传及下载</string>
+    <string name="network_traffic_state_title">在状态列中显示网络流量指示</string>
+    <string name="network_traffic_autohide_threshold_title">自动隐藏网络速度</string>
+
+    <!-- Heads up -->
+    <string name="heads_up_notifications">弹出通知</string>
+    <string name="summary_heads_up_enabled">已启用弹出通知</string>
+    <string name="summary_heads_up_disabled">已停用弹出通知</string>
+    <string name="add_heads_up_package">新增应用程式</string>
+    <string name="add_heads_up_stoplist_summary">使用下列应用程式时\uff0c停用弹出通知</string>
+    <string name="add_heads_up_blacklist_summary">停用下列应用程式传送的弹出通知</string>
+    <string name="heads_up_stoplist_title">停用名单</string>
+    <string name="heads_up_blacklist_title">黑名单</string>
+    <string name="profile_choose_app">选择应用程式</string>
+    <string name="dialog_delete_title">删除</string>
+    <string name="dialog_delete_message">移除选取的项目\uff1f</string>
+
+    <!-- Heads up timeout -->
+    <string name="heads_up_time_out_title">停留时间</string>
+    <string name="heads_up_time_out_summary">弹出通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
+    <string name="heads_up_time_out_2sec">2 秒</string>
+    <string name="heads_up_time_out_4sec">4 秒</string>
+    <string name="heads_up_time_out_5sec">5 秒</string>
+    <string name="heads_up_time_out_6sec">6 秒</string>
+    <string name="heads_up_time_out_8sec">8 秒</string>
+    <string name="heads_up_time_out_10sec">10 秒</string>
+
+    <!-- Heads up snooze -->
+    <string name="heads_up_snooze_title">暂停弹出通知</string>
+    <string name="heads_up_snooze_summary_one_minute">上滑弹出通知将暂停该应用程式传送的弹出通知 1 分钟</string>
+    <string name="heads_up_snooze_summary">上滑弹出通知将暂停该应用程式传送的弹出通知 <xliff:g id="number">%d</xliff:g> 分钟</string>
+    <string name="heads_up_snooze_disabled_summary">不启用暂停</string>
+    <string name="heads_up_snooze_1min">1 分钟</string>
+    <string name="heads_up_snooze_5min">5 分钟</string>
+    <string name="heads_up_snooze_10min">10 分钟</string>
+    <string name="heads_up_snooze_15min">15 分钟</string>
+    <string name="heads_up_snooze_20min">20 分钟</string>
+
+    <!-- Power menu on secure lockscreen -->
+    <string name="powermenu_lockscreen_title">锁屏电源选单</string>
+    <string name="powermenu_lockscreen_summary">允许在锁屏使用电源选单</string>
+	
+    <!-- Roaming indicator icon -->
+    <string name="roaming_indicator_icon_title">漫游指示器</string>
+    <string name="roaming_indicator_icon_summary">在漫游时显示漫游图标</string>
+
+    <!-- 4G icon -->
+    <string name="show_fourg_icon_title">4G 图标</string>
+    <string name="show_fourg_icon_summary">使用 4G 图标替代 LTE 图标</string>
+
+    <!-- Show VoLTE icon on statusbar -->
+    <string name="volte_icon_title">VoLTE 图标</string>
+    <string name="volte_icon_summary">显示 VoLTE 图标\uff08需重启系统 UI\uff09</string>
+
+    <!-- Data disabled icon -->
+    <string name="data_disabled_icon_title">显示无行动数据图标</string>
+    <string name="data_disabled_icon_summary">未开启行动数据时在讯号图标旁显示无行动数据图标</string>
+
+	<!--3-Finger screenshot-->
+    <string name="three_finger_gesture">三指手势</string>
+    <string name="three_finger_gesture_summary">滑动三指以截屏</string>
+
+    <!-- Lockscreen icons -->
+    <string name="hide_lockscreen_items_title">锁屏显示项目</string>
+
+    <!-- Lockscreen items -->
+    <string name="lockscreen_clock_title">时钟小部件</string>
+    <string name="lockscreen_clock_summary">在锁屏显示时钟小部件</string>
+    <string name="lockscreen_info_title">时钟下方显示项目</string>
+    <string name="lockscreen_info_summary">在锁屏显示显示日期、天气、闹钟</string>
+
+    <!-- Lockscreen clock styles -->
+    <string name="lockscreen_clock_styles_category">锁定屏幕样式</string>
+    <string name="lockscreen_clock_selection_title">时钟样式</string>
+    <string name="lockscreen_clock_selection_digital">默认</string>
+    <string name="lockscreen_clock_selection_digital_bold">默认\uff08粗体\uff09</string>
+    <string name="lockscreen_clock_selection_analog">类比</string>
+    <string name="lockscreen_clock_selection_sammy">三星</string>
+    <string name="lockscreen_clock_selection_sammy_bold">三星\uff08粗体\uff09</string>
+    <string name="lockscreen_clock_selection_sammy_accent">三星\uff08强调色\uff09</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">三星\uff08强调色\uff09</string>
+    <string name="lockscreen_clock_selection_shishu_dreams" translatable="false">Shishu Dreams UI</string>
+    <string name="lockscreen_clock_selection_shishu_immensity" translatable="false">Shishu Immensity UI</string>
+    <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">渐层\uff08Bootleg 图标\uff09</string>
+    <string name="lockscreen_clock_selection_gradient_shishu">渐层\uff08家\uff09</string>
+    <string name="lockscreen_clock_selection_gradient_full">全渐层</string>
+    <string name="lockscreen_clock_selection_gradient_likeqs">单色渐层</string>
+
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">通话震动选项</string>
+    <string name="incall_vibrate_connect_title">接通时震动</string>
+    <string name="incall_vibrate_connect_summary">在通话接通时震动</string>
+    <string name="incall_vibrate_call_wait_title">等待时震动</string>
+    <string name="incall_vibrate_call_wait_summary">在等待通话时震动</string>
+    <string name="incall_vibrate_disconnect_title">挂断时震动</string>
+    <string name="incall_vibrate_disconnect_summary">在通话结束时震动</string>
+
+    <!-- Lockscreen visualizer -->
+    <string name="lockscreen_visualizer_title">锁屏频谱图</string>
+    <string name="lockscreen_visualizer_summary">在锁屏底部显示播放中的媒体音效频谱图</string>
+
+    <!-- Ambient visualizer -->
+    <string name="ambient_visualizer_title">在微光屏幕显示锁屏频谱图</string>
+    <string name="ambient_visualizer_summary">同时于微光屏幕底部显示更加透明的媒体音效频谱图</string>
+
+    <!-- Quick Settings brightness slider -->
+    <string name="qs_brightness_position_bottom_title">底部亮度滑杆</string>
+    <string name="qs_brightness_position_bottom_summary">在快速设定面板底部显示亮度滑杆</string>
+
+    <!-- QuickSettings haptic feedback -->
+    <string name="quick_settings_vibrate_title">触控时震动</string>
+    <string name="quick_settings_vibrate_summary">点按快速设定磁贴时震动</string>
+
+    <!-- SystemUI Tuner -->
+    <string name="systemui_tuner_title">系统使用者介面调整精灵</string>
+    <string name="systemui_tuner_summary">实验性系统使用者介面调整选项</string>
+
+    <!-- Brightness slider tweaks -->
+    <string name="qs_brightness_slider_title">底部亮度滑杆</string>
+    <string name="qs_brightness_slider_summary">在快速设定面板底部显示亮度滑杆</string>
+    <string name="tuner_show_auto_brightness">自动亮度按钮</string>
+    <string name="tuner_auto_brightness_right">在右方显示自动亮度按钮</string>
+    <string name="tuner_show_brightness_buttons">亮度控制按钮</string>
+
+    <!--Brightness slider title -->
+    <string name="brightness_slider_title">亮度滑杆</string>
+
+    <!-- Bluetooth battery status -->
+    <string name="bluetooth_battery_title">蓝牙电池状态</string>
+    <string name="bluetooth_battery_summary">可用时\uff0c显示已连接的蓝牙设备电池状态</string>
+
+    <!-- Gestures -->
+    <string name="gesture_settings_title">手势</string>
+    <string name="gesture_settings_aosp_title">AOSP 手势</string>
+    <string name="gesture_settings_info">请停用导航列\uff01\n\n可用手势\uff1a\n\n返回\n－从左右边向上滑动\n\n主屏幕\n－从中间向上滑动\n\n总览\n－向上滑动并按住\n\n长按主屏幕按钮\n－向上轻滑并按住</string>
+    <string name="gesture_settings_info_new">请停用导航列\uff01\n\n可用手势\uff1a\n\n返回\n－从左右边向上滑动\n\n主屏幕\n－从中间向上滑动\n\n总览\n－向上滑动并按住\n\n切换至上个应用程式\n－向上轻滑并按住</string>
+    <string name="use_bottom_gesture_title">导航手势</string>
+    <string name="use_bottom_gesture_summary">在屏幕底部滑动以使用手势</string>
+    <string name="gesture_swipe_length_title">滑动侦测范围高度</string>
+    <string name="gesture_swipe_length_summary">从屏幕底部算起的滑动侦测范围高度</string>
+    <string name="gesture_action_timeout_title">滑动侦测时间</string>
+    <string name="gesture_action_timeout_summary">手势动作执行前的侦测时间</string>
+
+    <!-- The volume key answer -->
+    <string name="volume_answer_call_title">使用音量按钮接听电话</string>
+    <string name="volume_answer_call_summary">按下音量按钮以接听来电</string>
+
+    <!-- ScreenRecord Shortcut -->
+    <string name="screen_record_shortcut">录屏捷径</string>
+    <string name="screen_record_shortcut_summary">同时按住电源按钮及提高音量按钮以开始录屏</string>
+
+    <!-- ScreenShot Shortcut -->
+    <string name="screen_shot_shortcut">截屏捷径</string>
+    <string name="screen_shot_shortcut_summary">同时按住电源按钮及降低音量按钮以开始录屏</string>
+
+    <!-- Text shown for the title of the lockdown option -->
+    <string name="lockdown_settings_title">显示锁定选项</string>
+    <!-- Text shown for the description of the lockdown option -->
+    <string name="lockdown_settings_summary">在电源选单显示\u300c锁定\u300d选项以暂停 Smart Lock、指纹辨识\uff0c且不显示通知\u3002</string>
+
+    <!-- Power Menu -->
+    <string name="powermenu_screenshot">截屏</string>
+    <string name="powermenu_power">电源</string>
+    <string name="powermenu_restart">重启</string>
+    <string name="powermenu_restart_recovery">高级重启</string>
+    <string name="powermenu_airplane">飞航模式</string>
+    <string name="powermenu_settings">设定</string>
+    <string name="powermenu_lockdown">锁定</string>
+    <string name="powermenu_soundpanel">音量面板</string>
+    <string name="powermenu_users">使用者</string>
+    <string name="powermenu_logout">注销</string>
+
+    <!-- Allow fake signature -->
+    <string name="allow_signature_fake">允许签名模拟</string>
+    <string name="allow_signature_fake_summary">允许应用程式透过假装成另一应用程式以略过系统保护</string>
+
+    <!-- QS tile styles -->
+    <string name="qs_tile_style_title">快速设定磁贴样式</string>
+    <string name="qstile_default">默认</string>
+    <string name="qstile_circle_trim">切线圆圈</string>
+    <string name="qstile_dual_tone_circle">双色调圆圈</string>
+    <string name="qstile_squircle_trim">切线方圆</string>
+    <string name="qstile_circle_gradient">渐层圆圈</string>
+    <string name="qstile_wavey">波浪</string>
+    <string name="qstile_circle_dualtone">双色调圆圈</string>
+    <string name="qstile_pokesign">Pokesign</string>
+    <string name="qstile_ninja">忍者</string>
+    <string name="qstile_dottedcircle">虚线圆圈</string>
+    <string name="qstile_attemptmountain">山坡</string>
+    <string name="qstile_squaremedo">Squaremedo</string>
+    <string name="qstile_oreo">Oreo 样式</string>
+    <string name="qstile_oreo_circle_trim">Oreo\uff08切线圆圈\uff09</string>
+    <string name="qstile_oreo_squircle_trim">Oreo\uff08切线方圆\uff09</string>
+    <string name="qstile_inkdrop">墨水</string>
+    <string name="qstile_cookie">曲奇</string>
+    <string name="qstile_circleoutline">外框圆圈</string>
+
+    <!-- Torch Power button gestures -->
+    <string name="torch_power_button_gesture_title">屏幕关闭时使用电源按钮开启手电筒</string>
+    <string name="torch_power_button_gesture_none">停用</string>
+    <string name="torch_power_button_gesture_dt">按下两次电源按钮以开关手电筒</string>
+    <string name="torch_power_button_gesture_lp">按住电源按钮以开关手电筒</string>
+
+     <!-- Fingerprint unlock keystore -->
+    <string name="fp_unlock_keystore_title">指纹解锁</string>
+    <string name="fp_unlock_keystore_summary">开机后仍允许只用指纹解锁\n请自行承担风险\u3002</string>
+
+    <!-- Lock Clock Fonts -->
+    <string name="lock_clock_font_title">时钟字型设定</string>
+    <string name="lock_clock_font_summary">更改锁屏时钟小部件字型</string>
+    <string name="lock_clock_font_dialog_title">选择锁屏时钟字型</string>
+    <string name="lock_clock_font_stock">正常\uff08默认\uff09</string>
+    <string name="lock_clock_font_bold">粗体</string>
+    <string name="lock_clock_font_italic">斜体</string>
+    <string name="lock_clock_font_bold_italic">粗斜体</string>
+    <string name="lock_clock_font_light_italic">细斜体</string>
+    <string name="lock_clock_font_thin_italic">极细斜体</string>
+    <string name="lock_clock_font_light">细体</string>
+    <string name="lock_clock_font_thin">极细体</string>
+    <string name="lock_clock_font_condensed_normal">紧缩体</string>
+    <string name="lock_clock_font_condensed_italic">紧缩斜体</string>
+    <string name="lock_clock_font_condensed_bold">紧缩粗体</string>
+    <string name="lock_clock_font_condensed_bold_italic">紧缩粗斜体</string>
+    <string name="lock_clock_font_condensed_light">紧缩细体</string>
+    <string name="lock_clock_font_condensed_light_italic">紧缩细斜体</string> 
+    <string name="lock_clock_font_medium_normal">中等体</string>
+    <string name="lock_clock_font_medium_italic">中等斜体</string>
+    <string name="lock_clock_font_black">极粗体</string>
+    <string name="lock_clock_font_black_italic">极粗斜体</string> 
+    <string name="lock_clock_font_dancingscript">DancingScript</string>
+    <string name="lock_clock_font_dancingscript_bold">DancingScript 粗</string>
+    <string name="lock_clock_font_comingsoon">ComingSoon</string>
+    <string name="lock_clock_font_notoserif">Noto Serif 正常</string>
+    <string name="lock_clock_font_notoserif_italic">Noto Serif 斜体</string>
+    <string name="lock_clock_font_notoserif_bold">Noto Serif 粗体</string>
+    <string name="lock_clock_font_notoserif_bold_italic">Noto Serif 粗斜体</string>
+    <string name="lock_clock_font_gobold">GoBold 细体</string>
+    <string name="lock_clock_font_roadrage">Road Rage</string>
+    <string name="lock_clock_font_snowstorm">Snowstorm</string>
+    <string name="lock_clock_font_googlesans">Google Sans</string>
+    <string name="lock_clock_font_neoneon">Neoneon</string>
+    <string name="lock_clock_font_themeable">Themeable\uff08或 VCR OSD Mono\uff09</string>
+    <string name="lock_clock_font_samsung">Shamshung</string>
+
+    <!-- Lock Date Fonts -->
+    <string name="lock_date_font_title">日期字型选项</string>
+    <string name="lock_date_font_summary">更改锁屏日期小部件字型</string>
+    <string name="lock_date_font_dialog_title">选择锁屏日期字型</string>
+
+    <!-- Themes -->
+    <string name="accent_color">强调色</string>
+
+    <!-- QS themes -->
+    <string name="qs_themes_category_title">快速设定色彩</string>
+    <string name="qs_panel_alpha_title">透明度</string>
+    <string name="qs_panel_color_title">色彩</string>
+    <string name="qs_bg_wall_title">使用桌布色彩</string>
+    <string name="qs_bg_wall_summary">撷取桌布颜色为快速设定背景色</string>
+    <string name="qs_bg_accent_title">使用强调色</string>
+    <string name="qs_bg_accent_summary">使用强调色为快速设定背景色</string>
+    <string name="qs_bg_use_fw">使用默认色彩</string>
+    <string name="qs_bg_use_fw_summary">停用自订快速设定样式</string>
+
+    <!-- Rounded corners -->
+    <string name="corners_category">边角</string>
+    <string name="corner_radius">边角弧度</string>
+    <string name="content_padding">边角内容内缩</string>
+    <string name="corner_fwvals">使用框架数值</string>
+    <string name="corner_fwvals_summary">适用于圆角屏幕</string>
+
+    <!-- Sensor block per-package -->
+    <string name="sensor_block_title">应用程式侦测器规则</string>
+    <string name="sensor_block_summary">为某些应用程式停用侦测器以延长使用时间</string>
+
+    <!-- Volume Steps Fragment -->
+    <string name="volume_steps_fragment_title">音量阶级</string>
+    <string name="volume_steps_summary">自订音量阶级数量</string>
+    <string name="volume_steps_alarm_title">闹钟</string>
+    <string name="volume_steps_dtmf_title">拨号按钮</string>
+    <string name="volume_steps_music_title">媒体</string>
+    <string name="volume_steps_notification_title">通知</string>
+    <string name="volume_steps_ring_title">铃声</string>
+    <string name="volume_steps_system_title">系统</string>
+    <string name="volume_steps_voice_call_title">通话</string>
+    <string name="volume_steps_reset">重设</string>
+
+    <!-- Notification guts kill app button -->
+    <string name="notification_guts_kill_app_button_title">强制停止应用程式按钮</string>
+    <string name="notification_guts_kill_app_button_summary">按住通知时显示按钮以强制停止该应用程式</string>
+
+    <!-- Notification with screen on -->
+    <string name="notification_sound_vib_screen_on_title">屏幕开启时启用通知音效</string>
+    <string name="notification_sound_vib_screen_on_summary">停用此项且屏幕开启时\uff0c通知将不会响铃或震动</string>
+
+    <!-- Less Notification sounds -->
+    <string name="less_notification_sounds_title">智慧通知音效</string>
+    <string name="less_notification_sounds_summary">将个别应用程式设定为定期播放通知音效</string>
+    <string name="less_notification_sounds_default">应用程式默认值</string>
+    <string name="less_notification_sounds_10s">每 10 秒</string>
+    <string name="less_notification_sounds_30s">每 30 秒</string>
+    <string name="less_notification_sounds_1m">每 1 分钟</string>
+    <string name="less_notification_sounds_2m">每 2 分钟</string>
+
+    <!-- Ambient display music ticker -->
+    <string name="force_ambient_for_media_pref_title">微光屏幕音乐指示器</string>
+    <string name="force_ambient_for_media_pref_summary">设定微光屏幕音乐指示器</string>
+    <string name="ambient_ticker_footer">顾名思义\uff0c微光屏幕音乐指示器将于微光屏幕显示目前播放中的音乐资讯\n\n就算未启用微光屏幕\uff0c音乐切换时\uff0c仍将于屏幕中间显示微光屏幕音乐指示器\u3002\n\n您可轻触两下跳过目前播放中的音乐\u3002</string>
+    <string name="force_ambient_for_media_title">启用</string>
+
+    <!-- Doze settings editor --> 
+    <string name="advanced_doze_settings">高级 Doze 设定</string>
+    <string name="doze_settings_title">Doze 设定</string> 
+    <string name="doze_settings_summary">编辑 Doze 设定档</string> 
+    <string name="action_restoredefault">还原至默认值</string> 
+    <string name="action_profile">设定档</string> 
+    <string name="action_save_as_profile">储存为设定档</string> 
+    <string name="delete_profile">删除设定档</string> 
+    <string name="profile_name">名称</string> 
+    <string name="string_seconds">秒</string> 
+    <string name="string_default">默认</string> 
+    <string name="action_filter">筛选器</string> 
+    <string name="doze_settings_applied">已套用设定</string> 
+
+    <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string> 
+    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string> 
+    <string name="DESC_LOCATING_TIMEOUT">This is how long we will wait to try to get a good location fix before going in to idle mode</string> 
+    <string name="DESC_LOCATION_ACCURACY">The desired maximum accuracy (in meters) we consider the location to be good enough to go on to idle. We will be trying to get an accuracy fix at least this good or until locating_to expires</string> 
+    <string name="DESC_MOTION_INACTIVE_TIMEOUT">This is the time, after seeing motion, that we wait after becoming inactive from that until we start looking for motion again</string> 
+    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after the inactive timeout elapses, that we will wait looking for significant motion until we truly consider the device to be idle</string> 
+    <string name="DESC_IDLE_PENDING_TIMEOUT">This is the initial time, after being idle, that we will allow ourself to be back in the IDLE_PENDING state allowing the system to run normally until we return to idle</string> 
+    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Maximum pending idle timeout (time spent running) we will be allowed to use</string> 
+    <string name="DESC_IDLE_PENDING_FACTOR">Scaling factor to apply to current pending idle timeout each time we cycle through that state</string> 
+    <string name="DESC_IDLE_TIMEOUT">This is the initial time that we want to sit in the idle state before waking up again to return to pending idle and allowing normal work to run</string> 
+    <string name="DESC_MAX_IDLE_TIMEOUT">Maximum idle duration we will be allowed to use</string> 
+    <string name="DESC_IDLE_FACTOR">Scaling factor to apply to current idle timeout each time we cycle through that state</string> 
+    <string name="DESC_MIN_TIME_TO_ALARM">This is the minimum time we will allow until the next upcoming alarm for us to actually go in to idle mode</string> 
+    <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">Max amount of time to temporarily whitelist an app when it receives a high tickle</string> 
+    <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is receiving an MMS</string> 
+    <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is receiving an SMS</string> 
+    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after becoming inactive, that we go in to the first light-weight idle mode</string> 
+    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">This is amount of time we will wait from the point where we decide we would like to go idle until we actually do, while waiting for jobs and other current activity to finish</string> 
+    <string name="DESC_LIGHT_IDLE_TIMEOUT">This is the initial time that we will run in idle maintenance mode</string> 
+    <string name="DESC_LIGHT_IDLE_FACTOR">Scaling factor to apply to the light idle mode time each time we complete a cycle</string> 
+    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">This is the maximum time we will run in idle maintenence mode</string> 
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">This is the minimum amount of time we want to make available for maintenance mode when lightly idling</string> 
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">This is the maximum amount of time we want to make available for maintenance mode when lightly idling</string> 
+    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a light doze</string> 
+    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a full doze</string> 
+    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is handling a notification</string> 
+
+    <string name="SHORT_INACTIVE_TIMEOUT">Inactive timeout</string> 
+    <string name="SHORT_SENSING_TIMEOUT">Sensing timeout</string> 
+    <string name="SHORT_LOCATING_TIMEOUT">Locating timeout</string> 
+    <string name="SHORT_LOCATION_ACCURACY">Location accuracy</string> 
+    <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Motion inactive timeout</string> 
+    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Idle after inactive timeout</string> 
+    <string name="SHORT_IDLE_PENDING_TIMEOUT">Idle pending timeout</string> 
+    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string> 
+    <string name="SHORT_IDLE_PENDING_FACTOR">Idle pending factor</string> 
+    <string name="SHORT_IDLE_TIMEOUT">Idle timeout</string> 
+    <string name="SHORT_MAX_IDLE_TIMEOUT">Max idle timeout</string> 
+    <string name="SHORT_IDLE_FACTOR">Idle factor</string> 
+    <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string> 
+    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string> 
+    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string> 
+    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string> 
+    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string> 
+    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string> 
+    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string> 
+    <string name="SHORT_LIGHT_IDLE_FACTOR">Light idle factor</string> 
+    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Max light idle timeout</string> 
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string> 
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string> 
+    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Maintenance mode light doze min timeout</string> 
+    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Maintenance mode full doze min timeout</string> 
+    <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Max notification whitelist duration</string> 
+
+    <!-- Time In State & CPU State --> 
+    <string name="state_time_mode">清醒</string> 
+    <string name="since_boot">启动</string> 
+    <string name="since_charged">已充满</string> 
+    <string name="since_unplugged">已拔除充电器</string> 
+    <string name="since_reset">重设</string> 
+    <string name="since_unplug">拔除充电器</string> 
+    <string name="other">活动</string> 
+    <string name="kernel_wakelocks">内核 Wakelock</string> 
+    <string name="partial_wakelocks">部分 Wakelock</string> 
+    <string name="app_wakelocks">应用程式 Wakelock</string> 
+    <string name="create_ref">重设</string> 
+    <string name="spinner_period_title">自从</string> 
+    <string name="spinner_type_title">显示</string> 
+    <string name="screen_on_time">屏幕开启时间</string> 
+    <string name="awake_time">清醒</string> 
+    <string name="deep_sleep_time">深层睡眠</string> 
+    <string name="no_kernel_wakelock_file_found">未在 /proc/wakelocks 及 /sys/kernel/debug/wakeup_sources 中找到内核 Wakelock 状态文件\u3002</string> 
+    <string name="more_line_text">更多\u2026</string> 
+    <string name="state_core_mode">核心</string> 
+    <string name="kernel_wakelock_time">内核 Wakelock</string> 
+    <string name="user_wakelock_time">部分 Wakelock</string> 
+    <string name="battery_change">电池更换</string> 
+    <string name="spinner_state_time_title">时间</string> 
+    <string name="total_time">总计</string> 
+    <string name="wakelock_time">Wakelock</string> 
+    <string name="copy_as_text">复制为文字</string> 
+    <string name="google_it">Google 搜索</string> 
+    <string name="app_details">应用程式资讯</string> 
+    <string name="no_stat_because_reset_state">轻触重设以开始撷取状态资讯</string> 
+    <string name="no_stat_because_reset_wakelock">轻触重设以开始撷取 Wakelock 资讯</string> 
+    <string name="no_stat_because_plugged">请拔除充电器以撷取 Wakelock 资讯</string> 
+    <string name="no_states_file_found">找不到状态文件\u3002请确保设备支援此 
+        功能\u3002\n\n若您正在使用第三方 ROM 或内核\uff0c请
+        联络您的开发者\uff0c此系统或内核无法读取状态文件\u3002</string> 
+    <string name="deep_sleep">\u300c深层睡眠\u300d</string> 
+    <string name="mt_refresh">刷新</string> 
+    <string name="mt_share">分享</string> 
+    <string name="mt_reset">重设</string> 
+    <string name="time_in_state_title">状态资讯</string> 
+    <string name="time_in_state_summary">显示 CPU 频率文件</string>
+	
+		<!-- Lockscreen cover art filter -->
+    <string name="lockscreen_cover_filter_title">锁屏媒体封面覆盖层</string>
+    <string name="lockscreen_cover_filter_none">无</string>
+    <string name="lockscreen_cover_filter_grayscale">灰阶</string>
+    <string name="lockscreen_cover_filter_blur">模糊</string>
+
+</resources>

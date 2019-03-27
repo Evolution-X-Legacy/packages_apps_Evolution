@@ -455,5 +455,11 @@
     <string name="less_notification_sounds_30s">30 saniyede bir</string>
     <string name="less_notification_sounds_1m">Her dakika</string>
     <string name="less_notification_sounds_2m">2 dakikada bir</string>
+    
+    <!-- Lockscreen cover art filter -->
+    <string name="lockscreen_cover_filter_title">Kilit ekranı albüm resmi filtresi</string>
+    <string name="lockscreen_cover_filter_none">Yok</string>
+    <string name="lockscreen_cover_filter_grayscale">Gri tonlama</string>
+    <string name="lockscreen_cover_filter_blur">Blur</string>
 
 </resources>
