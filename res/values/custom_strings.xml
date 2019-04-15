@@ -746,6 +746,7 @@
     <!-- Navbar tuner -->
     <string name="navbar_tuner_title">Navbar buttons</string>
     <string name="navbar_tuner_summary">Customize the buttons displayed on Navbar</string>
+    <string name="button_settings_summary">Enable Navbar, One-handed mode, customize HW keys</string>
 
     <!-- StatusBar -->
     <string name="statusbar_settings_category">Status Bar</string>
