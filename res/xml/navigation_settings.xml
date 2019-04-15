@@ -19,6 +19,14 @@
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
     android:title="@string/navigation_title">
 
+    <!-- Button Settings -->
+    <Preference
+        android:key="button_settings"
+        android:summary="@string/button_settings_summary"
+        android:title="@string/button_pref_title"
+        android:fragment="com.android.settings.custom.buttons.ButtonSettings"
+        settings:controller="com.android.settings.custom.buttons.ButtonSettingsPreferenceController"/>
+
     <Preference
             android:title="@string/navbar_tuner_title"
             android:summary="@string/navbar_tuner_summary" >

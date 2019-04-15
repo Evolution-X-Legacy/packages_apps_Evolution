@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2018 pe_ex
+ * Copyright (C) 2019 The Evolution X Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -56,7 +56,7 @@ public class QuickSettings extends SettingsPreferenceFragment implements OnPrefe
 
         //qs_panel quick pulldown
         int qpmode = Settings.System.getIntForUser(getContentResolver(),
-        Settings.System.STATUS_BAR_QUICK_QS_PULLDOWN, 1, UserHandle.USER_CURRENT);
+        Settings.System.STATUS_BAR_QUICK_QS_PULLDOWN, 0, UserHandle.USER_CURRENT);
         mQuickPulldown = (ListPreference) findPreference("status_bar_quick_qs_pulldown");
         mQuickPulldown.setValue(String.valueOf(qpmode));
         mQuickPulldown.setOnPreferenceChangeListener(this);
