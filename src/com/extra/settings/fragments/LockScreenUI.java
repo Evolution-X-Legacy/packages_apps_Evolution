@@ -31,6 +31,8 @@ import com.android.settings.SettingsPreferenceFragment;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.search.Indexable;
 
+import com.extra.settings.preferences.SystemSettingListPreference;
+
 import java.util.ArrayList;
 import java.util.List;
 import android.provider.SearchIndexableResource;
@@ -41,9 +43,11 @@ public class LockScreenUI extends SettingsPreferenceFragment implements OnPrefer
 
     private static final String LOCK_CLOCK_FONTS = "lock_clock_fonts";
     private static final String LOCK_DATE_FONTS = "lock_date_fonts";
+    private static final String LOCKSCREEN_CLOCK_SELECTION  = "lockscreen_clock_selection";
 
     ListPreference mLockClockFonts;
     ListPreference mLockDateFonts;
+    SystemSettingListPreference mLockClockStyle;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -57,6 +61,11 @@ public class LockScreenUI extends SettingsPreferenceFragment implements OnPrefer
                 getContentResolver(), Settings.System.LOCK_CLOCK_FONTS, 0)));
         mLockClockFonts.setSummary(mLockClockFonts.getEntry());
         mLockClockFonts.setOnPreferenceChangeListener(this);
+
+        mLockClockStyle = (SystemSettingListPreference) findPreference(LOCKSCREEN_CLOCK_SELECTION);
+        mLockClockStyle.setValue(String.valueOf(Settings.System.getInt(
+                getContentResolver(), Settings.System.LOCKSCREEN_CLOCK_SELECTION, 0)));
+        mLockClockStyle.setOnPreferenceChangeListener(this);
 
 	// Lockscren Date Fonts
         mLockDateFonts = (ListPreference) findPreference(LOCK_DATE_FONTS);
@@ -79,6 +88,16 @@ public class LockScreenUI extends SettingsPreferenceFragment implements OnPrefer
                     Integer.valueOf((String) newValue));
             mLockDateFonts.setValue(String.valueOf(newValue));
             mLockDateFonts.setSummary(mLockDateFonts.getEntry());
+            return true;
+        } else if (preference == mLockClockStyle) {
+            int val = Integer.valueOf((String) newValue);
+            Settings.System.putInt(getContentResolver(),
+                    Settings.System.LOCKSCREEN_CLOCK_SELECTION, val);
+            if (val == 14) {
+                Settings.System.putInt(getContentResolver(), Settings.System.LOCKSCREEN_INFO, 0);
+            } else {
+                Settings.System.putInt(getContentResolver(), Settings.System.LOCKSCREEN_INFO, 1);
+            }
             return true;
         }
         return false;
