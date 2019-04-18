@@ -401,6 +401,7 @@
     <string name="lock_clock_font_neoneon">Neoneon</string>
     <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
     <string name="lock_clock_font_samsung">Shamshung</string>
+    <string name="lock_clock_font_sourcesanspro">Source Sans Pro</string>
 
     <!-- Lock Date Fonts -->
     <string name="lock_date_font_title">Date font options</string>
