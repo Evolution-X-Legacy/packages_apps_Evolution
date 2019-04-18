@@ -235,6 +235,7 @@
         <item>@string/lock_clock_font_neoneon</item>
         <item>@string/lock_clock_font_themeable</item>
         <item>@string/lock_clock_font_samsung</item>
+        <item>@string/lock_clock_font_sourcesanspro</item>
     </string-array>
 
     <string-array name="lock_clock_fonts_values" translatable="false">
@@ -270,6 +271,7 @@
         <item>29</item>
         <item>30</item>
         <item>31</item>
+        <item>32</item>
     </string-array>
 
     <!-- Volume step options. -->
