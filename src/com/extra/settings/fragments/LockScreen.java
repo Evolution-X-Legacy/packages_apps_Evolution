@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2018 pe_ex
+ * Copyright (C) 2019 The Evolution X Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -65,7 +66,7 @@ public class LockScreen extends SettingsPreferenceFragment implements Preference
                         boolean enabled) {
                     final ArrayList<SearchIndexableResource> result = new ArrayList<>();
                      final SearchIndexableResource sir = new SearchIndexableResource(context);
-                    sir.xmlResId = R.xml.heads_up_settings;
+                    sir.xmlResId = R.xml.lock_screen;
                     result.add(sir);
                     return result;
                 }

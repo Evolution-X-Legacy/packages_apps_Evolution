@@ -21,10 +21,23 @@
         android:title="@string/lock_screen_ui_title" 
         android:fragment="com.extra.settings.fragments.LockScreenUI"/>
 
-    <!-- Lock Screen Misc -->
-    <Preference
-        android:key="lock_screen_misc_category"
-        android:title="@string/lock_screen_misc_title" 
-        android:fragment="com.extra.settings.fragments.LockScreenMisc"/>
+    <!-- Lockscreen dt2s -->
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+         android:key="double_tap_sleep_lockscreen"
+         android:title="@string/double_tap_sleep_lockscreen_title"
+         android:summary="@string/double_tap_sleep_lockscreen_sumary"
+         android:defaultValue="false" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="fingerprint_success_vib"
+        android:title="@string/fprint_sucess_vib_title"
+        android:summary="@string/fprint_sucess_vib_summary"
+        android:defaultValue="true" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="fp_unlock_keystore"
+        android:title="@string/fp_unlock_keystore_title"
+        android:summary="@string/fp_unlock_keystore_summary"
+        android:defaultValue="false" />
 
 </PreferenceScreen>
