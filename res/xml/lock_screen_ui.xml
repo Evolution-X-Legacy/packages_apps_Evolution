@@ -49,20 +49,6 @@
     </PreferenceCategory>
 
     <PreferenceCategory
-        android:title="@string/lockscreen_clock_styles_category"
-        android:key="lockscreen_style_cat">
-
-    <com.extra.settings.preferences.SystemSettingListPreference
-        android:key="lockscreen_clock_selection"
-        android:title="@string/lockscreen_clock_selection_title"
-        android:entries="@array/lockscreen_clock_selection_entries"
-        android:entryValues="@array/lockscreen_clock_selection_values"
-        android:dependency="lockscreen_clock"
-        android:defaultValue="14" />
-
-    </PreferenceCategory>
-
-    <PreferenceCategory
         android:key="hide_lockscreen_items_category"
         android:title="@string/hide_lockscreen_items_title" >
 
@@ -75,16 +61,30 @@
     </Preference>
 
     <com.extra.settings.preferences.SystemSettingSwitchPreference   
+        android:key="lockscreen_info"
+        android:title="@string/lockscreen_info_title"
+        android:summary="@string/lockscreen_info_summary"
+        android:defaultValue="true" />
+
+    <com.extra.settings.preferences.SystemSettingSwitchPreference   
         android:key="lockscreen_clock"
         android:title="@string/lockscreen_clock_title"
         android:summary="@string/lockscreen_clock_summary"
         android:defaultValue="true" />
 
-    <com.extra.settings.preferences.SystemSettingSwitchPreference   
-        android:key="lockscreen_info"
-        android:title="@string/lockscreen_info_title"
-        android:summary="@string/lockscreen_info_summary"
-        android:defaultValue="true" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/lockscreen_clock_styles_category"
+        android:key="lockscreen_style_cat">
+
+    <com.extra.settings.preferences.SystemSettingListPreference
+        android:key="lockscreen_clock_selection"
+        android:title="@string/lockscreen_clock_selection_title"
+        android:entries="@array/lockscreen_clock_selection_entries"
+        android:entryValues="@array/lockscreen_clock_selection_values"
+        android:dependency="lockscreen_clock"
+        android:defaultValue="14" />
 
     <ListPreference
         android:key="lock_clock_fonts"
