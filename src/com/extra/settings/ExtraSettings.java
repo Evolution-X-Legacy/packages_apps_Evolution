@@ -1,6 +1,6 @@
 /*
  * Copyright (C) 2016 The Pure Nexus Project
- * used for Nitrogen OS
+ * Copyright (C) 2019 The Evolution X Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -35,12 +35,12 @@ public class ExtraSettings extends SettingsPreferenceFragment {
     public void onCreate(Bundle icicle) {
         super.onCreate(icicle);
 
-        addPreferencesFromResource(R.xml.extra_settings);
+        addPreferencesFromResource(R.xml.evo_settings);
     }
 
     @Override
     public int getMetricsCategory() {
-        return MetricsProto.MetricsEvent.CUSTOM_SETTINGS;
+        return MetricsProto.MetricsEvent.EVOX_SETTINGS;
     }
 
     public static void lockCurrentOrientation(Activity activity) {

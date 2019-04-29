@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="extra_settings_title">Evolución X</string>
+    <string name="evox_settings_title">Evolución X</string>
     <!-- Categories -->
     <string name="status_bar_title">Barra de estado</string>
     <string name="quick_settings_title">Ajustes rápidos</string>
