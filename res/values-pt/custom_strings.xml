@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evox_settings_title">Evolution X</string>
+    <string name="evox_settings_title">Evolução X</string>
     <!-- Categories -->
     <string name="status_bar_title">Barra de status</string>
     <string name="quick_settings_title">Definições rápidas</string>
@@ -31,7 +31,7 @@
     <string name="gestures_category">Gestos</string>
     <string name="music_category">Música</string>
     <string name="security_category">Segurança</string>
-    <string name="hardware_category">Hardware</string>
+    <string name="hardware_category">Ferramentas</string>
     <string name="icons_category">Ícones</string>
     <!-- Sub Categories -->
     <string name="misc_title">Diversos</string>
@@ -100,6 +100,7 @@
     <string name="battery_style_title">Estilo do ícone da bateria</string>
     <string name="battery_style_summary">Alterar o estilo da bateria da barra de status</string>
     <string name="battery_style_port">Retrato</string>
+    <string name="battery_style_q">Estilo Q</string>
     <string name="battery_style_circle">Círculo</string>
     <string name="battery_style_dotted_circle">Círculo Pontilhado</string>
     <string name="battery_style_big_circle">Círculo grande</string>
@@ -302,7 +303,7 @@
     <string name="qstile_oreo_squircle_trim">Oreo (Trim Circular)</string>
     <string name="qstile_inkdrop">Cai</string>
     <string name="qstile_cookie">Bolachas</string>
-    <string name="qstile_circleoutline">CircleOutline</string>
+    <string name="qstile_circleoutline">Contorno do Círculo</string>
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Toque do botão de desligar tela</string>
     <string name="torch_power_button_gesture_none">Desativado</string>
@@ -333,7 +334,7 @@
     <string name="lock_clock_font_medium_italic">Médio Itálico</string>
     <string name="lock_clock_font_black">Preto</string>
     <string name="lock_clock_font_black_italic">Itálico preto</string>
-    <string name="lock_clock_font_dancingscript">DancingScript</string>
+    <string name="lock_clock_font_dancingscript">DancingScript Negrito</string>
     <string name="lock_clock_font_dancingscript_bold">DancingScript Negrito</string>
     <string name="lock_clock_font_comingsoon">Em breve</string>
     <string name="lock_clock_font_notoserif">NotoSerif Normal</string>
@@ -470,7 +471,7 @@
     <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Duração máxima da lista branca de apps temp</string>
     <!-- Time In State & CPU State -->
     <string name="state_time_mode">Acordado</string>
-    <string name="since_boot">Boot</string>
+    <string name="since_boot">Inicialização</string>
     <string name="since_charged">Carregado</string>
     <string name="since_unplugged">Desconectado</string>
     <string name="since_reset">Redefinir</string>
@@ -536,8 +537,8 @@
     <string name="hide_apps_from_recents_summary">Selecione apps certianos para esconder nos recentes</string>
     <!-- Pie and Oreo recents -->
     <string name="recents_component_type_title">Estilo Recentes</string>
-    <string name="recents_quickstep">Quickstep</string>
-    <string name="recents_stock">Stock</string>
+    <string name="recents_quickstep">Recentes Quickstep</string>
+    <string name="recents_stock">Estoque</string>
     <string name="recents_grid">Grade</string>
     <string name="recents_go">Android Go</string>
     <!-- AOSP recents -->
@@ -604,7 +605,7 @@
     <string name="button12">Fechar Olho</string>
     <string name="button13">Botão Curtir</string>
     <string name="button14">Deslizar Cubo</string>
-    <string name="button15">Bell</string>
+    <string name="button15">Sino</string>
     <string name="button16">Linhas de seta de volta</string>
     <string name="button17">Camadas desligadas</string>
     <string name="button18">Linhas de seta de volta</string>

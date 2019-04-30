@@ -100,6 +100,7 @@
     <string name="battery_style_title">Pil simgesi stili</string>
     <string name="battery_style_summary">Durum çubuğunda pil simgesini değiştir</string>
     <string name="battery_style_port">Dikey</string>
+    <string name="battery_style_q">Q stili</string>
     <string name="battery_style_circle">Daire</string>
     <string name="battery_style_dotted_circle">Noktalı daire</string>
     <string name="battery_style_big_circle">Büyük daire</string>

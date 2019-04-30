@@ -100,6 +100,7 @@
     <string name="battery_style_title">Estilo de icono de bateria</string>
     <string name="battery_style_summary">Cambiar estilo de barra de bateria en la barra de estado</string>
     <string name="battery_style_port">Vertical/Por defecto</string>
+    <string name="battery_style_q">Q style</string>
     <string name="battery_style_circle">Circulo</string>
     <string name="battery_style_dotted_circle">Circulo punteado</string>
     <string name="battery_style_big_circle">Circulo grande</string>

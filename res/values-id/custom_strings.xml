@@ -19,7 +19,7 @@
     <string name="quick_settings_title">Pengaturan cepat</string>
     <string name="navigation_title">Navigasi</string>
     <string name="navbar_title">Navigasi bar</string>
-    <string name="power_menu_title">Power menu</string>
+    <string name="power_menu_title">Menu daya</string>
     <string name="volume_keys_title">Tombol volume</string>
     <string name="lock_screen_title">Kunci layar</string>
     <string name="notification_settings_title">Notifikasi</string>
@@ -34,11 +34,11 @@
     <string name="hardware_category">Perangkat keras</string>
     <string name="icons_category">Ikon</string>
     <!-- Sub Categories -->
-    <string name="misc_title">Miscellaneous</string>
+    <string name="misc_title">Lain-lain</string>
     <string name="lock_screen_ui_title">Tampilan</string>
-    <string name="lock_screen_misc_title">Misc</string>
+    <string name="lock_screen_misc_title">Lain-lain</string>
     <string name="status_bar_battery_title">Ikon baterai</string>
-    <string name="stock_recents_title">Stock recents</string>
+    <string name="stock_recents_title">Recent bawaan</string>
     <string name="hide_apps_title">Sembunyikan aplikasi</string>
     <!-- General strings -->
     <string name="ok">OK</string>
@@ -100,6 +100,7 @@
     <string name="battery_style_title">Gaya ikon baterai</string>
     <string name="battery_style_summary">Mengubah gaya bar status baterai</string>
     <string name="battery_style_port">Portrait</string>
+    <string name="battery_style_q">Q style</string>
     <string name="battery_style_circle">Lingkaran</string>
     <string name="battery_style_dotted_circle">Lingkaran bertitik</string>
     <string name="battery_style_big_circle">Lingkaran besar</string>
