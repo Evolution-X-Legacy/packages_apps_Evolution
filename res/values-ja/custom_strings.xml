@@ -100,6 +100,7 @@
     <string name="battery_style_title">バッテリーアイコンのスタイル</string>
     <string name="battery_style_summary">ステータスバーのバッテリースタイルを変更する</string>
     <string name="battery_style_port">縦</string>
+    <string name="battery_style_q">Q スタイル</string>
     <string name="battery_style_circle">円</string>
     <string name="battery_style_dotted_circle">点線の円</string>
     <string name="battery_style_big_circle">大きな円</string>
@@ -296,13 +297,13 @@
     <string name="qstile_ninja">忍者</string>
     <string name="qstile_dottedcircle">点線の円</string>
     <string name="qstile_attemptmountain">山脈</string>
-    <string name="qstile_squaremedo">The Squaremedo</string>
+    <string name="qstile_squaremedo">星型八角形</string>
     <string name="qstile_oreo">Oreo スタイル</string>
     <string name="qstile_oreo_circle_trim">Oreo (サークルトリム)</string>
     <string name="qstile_oreo_squircle_trim">Oreo (角丸四角形トリム)</string>
     <string name="qstile_inkdrop">インク</string>
     <string name="qstile_cookie">クッキー</string>
-    <string name="qstile_circleoutline">CircleOutline</string>
+    <string name="qstile_circleoutline">円の線</string>
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">スリープ時電源ボタンを押してライト点灯</string>
     <string name="torch_power_button_gesture_none">無効</string>
@@ -429,87 +430,84 @@
     <string name="DESC_MAX_IDLE_TIMEOUT">使用が許可される最大アイドル時間</string>
     <string name="DESC_IDLE_FACTOR">その状態を繰り返すたびに現在のアイドル制限時間に適用するスケーリング係数</string>
     <string name="DESC_MIN_TIME_TO_ALARM">これは、次回のアラームが実際にアイドルモードに入るまでに許容される最小時間です。</string>
-    <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">Max amount of time to temporarily whitelist an app when it receives a high tickle</string>
-    <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is receiving an MMS</string>
-    <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is receiving an SMS</string>
-    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after becoming inactive, that we go in to the first light-weight idle mode</string>
-    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">This is amount of time we will wait from the point where we decide we would like to go idle until we actually do, while waiting for jobs and other current activity to finish</string>
-    <string name="DESC_LIGHT_IDLE_TIMEOUT">This is the initial time that we will run in idle maintenance mode</string>
-    <string name="DESC_LIGHT_IDLE_FACTOR">Scaling factor to apply to the light idle mode time each time we complete a cycle</string>
-    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">This is the maximum time we will run in idle maintenence mode</string>
-    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">This is the minimum amount of time we want to make available for maintenance mode when lightly idling</string>
-    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">This is the maximum amount of time we want to make available for maintenance mode when lightly idling</string>
-    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a light doze</string>
-    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a full doze</string>
-    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is handling a notification</string>
-    <string name="SHORT_INACTIVE_TIMEOUT">Inactive timeout</string>
-    <string name="SHORT_SENSING_TIMEOUT">Sensing timeout</string>
-    <string name="SHORT_LOCATING_TIMEOUT">Locating timeout</string>
-    <string name="SHORT_LOCATION_ACCURACY">Location accuracy</string>
-    <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Motion inactive timeout</string>
-    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Idle after inactive timeout</string>
-    <string name="SHORT_IDLE_PENDING_TIMEOUT">Idle pending timeout</string>
-    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string>
-    <string name="SHORT_IDLE_PENDING_FACTOR">Idle pending factor</string>
-    <string name="SHORT_IDLE_TIMEOUT">Idle timeout</string>
-    <string name="SHORT_MAX_IDLE_TIMEOUT">Max idle timeout</string>
-    <string name="SHORT_IDLE_FACTOR">Idle factor</string>
-    <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string>
-    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string>
-    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string>
-    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string>
-    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
-    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_FACTOR">Light idle factor</string>
-    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Max light idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string>
-    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string>
-    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Maintenance mode light doze min timeout</string>
-    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Maintenance mode full doze min timeout</string>
-    <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Max notification whitelist duration</string>
+    <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">ハイティックルを受信したときにアプリを一時的にホワイトリストに登録する最大時間</string>
+    <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">MMS を受信しているアプリをホワイトリストに登録する時間</string>
+    <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">SMS を受信しているアプリをホワイトリストに登録する時間</string>
+    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">非アクティブになった後最初の軽度アイドルモードに入る時間</string>
+    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">仕事やその他の現在のアクティビティが終了するのを待っている間に、アイドル状態にすることを決定した時点から実際に実行するまで待機する時間です。</string>
+    <string name="DESC_LIGHT_IDLE_TIMEOUT">アイドルメンテナンスモードで実行する最初の時間</string>
+    <string name="DESC_LIGHT_IDLE_FACTOR">サイクルを完了するたびに軽度アイドルモード時間に適用するスケーリング係数</string>
+    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">アイドルメンテナンスモードで実行する最大時間</string>
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">アイドル時にメンテナンスモードで使用できるようにするための最小時間</string>
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">アイドリング時にメンテナンスモードで使用を望む最大時間</string>
+    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">軽度 Doze の後にメンテナンスモードを維持する最小時間</string>
+    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">完全な Doze の後にメンテナンスモードを維持する最小時間</string>
+    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">通知を処理しているアプリをホワイトリストに登録する期間</string>
+    <string name="SHORT_INACTIVE_TIMEOUT">非アクティブのタイムアウト</string>
+    <string name="SHORT_SENSING_TIMEOUT">センシングのタイムアウト</string>
+    <string name="SHORT_LOCATING_TIMEOUT">測位のタイムアウト</string>
+    <string name="SHORT_LOCATION_ACCURACY">位置精度</string>
+    <string name="SHORT_MOTION_INACTIVE_TIMEOUT">モーションが非アクティブになるタイムアウト</string>
+    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">非アクティブ後アイドルになるタイムアウト</string>
+    <string name="SHORT_IDLE_PENDING_TIMEOUT">アイドル保留のタイムアウト</string>
+    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">アイドル保留の最大タイムアウト</string>
+    <string name="SHORT_IDLE_PENDING_FACTOR">アイドル保留係数</string>
+    <string name="SHORT_IDLE_TIMEOUT">アイドルタイムアウト</string>
+    <string name="SHORT_MAX_IDLE_TIMEOUT">最大アイドルタイムアウト</string>
+    <string name="SHORT_IDLE_FACTOR">アイドル係数</string>
+    <string name="SHORT_MIN_TIME_TO_ALARM">アラームまでの最小時間</string>
+    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">一時的なアプリのホワイトリスト追加の最大時間</string>
+    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">一時的な MMS のホワイトリスト追加の最大時間</string>
+    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">一時的な SMS のホワイトリスト追加の最大時間</string>
+    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">非アクティブ後軽度アイドルになるタイムアウト</string>
+    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">軽度プレアイドルタイムアウト</string>
+    <string name="SHORT_LIGHT_IDLE_TIMEOUT">軽度アイドルタイムアウト</string>
+    <string name="SHORT_LIGHT_IDLE_FACTOR">軽度アイドル係数</string>
+    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">軽度アイドルの最大タイムアウト</string>
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">メンテナンスモードの軽度アイドル最小タイムアウト</string>
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">メンテナンスモードの軽度アイドル最大タイムアウト</string>
+    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">メンテナンスモードの軽度 Doze 最小タイムアウト</string>
+    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">メンテナンスモードの完全な Doze 最小タイムアウト</string>
+    <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">一時的な通知のホワイトリスト追加の最大時間</string>
     <!-- Time In State & CPU State -->
-    <string name="state_time_mode">Awake</string>
-    <string name="since_boot">Boot</string>
-    <string name="since_charged">Charged</string>
-    <string name="since_unplugged">Unplugged</string>
-    <string name="since_reset">Reset</string>
-    <string name="since_unplug">Unplug</string>
-    <string name="other">Activity</string>
-    <string name="kernel_wakelocks">Kernel wakelocks</string>
-    <string name="partial_wakelocks">Partial wakelocks</string>
-    <string name="app_wakelocks">App wakelocks</string>
+    <string name="state_time_mode">スリープなし</string>
+    <string name="since_boot">起動</string>
+    <string name="since_charged">充電完了</string>
+    <string name="since_unplugged">電源切断時</string>
+    <string name="since_reset">リセット</string>
+    <string name="since_unplug">電源切断</string>
+    <string name="other">アクティビティ</string>
+    <string name="kernel_wakelocks">カーネル WakeLock</string>
+    <string name="partial_wakelocks">部分的な WakeLock</string>
+    <string name="app_wakelocks">アプリの WakeLock</string>
     <string name="create_ref">リセット</string>
-    <string name="spinner_period_title">Since</string>
-    <string name="spinner_type_title">Show</string>
-    <string name="screen_on_time">Screen on</string>
-    <string name="awake_time">Awake</string>
-    <string name="deep_sleep_time">Deep sleep</string>
-    <string name="no_kernel_wakelock_file_found">No kernel wakelock stats file /proc/wakelocks or /sys/kernel/debug/wakeup_sources found.</string>
-    <string name="more_line_text">more\u2026</string>
-    <string name="state_core_mode">Cores</string>
-    <string name="kernel_wakelock_time">Kernel wakelocks</string>
-    <string name="user_wakelock_time">Partial wakelocks</string>
-    <string name="battery_change">Battery change</string>
-    <string name="spinner_state_time_title">Time</string>
-    <string name="total_time">Total</string>
+    <string name="spinner_period_title">以来</string>
+    <string name="spinner_type_title">表示</string>
+    <string name="screen_on_time">画面点灯</string>
+    <string name="awake_time">スリープなし</string>
+    <string name="deep_sleep_time">ディープスリープ</string>
+    <string name="no_kernel_wakelock_file_found">カーネルの WakeLock 統計ファイル /proc/WakeLock または /sys/kernel/debug/wakeup_sources が見つかりませんでした</string>
+    <string name="more_line_text">その他...</string>
+    <string name="state_core_mode">コア</string>
+    <string name="kernel_wakelock_time">カーネル WakeLock</string>
+    <string name="user_wakelock_time">部分的な WakeLock</string>
+    <string name="battery_change">バッテリーの変更</string>
+    <string name="spinner_state_time_title">時間</string>
+    <string name="total_time">合計</string>
     <string name="wakelock_time">Wakelock</string>
     <string name="copy_as_text">テキストとしてコピー</string>
     <string name="google_it">Google for it</string>
     <string name="app_details">アプリの詳細</string>
-    <string name="no_stat_because_reset_state">Press reset to start collecting time in state data</string>
-    <string name="no_stat_because_reset_wakelock">Press reset to start collecting wakelock data</string>
-    <string name="no_stat_because_plugged">Please unplug power to get wakelock data</string>
-    <string name="no_states_file_found">No states file found. Are you sure your phone is 
-        compatible?\n\nIf you are running a custom ROM or kernel, try 
-        contacting its developer to inform him that the states file is not 
-        readable.</string>
+    <string name="no_stat_because_reset_state">リセットを押して状態データの時間収集を開始します</string>
+    <string name="no_stat_because_reset_wakelock">リセットを押して WakeLock データの収集を開始します</string>
+    <string name="no_stat_because_plugged">WakeLock データを得るには電源を抜いて下さい</string>
+    <string name="no_states_file_found">状態ファイルが見つかりません。お使いの携帯電話は互換性がありますか?\n\nカスタム ROM またはカーネルを実行している場合は、その開発者に連絡して状態ファイルを読み取れないことを知らせてください。</string>
     <string name="deep_sleep">"ディープスリープ"</string>
     <string name="mt_refresh">更新</string>
     <string name="mt_share">共有</string>
     <string name="mt_reset">リセット</string>
     <string name="time_in_state_title">状態の持続時間</string>
-    <string name="time_in_state_summary">Show CPU frequency statistics</string>
+    <string name="time_in_state_summary">CPU 周波数の統計を表示する</string>
     <!-- Lockscreen cover art filter -->
     <string name="lockscreen_cover_filter_title">ロック画面のアルバムアートフィルタ</string>
     <string name="lockscreen_cover_filter_none">なし</string>
@@ -519,7 +517,7 @@
     <string name="lockscreen_cover_filter_grayblur">グレースケールとぼかし</string>
     <!-- Recents panel -->
     <string name="recents_title">アプリ履歴パネル</string>
-    <string name="recents_summary">Position clear button and some immersive style</string>
+    <string name="recents_summary">削除ボタンの位置といくつかの全画面スタイル</string>
     <!-- Recents panel settings -->
     <string name="show_clear_all_recents_button_title">全て終了ボタン</string>
     <string name="show_clear_all_recents_button_summary">全て終了ボタンを表示する</string>
@@ -533,10 +531,10 @@
     <!-- Hide Apps from Recents -->
     <string name="hide_apps_from_recents_title">アプリ履歴からアプリを隠す</string>
     <string name="hide_from_recents_add_app">アプリを追加</string>
-    <string name="hide_apps_from_recents_summary">Select certian apps to hide in recents</string>
+    <string name="hide_apps_from_recents_summary">非表示にするアプリを選択する</string>
     <!-- Pie and Oreo recents -->
     <string name="recents_component_type_title">アプリ履歴のスタイル</string>
-    <string name="recents_quickstep">Quickstep</string>
+    <string name="recents_quickstep">クイックステップ</string>
     <string name="recents_stock">標準</string>
     <string name="recents_grid">グリッド</string>
     <string name="recents_go">Android Go</string>
@@ -623,16 +621,16 @@
     <string name="animation2">Transluscent Exit</string>
     <string name="animation3">Transluscent Exit Ribbon</string>
     <string name="animation4">Toast Exit</string>
-    <string name="animation5">Slide Out Down </string>
+    <string name="animation5">下スライド</string>
     <string name="animation6">Xylon Exit </string>
     <string name="animation7">Honami Toast Exit</string>
-    <string name="animation8">Slide Out Right </string>
+    <string name="animation8">右スライド</string>
     <string name="animation9">Toast Exit</string>
-    <string name="animation10">Fade Out Slow </string>
-    <string name="animation11">Slide Out Left</string>
+    <string name="animation10">遅いフェードアウト</string>
+    <string name="animation11">左スライド</string>
     <string name="animation12">フェードアウト</string>
-    <string name="animation13">Fast Fade Out </string>
-    <string name="animation14">Slide Out Up </string>
+    <string name="animation13">速いフェードアウト</string>
+    <string name="animation14">上スライド</string>
     <string name="animation15">高速回転</string>
     <string name="reset_message">全ての項目を既定にリセットしますか?</string>
     <!-- Wakeup options -->
@@ -652,17 +650,17 @@
     <string name="alarm_blocker_reload">再読込</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">USB 設定</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_summary">USB 経由で端末に接続されている時の既定の動作を選択する</string>
     <!-- Statusbar Tuner -->
     <string name="statusbar_items_title">ステータスバーの項目</string>
-    <string name="statusbar_items_summary">Toggle visibility of icons in statusbar</string>
+    <string name="statusbar_items_summary">ステータスバー内のアイコンの表示を切り替える</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">ロック画面のショートカット</string>
-    <string name="lockscreen_tuner_summary">Change the bottom left/right shortcuts</string>
+    <string name="lockscreen_tuner_summary">ロック画面下部の左右のショートカットを編集する</string>
     <!-- Navbar tuner -->
     <string name="navbar_tuner_title">ナビゲーションバーボタン</string>
-    <string name="navbar_tuner_summary">Customize the buttons displayed on Navbar</string>
-    <string name="button_settings_summary">Enable Navbar, One-handed mode, customize HW keys</string>
+    <string name="navbar_tuner_summary">ナビゲーションバーに表示されるボタンを編集する</string>
+    <string name="button_settings_summary">ナビゲーションバー、片手モード、ハードウェアキーの編集を有効にする</string>
     <!-- StatusBar -->
     <string name="statusbar_settings_category">ステータスバー</string>
     <string name="use_old_mobiletype_title">古いモバイルタイプスタイルを使用</string>
@@ -726,4 +724,17 @@
     <string name="flashlight_on_call_not_dnd">着信モードでのみフラッシュライトを点滅させる</string>
     <string name="flashlight_on_call_dnd">マナーモードのみモードでのみフラッシュライトを点滅させる</string>
     <string name="flashlight_on_call_always">常にフラッシュライトを点滅させる</string>
+    <!-- Evox logo -->
+    <string name="evox_logo_title">Evolution X Logo</string>
+    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
+    <!-- QS footer icons -->
+    <string name="footer_title">Footer</string>
+    <string name="qs_footer_services_title">Running Services icon</string>
+    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
+    <string name="qs_footer_settings_title">Settings icon</string>
+    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
+    <string name="qs_footer_user_title">User switcher icon</string>
+    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
+    <string name="qs_edit_title">Edit icon</string>
+    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
 </resources>
