@@ -726,4 +726,34 @@
     <string name="flashlight_on_call_not_dnd">ไฟฉายกระพริบในโหมด สั่น เท่านั้น</string>
     <string name="flashlight_on_call_dnd">ไฟฉายกระพริบในโหมด ห้ามรบกวน เท่านั้น</string>
     <string name="flashlight_on_call_always">ไฟฉายกระพริบเสมอ</string>
+    <!-- Evox logo -->
+    <string name="evox_logo_title">โลโก้ Evolution X</string>
+    <string name="evox_logo_summary">บอกให้ทุกคนรู้ว่าคุณกำลังใช้ Evolution X เมื่อพวกเขาเห็นหน้าจอของคุณ</string>
+    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <!-- QS footer icons -->
+    <string name="footer_title">ส่วนท้าย</string>
+    <string name="qs_footer_services_title">ไอคอนเรียกใช้บริการ</string>
+    <string name="qs_footer_services_summary">แสดงไอคอน เรียกใช้บริการ ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <string name="qs_footer_settings_title">ไอคอนการตั้งค่า</string>
+    <string name="qs_footer_settings_summary">แสดงไอคอนการตั้งค่า ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <string name="qs_footer_user_title">ไอคอนตัวสลับผู้ใช้</string>
+    <string name="qs_footer_user_summary">แสดงไอคอนตัวสลับผู้ใช้หลายคน ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <string name="qs_edit_title">ไอคอนแก้ไข</string>
+    <string name="qs_edit_summary">แสดงไอคอนแก้ไขไทล์ ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Center Text Clock</string>
+    <string name="center_text_clock_summary">Tranform Q-Clock to X-Clock</string>
+    <string name="lockscreen_hide_status_bar_title">Hide status bar</string>
+    <string name="lockscreen_hide_status_bar_summary">Touch status bar to toggle visibility</string>
+    <!-- Toast app icon -->
+    <string name="toast_icon_title">Toast app icon</string>
+    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
+    <!-- Toast Icon & Text Color -->
+    <string name="toast_category">Toast Menu</string>
+    <string name="toast_text_color">Toast text color</string>
+    <string name="toast_icon_color">Toast icon color</string>
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
+    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
 </resources>

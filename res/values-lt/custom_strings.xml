@@ -100,6 +100,7 @@
     <string name="battery_style_title">Baterijos piktogramos stilius</string>
     <string name="battery_style_summary">Baterijos stiliaus keitimas būsenos juostoje</string>
     <string name="battery_style_port">Baterija</string>
+    <string name="battery_style_q">Q style</string>
     <string name="battery_style_circle">Apskritimas</string>
     <string name="battery_style_dotted_circle">Punktyrinis apskritimas</string>
     <string name="battery_style_big_circle">Didelis apskritimas</string>
