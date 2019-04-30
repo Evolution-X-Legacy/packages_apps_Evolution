@@ -100,6 +100,7 @@
     <string name="battery_style_title">Kiểu biểu tượng pin</string>
     <string name="battery_style_summary">Thay đổi kiểu biểu tượng pin trên thanh trạng thái</string>
     <string name="battery_style_port">Dọc</string>
+    <string name="battery_style_q">Q style</string>
     <string name="battery_style_circle">Vòng tròn</string>
     <string name="battery_style_dotted_circle">Vòng tròn nét đứt</string>
     <string name="battery_style_big_circle">Vòng tròn lớn</string>
