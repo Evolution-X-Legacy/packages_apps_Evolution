@@ -834,4 +834,8 @@
     <string name="qs_edit_title">Edit icon</string>
     <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
 
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Center Text Clock</string>
+    <string name="center_text_clock_summary">Tranform Q-Clock to X-Clock</string>
+
 </resources>
