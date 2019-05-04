@@ -86,6 +86,13 @@
         android:dependency="lockscreen_clock"
         android:defaultValue="14" />
 
+    <com.extra.settings.preferences.SystemSettingSwitchPreference
+        android:key="center_text_clock"
+        android:title="@string/center_text_clock_title"
+        android:summary="@string/center_text_clock_summary"
+        android:dependency="lockscreen_clock"
+        android:defaultValue="false" />
+
     <ListPreference
         android:key="lock_clock_fonts"
         android:title="@string/lock_clock_font_title"
