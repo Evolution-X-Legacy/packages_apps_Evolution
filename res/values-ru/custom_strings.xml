@@ -100,7 +100,7 @@
     <string name="battery_style_title">Стиль иконки батареи</string>
     <string name="battery_style_summary">Изменить стиль строки состояния батареи</string>
     <string name="battery_style_port">Портретный</string>
-    <string name="battery_style_q">Стиль Q</string>
+    <string name="battery_style_q">Стиль Android Q</string>
     <string name="battery_style_circle">Круг</string>
     <string name="battery_style_dotted_circle">Пунктирный круг</string>
     <string name="battery_style_big_circle">Большой круг</string>
@@ -742,7 +742,7 @@
     <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Текстовые часы по центру</string>
-    <string name="center_text_clock_summary">Преобразование Q-Clock в X-Clock</string>
+    <string name="center_text_clock_summary">Преобразование Q-часы в X-часы</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Счётчик уведомлений на экране блокировки</string>
     <string name="lockscreen_maxnotif_sumary">Установить максимально допустимое количество уведомлений на экране блокировки</string>
