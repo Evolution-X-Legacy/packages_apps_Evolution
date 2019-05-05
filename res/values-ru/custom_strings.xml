@@ -742,16 +742,7 @@
     <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Текстовые часы по центру</string>
-    <string name="center_text_clock_summary">Преобразование Q-Clock в X-Clock</string>
-    <string name="lockscreen_hide_status_bar_title">Скрыть строку состояния</string>
-    <string name="lockscreen_hide_status_bar_summary">Коснитесь строки состояния для переключения видимости</string>
-    <!-- Toast app icon -->
-    <string name="toast_icon_title">Значок вспл. уведомления</string>
-    <string name="toast_icon_summary">Отобразить значок приложения на всплывающем уведомлении</string>
-    <!-- Toast Icon & Text Color -->
-    <string name="toast_category">Toast меню</string>
-    <string name="toast_text_color">Цвет текста уведомления</string>
-    <string name="toast_icon_color">Цвет значка уведомления</string>
+    <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Счётчик уведомлений на экране блокировки</string>
     <string name="lockscreen_maxnotif_sumary">Установить максимально допустимое количество уведомлений на экране блокировки</string>
