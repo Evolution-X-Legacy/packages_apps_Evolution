@@ -729,23 +729,23 @@
     <string name="flashlight_on_call_always">Her zaman</string>
     <!-- Evox logo -->
     <string name="evox_logo_title">Evolution X Logo</string>
-    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evox_logo_summary">Herkes ekranınızı gördüğünde Evolution X kullandığınızı bilmesini sağlayın</string>
+    <string name="status_bar_logo_style_title">Özel logo stili</string>
     <!-- QS footer icons -->
-    <string name="footer_title">Footer</string>
-    <string name="qs_footer_services_title">Running Services icon</string>
-    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
-    <string name="qs_footer_user_title">User switcher icon</string>
-    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
-    <string name="qs_edit_title">Edit icon</string>
-    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="footer_title">Alt bilgi</string>
+    <string name="qs_footer_services_title">Çalışan hizmetler simgesi</string>
+    <string name="qs_footer_services_summary">Hızlı ayarlar panelinde çalışan hizmetler simgesini görüntüle</string>
+    <string name="qs_footer_settings_title">Ayarlar simgesi</string>
+    <string name="qs_footer_settings_summary">Hızlı ayarlar alt bilgisinde ayarlar simgesini görüntüle</string>
+    <string name="qs_footer_user_title">Kullanıcı değiştirici simgesi</string>
+    <string name="qs_footer_user_summary">Hızlı ayarlar alt bilgisinde kullanıcı değiştirme simgesini görüntüle</string>
+    <string name="qs_edit_title">Düzenleme simgesi</string>
+    <string name="qs_edit_summary">Kare düzenleme simgesini hızlı ayarlar alt bilgisinde görüntüle</string>
     <!-- Q To X Clock -->
-    <string name="center_text_clock_title">Center Text Clock</string>
+    <string name="center_text_clock_title">Metin saati konumu</string>
     <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
     <!-- Lockscreen notif count -->
-    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
-    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
-    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_title">Kilit ekranı bildirim sayısı</string>
+    <string name="lockscreen_maxnotif_sumary">Kilit ekranında maksimum bildirim sayısını ayarla</string>
+    <string name="lockscreen_maxnotif_config">Maksimum kilit ekranı bildirimi</string>
 </resources>
