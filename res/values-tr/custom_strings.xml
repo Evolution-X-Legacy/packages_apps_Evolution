@@ -743,7 +743,7 @@
     <string name="qs_edit_summary">Kare düzenleme simgesini hızlı ayarlar alt bilgisinde görüntüle</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Metin saati konumu</string>
-    <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
+    <string name="center_text_clock_summary">Q-Saat\'i X-Saat\'e dönüştürün</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Kilit ekranı bildirim sayısı</string>
     <string name="lockscreen_maxnotif_sumary">Kilit ekranında maksimum bildirim sayısını ayarla</string>
