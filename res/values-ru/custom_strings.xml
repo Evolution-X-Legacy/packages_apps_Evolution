@@ -345,7 +345,7 @@
     <string name="lock_clock_font_roadrage">Дорожная яркость</string>
     <string name="lock_clock_font_snowstorm">Метель</string>
     <string name="lock_clock_font_googlesans">Google Sans</string>
-    <string name="lock_clock_font_neoneon">Neoneon</string>
+    <string name="lock_clock_font_neoneon">Неонеон</string>
     <string name="lock_clock_font_themeable">Тематический (или VCR OSD Mono)</string>
     <string name="lock_clock_font_samsung">Шамсгунг</string>
     <string name="lock_clock_font_sourcesanspro">шрифт Source Sans Pro</string>
@@ -727,33 +727,33 @@
     <string name="flashlight_on_call_dnd">Мигание фонарика только в режиме \"не беспокоить\"</string>
     <string name="flashlight_on_call_always">Мигание фонарика - всегда</string>
     <!-- Evox logo -->
-    <string name="evox_logo_title">Evolution X Logo</string>
-    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evox_logo_title">Логотип Evolution X</string>
+    <string name="evox_logo_summary">Покажите всем, что вы используете Evolution X, когда они видят ваш экран</string>
+    <string name="status_bar_logo_style_title">Пользовательский стиль логотипа</string>
     <!-- QS footer icons -->
-    <string name="footer_title">Footer</string>
-    <string name="qs_footer_services_title">Running Services icon</string>
-    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
-    <string name="qs_footer_user_title">User switcher icon</string>
-    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
-    <string name="qs_edit_title">Edit icon</string>
-    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="footer_title">Нижняя часть</string>
+    <string name="qs_footer_services_title">Иконка запущенных служб</string>
+    <string name="qs_footer_services_summary">Отображать значок запущенных служб внизу быстрых настроек</string>
+    <string name="qs_footer_settings_title">Иконка настроек</string>
+    <string name="qs_footer_settings_summary">Отображать значок настроек внизу быстрых настроек</string>
+    <string name="qs_footer_user_title">Пользовательский переключатель</string>
+    <string name="qs_footer_user_summary">Отображать переключатель пользователей в нижней части QS</string>
+    <string name="qs_edit_title">Значок редактирования быстрых настроек</string>
+    <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
     <!-- Q To X Clock -->
-    <string name="center_text_clock_title">Center Text Clock</string>
-    <string name="center_text_clock_summary">Tranform Q-Clock to X-Clock</string>
-    <string name="lockscreen_hide_status_bar_title">Hide status bar</string>
-    <string name="lockscreen_hide_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="center_text_clock_title">Текстовые часы по центру</string>
+    <string name="center_text_clock_summary">Преобразование Q-Clock в X-Clock</string>
+    <string name="lockscreen_hide_status_bar_title">Скрыть строку состояния</string>
+    <string name="lockscreen_hide_status_bar_summary">Коснитесь строки состояния для переключения видимости</string>
     <!-- Toast app icon -->
-    <string name="toast_icon_title">Toast app icon</string>
-    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
+    <string name="toast_icon_title">Значок вспл. уведомления</string>
+    <string name="toast_icon_summary">Отобразить значок приложения на всплывающем уведомлении</string>
     <!-- Toast Icon & Text Color -->
-    <string name="toast_category">Toast Menu</string>
-    <string name="toast_text_color">Toast text color</string>
-    <string name="toast_icon_color">Toast icon color</string>
+    <string name="toast_category">Toast меню</string>
+    <string name="toast_text_color">Цвет текста уведомления</string>
+    <string name="toast_icon_color">Цвет значка уведомления</string>
     <!-- Lockscreen notif count -->
-    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
+    <string name="lockscreen_maxnotif_title">Счётчик уведомлений на экране блокировки</string>
     <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
     <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
 </resources>
