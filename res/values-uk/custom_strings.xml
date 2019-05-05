@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evox_settings_title">Еволюція X</string>
+    <string name="evox_settings_title">Параметри Evolution</string>
     <!-- Categories -->
     <string name="status_bar_title">Стасус бар</string>
     <string name="quick_settings_title">Швидкі налаштування</string>
@@ -400,7 +400,7 @@
     <string name="less_notification_sounds_1m">Кожної хвилини</string>
     <string name="less_notification_sounds_2m">Кожні 2 хвилини</string>
     <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
+    <string name="force_ambient_for_media_pref_title">Функція «Зараз грає»</string>
     <string name="force_ambient_for_media_pref_summary">Налаштування Ambient music ticker</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker відображає інформацію про поточний трек для Ambient Display.\n\nВін також запускається, якщо Ambient Display вимкнений, коли починається новий трек й вмикає Ambient Display з інформацією про трек на середені екрану.\n\nВи також можете натиснути двічі на інформацію про трек, щоб пропустити його.</string>
     <string name="force_ambient_for_media_title">Активувати</string>
@@ -728,33 +728,33 @@
     <string name="flashlight_on_call_dnd">Блимати ліхтариком лише в режимі DND</string>
     <string name="flashlight_on_call_always">Завжди блимати ліхтариком</string>
     <!-- Evox logo -->
-    <string name="evox_logo_title">Evolution X Logo</string>
-    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evox_logo_title">Логотип Evolution X</string>
+    <string name="evox_logo_summary">Нехай всі знають, що ви використовуєте Evolution X, коли вони бачать ваш екран</string>
+    <string name="status_bar_logo_style_title">Користувацький стиль логотипа</string>
     <!-- QS footer icons -->
-    <string name="footer_title">Footer</string>
-    <string name="qs_footer_services_title">Running Services icon</string>
-    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
-    <string name="qs_footer_user_title">User switcher icon</string>
-    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
-    <string name="qs_edit_title">Edit icon</string>
-    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="footer_title">Нижній колонтитул</string>
+    <string name="qs_footer_services_title">Значок запущених додатків</string>
+    <string name="qs_footer_services_summary">Відображати значок запущених служб внизу швидких налаштувань</string>
+    <string name="qs_footer_settings_title">Іконка налаштувань</string>
+    <string name="qs_footer_settings_summary">Відображати значок налаштувань внизу швидких налаштувань</string>
+    <string name="qs_footer_user_title">Переключення користувачів</string>
+    <string name="qs_footer_user_summary">Відображати значок запущених служб внизу швидких налаштувань</string>
+    <string name="qs_edit_title">Значок редагування</string>
+    <string name="qs_edit_summary">Відображати значок налаштувань внизу швидких налаштувань</string>
     <!-- Q To X Clock -->
-    <string name="center_text_clock_title">Center Text Clock</string>
-    <string name="center_text_clock_summary">Tranform Q-Clock to X-Clock</string>
-    <string name="lockscreen_hide_status_bar_title">Hide status bar</string>
-    <string name="lockscreen_hide_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="center_text_clock_title">Текстові часи по центру</string>
+    <string name="center_text_clock_summary">Перетворення Q-Clock у X-Clock</string>
+    <string name="lockscreen_hide_status_bar_title">Приховати статус бар</string>
+    <string name="lockscreen_hide_status_bar_summary">Торкніться рядка стану для перемикання видимості</string>
     <!-- Toast app icon -->
-    <string name="toast_icon_title">Toast app icon</string>
-    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
+    <string name="toast_icon_title">Іконка спливаючого повідомлення</string>
+    <string name="toast_icon_summary">Відображати значок програми в спливаючих сповіщеннях</string>
     <!-- Toast Icon & Text Color -->
-    <string name="toast_category">Toast Menu</string>
-    <string name="toast_text_color">Toast text color</string>
-    <string name="toast_icon_color">Toast icon color</string>
+    <string name="toast_category">Toast меню</string>
+    <string name="toast_text_color">Колір тексту</string>
+    <string name="toast_icon_color">Колір значка</string>
     <!-- Lockscreen notif count -->
-    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
-    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
-    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_title">Сповіщення на екрані блокування</string>
+    <string name="lockscreen_maxnotif_sumary">Встановити максимально допустиму кількість сповіщень на екрані блокування</string>
+    <string name="lockscreen_maxnotif_config">Максимальна кількість сповіщень на екрані блокування</string>
 </resources>
