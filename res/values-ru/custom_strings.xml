@@ -754,6 +754,6 @@
     <string name="toast_icon_color">Цвет значка уведомления</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Счётчик уведомлений на экране блокировки</string>
-    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
-    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_sumary">Установить максимально допустимое количество уведомлений на экране блокировки</string>
+    <string name="lockscreen_maxnotif_config">Максимальное количество уведомлений на экране блокировки</string>
 </resources>
