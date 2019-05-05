@@ -725,24 +725,24 @@
     <string name="flashlight_on_call_dnd">マナーモードのみモードでのみフラッシュライトを点滅させる</string>
     <string name="flashlight_on_call_always">常にフラッシュライトを点滅させる</string>
     <!-- Evox logo -->
-    <string name="evox_logo_title">Evolution X Logo</string>
-    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evox_logo_title">Evolution X ロゴ</string>
+    <string name="evox_logo_summary">あなたの画面を見た人にあなたが Evolution X を使っていることを知らせます</string>
+    <string name="status_bar_logo_style_title">カスタムロゴのスタイル</string>
     <!-- QS footer icons -->
-    <string name="footer_title">Footer</string>
-    <string name="qs_footer_services_title">Running Services icon</string>
-    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
-    <string name="qs_footer_user_title">User switcher icon</string>
-    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
-    <string name="qs_edit_title">Edit icon</string>
-    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="footer_title">フッター</string>
+    <string name="qs_footer_services_title">実行中のサービスアイコン</string>
+    <string name="qs_footer_services_summary">クイック設定のフッターに実行中のサービスアイコンを表示する</string>
+    <string name="qs_footer_settings_title">設定アイコン</string>
+    <string name="qs_footer_settings_summary">クイック設定のフッターに設定アイコンを表示する</string>
+    <string name="qs_footer_user_title">ユーザー切り替えアイコン</string>
+    <string name="qs_footer_user_summary">クイック設定のフッターにユーザー切り替えアイコンを表示する</string>
+    <string name="qs_edit_title">編集アイコン</string>
+    <string name="qs_edit_summary">クイック設定のフッターに編集アイコンを表示する</string>
     <!-- Q To X Clock -->
-    <string name="center_text_clock_title">Center Text Clock</string>
-    <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
+    <string name="center_text_clock_title">中央のテキスト時計</string>
+    <string name="center_text_clock_summary">Q-Clock から X-Clock へ変更する</string>
     <!-- Lockscreen notif count -->
-    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
-    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
-    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_title">ロック画面での通知数</string>
+    <string name="lockscreen_maxnotif_sumary">ロック画面で表示する通知の上限を設定する</string>
+    <string name="lockscreen_maxnotif_config">表示する通知の上限</string>
 </resources>
