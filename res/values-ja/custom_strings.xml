@@ -727,6 +727,7 @@
     <!-- Evox logo -->
     <string name="evox_logo_title">Evolution X Logo</string>
     <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
+    <string name="status_bar_logo_style_title">Custom logo style</string>
     <!-- QS footer icons -->
     <string name="footer_title">Footer</string>
     <string name="qs_footer_services_title">Running Services icon</string>
@@ -737,4 +738,20 @@
     <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
     <string name="qs_edit_title">Edit icon</string>
     <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Center Text Clock</string>
+    <string name="center_text_clock_summary">Tranform Q-Clock to X-Clock</string>
+    <string name="lockscreen_hide_status_bar_title">Hide status bar</string>
+    <string name="lockscreen_hide_status_bar_summary">Touch status bar to toggle visibility</string>
+    <!-- Toast app icon -->
+    <string name="toast_icon_title">Toast app icon</string>
+    <string name="toast_icon_summary">Display the app\'s icon corresponding with the toast</string>
+    <!-- Toast Icon & Text Color -->
+    <string name="toast_category">Toast Menu</string>
+    <string name="toast_text_color">Toast text color</string>
+    <string name="toast_icon_color">Toast icon color</string>
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
+    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
 </resources>
