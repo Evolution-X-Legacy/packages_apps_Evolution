@@ -740,4 +740,25 @@
     <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
     <string name="qs_edit_title">Edit icon</string>
     <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+     <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Texto de reloj en el centro</string>
+    <string name="center_text_clock_summary">Transformar Reloj-Q a reloj-X</string>
+
+    <string name="lockscreen_hide_status_bar_title">Ocultar barra de estado</string>
+    <string name="lockscreen_hide_status_bar_summary">Tocar barra de estado para alternar la visibilidad</string>
+
+    <!-- Toast app icon -->
+    <string name="toast_icon_title">Icono de la aplicación de Toast</string>
+    <string name="toast_icon_summary">Mostrar el icono de la aplicación/es correspondiente al toast.</string>
+
+    <!-- Toast Icon & Text Color -->
+    <string name="toast_category">Menu Toast</string>
+    <string name="toast_text_color">color del texto del Toast</string>
+    <string name="toast_icon_color">Color del icono del Toast</string>
+
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">Recuento de notificaciones de pantalla de bloqueo</string>
+    <string name="lockscreen_maxnotif_sumary">Habilitar el ajuste de notificaciones de pantalla de bloqueo máximo</string>
+    <string name="lockscreen_maxnotif_config">Notificaciones de pantalla de bloqueo máximo</string>
+     
 </resources>
