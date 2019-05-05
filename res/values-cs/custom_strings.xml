@@ -64,50 +64,50 @@
     <string name="system_colors">Barvy</string>
     <!-- Preferences Categories -->
     <string name="cat_general_ui">Vylepšení UI</string>
-    <string name="cat_general_system">System related tweaks</string>
-    <string name="cat_powermenu_items">Power menu items</string>
-    <string name="cat_volume_keys">Volume keys</string>
-    <string name="cat_misc_app">App related</string>
-    <string name="anim_general_category">Overall Animations</string>
-    <string name="anim_system_category">System related</string>
-    <string name="misc_settings_cat_title">Settings app related</string>
-    <string name="general_system_stuff_preference">System Behaviour</string>
+    <string name="cat_general_system">Vylepšení související se systémem</string>
+    <string name="cat_powermenu_items">Položky menu napájení</string>
+    <string name="cat_volume_keys">Tlačítka hlasitosti</string>
+    <string name="cat_misc_app">Související s aplikacemi</string>
+    <string name="anim_general_category">Celkové animace</string>
+    <string name="anim_system_category">Související se systémem</string>
+    <string name="misc_settings_cat_title">Nastavení související s aplikacemi</string>
+    <string name="general_system_stuff_preference">Chování systému</string>
     <!-- Power Menu -->
     <string name="powermenu_reboot_title">Restart</string>
-    <string name="powermenu_advanced_reboot_title">Advanced restart</string>
-    <string name="powermenu_advanced_reboot_summary">When unlocked, include options in the power menu for restarting into recovery or bootloader</string>
-    <string name="powermenu_advanced_restart_summary">Enables the advanced restart menu for other restarting options</string>
-    <string name="powermenu_lockdown_title">Lockdown</string>
-    <string name="powermenu_screenshot_title">Screenshot</string>
+    <string name="powermenu_advanced_reboot_title">Rozšířený restart</string>
+    <string name="powermenu_advanced_reboot_summary">Pokud je povoleno, v menu napájení jsou také možnosti restartovat zařízení do recovery nebo bootloaderu</string>
+    <string name="powermenu_advanced_restart_summary">Aktivuje menu pokročilého restartování pro další možnosti restartu</string>
+    <string name="powermenu_lockdown_title">Uzamčení</string>
+    <string name="powermenu_screenshot_title">Snímek obrazovky</string>
     <!-- Quick QS Pulldown -->
-    <string name="status_bar_quick_qs_pulldown">Quick QS pulldown</string>
-    <string name="quick_pulldown_none">Disabled</string>
-    <string name="quick_pulldown_right">Pulldown statusbar from right side</string>
-    <string name="quick_pulldown_left">Pulldown statusbar from left side</string>
+    <string name="status_bar_quick_qs_pulldown">Rychlé stažení QS panelu</string>
+    <string name="quick_pulldown_none">Vypnuto</string>
+    <string name="quick_pulldown_right">Stažení stavové lišty z pravé strany</string>
+    <string name="quick_pulldown_left">Stažení stavové lišty z levé strany</string>
     <!-- Volume rocker music control -->
-    <string name="volume_button_music_control_title">Playback control</string>
-    <string name="volume_button_music_control_summary">When the screen is off, long-pressing the volume keys will skip music tracks</string>
+    <string name="volume_button_music_control_title">Ovládání přehrávání</string>
+    <string name="volume_button_music_control_summary">Pokud je obrazovka vypnutá, dlouhé stisknutí tlačítek hlasitosti přeskočí skladby</string>
     <!-- Lockscreen dt2s -->
-    <string name="double_tap_sleep_lockscreen_title">Double tap to sleep</string>
-    <string name="double_tap_sleep_lockscreen_sumary">Double tap anywhere on the lockscreen to put the phone to sleep</string>
+    <string name="double_tap_sleep_lockscreen_title">Dvojím poklepáním uspat</string>
+    <string name="double_tap_sleep_lockscreen_sumary">Dvojím poklepáním kdekoliv na zamykací obrazovku uvést zařízení do režimu spánku</string>
     <!-- Lockscreen cover art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="media_art_title">Obal alba</string>
+    <string name="media_art_summary">Povolit zobrazení obalu alba na zamykací obrazovce</string>
     <!-- less boring heads up -->
-    <string name="less_boring_heads_up_title">Less boring heads up</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app</string>
+    <string name="less_boring_heads_up_title">Méně obtěžující plovoucí oznámení</string>
+    <string name="less_boring_heads_up_summary">Zobrazit plovoucí oznámení pouze pro aplikace Telefon nebo Zprávy</string>
     <!-- Battery Styles -->
-    <string name="battery_style_title">Battery icon style</string>
-    <string name="battery_style_summary">Change the style of the status bar battery</string>
-    <string name="battery_style_port">Portrait</string>
-    <string name="battery_style_q">Q style</string>
-    <string name="battery_style_circle">Circle</string>
-    <string name="battery_style_dotted_circle">Dotted circle</string>
-    <string name="battery_style_big_circle">Big circle</string>
-    <string name="battery_style_big_dotted_circle">Big dotted circle</string>
+    <string name="battery_style_title">Styl ikony baterie</string>
+    <string name="battery_style_summary">Změňte styl ikony stavu baterie</string>
+    <string name="battery_style_port">Na výšku</string>
+    <string name="battery_style_q">Styl Q</string>
+    <string name="battery_style_circle">Kruh</string>
+    <string name="battery_style_dotted_circle">Tečkovaný kruh</string>
+    <string name="battery_style_big_circle">Velký kruh</string>
+    <string name="battery_style_big_dotted_circle">Velký tečkovaný kruh</string>
     <string name="battery_style_text">Text (set Show battery percentage to Outside)</string>
-    <string name="battery_style_hidden">Hidden</string>
-    <string name="battery_percent_hidden">Hidden</string>
+    <string name="battery_style_hidden">Nezobrazovat</string>
+    <string name="battery_percent_hidden">Nezobrazovat</string>
     <string name="show_battery_percent_title">Show battery percentage</string>
     <string name="show_battery_percent_summary">Show battery level percentage near the icon</string>
     <string name="battery_style_category_title">Battery level</string>
