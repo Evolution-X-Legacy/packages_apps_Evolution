@@ -57,7 +57,7 @@
     <string name="press_color_to_apply">Натисніть на колір нижче, щоб застосувати</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
-    <string name="hex">Hex:</string>
+    <string name="hex">Шістнадцятковий:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Вибрати</string>
     <string name="color_default">За замовчуванням</string>
@@ -293,7 +293,7 @@
     <string name="qstile_circle_gradient">Коло з градієнтом</string>
     <string name="qstile_wavey">Хвиляста</string>
     <string name="qstile_circle_dualtone">Коло з подвійним тоном</string>
-    <string name="qstile_pokesign">Pokesign</string>
+    <string name="qstile_pokesign">Стиль Pokeball</string>
     <string name="qstile_ninja">Ніндзя</string>
     <string name="qstile_dottedcircle">Пунктирне коло</string>
     <string name="qstile_attemptmountain">Спроба гори</string>
@@ -302,7 +302,7 @@
     <string name="qstile_oreo_circle_trim">Oreo (Кругова вирізка)</string>
     <string name="qstile_oreo_squircle_trim">Oreo (Кругова вирізка)</string>
     <string name="qstile_inkdrop">Чорнило</string>
-    <string name="qstile_cookie">Cookie</string>
+    <string name="qstile_cookie">Печиво</string>
     <string name="qstile_circleoutline">Контур кола</string>
     <!-- Torch Power button gestures -->
     <string name="torch_power_button_gesture_title">Увімкнення ліхтарика довгим натисканням кнопки включення</string>
@@ -345,10 +345,10 @@
     <string name="lock_clock_font_roadrage">Дорожня лють</string>
     <string name="lock_clock_font_snowstorm">Завірюха</string>
     <string name="lock_clock_font_googlesans">Google Sans</string>
-    <string name="lock_clock_font_neoneon">Neoneon</string>
-    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
+    <string name="lock_clock_font_neoneon">Неонеон</string>
+    <string name="lock_clock_font_themeable">Тематичний (або VCR OSD Mono)</string>
     <string name="lock_clock_font_samsung">Шамсунг</string>
-    <string name="lock_clock_font_sourcesanspro">Source Sans Pro</string>
+    <string name="lock_clock_font_sourcesanspro">Шрифт Sans Pro</string>
     <!-- Lock Date Fonts -->
     <string name="lock_date_font_title">Параметри шрифту дати</string>
     <string name="lock_date_font_summary">Змінити шрифт годинника на екрані блокування</string>
