@@ -100,7 +100,7 @@
     <string name="battery_style_title">Стиль іконки батареї</string>
     <string name="battery_style_summary">Змінити стиль акумулятора в статус барі</string>
     <string name="battery_style_port">Портретна</string>
-    <string name="battery_style_q">Q стиль</string>
+    <string name="battery_style_q">Стиль Android Q</string>
     <string name="battery_style_circle">Коло</string>
     <string name="battery_style_dotted_circle">Пунктирне коло</string>
     <string name="battery_style_big_circle">Велике коло</string>
@@ -743,7 +743,7 @@
     <string name="qs_edit_summary">Відображати значок налаштувань внизу швидких налаштувань</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Текстові часи по центру</string>
-    <string name="center_text_clock_summary">Перетворення Q-Clock у X-Clock</string>
+    <string name="center_text_clock_summary">Перетворення Q-часи у X-часи</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Сповіщення на екрані блокування</string>
     <string name="lockscreen_maxnotif_sumary">Встановити максимально допустиму кількість сповіщень на екрані блокування</string>
