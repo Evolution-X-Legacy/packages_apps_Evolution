@@ -195,67 +195,67 @@
     <string name="lockscreen_clock_title">Widget hodin</string>
     <string name="lockscreen_clock_summary">Zobrazit widget hodin na zamykací obrazovce</string>
     <string name="lockscreen_info_title">Položky pod hodinami</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_info_summary">Zobrazit datum, počasí a budíky na zamykací obrazovce</string>
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_styles_category">Lockscreen styles</string>
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
-    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
-    <string name="lockscreen_clock_selection_analog">Analog</string>
+    <string name="lockscreen_clock_styles_category">Styly zamykací obrazovky</string>
+    <string name="lockscreen_clock_selection_title">Styl hodin</string>
+    <string name="lockscreen_clock_selection_digital">Výchozí</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digitální (tučné)</string>
+    <string name="lockscreen_clock_selection_analog">Analogové</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (tučné)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Sammy se zvýrazněním</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy se zvýrazněním (alt)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
-    <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
-    <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
-    <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
-    <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
-    <string name="lockscreen_clock_selection_text">Android Q Text Clock</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">Gradientní hodiny (s logem bootleg)</string>
+    <string name="lockscreen_clock_selection_gradient_shishu">Gradientní hodiny (s logem shishu)</string>
+    <string name="lockscreen_clock_selection_gradient_full">Hodiny s plným gradientem</string>
+    <string name="lockscreen_clock_selection_gradient_likeqs">Monochromatické gradientní hodiny</string>
+    <string name="lockscreen_clock_selection_text">Text hodin Android Q</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Vibrace při hovoru</string>
+    <string name="incall_vibrate_connect_title">Vibrovat při připojení</string>
+    <string name="incall_vibrate_connect_summary">Povolit vibrace při připojení</string>
+    <string name="incall_vibrate_call_wait_title">Vibrovat při čekajícím hovoru</string>
+    <string name="incall_vibrate_call_wait_summary">Povolit vibrace při čekajícím hovoru</string>
+    <string name="incall_vibrate_disconnect_title">Vibrovat při odpojení</string>
+    <string name="incall_vibrate_disconnect_summary">Povolit vibrace při odpojení</string>
     <!-- Lockscreen visualizer -->
-    <string name="lockscreen_visualizer_title">Lockscreen visualizer</string>
-    <string name="lockscreen_visualizer_summary">Displays a live design on lockscreen while music is playing</string>
+    <string name="lockscreen_visualizer_title">Vizualizér na zamykací obrazovce</string>
+    <string name="lockscreen_visualizer_summary">Při přehrávání hudby se na zamykací obrazovce zobrazí živý design</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Show LS visualizer on Ambient Display</string>
-    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+    <string name="ambient_visualizer_title">Zobrazit LS vizualizér na Ambientním displeji</string>
+    <string name="ambient_visualizer_summary">Zobrazuje vizualizační panely také na Ambientním displeji (ale méně průhledné)</string>
     <!-- Quick Settings brightness slider -->
-    <string name="qs_brightness_position_bottom_title">Brightness slider on bottom</string>
-    <string name="qs_brightness_position_bottom_summary">Show a brightness slider on bottom quick settings</string>
+    <string name="qs_brightness_position_bottom_title">Posuvník jasu v dolní části</string>
+    <string name="qs_brightness_position_bottom_summary">Zobrazit posuvník jasu v dolní části panelu rychlého nastavení</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Vibrovat při dotyku</string>
+    <string name="quick_settings_vibrate_summary">Vibrovat při dotyku QS dlaždice</string>
     <!-- SystemUI Tuner -->
     <string name="systemui_tuner_title">SystemUI Tuner</string>
-    <string name="systemui_tuner_summary">Experimental SystemUI Tweaks</string>
+    <string name="systemui_tuner_summary">Experimentální nastavení SystemUI</string>
     <!-- Brightness slider tweaks -->
-    <string name="qs_brightness_slider_title">Brightness slider</string>
-    <string name="qs_brightness_slider_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="tuner_show_auto_brightness">Adaptive brightness button</string>
-    <string name="tuner_auto_brightness_right">Right position for adaptive brightness button</string>
-    <string name="tuner_show_brightness_buttons">Brightness control buttons</string>
+    <string name="qs_brightness_slider_title">Posuvník jasu</string>
+    <string name="qs_brightness_slider_summary">Zobrazit posuvník jasu v panelu rychlého nastavení</string>
+    <string name="tuner_show_auto_brightness">Tlačítko adaptivního jasu</string>
+    <string name="tuner_auto_brightness_right">Umístění tlačítka adaptivního jasu vpravo</string>
+    <string name="tuner_show_brightness_buttons">Tlačítka ovládání jasu</string>
     <!--Brightness slider title -->
-    <string name="brightness_slider_title">Brightness slider</string>
+    <string name="brightness_slider_title">Posuvník jasu</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_title">Stav baterie Bluetooth</string>
+    <string name="bluetooth_battery_summary">Zobrazit stav baterie připojeného bluetooth zařízení, je-li dostupné</string>
     <!-- Gestures -->
-    <string name="gesture_settings_title">Gestures</string>
-    <string name="gesture_settings_aosp_title">AOSP Gestures</string>
-    <string name="gesture_settings_info">Navigation bar must be disabled!\n\nAvailable gestures:\n\nBack\n- Swipe up on left or right side\n\nHome\n- Swipe up center\n\nRecent apps\n- Swipe up center and hold\n\nLong press home\n- Short swipe up and hold in the center</string>
-    <string name="gesture_settings_info_new">Navigation bar must be disabled!\n\nAvailable gestures:\n\nBack\n- Swipe up on left or right side\n\nHome\n- Swipe up center\n\nRecent apps\n- Swipe up center and hold\n\nSwitch to last app\n- Short swipe up and hold in the center</string>
-    <string name="use_bottom_gesture_title">Navigation gestures</string>
-    <string name="use_bottom_gesture_summary">Use bottom swipe up gestures for navigation</string>
-    <string name="gesture_swipe_length_title">Swipe trigger height</string>
-    <string name="gesture_swipe_length_summary">Heigth from bottom to trigger swipe</string>
-    <string name="gesture_action_timeout_title">Swipe trigger timeout</string>
+    <string name="gesture_settings_title">Gesta</string>
+    <string name="gesture_settings_aosp_title">Gesta AOSP</string>
+    <string name="gesture_settings_info">Navigační panel musí být vypnutý!\n\nDostupné gesta:\n\nZpět\n- Přejeďte na levé nebo pravé straně\n\nDomů\n- Přejeďte nahoru\n\nNedávne aplikace\n- Přejeďte nahoru a podržte\n\nDlouhý stisk Domů\n- Krátce přejeďte nahoru a podržte uprostřed</string>
+    <string name="gesture_settings_info_new">Navigační panel musí být vypnutý!\n\nDostupná gesta:\n\nZpět\n- Přetáhnout nahoru na pravé nebo levé straně\n\nDomů\n- Přetáhnout nahoru zprostřed\n\nNedávné aplikace\n-Přetáhnutí zprostřed nahoru a držení\n\nPřenout na poslední aplikaci\n- Krátké tažení zprostřed nahoru</string>
+    <string name="use_bottom_gesture_title">Navigační gesta</string>
+    <string name="use_bottom_gesture_summary">Pro navigaci použít gesto potáhnutí zdola nahoru</string>
+    <string name="gesture_swipe_length_title">Výška spouštěcí oblasti pro gesto</string>
+    <string name="gesture_swipe_length_summary">Výška odspodu ke spuštění gesta</string>
+    <string name="gesture_action_timeout_title">Časový limit spuštění gesta</string>
     <string name="gesture_action_timeout_summary">Timeout before the gesture action is started</string>
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Volume keys answer</string>
