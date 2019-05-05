@@ -329,7 +329,7 @@
     <string name="lock_clock_font_condensed_bold">Уплотнённый жирный</string>
     <string name="lock_clock_font_condensed_bold_italic">Уплотнённый жирный курсив</string>
     <string name="lock_clock_font_condensed_light">Уплотнённый тонкий</string>
-    <string name="lock_clock_font_condensed_light_italic">Уплотнённый тонкий курсив</string>
+    <string name="lock_clock_font_condensed_light_italic">Уплотнённый лёгкий курсив</string>
     <string name="lock_clock_font_medium_normal">Средний</string>
     <string name="lock_clock_font_medium_italic">Средний курсив</string>
     <string name="lock_clock_font_black">Чёрный</string>
@@ -341,7 +341,7 @@
     <string name="lock_clock_font_notoserif_italic">NotoSerif курсив</string>
     <string name="lock_clock_font_notoserif_bold">NotoSerif жирный</string>
     <string name="lock_clock_font_notoserif_bold_italic">NotoSerif жирный курсив</string>
-    <string name="lock_clock_font_gobold">GoBold Light</string>
+    <string name="lock_clock_font_gobold">GoBold лёгкий</string>
     <string name="lock_clock_font_roadrage">Дорожная яркость</string>
     <string name="lock_clock_font_snowstorm">Метель</string>
     <string name="lock_clock_font_googlesans">Google Sans</string>
