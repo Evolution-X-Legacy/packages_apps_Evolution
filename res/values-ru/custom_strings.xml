@@ -742,7 +742,7 @@
     <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Текстовые часы по центру</string>
-    <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
+    <string name="center_text_clock_summary">Преобразование Q-Clock в X-Clock</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Счётчик уведомлений на экране блокировки</string>
     <string name="lockscreen_maxnotif_sumary">Установить максимально допустимое количество уведомлений на экране блокировки</string>
