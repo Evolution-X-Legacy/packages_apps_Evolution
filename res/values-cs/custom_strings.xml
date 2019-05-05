@@ -256,59 +256,59 @@
     <string name="gesture_swipe_length_title">Výška spouštěcí oblasti pro gesto</string>
     <string name="gesture_swipe_length_summary">Výška odspodu ke spuštění gesta</string>
     <string name="gesture_action_timeout_title">Časový limit spuštění gesta</string>
-    <string name="gesture_action_timeout_summary">Timeout before the gesture action is started</string>
+    <string name="gesture_action_timeout_summary">Časový limit před zahájením akcí gesty</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">Přijmout hovor tlačítky hlasitosti</string>
+    <string name="volume_answer_call_summary">Přijmutí hovoru při stisknutí tlačítek hlasitosti</string>
     <!-- ScreenRecord Shortcut -->
-    <string name="screen_record_shortcut">Screenrecord Shortcut</string>
-    <string name="screen_record_shortcut_summary">Power + Volume Up triggers Screenrecord when enabled</string>
+    <string name="screen_record_shortcut">Zástupce nahrávání obrazovky</string>
+    <string name="screen_record_shortcut_summary">Pokud je povoleno, tlačítko napájení + hlasitost nahoru zapne nahrávání obrazovky</string>
     <!-- ScreenShot Shortcut -->
-    <string name="screen_shot_shortcut">Screenshot Shortcut</string>
-    <string name="screen_shot_shortcut_summary">Power + Volume Down triggers screenshot when enabled</string>
+    <string name="screen_shot_shortcut">Zástupce snímku obrazovky</string>
+    <string name="screen_shot_shortcut_summary">Pokud je povoleno, tlačítko napájení + hlasitost dolů zhotoví snímek obrazovky</string>
     <!-- Text shown for the title of the lockdown option -->
-    <string name="lockdown_settings_title">Show lockdown option</string>
+    <string name="lockdown_settings_title">Zobrazit možnosti uzamčení</string>
     <!-- Text shown for the description of the lockdown option -->
-    <string name="lockdown_settings_summary">Display power button option that turns off Smart Lock, fingerprint unlocking, and notifications on the lock screen</string>
+    <string name="lockdown_settings_summary">Zobrazit volbu menu tlačítka napájení, která vypne Smart Lock, odemčení otiskem prstu a oznámení na zamykací obrazovce</string>
     <!-- Power Menu -->
-    <string name="powermenu_screenshot">Screenshot</string>
-    <string name="powermenu_power">Power</string>
+    <string name="powermenu_screenshot">Snímek obrazovky</string>
+    <string name="powermenu_power">Vypnout</string>
     <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_restart_recovery">Advanced restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_soundpanel">Sound Panel</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
+    <string name="powermenu_restart_recovery">Rozšířený restart</string>
+    <string name="powermenu_airplane">Letadlo</string>
+    <string name="powermenu_settings">Nastavení</string>
+    <string name="powermenu_lockdown">Uzamknout</string>
+    <string name="powermenu_soundpanel">Panel hlasitosti</string>
+    <string name="powermenu_users">Uživatelé</string>
+    <string name="powermenu_logout">Odhlásit</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app</string>
+    <string name="allow_signature_fake">Povolit napodobení podpisu</string>
+    <string name="allow_signature_fake_summary">Umožnit aplikacím obejít bezpečnostní systémy tím, že se budou chovat jako jiné aplikace</string>
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
-    <string name="qstile_circle_gradient">Circle with Gradient</string>
+    <string name="qs_tile_style_title">Styl QS dlaždic</string>
+    <string name="qstile_default">Výchozí</string>
+    <string name="qstile_circle_trim">Kruh s lemováním</string>
+    <string name="qstile_dual_tone_circle">Dvoubarevný kruh</string>
+    <string name="qstile_squircle_trim">Superelipsa s lemováním</string>
+    <string name="qstile_circle_gradient">Kruh s přechodem</string>
     <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
+    <string name="qstile_circle_dualtone">Kruh s dvojím odstínem</string>
     <string name="qstile_pokesign">Pokesign</string>
     <string name="qstile_ninja">Ninja</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
+    <string name="qstile_dottedcircle">Tečkovaný kruh</string>
     <string name="qstile_attemptmountain">An attempt of a mountain</string>
     <string name="qstile_squaremedo">The Squaremedo</string>
-    <string name="qstile_oreo">Oreo Style</string>
-    <string name="qstile_oreo_circle_trim">Oreo (Circle Trim)</string>
-    <string name="qstile_oreo_squircle_trim">Oreo (Squircle Trim)</string>
+    <string name="qstile_oreo">Styl Oreo</string>
+    <string name="qstile_oreo_circle_trim">Oreo (s kruhovým lemováním)</string>
+    <string name="qstile_oreo_squircle_trim">Oreo (se supereliptickým lemováním)</string>
     <string name="qstile_inkdrop">Ink</string>
     <string name="qstile_cookie">Cookie</string>
     <string name="qstile_circleoutline">CircleOutline</string>
     <!-- Torch Power button gestures -->
-    <string name="torch_power_button_gesture_title">Screen off power button torch</string>
-    <string name="torch_power_button_gesture_none">Disabled</string>
-    <string name="torch_power_button_gesture_dt">Double tap power to toggle torch (will add a small delay to single tap)</string>
-    <string name="torch_power_button_gesture_lp">Long press power to toggle torch</string>
+    <string name="torch_power_button_gesture_title">Zapnout svítilnu tlačítkem napájení při vypnuté obrazovce</string>
+    <string name="torch_power_button_gesture_none">Vypnuto</string>
+    <string name="torch_power_button_gesture_dt">Dvojím klepnutím zapnout svítilnu (přidá malé zpoždění při jednom klepnutí)</string>
+    <string name="torch_power_button_gesture_lp">Dlouhým stisknutím tlačítka napájení přepínat svítilnu</string>
     <!-- Fingerprint unlock keystore -->
     <string name="fp_unlock_keystore_title">Fingerprint unlock</string>
     <string name="fp_unlock_keystore_summary">Unlock device with fingerprint after reboot without PIN/Password/Pattern\nNote: at your own risk!</string>
