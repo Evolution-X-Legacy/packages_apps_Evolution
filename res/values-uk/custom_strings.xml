@@ -743,7 +743,7 @@
     <string name="qs_edit_summary">Відображати значок налаштувань внизу швидких налаштувань</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Текстові часи по центру</string>
-    <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
+    <string name="center_text_clock_summary">Перетворення Q-Clock у X-Clock</string>
     <!-- Lockscreen notif count -->
     <string name="lockscreen_maxnotif_title">Сповіщення на екрані блокування</string>
     <string name="lockscreen_maxnotif_sumary">Встановити максимально допустиму кількість сповіщень на екрані блокування</string>
