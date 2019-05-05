@@ -105,96 +105,96 @@
     <string name="battery_style_dotted_circle">Tečkovaný kruh</string>
     <string name="battery_style_big_circle">Velký kruh</string>
     <string name="battery_style_big_dotted_circle">Velký tečkovaný kruh</string>
-    <string name="battery_style_text">Text (set Show battery percentage to Outside)</string>
+    <string name="battery_style_text">Text (nastavte zobrazení procenta baterie Vedle ikony)</string>
     <string name="battery_style_hidden">Nezobrazovat</string>
     <string name="battery_percent_hidden">Nezobrazovat</string>
-    <string name="show_battery_percent_title">Show battery percentage</string>
-    <string name="show_battery_percent_summary">Show battery level percentage near the icon</string>
-    <string name="battery_style_category_title">Battery level</string>
-    <string name="battery_percent_outside">Outside</string>
-    <string name="battery_percent_inside">Inside</string>
+    <string name="show_battery_percent_title">Zobrazit procento baterie</string>
+    <string name="show_battery_percent_summary">Zobrazit úroveň nabití baterie v procentech vedle ikony</string>
+    <string name="battery_style_category_title">Úroveň baterie</string>
+    <string name="battery_percent_outside">Vedle ikony</string>
+    <string name="battery_percent_inside">Uvnitř ikony</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">Nejsou nastaveny žádné výchozí hodnoty</string>
+    <string name="seekbar_default_value_set">Hodnota nastavena na výchozí <xliff:g id="number">%d </xliff:g></string>
+    <string name="seekbar_default_value_already_set">Výchozí hodnota je již nastavena</string>
+    <string name="seekbar_default_string">Výchozí</string>
     <!-- Fingerprint authentication vibration -->
-    <string name="fprint_sucess_vib_title">Fingerprint authentication vibration</string>
-    <string name="fprint_sucess_vib_summary">Vibrate on successful fingerprint authentication</string>
+    <string name="fprint_sucess_vib_title">Vibrace při ověření otisků prstů</string>
+    <string name="fprint_sucess_vib_summary">Vibrovat při úspěšném ověření otisku prstu</string>
     <!-- Volume rocker wake -->
-    <string name="volume_rocker_wake_title">Volume rocker wake</string>
-    <string name="volume_rocker_wake_summary">Pressing the volume keys will wake your device</string>
+    <string name="volume_rocker_wake_title">Probudit tlačítky hlasitosti</string>
+    <string name="volume_rocker_wake_summary">Stisknutím tlačítka hlasitosti se probudí vaše zařízení</string>
     <!-- Double tap-to-sleep -->
-    <string name="double_tap_to_sleep_title">Status bar</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Stavová lišta</string>
+    <string name="double_tap_to_sleep_summary">Dvojí poklepání na stavovou lištu uvede zařízení do režimu spánku</string>
     <!-- Network traffic -->
-    <string name="traffic_title">Traffic indicators</string>
-    <string name="network_traffic_title">Network traffic</string>
-    <string name="network_traffic_type">Select net activity type</string>
+    <string name="traffic_title">Indikátor síťového provozu</string>
+    <string name="network_traffic_title">Síťový provoz</string>
+    <string name="network_traffic_type">Vyberte typ činnosti sítě</string>
     <string name="show_network_traffic_up">Uplink</string>
     <string name="show_network_traffic_down">Downlink</string>
-    <string name="show_network_traffic_all">Uplink and Downlink</string>
-    <string name="network_traffic_state_title">Show net activity in statusbar</string>
-    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
-    <string name="network_traffic_hidearrow">Hide arrows</string>
-    <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+    <string name="show_network_traffic_all">Uplink a Downlink</string>
+    <string name="network_traffic_state_title">Zobrazit indikátor síťové aktivity ve stavové liště</string>
+    <string name="network_traffic_autohide_threshold_title">Prahová hodnota pro automatické skrytí síťové aktivity (KB/s)</string>
+    <string name="network_traffic_hidearrow">Skrýt šipky</string>
+    <string name="network_traffic_hidearrow_summary">Skrýt šipky aktivity sítě</string>
     <!-- Heads up -->
-    <string name="headsup_category">HeadsUp Settings</string>
-    <string name="heads_up_notifications">Heads up</string>
-    <string name="heads_up_notifications_summary">Customize heads up notifications settings</string>
-    <string name="summary_heads_up_enabled">Pop-up notifications are enabled</string>
-    <string name="summary_heads_up_disabled">Pop-up notifications are disabled</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
+    <string name="headsup_category">Nastavení plovoucího oznámení</string>
+    <string name="heads_up_notifications">Plovoucí oznámení</string>
+    <string name="heads_up_notifications_summary">Přizpůsobení nastavení plovoucích oznámení</string>
+    <string name="summary_heads_up_enabled">Plovoucí oznámení jsou povolena</string>
+    <string name="summary_heads_up_disabled">Plovoucí oznámení jsou zakázána</string>
+    <string name="add_heads_up_package">Přidat aplikaci</string>
+    <string name="add_heads_up_stoplist_summary">Zakázat plovoucí oznámení v těchto aplikacích</string>
+    <string name="add_heads_up_blacklist_summary">Zakázat plovoucí oznámení z těchto aplikací</string>
     <string name="heads_up_stoplist_title">Stoplist</string>
     <string name="heads_up_blacklist_title">Blacklist</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="profile_choose_app">Vybrat aplikaci</string>
+    <string name="dialog_delete_title">Odstranit</string>
+    <string name="dialog_delete_message">Odstranit vybranou položku?</string>
     <!-- Heads up timeout -->
-    <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
+    <string name="heads_up_time_out_title">Délka zobrazení</string>
+    <string name="heads_up_time_out_summary">Prohlížení oznámení bude zobrazeno na <xliff:g id="number">%d</xliff:g> sekund</string>
+    <string name="heads_up_time_out_2sec">2 sekundy</string>
+    <string name="heads_up_time_out_4sec">4 sekundy</string>
+    <string name="heads_up_time_out_5sec">5 sekund</string>
+    <string name="heads_up_time_out_6sec">6 sekund</string>
+    <string name="heads_up_time_out_8sec">8 sekund</string>
+    <string name="heads_up_time_out_10sec">10 sekund</string>
     <!-- Heads up snooze -->
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
+    <string name="heads_up_snooze_title">Časovač odložení</string>
+    <string name="heads_up_snooze_summary_one_minute">Přejetím prstu nahoru přes plovoucí oznámení dojde k odložení oznámení z příslušné aplikace po dobu 1 minuty</string>
+    <string name="heads_up_snooze_summary">Přejetím prstu nahoru přes plovoucí oznámení dojde k odložení oznámení z příslušné aplikace po dobu <xliff:g id="number">%d</xliff:g> minut</string>
+    <string name="heads_up_snooze_disabled_summary">Časovač odložení je zakázán</string>
+    <string name="heads_up_snooze_1min">1 minuta</string>
+    <string name="heads_up_snooze_5min">5 minut</string>
+    <string name="heads_up_snooze_10min">10 minut</string>
+    <string name="heads_up_snooze_15min">15 minut</string>
+    <string name="heads_up_snooze_20min">20 minut</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="powermenu_lockscreen_title">Lockscreen visibility</string>
-    <string name="powermenu_lockscreen_summary">Enable the ability to show and use the power menu dialog while on the lockscreen</string>
+    <string name="powermenu_lockscreen_title">Viditelnost na zamykací obrazovce</string>
+    <string name="powermenu_lockscreen_summary">Povolte možnost zobrazovat a používat dialogové okno menu napájení na zamykací obrazovce</string>
     <!-- Roaming indicator icon -->
-    <string name="roaming_indicator_icon_title">Roaming indicator</string>
-    <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
+    <string name="roaming_indicator_icon_title">Indikátor roamingu</string>
+    <string name="roaming_indicator_icon_summary">V režimu roamingu zobrazit indikátor v ikoně signálu</string>
     <!-- 4G icon -->
-    <string name="show_fourg_icon_title">4G icon</string>
-    <string name="show_fourg_icon_summary">Display 4G icon in signal icon instead LTE</string>
+    <string name="show_fourg_icon_title">Ikona 4G</string>
+    <string name="show_fourg_icon_summary">Zobrazit ikonu 4G namísto LTE</string>
     <!-- Show VoLTE icon on statusbar -->
-    <string name="volte_icon_title">VoLTE icon</string>
-    <string name="volte_icon_summary">Display VoLTE icon (Needs a SystemUI restart to take effect)</string>
+    <string name="volte_icon_title">Ikona VoLTE</string>
+    <string name="volte_icon_summary">Zobrazit ikonu VoLTE (Vyžaduje restart SystemUI)</string>
     <!-- Data disabled icon -->
-    <string name="data_disabled_icon_title">Show data disabled icon</string>
-    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+    <string name="data_disabled_icon_title">Zobrazit ikonu při vypnutí dat</string>
+    <string name="data_disabled_icon_summary">Zobrazit křížek na ikoně signálu sítě při vypnutých datech</string>
     <!--3-Finger screenshot-->
-    <string name="three_finger_gesture">Three finger gesture</string>
-    <string name="three_finger_gesture_summary">Swipe three fingers to take a screenshot</string>
+    <string name="three_finger_gesture">Gesto třemi prsty</string>
+    <string name="three_finger_gesture_summary">Snímek obrazovky přejetím tří prstů</string>
     <!-- Lockscreen icons -->
-    <string name="hide_lockscreen_items_title">Lockscreen items</string>
+    <string name="hide_lockscreen_items_title">Položky na zamykací obrazovce</string>
     <!-- Lockscreen items -->
-    <string name="lockscreen_clock_title">Clock widget</string>
-    <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
-    <string name="lockscreen_info_title">Items underneath the clock</string>
+    <string name="lockscreen_clock_title">Widget hodin</string>
+    <string name="lockscreen_clock_summary">Zobrazit widget hodin na zamykací obrazovce</string>
+    <string name="lockscreen_info_title">Položky pod hodinami</string>
     <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
     <!-- Lockscreen clock styles -->
     <string name="lockscreen_clock_styles_category">Lockscreen styles</string>
