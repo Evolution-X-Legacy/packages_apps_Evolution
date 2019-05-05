@@ -320,14 +320,14 @@
     <string name="lock_clock_font_bold">Жирный</string>
     <string name="lock_clock_font_italic">Курсив</string>
     <string name="lock_clock_font_bold_italic">Полужирный курсив</string>
-    <string name="lock_clock_font_light_italic">Тонкий курсив</string>
+    <string name="lock_clock_font_light_italic">Легкий курсив</string>
     <string name="lock_clock_font_thin_italic">Тонкий курсив</string>
-    <string name="lock_clock_font_light">Светлый</string>
+    <string name="lock_clock_font_light">Легкий</string>
     <string name="lock_clock_font_thin">Тонкий</string>
     <string name="lock_clock_font_condensed_normal">Полужирный</string>
     <string name="lock_clock_font_condensed_italic">Плотный курсив</string>
     <string name="lock_clock_font_condensed_bold">Уплотнённый жирный</string>
-    <string name="lock_clock_font_condensed_bold_italic">Плотный жирный курсив</string>
+    <string name="lock_clock_font_condensed_bold_italic">Уплотнённый жирный курсив</string>
     <string name="lock_clock_font_condensed_light">Уплотнённый тонкий</string>
     <string name="lock_clock_font_condensed_light_italic">Уплотнённый тонкий курсив</string>
     <string name="lock_clock_font_medium_normal">Средний</string>
@@ -348,7 +348,7 @@
     <string name="lock_clock_font_neoneon">Неонеон</string>
     <string name="lock_clock_font_themeable">Тематический (или VCR OSD Mono)</string>
     <string name="lock_clock_font_samsung">Шамсгунг</string>
-    <string name="lock_clock_font_sourcesanspro">шрифт Source Sans Pro</string>
+    <string name="lock_clock_font_sourcesanspro">Шрифт Sans Pro</string>
     <!-- Lock Date Fonts -->
     <string name="lock_date_font_title">Настройки шрифта даты</string>
     <string name="lock_date_font_summary">Измененить шрифт  даты на экране блокировки</string>
