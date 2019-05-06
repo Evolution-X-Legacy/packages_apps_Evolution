@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">自動非表示にする通信速度しきい値 (KB/s)</string>
     <string name="network_traffic_hidearrow">矢印を隠す</string>
     <string name="network_traffic_hidearrow_summary">通信量モニターの矢印を隠す</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Heads Up の設定</string>
     <string name="heads_up_notifications">Heads Up</string>
