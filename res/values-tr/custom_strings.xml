@@ -100,6 +100,7 @@
     <string name="battery_style_title">Pil simgesi stili</string>
     <string name="battery_style_summary">Durum çubuğunda pil simgesini değiştir</string>
     <string name="battery_style_port">Dikey</string>
+    <string name="battery_style_q">Q stili</string>
     <string name="battery_style_circle">Daire</string>
     <string name="battery_style_dotted_circle">Noktalı daire</string>
     <string name="battery_style_big_circle">Büyük daire</string>
@@ -137,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Ağ etkinliği otomatik gizlenme eşiği (KB/s)</string>
     <string name="network_traffic_hidearrow">Okları gizle</string>
     <string name="network_traffic_hidearrow_summary">Ağ etkinliği ok göstergelerini gizler</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Üst bildirim</string>
     <string name="heads_up_notifications">Bildirim pencereleri</string>
@@ -726,4 +728,25 @@
     <string name="flashlight_on_call_not_dnd">Yalnızca zil sesi modu</string>
     <string name="flashlight_on_call_dnd">Yalnızca rahatsız etmeyin modu</string>
     <string name="flashlight_on_call_always">Her zaman</string>
+    <!-- Evox logo -->
+    <string name="evox_logo_title">Evolution X Logo</string>
+    <string name="evox_logo_summary">Herkes ekranınızı gördüğünde Evolution X kullandığınızı bilmesini sağlayın</string>
+    <string name="status_bar_logo_style_title">Özel logo stili</string>
+    <!-- QS footer icons -->
+    <string name="footer_title">Alt bilgi</string>
+    <string name="qs_footer_services_title">Çalışan hizmetler simgesi</string>
+    <string name="qs_footer_services_summary">Hızlı ayarlar panelinde çalışan hizmetler simgesini görüntüle</string>
+    <string name="qs_footer_settings_title">Ayarlar simgesi</string>
+    <string name="qs_footer_settings_summary">Hızlı ayarlar alt bilgisinde ayarlar simgesini görüntüle</string>
+    <string name="qs_footer_user_title">Kullanıcı değiştirici simgesi</string>
+    <string name="qs_footer_user_summary">Hızlı ayarlar alt bilgisinde kullanıcı değiştirme simgesini görüntüle</string>
+    <string name="qs_edit_title">Düzenleme simgesi</string>
+    <string name="qs_edit_summary">Kare düzenleme simgesini hızlı ayarlar alt bilgisinde görüntüle</string>
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Metin saati konumu</string>
+    <string name="center_text_clock_summary">Q-Saat\'i X-Saat\'e dönüştürün</string>
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">Kilit ekranı bildirim sayısı</string>
+    <string name="lockscreen_maxnotif_sumary">Kilit ekranında maksimum bildirim sayısını ayarla</string>
+    <string name="lockscreen_maxnotif_config">Maksimum kilit ekranı bildirimi</string>
 </resources>

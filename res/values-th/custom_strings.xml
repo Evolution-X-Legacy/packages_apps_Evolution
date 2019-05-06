@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">ไอคอนถูกซ่อนอัตโนมัติเมื่อปริมาณการรับส่งไม่ถึงขีดจำกัดที่ตั้งไว้ (KB/s)</string>
     <string name="network_traffic_hidearrow">ซ่อนลูกศร</string>
     <string name="network_traffic_hidearrow_summary">ซ่อนลูกศรตัวบ่งบอกการรับ - ส่ง ข้อมูลอินเตอร์เน็ต</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">ตั้งค่า Heads-Up</string>
     <string name="heads_up_notifications">Heads-Up</string>
@@ -726,4 +727,25 @@
     <string name="flashlight_on_call_not_dnd">ไฟฉายกระพริบในโหมด สั่น เท่านั้น</string>
     <string name="flashlight_on_call_dnd">ไฟฉายกระพริบในโหมด ห้ามรบกวน เท่านั้น</string>
     <string name="flashlight_on_call_always">ไฟฉายกระพริบเสมอ</string>
+    <!-- Evox logo -->
+    <string name="evox_logo_title">โลโก้ Evolution X</string>
+    <string name="evox_logo_summary">บอกให้ทุกคนรู้ว่าคุณกำลังใช้ Evolution X เมื่อพวกเขาเห็นหน้าจอของคุณ</string>
+    <string name="status_bar_logo_style_title">รูปแบบโลโก้ที่กำหนดเอง</string>
+    <!-- QS footer icons -->
+    <string name="footer_title">ส่วนท้าย</string>
+    <string name="qs_footer_services_title">ไอคอนบริการที่ทำงานอยู่</string>
+    <string name="qs_footer_services_summary">แสดงไอคอน เรียกใช้บริการที่ทำงานอยู่ ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <string name="qs_footer_settings_title">ไอคอนการตั้งค่า</string>
+    <string name="qs_footer_settings_summary">แสดงไอคอนการตั้งค่า ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <string name="qs_footer_user_title">ไอคอนตัวสลับผู้ใช้</string>
+    <string name="qs_footer_user_summary">แสดงไอคอนตัวสลับผู้ใช้หลายคน ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <string name="qs_edit_title">ไอคอนแก้ไข</string>
+    <string name="qs_edit_summary">แสดงไอคอนแก้ไขไทล์ ในส่วนท้ายของการตั้งค่าด่วน</string>
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">นาฬิกาแบบข้อความอยู่ตรงกลาง</string>
+    <string name="center_text_clock_summary">เปลี่ยน Android Q Text Clock ให้อยู่ตรงกลาง</string>
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">จำนวนการแจ้งเตือนบนหน้าจอล็อค</string>
+    <string name="lockscreen_maxnotif_sumary">เปิดใช้งานการปรับจำนวนการแจ้งเตือนสูงสุดบนหน้าจอล็อค</string>
+    <string name="lockscreen_maxnotif_config">จำนวนการแจ้งเตือนสูงสุดบนหน้าจอล็อค</string>
 </resources>

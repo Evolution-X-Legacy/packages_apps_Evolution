@@ -57,7 +57,7 @@
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
-    <string name="hex">Hex:</string>
+    <string name="hex">Шестнадцатеричный код:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Применить</string>
     <string name="color_default">По умолчанию</string>
@@ -100,6 +100,7 @@
     <string name="battery_style_title">Стиль иконки батареи</string>
     <string name="battery_style_summary">Изменить стиль строки состояния батареи</string>
     <string name="battery_style_port">Портретный</string>
+    <string name="battery_style_q">Стиль Android Q</string>
     <string name="battery_style_circle">Круг</string>
     <string name="battery_style_dotted_circle">Пунктирный круг</string>
     <string name="battery_style_big_circle">Большой круг</string>
@@ -137,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Пороговое значение сетевой активности (KB/s)</string>
     <string name="network_traffic_hidearrow">Скрыть стрелки</string>
     <string name="network_traffic_hidearrow_summary">Скрыть стрелки индикатора сетевого трафика</string>
+    <string name="nettraf_font_size">Размер одного шрифта</string>
     <!-- Heads up -->
     <string name="headsup_category">Настройки всплывающих уведомлений</string>
     <string name="heads_up_notifications">Всплывающие уведомления</string>
@@ -319,35 +321,35 @@
     <string name="lock_clock_font_bold">Жирный</string>
     <string name="lock_clock_font_italic">Курсив</string>
     <string name="lock_clock_font_bold_italic">Полужирный курсив</string>
-    <string name="lock_clock_font_light_italic">Тонкий курсив</string>
+    <string name="lock_clock_font_light_italic">Легкий курсив</string>
     <string name="lock_clock_font_thin_italic">Тонкий курсив</string>
-    <string name="lock_clock_font_light">Светлый</string>
+    <string name="lock_clock_font_light">Легкий</string>
     <string name="lock_clock_font_thin">Тонкий</string>
     <string name="lock_clock_font_condensed_normal">Полужирный</string>
     <string name="lock_clock_font_condensed_italic">Плотный курсив</string>
-    <string name="lock_clock_font_condensed_bold">Condensed Bold</string>
-    <string name="lock_clock_font_condensed_bold_italic">Condensed Bold Italic</string>
+    <string name="lock_clock_font_condensed_bold">Уплотнённый жирный</string>
+    <string name="lock_clock_font_condensed_bold_italic">Уплотнённый жирный курсив</string>
     <string name="lock_clock_font_condensed_light">Уплотнённый тонкий</string>
-    <string name="lock_clock_font_condensed_light_italic">Condensed Light Italic</string>
+    <string name="lock_clock_font_condensed_light_italic">Уплотнённый лёгкий курсив</string>
     <string name="lock_clock_font_medium_normal">Средний</string>
     <string name="lock_clock_font_medium_italic">Средний курсив</string>
     <string name="lock_clock_font_black">Чёрный</string>
     <string name="lock_clock_font_black_italic">Черный курсив</string>
     <string name="lock_clock_font_dancingscript">DancingScript</string>
-    <string name="lock_clock_font_dancingscript_bold">DancingScript Bold</string>
-    <string name="lock_clock_font_comingsoon">ComingSoon</string>
+    <string name="lock_clock_font_dancingscript_bold">DancingScript жирный</string>
+    <string name="lock_clock_font_comingsoon">Ожидается</string>
     <string name="lock_clock_font_notoserif">NotoSerif Нормальный</string>
-    <string name="lock_clock_font_notoserif_italic">NotoSerif Italic</string>
-    <string name="lock_clock_font_notoserif_bold">NotoSerif Bold</string>
-    <string name="lock_clock_font_notoserif_bold_italic">NotoSerif Bold Italic</string>
-    <string name="lock_clock_font_gobold">GoBold Light</string>
-    <string name="lock_clock_font_roadrage">Road Rage</string>
-    <string name="lock_clock_font_snowstorm">Snowstorm</string>
+    <string name="lock_clock_font_notoserif_italic">NotoSerif курсив</string>
+    <string name="lock_clock_font_notoserif_bold">NotoSerif жирный</string>
+    <string name="lock_clock_font_notoserif_bold_italic">NotoSerif жирный курсив</string>
+    <string name="lock_clock_font_gobold">GoBold лёгкий</string>
+    <string name="lock_clock_font_roadrage">Дорожная яркость</string>
+    <string name="lock_clock_font_snowstorm">Метель</string>
     <string name="lock_clock_font_googlesans">Google Sans</string>
-    <string name="lock_clock_font_neoneon">Neoneon</string>
+    <string name="lock_clock_font_neoneon">Неонеон</string>
     <string name="lock_clock_font_themeable">Тематический (или VCR OSD Mono)</string>
     <string name="lock_clock_font_samsung">Шамсгунг</string>
-    <string name="lock_clock_font_sourcesanspro">шрифт Source Sans Pro</string>
+    <string name="lock_clock_font_sourcesanspro">Шрифт Sans Pro</string>
     <!-- Lock Date Fonts -->
     <string name="lock_date_font_title">Настройки шрифта даты</string>
     <string name="lock_date_font_summary">Измененить шрифт  даты на экране блокировки</string>
@@ -599,7 +601,7 @@
     <string name="button8">Горизонтальные линии</string>
     <string name="button9">Круговой флажок </string>
     <string name="button10">Удаление смахиванием</string>
-    <string name="button11">Zzzzz</string>
+    <string name="button11">Ззззззз</string>
     <string name="button12">Закрыть глаза</string>
     <string name="button13">Кнопка \"Мне нравится\"</string>
     <string name="button14">Свайп куб</string>
@@ -725,4 +727,25 @@
     <string name="flashlight_on_call_not_dnd">Мигание фонарика только в режиме вызовов</string>
     <string name="flashlight_on_call_dnd">Мигание фонарика только в режиме \"не беспокоить\"</string>
     <string name="flashlight_on_call_always">Мигание фонарика - всегда</string>
+    <!-- Evox logo -->
+    <string name="evox_logo_title">Логотип Evolution X</string>
+    <string name="evox_logo_summary">Покажите всем, что вы используете Evolution X, когда они видят ваш экран</string>
+    <string name="status_bar_logo_style_title">Пользовательский стиль логотипа</string>
+    <!-- QS footer icons -->
+    <string name="footer_title">Нижняя часть</string>
+    <string name="qs_footer_services_title">Иконка запущенных служб</string>
+    <string name="qs_footer_services_summary">Отображать значок запущенных служб внизу быстрых настроек</string>
+    <string name="qs_footer_settings_title">Иконка настроек</string>
+    <string name="qs_footer_settings_summary">Отображать значок настроек внизу быстрых настроек</string>
+    <string name="qs_footer_user_title">Пользовательский переключатель</string>
+    <string name="qs_footer_user_summary">Отображать переключатель пользователей в нижней части QS</string>
+    <string name="qs_edit_title">Значок редактирования быстрых настроек</string>
+    <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Текстовые часы по центру</string>
+    <string name="center_text_clock_summary">Преобразование Q-часы в X-часы</string>
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">Счётчик уведомлений на экране блокировки</string>
+    <string name="lockscreen_maxnotif_sumary">Установить максимально допустимое количество уведомлений на экране блокировки</string>
+    <string name="lockscreen_maxnotif_config">Максимальное количество уведомлений на экране блокировки</string>
 </resources>
