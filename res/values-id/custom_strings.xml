@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Ambang batas kecepatan internet disembunyikan (KB/s)</string>
     <string name="network_traffic_hidearrow">Sembunyikan panah</string>
     <string name="network_traffic_hidearrow_summary">Sembunyikan panah indikator kecepatan internet</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Pengaturan HeadsUp</string>
     <string name="heads_up_notifications">Heads up</string>
