@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Nascondi automaticamente soglia</string>
     <string name="network_traffic_hidearrow">Frecce di attività</string>
     <string name="network_traffic_hidearrow_summary">Mostra le frecce dell\'indicatore di traffico di rete</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Impostazioni HeadsUp</string>
     <string name="heads_up_notifications">Notifiche a comparsa</string>
