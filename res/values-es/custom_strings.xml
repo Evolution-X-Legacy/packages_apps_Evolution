@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Ocultar automaticamente los indicadores de trafico por debajo de (KB/s)</string>
     <string name="network_traffic_hidearrow">Ocultar flechas</string>
     <string name="network_traffic_hidearrow_summary">Ocultar las flechas del indicador de tráfico de red</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Configuracion de notificaciones flotantes</string>
     <string name="heads_up_notifications">Notificaciones flotantes</string>
