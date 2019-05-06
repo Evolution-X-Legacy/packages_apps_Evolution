@@ -523,7 +523,7 @@
     <string name="recents_title">Recents panel</string>
     <string name="recents_summary">Position clear button and some immersive style</string>
     <!-- Recents panel settings -->
-    <string name="show_clear_all_recents_button_title">Clear all button</string>
+    <string name="show_clear_all_recents_button_title">Išvalyti viską mygtukas</string>
     <string name="show_clear_all_recents_button_summary">Show clear all button</string>
     <string name="recents_clear_all_location_title">Clear all location</string>
     <string name="recents_clear_all_location_top_right">Top right</string>
