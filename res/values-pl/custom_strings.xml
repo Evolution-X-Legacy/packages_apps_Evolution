@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Próg działania wskaźnika internetu (KB/s)</string>
     <string name="network_traffic_hidearrow">Ukryj strzałki</string>
     <string name="network_traffic_hidearrow_summary">Ukryj strzałki wskaźnikaruchu sieciowego</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Ustawienia wyskakujących powiadomień</string>
     <string name="heads_up_notifications">Wyskakujące powiadomienia</string>
