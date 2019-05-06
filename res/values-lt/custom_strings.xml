@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Slėpti interneto aktyvumą pasiekus ribą (KB/s)</string>
     <string name="network_traffic_hidearrow">Slėpti rodykles</string>
     <string name="network_traffic_hidearrow_summary">Slėpt tinklo srauto indikatoriaus rodykles</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">HeadsUp Settings</string>
     <string name="heads_up_notifications">Heads up</string>
