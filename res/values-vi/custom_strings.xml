@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Ngưỡng tự động ẩn tốc độ mạng (KB/s)</string>
     <string name="network_traffic_hidearrow">Ẩn mũi tên</string>
     <string name="network_traffic_hidearrow_summary">Ẩn mũi tên bên cạnh tốc độ mạng</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Cài đặt Thông báo nổi</string>
     <string name="heads_up_notifications">Thông báo nổi</string>
