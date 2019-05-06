@@ -138,7 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Пороговое значение сетевой активности (KB/s)</string>
     <string name="network_traffic_hidearrow">Скрыть стрелки</string>
     <string name="network_traffic_hidearrow_summary">Скрыть стрелки индикатора сетевого трафика</string>
-    <string name="nettraf_font_size">Single Net Font size</string>
+    <string name="nettraf_font_size">Размер одного шрифта</string>
     <!-- Heads up -->
     <string name="headsup_category">Настройки всплывающих уведомлений</string>
     <string name="heads_up_notifications">Всплывающие уведомления</string>
