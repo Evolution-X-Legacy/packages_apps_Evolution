@@ -100,7 +100,7 @@
     <string name="battery_style_title">Estilo de icono de bateria</string>
     <string name="battery_style_summary">Cambiar estilo de barra de bateria en la barra de estado</string>
     <string name="battery_style_port">Vertical/Por defecto</string>
-    <string name="battery_style_q">Q style</string>
+    <string name="battery_style_q">Estilo Q</string>
     <string name="battery_style_circle">Circulo</string>
     <string name="battery_style_dotted_circle">Circulo punteado</string>
     <string name="battery_style_big_circle">Circulo grande</string>
@@ -478,8 +478,8 @@
     <string name="since_unplug">Desconectar</string>
     <string name="other">Actividad</string>
     <string name="kernel_wakelocks">Wakelocks del núcleo</string>
-    <string name="partial_wakelocks">Partial wakelocks</string>
-    <string name="app_wakelocks">App wakelocks</string>
+    <string name="partial_wakelocks">Despertares parciales</string>
+    <string name="app_wakelocks">Despertares de aplicaciones</string>
     <string name="create_ref">Reinicio</string>
     <string name="spinner_period_title">Desde</string>
     <string name="spinner_type_title">Mostrar</string>
@@ -489,12 +489,12 @@
     <string name="no_kernel_wakelock_file_found">Sin archivo kernel wakelock /proc/wakelocks o /sys/kernel/debug/wakeup_sources encontrado.</string>
     <string name="more_line_text">mas\u2026</string>
     <string name="state_core_mode">Nucleos</string>
-    <string name="kernel_wakelock_time">Kernel wakelocks</string>
-    <string name="user_wakelock_time">Partial wakelocks</string>
+    <string name="kernel_wakelock_time">Wakelocks del núcleo</string>
+    <string name="user_wakelock_time">Despertares parciales</string>
     <string name="battery_change">Cambio de bateria</string>
     <string name="spinner_state_time_title">Tiempo</string>
     <string name="total_time">Total</string>
-    <string name="wakelock_time">Wakelocks</string>
+    <string name="wakelock_time">Wakelock</string>
     <string name="copy_as_text">Copiar como texto</string>
     <string name="google_it">Googlearlo</string>
     <string name="app_details">Detalle de aplicaciones</string>
@@ -512,14 +512,14 @@
     <string name="time_in_state_title">Tiempo en estado</string>
     <string name="time_in_state_summary">Mostrar estadisticas de frecuencia de CPU</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
-    <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_cover_filter_tint">Accent tinted</string>
-    <string name="lockscreen_cover_filter_blur">Blur</string>
-    <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_cover_filter_title">Filtro de la pantalla del álbum de la pantalla de bloqueo</string>
+    <string name="lockscreen_cover_filter_none">Ninguno</string>
+    <string name="lockscreen_cover_filter_grayscale">Escala de grises</string>
+    <string name="lockscreen_cover_filter_tint">Acento teñido</string>
+    <string name="lockscreen_cover_filter_blur">Desenfoque</string>
+    <string name="lockscreen_cover_filter_grayblur">Escala de grises y desenfocado</string>
     <!-- Recents panel -->
-    <string name="recents_title">Recents panel</string>
+    <string name="recents_title">Panel recientes</string>
     <string name="recents_summary">Position clear button and some immersive style</string>
     <!-- Recents panel settings -->
     <string name="show_clear_all_recents_button_title">Clear all button</string>
