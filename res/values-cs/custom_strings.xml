@@ -42,7 +42,7 @@
     <string name="hide_apps_title">Skrýt aplikace</string>
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Restartovat</string>
+    <string name="reset">Resetovat</string>
     <string name="cancel">Zrušit</string>
     <string name="save">Uložit</string>
     <string name="action_save">Uložit</string>
