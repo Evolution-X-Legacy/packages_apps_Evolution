@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Prahová hodnota pro automatické skrytí síťové aktivity (KB/s)</string>
     <string name="network_traffic_hidearrow">Skrýt šipky</string>
     <string name="network_traffic_hidearrow_summary">Skrýt šipky aktivity sítě</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">Nastavení plovoucího oznámení</string>
     <string name="heads_up_notifications">Plovoucí oznámení</string>
