@@ -138,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">ไอคอนถูกซ่อนอัตโนมัติเมื่อปริมาณการรับส่งไม่ถึงขีดจำกัดที่ตั้งไว้ (KB/s)</string>
     <string name="network_traffic_hidearrow">ซ่อนลูกศร</string>
     <string name="network_traffic_hidearrow_summary">ซ่อนลูกศรตัวบ่งบอกการรับ - ส่ง ข้อมูลอินเตอร์เน็ต</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">ตั้งค่า Heads-Up</string>
     <string name="heads_up_notifications">Heads-Up</string>
@@ -739,7 +740,7 @@
     <string name="qs_footer_user_title">ไอคอนตัวสลับผู้ใช้</string>
     <string name="qs_footer_user_summary">แสดงไอคอนตัวสลับผู้ใช้หลายคน ในส่วนท้ายของการตั้งค่าด่วน</string>
     <string name="qs_edit_title">ไอคอนแก้ไข</string>
-    <string name="qs_edit_summary">แสดงไอคอนแก้ไขไทล์ ในส่วนท้ายของการตั้งค่าด่วน</string>  
+    <string name="qs_edit_summary">แสดงไอคอนแก้ไขไทล์ ในส่วนท้ายของการตั้งค่าด่วน</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">นาฬิกาแบบข้อความอยู่ตรงกลาง</string>
     <string name="center_text_clock_summary">เปลี่ยน Android Q Text Clock ให้อยู่ตรงกลาง</string>
