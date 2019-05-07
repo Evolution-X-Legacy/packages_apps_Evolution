@@ -351,53 +351,53 @@
     <string name="lock_clock_font_samsung">Shamshung</string>
     <string name="lock_clock_font_sourcesanspro">Source Sans Pro</string>
     <!-- Lock Date Fonts -->
-    <string name="lock_date_font_title">Date font options</string>
-    <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
-    <string name="lock_date_font_dialog_title">Select lock date font</string>
+    <string name="lock_date_font_title">Opzioni carattere data</string>
+    <string name="lock_date_font_summary">Cambia il carattere predefinito della data nella schermata di blocco</string>
+    <string name="lock_date_font_dialog_title">Seleziona carattere data</string>
     <!-- Themes -->
-    <string name="accent_color">Accent color</string>
+    <string name="accent_color">Colore primario</string>
     <!-- QS themes -->
-    <string name="qs_themes_category_title">Quick Settings colors</string>
-    <string name="qs_panel_alpha_title">Transparency</string>
-    <string name="qs_panel_color_title">Color</string>
-    <string name="qs_bg_wall_title">Use Wallpaper colors</string>
-    <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
-    <string name="qs_bg_use_fw">Use default colors</string>
-    <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
-    <string name="qs_bg_accent_title">Use Accent color</string>
-    <string name="qs_bg_accent_summary">Set QS background color from System Accent</string>
+    <string name="qs_themes_category_title">Colore del pannello impostazioni rapide</string>
+    <string name="qs_panel_alpha_title">Transparenza</string>
+    <string name="qs_panel_color_title">Colore</string>
+    <string name="qs_bg_wall_title">Usa colori dallo sfondo</string>
+    <string name="qs_bg_wall_summary">Imposta il colore di fondo delle impostazioni rapide dallo sfondo della home</string>
+    <string name="qs_bg_use_fw">Usa colori predefiniti</string>
+    <string name="qs_bg_use_fw_summary">Disabilita lo stile personalizzato delle impostazioni rapide per gestori di temi esterni</string>
+    <string name="qs_bg_accent_title">Usa colore tema</string>
+    <string name="qs_bg_accent_summary">Imposta il colore di fondo delle impostazioni rapide dal tema di sistema</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">Angoli</string>
+    <string name="corner_radius">Raggio degli angoli arrotondati</string>
+    <string name="content_padding">Riempimento dell\'angolo</string>
+    <string name="corner_fwvals">Usa i valori del framework</string>
+    <string name="corner_fwvals_summary">Utile se il dispositivo ha effettivamente gli angoli arrotondati</string>
     <!-- Sensor block per-package -->
-    <string name="sensor_block_title">Sensor block per-package</string>
-    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+    <string name="sensor_block_title">Blocco sensori per app</string>
+    <string name="sensor_block_summary">Impedisci l\'accesso a determinati sensori su alcune app per risparmiare batteria</string>
     <!-- Volume Steps Fragment -->
-    <string name="volume_steps_fragment_title">Volume steps</string>
-    <string name="volume_steps_summary">Customize volume steps</string>
-    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-    <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-    <string name="volume_steps_music_title">Volume steps: Media</string>
-    <string name="volume_steps_notification_title">Volume steps: Notification</string>
-    <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-    <string name="volume_steps_system_title">Volume steps: System</string>
-    <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
-    <string name="volume_steps_reset">Reset</string>
+    <string name="volume_steps_fragment_title">Livelli volume</string>
+    <string name="volume_steps_summary">Personalizza i livelli del volume</string>
+    <string name="volume_steps_alarm_title">Livelli volume: Sveglia</string>
+    <string name="volume_steps_dtmf_title">Livelli volume: DTMF</string>
+    <string name="volume_steps_music_title">Livelli volume: Media</string>
+    <string name="volume_steps_notification_title">Livelli volume: Notifiche</string>
+    <string name="volume_steps_ring_title">Livelli volume: Suoneria</string>
+    <string name="volume_steps_system_title">Livelli volume: Sistema</string>
+    <string name="volume_steps_voice_call_title">Livelli volume: Chiamata</string>
+    <string name="volume_steps_reset">Ripristina</string>
     <!-- Notification guts kill app button -->
-    <string name="notification_guts_kill_app_button_title">Kill app button</string>
-    <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
+    <string name="notification_guts_kill_app_button_title">Pulsante termina app</string>
+    <string name="notification_guts_kill_app_button_summary">Mostra un pulsante per terminare l\'applicazione quando si preme a lungo sulla notifica</string>
     <!-- Notification with screen on -->
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="notification_sound_vib_screen_on_title">Notifiche con suono se lo schermo è acceso</string>
+    <string name="notification_sound_vib_screen_on_summary">Disabilita per bloccare il suono e la vibrazione delle notifiche quando lo schermo è acceso</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
+    <string name="less_notification_sounds_title">Suoni di notifica intelligenti</string>
+    <string name="less_notification_sounds_summary">Riproduci il suono di notifica di ogni app solo una volta per il periodo di tempo impostato</string>
+    <string name="less_notification_sounds_default">Predefinito dall\'app</string>
+    <string name="less_notification_sounds_10s">Ogni 10 secondi</string>
+    <string name="less_notification_sounds_30s">Ogni 30 secondi</string>
     <string name="less_notification_sounds_1m">Every minute</string>
     <string name="less_notification_sounds_2m">Every 2 minutes</string>
     <!-- Ambient display music ticker -->
@@ -450,16 +450,16 @@
     <string name="SHORT_LOCATION_ACCURACY">Location accuracy</string>
     <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Motion inactive timeout</string>
     <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Idle after inactive timeout</string>
-    <string name="SHORT_IDLE_PENDING_TIMEOUT">Idle pending timeout</string>
-    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string>
-    <string name="SHORT_IDLE_PENDING_FACTOR">Idle pending factor</string>
-    <string name="SHORT_IDLE_TIMEOUT">Idle timeout</string>
-    <string name="SHORT_MAX_IDLE_TIMEOUT">Max idle timeout</string>
-    <string name="SHORT_IDLE_FACTOR">Idle factor</string>
-    <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string>
-    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string>
-    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string>
-    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string>
+    <string name="SHORT_IDLE_PENDING_TIMEOUT">Timeout di attesa inattività</string>
+    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Timeout di attesa massima inattività</string>
+    <string name="SHORT_IDLE_PENDING_FACTOR">Fattore di attesa inattività</string>
+    <string name="SHORT_IDLE_TIMEOUT">Timeout inattività</string>
+    <string name="SHORT_MAX_IDLE_TIMEOUT">Massimo timeout inattività</string>
+    <string name="SHORT_IDLE_FACTOR">Fattore inattività</string>
+    <string name="SHORT_MIN_TIME_TO_ALARM">Tempo minimo di allarme</string>
+    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Durata massima della whitelist temporanea per app</string>
+    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Durata massima della whitelist per app di MMS</string>
+    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Durata massima della whitelist per app di SMS</string>
     <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
     <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string>
     <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string>
