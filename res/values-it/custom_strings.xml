@@ -333,12 +333,12 @@
     <string name="lock_clock_font_condensed_light_italic">Condensato corsivo leggero</string>
     <string name="lock_clock_font_medium_normal">Medio</string>
     <string name="lock_clock_font_medium_italic">Medio corsivo</string>
-    <string name="lock_clock_font_black">Black</string>
-    <string name="lock_clock_font_black_italic">Black Italic</string>
+    <string name="lock_clock_font_black">Nero</string>
+    <string name="lock_clock_font_black_italic">Nero corsivo</string>
     <string name="lock_clock_font_dancingscript">DancingScript</string>
-    <string name="lock_clock_font_dancingscript_bold">DancingScript Bold</string>
+    <string name="lock_clock_font_dancingscript_bold">DancingScript grassetto</string>
     <string name="lock_clock_font_comingsoon">ComingSoon</string>
-    <string name="lock_clock_font_notoserif">NotoSerif Normal</string>
+    <string name="lock_clock_font_notoserif">NotoSerif normale</string>
     <string name="lock_clock_font_notoserif_italic">NotoSerif corsivo</string>
     <string name="lock_clock_font_notoserif_bold">NotoSerif grassetto</string>
     <string name="lock_clock_font_notoserif_bold_italic">NotoSerif grassetto corsivo</string>
@@ -398,34 +398,34 @@
     <string name="less_notification_sounds_default">Predefinito dall\'app</string>
     <string name="less_notification_sounds_10s">Ogni 10 secondi</string>
     <string name="less_notification_sounds_30s">Ogni 30 secondi</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
+    <string name="less_notification_sounds_1m">Ogni minuto</string>
+    <string name="less_notification_sounds_2m">Ogni due minuti</string>
     <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <string name="force_ambient_for_media_pref_title">Ticker musicale Ambient</string>
+    <string name="force_ambient_for_media_pref_summary">Configura il ticker musicale Ambient</string>
+    <string name="ambient_ticker_footer">Ambient Music Ticker mostra le informazioni della traccia musicale all\'interno della schermata Ambient display.\n\nSi attiva anche se Ambient Display è disabilitato quando viene avviata una nuova traccia, forzando una schermata Ambient vuota con le informazioni sulla traccia nel mezzo dello schermo.\n\nPuoi anche toccare due volte sulle informazioni sulla traccia per saltarla.</string>
+    <string name="force_ambient_for_media_title">Attiva</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze settings</string>
-    <string name="doze_settings_title">Doze settings</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
-    <string name="action_restoredefault">Restore defaults</string>
-    <string name="action_profile">Profiles</string>
-    <string name="action_save_as_profile">Save as profile</string>
-    <string name="delete_profile">Delete profile</string>
-    <string name="profile_name">Name</string>
-    <string name="string_seconds">seconds</string>
-    <string name="string_default">Default</string>
-    <string name="action_filter">Filter</string>
-    <string name="doze_settings_applied">Settings applied</string>
-    <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string>
-    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
-    <string name="DESC_LOCATING_TIMEOUT">This is how long we will wait to try to get a good location fix before going in to idle mode</string>
-    <string name="DESC_LOCATION_ACCURACY">The desired maximum accuracy (in meters) we consider the location to be good enough to go on to idle. We will be trying to get an accuracy fix at least this good or until locating_to expires</string>
-    <string name="DESC_MOTION_INACTIVE_TIMEOUT">This is the time, after seeing motion, that we wait after becoming inactive from that until we start looking for motion again</string>
-    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after the inactive timeout elapses, that we will wait looking for significant motion until we truly consider the device to be idle</string>
-    <string name="DESC_IDLE_PENDING_TIMEOUT">This is the initial time, after being idle, that we will allow ourself to be back in the IDLE_PENDING state allowing the system to run normally until we return to idle</string>
-    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Maximum pending idle timeout (time spent running) we will be allowed to use</string>
+    <string name="advanced_doze_settings">Impostazioni avanzate Doze</string>
+    <string name="doze_settings_title">Impostazioni Doze</string>
+    <string name="doze_settings_summary">Modifica le impostazioni Doze</string>
+    <string name="action_restoredefault">Ripristina valori predefiniti</string>
+    <string name="action_profile">Profili</string>
+    <string name="action_save_as_profile">Salva come profilo</string>
+    <string name="delete_profile">Elimina profilo</string>
+    <string name="profile_name">Nome</string>
+    <string name="string_seconds">secondi</string>
+    <string name="string_default">Predefinito</string>
+    <string name="action_filter">Filtro</string>
+    <string name="doze_settings_applied">Impostazioni applicate</string>
+    <string name="DESC_INACTIVE_TIMEOUT">Questo è il tempo di inattività dopo il quale iniziamo a interrogare il sensore di movimento per determinare se il dispositivo non viene utilizzato. Questo non avviene dal primo momento di inattività per evitare che il sensore di movimento sia utilizzato ogni volta che lo schermo viene spento</string>
+    <string name="DESC_SENSING_TIMEOUT">Se non si riceve un segnale da AnyMotion in questo lasso di tempo + locating_to, cambieremo da STATE_SENSING a STATE_INACTIVE, e tutti i segnali da AnyMotion che non sono in STATE_SENSING saranno ignorati</string>
+    <string name="DESC_LOCATING_TIMEOUT">Questo è il tempo che aspetteremo per provare a ottenere una buona correzione della posizione prima di passare alla modalità di inattività</string>
+    <string name="DESC_LOCATION_ACCURACY">La precisione massima desiderata (in metri) in cui consideriamo la posizione abbastanza buona da continuare a rimanere in modalità di inattività. Cercheremo di ottenere una correzione accurata almeno in questo modo o fino a quando il locating_to scadrà</string>
+    <string name="DESC_MOTION_INACTIVE_TIMEOUT">Questo è il tempo trascorso, dopo aver rilevato il movimento, che aspettiamo dopo essere diventato inattivo fin a quando non iniziamo a cercare di nuovo il movimento</string>
+    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">Questo è il tempo, una volta raggiunto il timeout di inattività, durante il quale resteremo in ascolto per la rilevazione di un movimento significativo. In caso contrario il dispositivo sarà considerato veramente inattivo</string>
+    <string name="DESC_IDLE_PENDING_TIMEOUT">Questo è il momento iniziale, dopo essere diventato inattivo, che permetteremo di tornare nello stato IDLE_PENDING che permette al sistema di funzionare normalmente fino a quando non torneremo a rimanere inattivi</string>
+    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Massimo tempo di attesa in sospeso (tempo trascorso in esecuzione) che ci sarà consentito utilizzare</string>
     <string name="DESC_IDLE_PENDING_FACTOR">Scaling factor to apply to current pending idle timeout each time we cycle through that state</string>
     <string name="DESC_IDLE_TIMEOUT">This is the initial time that we want to sit in the idle state before waking up again to return to pending idle and allowing normal work to run</string>
     <string name="DESC_MAX_IDLE_TIMEOUT">Maximum idle duration we will be allowed to use</string>
@@ -501,56 +501,56 @@
     <string name="app_details">Dettagli sull\'app</string>
     <string name="no_stat_because_reset_state">Premi Ripristina per avviare la raccolta di dati sullo stato</string>
     <string name="no_stat_because_reset_wakelock">Premi Ripristina per avviare la raccolta di dati sui wakelock</string>
-    <string name="no_stat_because_plugged">Please unplug power to get wakelock data</string>
-    <string name="no_states_file_found">No states file found. Are you sure your phone is 
-        compatible?\n\nIf you are running a custom ROM or kernel, try 
-        contacting its developer to inform him that the states file is not 
-        readable.</string>
-    <string name="deep_sleep">"Deep Sleep"</string>
-    <string name="mt_refresh">Refresh</string>
-    <string name="mt_share">Share</string>
-    <string name="mt_reset">Reset</string>
+    <string name="no_stat_because_plugged">Disconnetti dal caricatore per ottenere dati sui wakelock</string>
+    <string name="no_states_file_found">Nessun file delle statistiche è stato trovato. Sicuro che il telefono sia
+        compatibile?\n\nSe stai usando una ROM o un kernel custom, prova a
+        contattare il suo sviluppatore per informarlo che il file delle statistiche non è
+        leggibile.</string>
+    <string name="deep_sleep">"Deep sleep"</string>
+    <string name="mt_refresh">Aggiorna</string>
+    <string name="mt_share">Condividi</string>
+    <string name="mt_reset">Ripristina</string>
     <string name="time_in_state_title">Time in state</string>
-    <string name="time_in_state_summary">Show CPU frequency statistics</string>
+    <string name="time_in_state_summary">Mostra le statistiche di frequenza della CPU</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
-    <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_cover_filter_tint">Accent tinted</string>
-    <string name="lockscreen_cover_filter_blur">Blur</string>
-    <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_cover_filter_title">Filtro copertina album su schermata di blocco</string>
+    <string name="lockscreen_cover_filter_none">Nessuno</string>
+    <string name="lockscreen_cover_filter_grayscale">Scala di grigi</string>
+    <string name="lockscreen_cover_filter_tint">Colore d\'accento</string>
+    <string name="lockscreen_cover_filter_blur">Sfocatura</string>
+    <string name="lockscreen_cover_filter_grayblur">Scala di grigi e sfocatura</string>
     <!-- Recents panel -->
-    <string name="recents_title">Recents panel</string>
-    <string name="recents_summary">Position clear button and some immersive style</string>
+    <string name="recents_title">Pannello recenti</string>
+    <string name="recents_summary">Posizione del pulsante Cancella tutto e un po\' di stile immersivo</string>
     <!-- Recents panel settings -->
-    <string name="show_clear_all_recents_button_title">Clear all button</string>
-    <string name="show_clear_all_recents_button_summary">Show clear all button</string>
-    <string name="recents_clear_all_location_title">Clear all location</string>
-    <string name="recents_clear_all_location_top_right">Top right</string>
-    <string name="recents_clear_all_location_top_left">Top left</string>
-    <string name="recents_clear_all_location_top_center">Top center</string>
-    <string name="recents_clear_all_location_bottom_right">Bottom right</string>
-    <string name="recents_clear_all_location_bottom_left">Bottom left</string>
-    <string name="recents_clear_all_location_bottom_center">Bottom center</string>
+    <string name="show_clear_all_recents_button_title">Pulsante Cancella tutto</string>
+    <string name="show_clear_all_recents_button_summary">Mostra pulsante Cancella tutto</string>
+    <string name="recents_clear_all_location_title">Posizione pulsante Cancella tutto</string>
+    <string name="recents_clear_all_location_top_right">In alto a destra</string>
+    <string name="recents_clear_all_location_top_left">In alto a sinistra</string>
+    <string name="recents_clear_all_location_top_center">In alto al centro</string>
+    <string name="recents_clear_all_location_bottom_right">In basso a destra</string>
+    <string name="recents_clear_all_location_bottom_left">In basso a sinistra</string>
+    <string name="recents_clear_all_location_bottom_center">In basso al centro</string>
     <!-- Hide Apps from Recents -->
-    <string name="hide_apps_from_recents_title">Hide apps from recents</string>
-    <string name="hide_from_recents_add_app">Add App</string>
-    <string name="hide_apps_from_recents_summary">Select certian apps to hide in recents</string>
+    <string name="hide_apps_from_recents_title">Nascondi app dai recenti</string>
+    <string name="hide_from_recents_add_app">Aggiungi app</string>
+    <string name="hide_apps_from_recents_summary">Seleziona quali applicazioni devono essere escluse dal pannello app recenti</string>
     <!-- Pie and Oreo recents -->
-    <string name="recents_component_type_title">Recents Style</string>
+    <string name="recents_component_type_title">Stile dei recenti</string>
     <string name="recents_quickstep">Quickstep</string>
     <string name="recents_stock">Stock</string>
-    <string name="recents_grid">Grid</string>
+    <string name="recents_grid">Griglia</string>
     <string name="recents_go">Android Go</string>
     <!-- AOSP recents -->
-    <string name="aosp_first_time_title">AOSP recents</string>
-    <string name="aosp_first_time_message">Immersive recents setting is overridden if the expanded desktop is enabled.</string>
+    <string name="aosp_first_time_title">Recenti AOSP</string>
+    <string name="aosp_first_time_message">L\'impostazione dei recenti a schermo intero viene ignorata se il desktop esteso è abilitato.</string>
     <!-- Immersive recents -->
-    <string name="immersive_recents_title">Immersive recents</string>
-    <string name="immersive_recents_summary">Change the view of the recents screen</string>
-    <string name="immersive_recents_dialog_title">Select recents view</string>
-    <string name="immersive_recents_default">Default</string>
-    <string name="immersive_recents_fullscreen">Fullscreen</string>
+    <string name="immersive_recents_title">Recenti a schermo intero</string>
+    <string name="immersive_recents_summary">Cambia la visualizzazione della schermata app recenti</string>
+    <string name="immersive_recents_dialog_title">Seleziona l\'aspetto dei recenti</string>
+    <string name="immersive_recents_default">Predefinito</string>
+    <string name="immersive_recents_fullscreen">Schermo intero</string>
     <string name="immersive_recents_statusbar">Solo barra di stato</string>
     <string name="immersive_recents_navbar">Solo barra di navigazione</string>
     <!-- Recents Membar -->
@@ -702,24 +702,24 @@
     <string name="clock_date_string_edittext_summary">Enter string</string>
     <string name="date_cat">Date</string>
     <string name="clock_cat">Clock</string>
-    <string name="status_bar_clock_font_style_title">Font style</string>
-    <string name="status_bar_clock_font_size_title">Font size</string>
-    <string name="status_bar_clock_color_title">Font color</string>
+    <string name="status_bar_clock_font_style_title">Stile carattere</string>
+    <string name="status_bar_clock_font_size_title">Dimensioni carattere</string>
+    <string name="status_bar_clock_color_title">Colore carattere</string>
     <!-- Custom carrier label and position -->
-    <string name="carrier_label_category_title">Carrier Label</string>
-    <string name="carrier_label_category_summary">Customize statusbar carrier label</string>
-    <string name="carrier_label_settings_title">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="show_carrier_title">Carrier label</string>
-    <string name="show_carrier_disabled">Disabled</string>
-    <string name="show_carrier_keyguard">Lockscreen only</string>
-    <string name="show_carrier_statusbar">Statusbar only</string>
-    <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
-    <string name="status_bar_carrier_size">Carrier label size</string>
-    <string name="status_bar_carrier_font_style_title">Carrier label font</string>
+    <string name="carrier_label_category_title">Etichetta operatore</string>
+    <string name="carrier_label_category_summary">Personalizza etichetta operatore nella barra di stato</string>
+    <string name="carrier_label_settings_title">Etichetta operatore</string>
+    <string name="carrier_label_settings_summary">Personalizza l\'etichetta operatore</string>
+    <string name="custom_carrier_label_title">Etichetta operatore personalizzata</string>
+    <string name="custom_carrier_label_explain">Inserisci una nuova etichetta. Lascia vuoto per tornare a quella predefinita.</string>
+    <string name="custom_carrier_label_notset">Etichetta operatore personalizzata attualmente non impostata</string>
+    <string name="show_carrier_title">Etichetta operatore</string>
+    <string name="show_carrier_disabled">Disabilitato</string>
+    <string name="show_carrier_keyguard">Solo schermata di blocco</string>
+    <string name="show_carrier_statusbar">Solo barra di stato</string>
+    <string name="show_carrier_enabled">Schermata di blocco &amp; barra di stato</string>
+    <string name="status_bar_carrier_size">Dimensione etichetta operatore</string>
+    <string name="status_bar_carrier_font_style_title">Carattere etichetta operatore</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Carrier label color</string>
     <!-- Blink flashlight for incoming calls -->
@@ -729,19 +729,19 @@
     <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
     <string name="flashlight_on_call_always">Always blink flashlight</string>
     <!-- Evox logo -->
-    <string name="evox_logo_title">Evolution X Logo</string>
-    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evox_logo_title">Logo Evolution X</string>
+    <string name="evox_logo_summary">Fai sapere a tutti che stai utilizzando Evolution X quando vedono il tuo schermo</string>
+    <string name="status_bar_logo_style_title">Immagine logo personalizzata</string>
     <!-- QS footer icons -->
     <string name="footer_title">Footer</string>
-    <string name="qs_footer_services_title">Running Services icon</string>
-    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
-    <string name="qs_footer_settings_title">Settings icon</string>
-    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
-    <string name="qs_footer_user_title">User switcher icon</string>
-    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
-    <string name="qs_edit_title">Edit icon</string>
-    <string name="qs_edit_summary">Visualizza l\'icona di modifica nel piè di pagina delle impostazioni rapide</string>
+    <string name="qs_footer_services_title">Icona servizi in esecuzione</string>
+    <string name="qs_footer_services_summary">Visualizza l\'icona dei servizi in esecuzione al di sotto delle impostazioni rapide</string>
+    <string name="qs_footer_settings_title">Icona Impostazioni</string>
+    <string name="qs_footer_settings_summary">Visualizza l\'icona delle Impostazioni al di sotto delle impostazioni rapide</string>
+    <string name="qs_footer_user_title">Icona cambio utente</string>
+    <string name="qs_footer_user_summary">Visualizza l\'icona del selettore utente al di sotto delle impostazioni rapide</string>
+    <string name="qs_edit_title">Icona modifica</string>
+    <string name="qs_edit_summary">Visualizza l\'icona di modifica al di sotto delle impostazioni rapide</string>
     <!-- Q To X Clock -->
     <string name="center_text_clock_title">Testo centrale orologio</string>
     <string name="center_text_clock_summary">Trasforma orologio Q in orologio X</string>
