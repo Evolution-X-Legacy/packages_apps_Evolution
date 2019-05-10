@@ -343,8 +343,8 @@
     <string name="lock_clock_font_notoserif_bold">NotoSerif grassetto</string>
     <string name="lock_clock_font_notoserif_bold_italic">NotoSerif grassetto corsivo</string>
     <string name="lock_clock_font_gobold">GoBold leggero</string>
-    <string name="lock_clock_font_roadrage">Rabbia di strada</string>
-    <string name="lock_clock_font_snowstorm">Bufera di neve</string>
+    <string name="lock_clock_font_roadrage">Road Rage</string>
+    <string name="lock_clock_font_snowstorm">Snowstorm</string>
     <string name="lock_clock_font_googlesans">Google Sans</string>
     <string name="lock_clock_font_neoneon">Neoneon</string>
     <string name="lock_clock_font_themeable">Modificabile (o VCR OSD Mono)</string>
