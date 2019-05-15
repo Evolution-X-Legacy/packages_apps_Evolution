@@ -17,11 +17,11 @@
     <!-- Categories -->
     <string name="status_bar_title">Bar Status</string>
     <string name="quick_settings_title">Pangaturan Gancang</string>
-    <string name="navigation_title">Navigation</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="power_menu_title">Power menu</string>
-    <string name="volume_keys_title">Volume keys</string>
-    <string name="lock_screen_title">Lock screen</string>
+    <string name="navigation_title">Navigasi</string>
+    <string name="navbar_title">Bar Navigasi</string>
+    <string name="power_menu_title">Pilihan Daya</string>
+    <string name="volume_keys_title">Tombol Sora</string>
+    <string name="lock_screen_title">Ngonci Layar</string>
     <string name="notification_settings_title">Notifications</string>
     <string name="general_tweaks_title">General tweaks</string>
     <string name="theme_main">Themes</string>
