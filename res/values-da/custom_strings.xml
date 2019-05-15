@@ -15,8 +15,8 @@
     <!-- App Title -->
     <string name="evox_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="status_bar_title">Status bar</string>
-    <string name="quick_settings_title">Quick settings</string>
+    <string name="status_bar_title">Bar Status</string>
+    <string name="quick_settings_title">Pangaturan Gancang</string>
     <string name="navigation_title">Navigation</string>
     <string name="navbar_title">Navigation bar</string>
     <string name="power_menu_title">Power menu</string>
@@ -100,6 +100,7 @@
     <string name="battery_style_title">Battery icon style</string>
     <string name="battery_style_summary">Change the style of the status bar battery</string>
     <string name="battery_style_port">Portrait</string>
+    <string name="battery_style_q">Q style</string>
     <string name="battery_style_circle">Circle</string>
     <string name="battery_style_dotted_circle">Dotted circle</string>
     <string name="battery_style_big_circle">Big circle</string>
@@ -137,6 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
     <string name="network_traffic_hidearrow">Hide arrows</string>
     <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+    <string name="nettraf_font_size">Single Net Font size</string>
     <!-- Heads up -->
     <string name="headsup_category">HeadsUp Settings</string>
     <string name="heads_up_notifications">Heads up</string>
@@ -726,4 +728,25 @@
     <string name="flashlight_on_call_not_dnd">Blink flashlight only in ringer mode</string>
     <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
     <string name="flashlight_on_call_always">Always blink flashlight</string>
+    <!-- Evox logo -->
+    <string name="evox_logo_title">Evolution X Logo</string>
+    <string name="evox_logo_summary">Let everyone know that you\'re using Evolution X when they see your screen</string>
+    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <!-- QS footer icons -->
+    <string name="footer_title">Footer</string>
+    <string name="qs_footer_services_title">Running Services icon</string>
+    <string name="qs_footer_services_summary">Display Running Services icon in quick settings footer</string>
+    <string name="qs_footer_settings_title">Settings icon</string>
+    <string name="qs_footer_settings_summary">Display Settings icon in quick settings footer</string>
+    <string name="qs_footer_user_title">User switcher icon</string>
+    <string name="qs_footer_user_summary">Display Multi-user switcher icon in quick settings footer</string>
+    <string name="qs_edit_title">Edit icon</string>
+    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <!-- Q To X Clock -->
+    <string name="center_text_clock_title">Center Text Clock</string>
+    <string name="center_text_clock_summary">Transform Q-Clock to X-Clock</string>
+    <!-- Lockscreen notif count -->
+    <string name="lockscreen_maxnotif_title">Lockscreen notification count</string>
+    <string name="lockscreen_maxnotif_sumary">Enable adjustment of max lockscreen notifications</string>
+    <string name="lockscreen_maxnotif_config">Max lockscreen notifications</string>
 </resources>
