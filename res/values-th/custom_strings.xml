@@ -138,7 +138,7 @@
     <string name="network_traffic_autohide_threshold_title">ไอคอนถูกซ่อนอัตโนมัติเมื่อปริมาณการรับส่งไม่ถึงขีดจำกัดที่ตั้งไว้ (KB/s)</string>
     <string name="network_traffic_hidearrow">ซ่อนลูกศร</string>
     <string name="network_traffic_hidearrow_summary">ซ่อนลูกศรตัวบ่งบอกการรับ - ส่ง ข้อมูลอินเตอร์เน็ต</string>
-    <string name="nettraf_font_size">Single Net Font size</string>
+    <string name="nettraf_font_size">ขนาดตัวอักษรแสดงการรับ - ส่ง</string>
     <!-- Heads up -->
     <string name="headsup_category">ตั้งค่า Heads-Up</string>
     <string name="heads_up_notifications">Heads-Up</string>
