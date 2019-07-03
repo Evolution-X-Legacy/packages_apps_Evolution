@@ -22,9 +22,9 @@
     <string name="button_title">ปุ่ม</string>
     <string name="gestures_title">ท่าทาง</string>
     <string name="lockscreen_title">หน้าจอล็อค</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
+    <string name="misc_title">ตั้งค่าอื่นๆ</string>
+    <string name="navbar_title">แถบนำทาง</string>
+    <string name="powermenu_title">เมนูเพาว์เวอร์</string>
     <string name="quicksettings_title">Quick settings</string>
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume rockers</string>
