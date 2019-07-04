@@ -182,8 +182,8 @@
     <string name="qs_tile_animation_title">อนิเมชั่น</string>
     <string name="qs_tile_animation_style_title">รูปแบบอนิเมชั่น</string>
     <string name="qs_tile_animation_duration_title">ระยะเวลาของอนิเมชั่น</string>
-    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
-    <string name="qs_tile_animation_style_off">No animation</string>
+    <string name="qs_tile_animation_interpolator_title">กำหนดรูปแบบอนิเมชั่นของไทล์การตั้งค่าด่วน</string>
+    <string name="qs_tile_animation_style_off">ไม่มีภาพเคลื่อนไหว</string>
     <string name="qs_tile_animation_style_flip">Flip</string>
     <string name="qs_tile_animation_style_rotate">Rotate</string>
     <string name="qs_tile_animation_duration_low">Low</string>
