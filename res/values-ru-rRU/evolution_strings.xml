@@ -173,41 +173,41 @@
     <string name="lockscreen_visualizer_enable_custom_summary">Использовать свой цвет вместо сгенерированного</string>
     <string name="lockscreen_visualizer_custom_color">Цвет визуализатора</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Ambient Music visualizer</string>
-    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+    <string name="ambient_visualizer_title">Визуализация музыки на окружающем экране</string>
+    <string name="ambient_visualizer_summary">Показывать визуализацию музыки на окружающем экране (но менее прозрачно)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">Rotation Swap</string>
-    <string name="volume_keys_swap_summary">Swap volume buttons based on device rotation</string>
+    <string name="swap_volume_buttons">Смена направления при повороте</string>
+    <string name="volume_keys_swap_summary">Поменять кнопки громкости местами в соответствии с ориентацией устройства</string>
     <!-- Tiles animation style  -->
-    <string name="qs_tile_animation_title">Animations</string>
-    <string name="qs_tile_animation_style_title">Animation style</string>
-    <string name="qs_tile_animation_duration_title">Animation duration</string>
-    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
-    <string name="qs_tile_animation_style_off">No animation</string>
-    <string name="qs_tile_animation_style_flip">Flip</string>
-    <string name="qs_tile_animation_style_rotate">Rotate</string>
-    <string name="qs_tile_animation_duration_low">Low</string>
-    <string name="qs_tile_animation_duration_default">Default</string>
-    <string name="qs_tile_animation_duration_fast">Fast</string>
-    <string name="qs_tile_animation_interpolator_linearInterpolator">Linear</string>
-    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelerate</string>
-    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelerate</string>
-    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelerate decelerate</string>
-    <string name="qs_tile_animation_interpolator_bounceInterpolator">Bounce</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
-    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipate</string>
-    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipate overshoot</string>
+    <string name="qs_tile_animation_title">Анимации</string>
+    <string name="qs_tile_animation_style_title">Стиль анимации</string>
+    <string name="qs_tile_animation_duration_title">Длительность анимации</string>
+    <string name="qs_tile_animation_interpolator_title">Интерполяция анимации</string>
+    <string name="qs_tile_animation_style_off">Без анимации</string>
+    <string name="qs_tile_animation_style_flip">Переворот</string>
+    <string name="qs_tile_animation_style_rotate">Поворот</string>
+    <string name="qs_tile_animation_duration_low">Низкая</string>
+    <string name="qs_tile_animation_duration_default">По умолчанию</string>
+    <string name="qs_tile_animation_duration_fast">Быстрая</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Линейная</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Ускорение</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Замедление</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Ускорить и замедлить</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Прыжок</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Перекрытие</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Ускорение</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Опережение с перекрытием</string>
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_fade">Simple fade</string>
-    <string name="screen_off_animation_crt">CRT</string>
-    <string name="screen_off_animation_scale">Scale</string>
+    <string name="screen_off_animation_title">Анимация отключения экрана</string>
+    <string name="screen_off_animation_fade">Простое затухание</string>
+    <string name="screen_off_animation_crt">Эффект \"старого\" телевизора</string>
+    <string name="screen_off_animation_scale">Масштаб</string>
     <!-- Heads up -->
-    <string name="heads_up_title">Enable</string>
-    <string name="heads_up_summary_enabled">Heads up notifications are enabled</string>
+    <string name="heads_up_title">Вкл</string>
+    <string name="heads_up_summary_enabled">Всплывающие уведомления включены</string>
     <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
     <string name="heads_up_time_out_title">Time out</string>
     <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
