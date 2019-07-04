@@ -504,7 +504,7 @@
     <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่เราต้องการอนุญาตแอพที่ได้รับ MMS</string>
     <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่เราต้องการอนุญาตแอพที่ได้รับ SMS</string>
     <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">นี่คือเวลาหลังจากที่ไม่ได้ใช้งานเราจะเข้าสู่โหมดไม่ได้ใช้งานที่มีน้ำหนักเบาเป็นครั้งแรก</string>
-    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">This is amount of time we will wait from the point where we decide we would like to go idle until we actually do, while waiting for jobs and other current activity to finish</string>
+    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">นี่คือระยะเวลาที่เราจะรอจากจุดที่เราตัดสินใจว่าเราจะไม่ใช้งานจนกว่าเราจะทำจริงในขณะที่รองานและกิจกรรมอื่น ๆ ในปัจจุบันให้เสร็จ</string>
     <string name="DESC_LIGHT_IDLE_TIMEOUT">This is the initial time that we will run in idle maintenance mode</string>
     <string name="DESC_LIGHT_IDLE_FACTOR">Scaling factor to apply to the light idle mode time each time we complete a cycle</string>
     <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">This is the maximum time we will run in idle maintenence mode</string>
