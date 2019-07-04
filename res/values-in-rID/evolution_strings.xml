@@ -363,9 +363,9 @@
     <string name="lockscreen_clock_selection_sammy_accent">Sammy dengan aksen</string>
     <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy dengan aksen (alt)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
-    <string name="lockscreen_clock_selection_gradient_btlglogo">Jam gradient (dengan shishu logo)</string>
-    <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
-    <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">Jam gradient (dengan bootleg logo)</string>
+    <string name="lockscreen_clock_selection_gradient_shishu">Jam gradient (dengan shishu logo)</string>
+    <string name="lockscreen_clock_selection_gradient_full">Jam gradient penuh</string>
     <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
     <string name="lockscreen_clock_selection_text">Text</string>
     <!-- Lockscreen Date styles -->
@@ -432,59 +432,59 @@
     <string name="lock_fonts_medium_italic">Medium Italic</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
-    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
-    <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
+    <string name="lock_clock_font_themeable">Bisa ditemakan (atau VCR OSD Mono)</string>
+    <string name="lock_dateown_font_themeable">Bisa ditemakan (atau Fox dan Cat)</string>
     <!-- Lock date fonts -->
-    <string name="lock_date_font_title">Date font options</string>
-    <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
-    <string name="lock_date_font_dialog_title">Select lock date font</string>
+    <string name="lock_date_font_title">Opsi font tanggal</string>
+    <string name="lock_date_font_summary">Ubah font asli pada widget tanggal di locksreen</string>
+    <string name="lock_date_font_dialog_title">Pilih font tanggal kunci</string>
     <!-- Lock owner test -->
-    <string name="lock_owner_font_title">Owner font options</string>
-    <string name="lock_owner_font_summary">Change the default font of the lockscreen owner info</string>
-    <string name="lock_owner_font_dialog_title">Select lock owner font</string>
+    <string name="lock_owner_font_title">Pilihan font owner info</string>
+    <string name="lock_owner_font_summary">Rubah bawaan font owner info di layar kunci</string>
+    <string name="lock_owner_font_dialog_title">Pilih font lock owner</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">Sudut</string>
+    <string name="corner_radius">Radius sudut membulat</string>
+    <string name="content_padding">Batas sudut konten</string>
+    <string name="corner_fwvals">Gunakan nilai dari framework</string>
+    <string name="corner_fwvals_summary">Berguna jika perangkat benar-benar memiliki sudut layar melengkung</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">Aplikasi peluncuran music</string>
+    <string name="headset_connect_player_summary">Menjalankan aplikasi musik bawaan ketika headset terhubung</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">USB konfigurasi</string>
+    <string name="usb_default_config_summary">Pilih perilaku default saat terhubung ke perangkat melalui USB</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
+    <string name="onthego_title">Mode On-The-Go</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_alpha_summary">Nilai alfa dari tampilan On-The-Go</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">One-handed mode</string>
-    <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
-    <string name="qs_running_services_title">Running Services Icon</string>
-    <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
+    <string name="one_hand_mode_title">Mode satu tangan</string>
+    <string name="one_hand_mode_summary">Izinkan menggesekkan ke kanan atau kiri pada navbar untuk mengaktifkan</string>
+    <string name="qs_running_services_title">Menjalankan Ikon Layanan</string>
+    <string name="qs_running_services_summary">Aktifkan ikon layanan berjalan pada bagian bawah</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">Tidak ada standar nilai yang disetel</string>
+    <string name="seekbar_default_value_set">Nilai disetel ke awal <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Nilai standar sudah diatur</string>
+    <string name="seekbar_default_string">Standar</string>
     <!-- Lock Clock & Date Size -->
-    <string name="lockdate_font_size_title">Date font size</string>
-    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lockdate_font_size_title">Ukuran font tanggal</string>
+    <string name="lockclock_font_size_title">Ukuran font jam</string>
     <!-- Language options - Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="cursor_section_header">Kursor</string>
+    <string name="volume_key_cursor_control_title">Mengontrol tombol volume kursor</string>
+    <string name="volume_key_cursor_control_off">Dinonaktifkan</string>
+    <string name="volume_key_cursor_control_on">Volume atas / bawah memindahkan kursor ke kiri / kanan</string>
+    <string name="volume_key_cursor_control_on_reverse">Volume atas / bawah bergerak kursor kanan / kiri</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze</string>
-    <string name="doze_settings_title">Doze settings</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
-    <string name="action_restoredefault">Restore defaults</string>
-    <string name="action_profile">Profiles</string>
-    <string name="action_save_as_profile">Save as profile</string>
+    <string name="advanced_doze_settings">Lanjutan Doze</string>
+    <string name="doze_settings_title">Pengaturan doze</string>
+    <string name="doze_settings_summary">Mengedit pengaturan konfigurasi doze</string>
+    <string name="action_restoredefault">Kembalikan pengaturan bawaan</string>
+    <string name="action_profile">Profil</string>
+    <string name="action_save_as_profile">Simpan sebagai profil</string>
     <string name="delete_profile">Delete profile</string>
     <string name="profile_name">Name</string>
     <string name="string_seconds">seconds</string>
@@ -535,8 +535,8 @@
     <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string>
     <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
     <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_FACTOR">Light idle factor</string>
+    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Batas waktu lampu cahaya di mode istirahat</string>
+    <string name="SHORT_LIGHT_IDLE_FACTOR">Faktor lampu cahaya di mode istirahat</string>
     <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Max light idle timeout</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string>
