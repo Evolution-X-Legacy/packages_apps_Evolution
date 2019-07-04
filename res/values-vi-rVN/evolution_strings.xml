@@ -376,12 +376,12 @@
     <string name="lockscreen_date_selection_str_accent_transparent_day">Bo tròn, trong suốt và với màu nhấn (tất cả)</string>
     <string name="lockscreen_date_selection_str_gradient">Gradient</string>
     <string name="lockscreen_date_selection_str_border_accent">Tối với viền có dấu</string>
-    <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
+    <string name="lockscreen_date_selection_str_border_gradient">Tối với viền gradient</string>
     <!-- Data disabled icon -->
-    <string name="data_disabled_icon_title">Show data disabled icon</string>
-    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+    <string name="data_disabled_icon_title">Hiển thị biểu tượng tắt mạng di động</string>
+    <string name="data_disabled_icon_summary">Hiển thị biểu tượng dấu chéo bên cạnh biểu tượng mạng di động khi dữ liệu di động bị vô hiệu hóa</string>
     <!-- Notification guts kill app button -->
-    <string name="notification_guts_kill_app_button_title">Kill app button</string>
+    <string name="notification_guts_kill_app_button_title">Nút tắt ứng dụng</string>
     <string name="notification_guts_kill_app_button_summary">Hiển thị nút buộc dừng ứng dụng trong menu thông báo</string>
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Kiểu biểu tượng ô cài đặt nhanh</string>
@@ -473,19 +473,19 @@
     <string name="volume_key_cursor_control_title">Điều khiển con trỏ bằng phím âm lượng</string>
     <string name="volume_key_cursor_control_off">Đã tắt</string>
     <string name="volume_key_cursor_control_on">Âm lượng lên/xuống di chuyển trỏ chuột sang trái/phải</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="volume_key_cursor_control_on_reverse">Tăng/Giảm âm lượng di chuyển con trỏ sang phải/trái</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze</string>
-    <string name="doze_settings_title">Doze settings</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
-    <string name="action_restoredefault">Restore defaults</string>
-    <string name="action_profile">Profiles</string>
-    <string name="action_save_as_profile">Save as profile</string>
-    <string name="delete_profile">Delete profile</string>
-    <string name="profile_name">Name</string>
-    <string name="string_seconds">seconds</string>
-    <string name="string_default">Default</string>
-    <string name="action_filter">Filter</string>
+    <string name="advanced_doze_settings">Doze nâng cao</string>
+    <string name="doze_settings_title">Cài đặt Doze</string>
+    <string name="doze_settings_summary">Chỉnh sửa cài đặt cấu hình doze</string>
+    <string name="action_restoredefault">Khôi phục mặc định</string>
+    <string name="action_profile">Hồ sơ</string>
+    <string name="action_save_as_profile">Lưu vào hồ sơ</string>
+    <string name="delete_profile">Xóa hồ sơ</string>
+    <string name="profile_name">Tên</string>
+    <string name="string_seconds">giây</string>
+    <string name="string_default">Mặc định</string>
+    <string name="action_filter">Bộ lọc</string>
     <string name="doze_settings_applied">Settings applied</string>
     <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string>
     <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
