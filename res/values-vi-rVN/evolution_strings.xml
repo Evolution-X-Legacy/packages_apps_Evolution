@@ -419,46 +419,46 @@
     <string name="lock_fonts_italic">Nghiêng</string>
     <string name="lock_fonts_bold_italic">Nghiêng đậm</string>
     <string name="lock_fonts_light_italic">Nghiêng nhạt</string>
-    <string name="lock_fonts_light">Mảnh</string>
-    <string name="lock_fonts_condensed_normal">Condensed</string>
-    <string name="lock_fonts_condensed_italic">Condensed Italic</string>
-    <string name="lock_fonts_condensed_bold">Condensed Bold</string>
-    <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_fonts_medium_normal">Medium</string>
-    <string name="lock_fonts_medium_italic">Medium Italic</string>
+    <string name="lock_fonts_light">Thanh mảnh</string>
+    <string name="lock_fonts_condensed_normal">Thu gọn</string>
+    <string name="lock_fonts_condensed_italic">Nghiêng thu gọn</string>
+    <string name="lock_fonts_condensed_bold">Đậm thu gọn</string>
+    <string name="lock_fonts_condensed_bold_italic">Nghiêng đậm thu gọn</string>
+    <string name="lock_fonts_medium_normal">Vừa</string>
+    <string name="lock_fonts_medium_italic">Nghiêng vừa</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
-    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
-    <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
+    <string name="lock_clock_font_themeable">Có chủ đề (hoặc VCR OSD Mono)</string>
+    <string name="lock_dateown_font_themeable">Có chủ đề ( hoặc Fox và Cat)</string>
     <!-- Lock date fonts -->
-    <string name="lock_date_font_title">Date font options</string>
-    <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
-    <string name="lock_date_font_dialog_title">Select lock date font</string>
+    <string name="lock_date_font_title">Tùy chọn phông ngày</string>
+    <string name="lock_date_font_summary">Thay đổi phông chữ mặc định của tiện ích ngày trên màn hình khóa</string>
+    <string name="lock_date_font_dialog_title">Chọn phông chữ ngày màn hình khóa</string>
     <!-- Lock owner test -->
-    <string name="lock_owner_font_title">Owner font options</string>
-    <string name="lock_owner_font_summary">Change the default font of the lockscreen owner info</string>
-    <string name="lock_owner_font_dialog_title">Select lock owner font</string>
+    <string name="lock_owner_font_title">Tùy chọn phông chữ chủ sở hữu</string>
+    <string name="lock_owner_font_summary">Thay đổi phông chữ mặc định của thông tin chủ sở hữu màn hình khóa</string>
+    <string name="lock_owner_font_dialog_title">Chọn phông chữ chủ sở hữu khóa</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">Góc</string>
+    <string name="corner_radius">Độ bo góc</string>
+    <string name="content_padding">Đệm nội dung góc</string>
+    <string name="corner_fwvals">Sử dụng các giá trị mặc định</string>
+    <string name="corner_fwvals_summary">Hữu ích nếu thiết bị thực sự có các góc tròn</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">Mở ứng dụng nhạc</string>
+    <string name="headset_connect_player_summary">Mở ứng dụng nhạc mặc định khi tai nghe được kết nối</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">Cấu hình USB</string>
+    <string name="usb_default_config_summary">Chọn hành vi mặc định khi được kết nối với thiết bị qua USB</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
+    <string name="onthego_title">Chế độ On-The-Go</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_alpha_summary">Giá trị Alpha của lớp phủ On-The-Go</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">One-handed mode</string>
-    <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
-    <string name="qs_running_services_title">Running Services Icon</string>
+    <string name="one_hand_mode_title">Chế độ một tay</string>
+    <string name="one_hand_mode_summary">Cho phép vuốt sang phải hoặc trái trên thanh điều hướng để bật</string>
+    <string name="qs_running_services_title">Hiện biểu tượng các dịch vụ đang chạy</string>
     <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
     <!-- SeekBar -->
     <string name="seekbar_no_default_value">No default value set</string>
