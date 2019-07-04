@@ -169,12 +169,12 @@
     <string name="lockscreen_visualizer_category">วิชวลไลเซอร์</string>
     <string name="lockscreen_visualizer_title">เปิดใช้งานวิชวลไลเซอร์บนหน้าจอล็อค</string>
     <string name="lockscreen_visualizer_summary">แสดงวิชวลไลเซอร์แบบเคลื่อนไหวบนหน้าจอล็อคในขณะที่กำลังเล่นเพลง</string>
-    <string name="lockscreen_visualizer_enable_custom">Use custom color</string>
-    <string name="lockscreen_visualizer_enable_custom_summary">Use a preset color instead of the generated color</string>
-    <string name="lockscreen_visualizer_custom_color">Visualizer Color</string>
+    <string name="lockscreen_visualizer_enable_custom">ใช้สีที่กำหนดเอง</string>
+    <string name="lockscreen_visualizer_enable_custom_summary">ใช้สีที่กำหนดไว้แทนสีที่สร้างขึ้น</string>
+    <string name="lockscreen_visualizer_custom_color">สีของวิชวลไลเซอร์</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Ambient Music visualizer</string>
-    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+    <string name="ambient_visualizer_title">วิชวลไลเซอร์ บน Ambient Display</string>
+    <string name="ambient_visualizer_summary">แสดงวิชวลไลเซอร์ บน ambient display (แต่ทึบน้อยกว่า)</string>
     <!--Vol button rotation swap-->
     <string name="swap_volume_buttons">Rotation Swap</string>
     <string name="volume_keys_swap_summary">Swap volume buttons based on device rotation</string>
