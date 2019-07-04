@@ -17,39 +17,39 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">Настройки Evolution</string>
     <!-- Categories -->
-    <string name="button_title">Buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">AOSP Gestures</string>
+    <string name="button_title">Кнопки</string>
+    <string name="gestures_title">Жесты</string>
+    <string name="lockscreen_title">Экран блокировки</string>
+    <string name="misc_title">Другие настройки</string>
+    <string name="navbar_title">Панель навигации</string>
+    <string name="powermenu_title">Меню выключения</string>
+    <string name="quicksettings_title">Панель быстрых настроек</string>
+    <string name="statusbar_title">Строка состояния</string>
+    <string name="volume_title">Качелька регулировки громкости</string>
+    <string name="notifications_title">Настройка уведомлений</string>
+    <string name="aosp_gesture_title">AOSP жесты</string>
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="ok">Хорошо</string>
+    <string name="reset">Сброс</string>
+    <string name="cancel">Отмена</string>
+    <string name="save">Сохранить</string>
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отменить</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Выбор цвета</string>
+    <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="arrow_right">→</string>
-    <string name="arrow_down">↓</string>
-    <string name="hex">Hex:</string>
+    <string name="arrow_down">О</string>
+    <string name="hex">Шестнадцатеричный код:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
-    <string name="battery_category">Battery</string>
-    <string name="notifications_category_title">Annoying notifications protection</string>
+    <string name="set">Применить</string>
+    <string name="color_default">По умолчанию</string>
+    <string name="battery_category">Батарея</string>
+    <string name="notifications_category_title">Защита уведомлений</string>
     <!-- Battery percentage -->
-    <string name="battery_style_category_title">Battery icon style</string>
+    <string name="battery_style_category_title">Стиль значка батареи</string>
     <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
     <string name="status_bar_battery_percentage_title">Battery percentage</string>
     <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
