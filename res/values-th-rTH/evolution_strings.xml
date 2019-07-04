@@ -374,11 +374,11 @@
     <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Rounded, transparent and with accent (alt)</string>
-    <string name="lockscreen_date_selection_str_gradient">Gradient</string>
+    <string name="lockscreen_date_selection_str_gradient">การไล่ระดับสี</string>
     <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
-    <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
+    <string name="lockscreen_date_selection_str_border_gradient">มืดกับเส้นขอบไล่ระดับสี</string>
     <!-- Data disabled icon -->
-    <string name="data_disabled_icon_title">Show data disabled icon</string>
+    <string name="data_disabled_icon_title">แสดงไอคอนปิดใช้งานข้อมูล</string>
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Kill app button</string>
