@@ -98,31 +98,31 @@
     <string name="qs_auto_brightness_right_title">Nút độ sáng thích nghi bên phải</string>
     <string name="qs_auto_brightness_right_summary">Di chuyển nút độ sáng thích ứng sang bên phải của thanh điều chỉnh độ sáng</string>
     <string name="qs_show_brightness_buttons_title">Nút điều chỉnh độ sáng</string>
-    <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
+    <string name="qs_show_brightness_buttons_summary">Hiện nút để tăng hoặc giảm độ sáng</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">No power menu when locked</string>
-    <string name="lockscreen_power_menu_disabled_summary">Disable power menu on secure lockscreen</string>
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="lockscreen_power_menu_disabled_title">Không menu nguồn khi khóa</string>
+    <string name="lockscreen_power_menu_disabled_summary">Vô hiệu hoá menu nguồn trên màn hình khoá</string>
+    <string name="notification_sound_vib_screen_on_title">Thông báo ồn ào nếu màn hình bật</string>
+    <string name="notification_sound_vib_screen_on_summary">Vô hiệu hoá để chặn âm thanh và rung của thông báo khi màn hình sáng</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
-    <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
+    <string name="less_notification_sounds_title">Âm thanh thông báo thông minh</string>
+    <string name="less_notification_sounds_summary">Phát âm thanh thông báo của từng ứng dụng chỉ một lần trong khoảng thời gian đã đặt</string>
+    <string name="less_notification_sounds_default">Mặc định của ứng dụng</string>
+    <string name="less_notification_sounds_10s">Mỗi 10 giây</string>
+    <string name="less_notification_sounds_30s">Mỗi 30 giây</string>
+    <string name="less_notification_sounds_1m">Mỗi phút</string>
+    <string name="less_notification_sounds_2m">Mỗi 2 phút</string>
+    <string name="incall_notifications_vibrate">Thông báo trong cuộc gọi ít phiền toái hơn</string>
+    <string name="incall_notifications_vibrate_summary">Rung thay vì phát một âm thanh thông báo trong cuộc gọi</string>
     <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <string name="force_ambient_for_media_pref_title">Thẻ âm nhạc xem nhanh</string>
+    <string name="force_ambient_for_media_pref_summary">Cấu hình thẻ âm nhạc xem nhanh</string>
+    <string name="ambient_ticker_footer">Thẻ âm nhạc xem nhanh hiện thông tin bản nhạc đang phát với màn hình xem nhanh.\n\nNó cũng được kích hoạt khi màn hình xem nhanh đã tắt khi bản nhạc mới bắt đầu, hiện màn hình xem nhanh sạch sẽ với thông tin bản nhạc ở giữa màn hình.\n\nBạn cũng có thể nhấn đúp lên thông tin bản nhạc để bỏ qua bài đó.</string>
+    <string name="force_ambient_for_media_title">Kích hoạt</string>
     <!-- Status bar clock options -->
-    <string name="clock_category">Clock</string>
-    <string name="status_bar_clock">Clock and Date</string>
-    <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
+    <string name="clock_category">Đồng hồ</string>
+    <string name="status_bar_clock">Đồng hồ và ngày</string>
+    <string name="status_bar_clock_summary">Tùy chỉnh đồng hồ và ngày trên thanh trạng thái</string>
     <string name="clock_title_enable">Alignment</string>
     <string name="clock_enabled">Enabled</string>
     <string name="clock_disabled">Disabled</string>
@@ -458,21 +458,21 @@
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Chế độ một tay</string>
     <string name="one_hand_mode_summary">Cho phép vuốt sang phải hoặc trái trên thanh điều hướng để bật</string>
-    <string name="qs_running_services_title">Hiện biểu tượng các dịch vụ đang chạy</string>
-    <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
+    <string name="qs_running_services_title">Biểu tượng các dịch vụ đang chạy</string>
+    <string name="qs_running_services_summary">Kích hoạt biểu tượng dịch vụ đang chạy ở chân trang</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">Chưa đặt giá trị mặc định</string>
+    <string name="seekbar_default_value_set">Giá trị được đặt mặc định là <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Giá trị mặc định đã được đặt</string>
+    <string name="seekbar_default_string">Mặc định</string>
     <!-- Lock Clock & Date Size -->
-    <string name="lockdate_font_size_title">Date font size</string>
-    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lockdate_font_size_title">Cỡ chữ ngày</string>
+    <string name="lockclock_font_size_title">Cỡ chữ đồng hồ</string>
     <!-- Language options - Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
+    <string name="cursor_section_header">Con trỏ</string>
+    <string name="volume_key_cursor_control_title">Điều khiển con trỏ bằng phím âm lượng</string>
+    <string name="volume_key_cursor_control_off">Đã tắt</string>
+    <string name="volume_key_cursor_control_on">Âm lượng lên/xuống di chuyển trỏ chuột sang trái/phải</string>
     <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
     <!-- Doze settings editor -->
     <string name="advanced_doze_settings">Advanced Doze</string>
