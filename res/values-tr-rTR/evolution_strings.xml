@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Donanım Tuşları</string>
     <string name="gestures_title">Hareketler</string>
     <string name="lockscreen_title">Kilit ekranı</string>
     <string name="misc_title">Çeşitli</string>
@@ -27,9 +27,9 @@
     <string name="powermenu_title">Güç menüsü</string>
     <string name="quicksettings_title">Hızlı Ayarlar</string>
     <string name="statusbar_title">Durum çubuğu</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">AOSP Gestures</string>
+    <string name="volume_title">Ses Tuşları</string>
+    <string name="notifications_title">Bildirimler</string>
+    <string name="aosp_gesture_title">AOSP Hareketleri</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
     <string name="gestures_summary">Gesture based options/actions</string>
