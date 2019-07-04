@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Аппаратные кнопки</string>
     <string name="gestures_title">Жесты</string>
     <string name="lockscreen_title">Экран блокировки</string>
     <string name="misc_title">Другие настройки</string>
@@ -31,9 +31,9 @@
     <string name="notifications_title">Настройка уведомлений</string>
     <string name="aosp_gesture_title">AOSP жесты</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">Настройка действий аппаратных кнопок Вашего устройства</string>
+    <string name="gestures_summary">Действия/настройки, основанные на жестах</string>
+    <string name="misc_summary">Дополнительные настройки системы</string>
     <!-- General strings -->
     <string name="ok">Хорошо</string>
     <string name="reset">Сброс</string>
@@ -591,7 +591,7 @@
     <string name="qs_edit_title">Редактирование иконки быстрых настроек</string>
     <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
     <!-- Evolution navigation -->
-    <string name="navigation_category">Navigation</string>
+    <string name="navigation_category">Навигация</string>
     <string name="navigation_summary">Настройки кнопок навигации</string>
     <string name="navbar_tuner_title">Изменить панель навигации</string>
     <string name="navbar_tuner_summary">Изменить расположение панели навигации и кнопок</string>
