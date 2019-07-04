@@ -19,16 +19,16 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
+    <string name="buttons_title">Botões físicos</string>
+    <string name="gestures_title">Gestos</string>
+    <string name="lockscreen_title">Tela de bloqueio</string>
+    <string name="misc_title">Diversos</string>
+    <string name="navbar_title">Barra de navegação</string>
+    <string name="powermenu_title">Menu de energia</string>
+    <string name="quicksettings_title">Configurações rápidas</string>
+    <string name="statusbar_title">Barra de status</string>
     <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
+    <string name="notifications_title">Notificações</string>
     <string name="aosp_gesture_title">AOSP Gestures</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
