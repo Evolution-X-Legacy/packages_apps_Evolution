@@ -612,11 +612,4 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">Анимация зарядки</string>
     <string name="lockscreen_charging_animation_summary">Показывать анимацию при подключении зарядного устройства</string>
-    <!-- Statusbar ticker -->
-    <string name="ticker_category">Бегущая строка</string>
-    <string name="ticker_summary">Предварительный просмотр уведомлений в строке состояния</string>
-    <string name="ticker_animation_mode_title">Анимация бегущей строки</string>
-    <string name="ticker_animation_mode_alpha_fade">Затухание</string>
-    <string name="ticker_animation_mode_scroll">Прокрутка</string>
-    <string name="ticker_tick_duration_title">Время бегущей строки</string>
 </resources>
