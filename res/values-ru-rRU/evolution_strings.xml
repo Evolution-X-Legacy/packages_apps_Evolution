@@ -109,11 +109,11 @@
     <string name="less_notification_sounds_summary">Ограничить частоту звука уведомления каждого приложения только одним разом за выбранный период времени</string>
     <string name="less_notification_sounds_default">Стандартное поведение</string>
     <string name="less_notification_sounds_10s">Каждые 10 секунд</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
-    <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
+    <string name="less_notification_sounds_30s">Каждые 30 секунд</string>
+    <string name="less_notification_sounds_1m">Каждую минуту</string>
+    <string name="less_notification_sounds_2m">Каждые 2 минуты</string>
+    <string name="incall_notifications_vibrate">Меньше раздражающих уведомлений во время вызова</string>
+    <string name="incall_notifications_vibrate_summary">Только вибрация уведомлений во время звонка</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
     <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
