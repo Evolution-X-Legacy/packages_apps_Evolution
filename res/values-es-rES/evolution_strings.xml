@@ -20,16 +20,16 @@
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
     <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
+    <string name="gestures_title">Gestos</string>
+    <string name="lockscreen_title">Pantalla de bloqueo</string>
+    <string name="misc_title">Misceláneo</string>
+    <string name="navbar_title">Barra de navegación</string>
+    <string name="powermenu_title">Menu de apagado</string>
     <string name="quicksettings_title">Quick settings</string>
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">AOSP Gestures</string>
+    <string name="notifications_title">Notificaciones</string>
+    <string name="aosp_gesture_title">Gestos AOSP</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
     <string name="gestures_summary">Gesture based options/actions</string>
@@ -50,7 +50,7 @@
     <string name="hex_hint">#ff000000</string>
     <string name="set">Set</string>
     <string name="color_default">Default</string>
-    <string name="battery_category">Battery</string>
+    <string name="battery_category">Batería</string>
     <string name="notifications_category_title">Annoying notifications protection</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Battery icon style</string>
@@ -73,7 +73,7 @@
     <!-- Power Menu -->
     <string name="powermenu_category_title">Power menu toggles</string>
     <string name="powermenu_screenshot">Screenshot</string>
-    <string name="powermenu_power">Power</string>
+    <string name="powermenu_power">Apagar</string>
     <string name="powermenu_restart">Restart</string>
     <string name="powermenu_restart_recovery">Advanced restart</string>
     <string name="powermenu_airplane">Airplane</string>
