@@ -96,23 +96,23 @@
     <string name="qs_show_auto_brightness_title">ปุ่มปรับความสว่างอัตโนมัติ</string>
     <string name="qs_show_auto_brightness_summary">แสดงปุ่มปรับความสว่างอัตโนมัติ</string>
     <string name="qs_auto_brightness_right_title">ตำแหน่งที่เหมาะสมสำหรับปุ่มปรับความสว่างอัตโนมัติ (ขวา)</string>
-    <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
-    <string name="qs_show_brightness_buttons_title">Brightness control buttons</string>
-    <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
+    <string name="qs_auto_brightness_right_summary">ย้ายปุ่มปรับความสว่างไปทางด้านขวาของแถบเลื่อนความสว่าง</string>
+    <string name="qs_show_brightness_buttons_title">ปุ่มควบคุมความสว่าง</string>
+    <string name="qs_show_brightness_buttons_summary">แสดงปุ่มเพื่อเพิ่มหรือลดความสว่าง</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">No power menu when locked</string>
-    <string name="lockscreen_power_menu_disabled_summary">Disable power menu on secure lockscreen</string>
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="lockscreen_power_menu_disabled_title">ไม่มีเมนูเพาว์เวอร์เมื่อถูกล็อค</string>
+    <string name="lockscreen_power_menu_disabled_summary">ปิดการใช้งานเมนูพาวเวอร์บนหน้าจอล็อคที่ถูกเข้ารหัส</string>
+    <string name="notification_sound_vib_screen_on_title">มีเสียงดังแจ้งเตือนหากเปิดหน้าจอ</string>
+    <string name="notification_sound_vib_screen_on_summary">ปิดใช้งานเพื่อปิดกั้นเสียงการแจ้งเตือนและการสั่นเมื่อหน้าจอเปิดอยู่</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
+    <string name="less_notification_sounds_title">เสียงแจ้งเตือนอัจฉริยะ</string>
+    <string name="less_notification_sounds_summary">เล่นเสียงแจ้งเตือนของแต่ละแอปเพียงครั้งเดียว ในแต่ละช่วงเวลาที่กำหนด</string>
+    <string name="less_notification_sounds_default">แอปพลิเคชั่นเริ่มต้น</string>
+    <string name="less_notification_sounds_10s">ทุกๆ 10 วินาที</string>
+    <string name="less_notification_sounds_30s">ทุกๆ 30 วินาที</string>
+    <string name="less_notification_sounds_1m">ทุกๆ นาที</string>
+    <string name="less_notification_sounds_2m">ทุกๆ 2 นาที</string>
+    <string name="incall_notifications_vibrate">ลดการแจ้งเตือนระหว่างการโทร</string>
     <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
