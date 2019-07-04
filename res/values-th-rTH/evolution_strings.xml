@@ -344,18 +344,18 @@
     <string name="hide_lockscreen_status_bar_title">ซ่อนแถบสถานะ</string>
     <string name="hide_lockscreen_status_bar_summary">แตะแถบสถานะเพื่อสลับการมองเห็น</string>
     <!-- Lockscreen items -->
-    <string name="lockscreen_hide_items_category">Hide items</string>
-    <string name="lockscreen_clock_title">Clock widget</string>
-    <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
-    <string name="lockscreen_info_title">Items underneath the clock</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_hide_items_category">ซ่อนรายการ</string>
+    <string name="lockscreen_clock_title">วิดเจ็ตนาฬิกา</string>
+    <string name="lockscreen_clock_summary">แสดงวิดเจ็ตนาฬิกาบนหน้าจอล็อค</string>
+    <string name="lockscreen_info_title">รายการใต้นาฬิกา</string>
+    <string name="lockscreen_info_summary">แสดงวันที่, สภาพอากาศ, สัญญาณเตือนและลายเซ็น บนหน้าจอล็อค</string>
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
-    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
-    <string name="lockscreen_clock_selection_analog">Analog</string>
-    <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
+    <string name="lockscreen_clock_selection_title">รูปแบบนาฬิกา</string>
+    <string name="lockscreen_clock_selection_digital">ค่าเริ่มต้น</string>
+    <string name="lockscreen_clock_selection_digital_bold">ดิจิตอล (ตัวหนา)</string>
+    <string name="lockscreen_clock_selection_analog">อนาล็อก</string>
+    <string name="lockscreen_clock_selection_sammy">แซมมี่</string>
+    <string name="lockscreen_clock_selection_sammy_bold">แซมมี่ (ตัวหนา)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Sammy กับ ธีมสีอุปกรณ์</string>
     <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy กับ ธีมสีอุปกรณ์ (alt)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
@@ -488,7 +488,7 @@
     <string name="action_filter">ตัวกรอง</string>
     <string name="doze_settings_applied">ใช้การตั้งค่า</string>
     <string name="DESC_INACTIVE_TIMEOUT">นี่คือเวลาหลังจากที่ไม่ได้ใช้งานซึ่งเราเริ่มมองหาเซ็นเซอร์ตรวจจับความเคลื่อนไหวเพื่อตรวจสอบว่าอุปกรณ์ถูกทิ้งไว้ตามลำพังหรือไม่ เราไม่ทำสิ่งนี้ทันทีหลังจากที่ไม่ได้ใช้งานเพียงเพราะเราไม่ต้องการที่จะใช้งานเซ็นเซอร์ตรวจจับความเคลื่อนไหวที่สำคัญอย่างต่อเนื่องทุกครั้งที่หน้าจอปิด</string>
-    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
+    <string name="DESC_SENSING_TIMEOUT">หากเราไม่ได้รับการติดต่อกลับจาก AnyMotion ในจำนวนเวลา + locating_to นี้เราจะเปลี่ยนจาก STATE_SENSING เป็น STATE_INACTIVE และการเรียกกลับ AnyMotion ใด ๆ ที่ไม่ได้อยู่ใน STATE_SENSING จะถูกเพิกเฉย</string>
     <string name="DESC_LOCATING_TIMEOUT">นี่คือระยะเวลาที่เราจะรอเพื่อรับการแก้ไขตำแหน่งที่ดีก่อนที่จะเข้าสู่โหมดว่าง</string>
     <string name="DESC_LOCATION_ACCURACY">ความแม่นยำสูงสุดที่ต้องการ (เป็นเมตร) เราถือว่าสถานที่ตั้งนั้นดีพอที่จะเดินต่อไป เราจะพยายามรับการแก้ไขอย่างถูกต้องอย่างน้อยก็ดีหรือจนกว่าจะหมดอายุ</string>
     <string name="DESC_MOTION_INACTIVE_TIMEOUT">นี่คือเวลาหลังจากที่ได้จับการเคลื่อนไหวที่เรารอหลังจากที่ไม่ได้ใช้งาน จนกว่าเราจะเริ่มตรวจจับการเคลื่อนไหวอีกครั้ง</string>
@@ -525,10 +525,10 @@
     <string name="SHORT_IDLE_TIMEOUT">หมดเวลาที่ไม่ได้ใช้งาน</string>
     <string name="SHORT_MAX_IDLE_TIMEOUT">หมดเวลาที่ไม่ได้ใช้งานสูงสุด</string>
     <string name="SHORT_IDLE_FACTOR">ปัจจัยว่าง</string>
-    <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string>
+    <string name="SHORT_MIN_TIME_TO_ALARM">เวลาในการปลุกขั้นต่ำ</string>
     <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string>
-    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string>
-    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string>
+    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่อนุญาตสูงสุดของแอป MMS </string>
+    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่อนุญาตสูงสุดของแอป SMS สูงสุด</string>
     <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
     <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string>
     <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string>
