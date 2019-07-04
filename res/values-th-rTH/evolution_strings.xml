@@ -612,11 +612,4 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">อนิเมชั่นการชาร์จ</string>
     <string name="lockscreen_charging_animation_summary">แสดงภาพเอนิเมชั่นสายฟ้าเมื่ออุปกรณ์กำลังชาร์จ</string>
-    <!-- Statusbar ticker -->
-    <string name="ticker_category">สัญลักษณ์</string>
-    <string name="ticker_summary">แสดงตัวอย่างการแจ้งเตือนในแถบสถานะ</string>
-    <string name="ticker_animation_mode_title">สัญลักษณ์ภาพอนิเมชั่น</string>
-    <string name="ticker_animation_mode_alpha_fade">จางหาย</string>
-    <string name="ticker_animation_mode_scroll">เลื่อน</string>
-    <string name="ticker_tick_duration_title">ระยะเวลาทิกเกอร์</string>
 </resources>
