@@ -492,7 +492,7 @@
     <string name="action_filter">Filter</string>
     <string name="doze_settings_applied">Setelan diterapkan</string>
     <string name="DESC_INACTIVE_TIMEOUT">Inilah saatnya, setelah menjadi tidak aktif, di mana kita mulai melihat sensor gerak untuk menentukan apakah perangkat dibiarkan sendiri. Kami tidak melakukan ini segera setelah tidak aktif hanya karena kami tidak ingin terus-menerus menjalankan sensor gerak signifikan setiap kali layar mati</string>
-    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
+    <string name="DESC_SENSING_TIMEOUT">Jika kami tidak menerima panggilan balik dari AnyMotion dalam jumlah waktu + locating_to ini, kami akan berubah dari STATE_SENSING ke STATE_INACTIVE, dan semua panggilan balik AnyMotion yang tidak ada di STATE_SENSING akan diabaikan</string>
     <string name="DESC_LOCATING_TIMEOUT">Ini adalah berapa lama kita akan menunggu untuk mencoba mendapatkan lokasi yang bagus sebelum masuk ke mode siaga</string>
     <string name="DESC_LOCATION_ACCURACY">Keakuratan maksimal yang diinginkan (dalam meter) kami menganggap lokasi cukup baik untuk melanjutkan ke siaga. Kami akan mencoba untuk mendapatkan perbaikan akurasi setidaknya baik ini atau sampai locating_to berakhir</string>
     <string name="DESC_MOTION_INACTIVE_TIMEOUT">Ini adalah waktu, setelah melihat gerakan, bahwa kita menunggu setelah tidak aktif dari itu sampai kita mulai mencari gerakan lagi</string>
@@ -524,8 +524,8 @@
     <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Gerakan batas waktu tidak aktif</string>
     <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Diam setelah batas waktu tidak aktif</string>
     <string name="SHORT_IDLE_PENDING_TIMEOUT">Habis waktu tunggu tertunda</string>
-    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string>
-    <string name="SHORT_IDLE_PENDING_FACTOR">Idle pending factor</string>
+    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Batas waktu tunggu idle maks</string>
+    <string name="SHORT_IDLE_PENDING_FACTOR">Faktor tertundanya mode siaga</string>
     <string name="SHORT_IDLE_TIMEOUT">Batas waktu menganggur</string>
     <string name="SHORT_MAX_IDLE_TIMEOUT">Maksimal ambang waktu mode siaga</string>
     <string name="SHORT_IDLE_FACTOR">Faktor menganggur</string>
