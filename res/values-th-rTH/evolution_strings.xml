@@ -249,12 +249,12 @@
     <string name="show_carrier_title">ป้ายชื่อผู้ให้บริการเครือข่าย</string>
     <string name="show_carrier_disabled">ปิด​ใช้​งาน</string>
     <string name="show_carrier_keyguard">เฉพาะหน้าจอล็อค</string>
-    <string name="show_carrier_statusbar">Statusbar only</string>
-    <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
-    <string name="status_bar_carrier_size">Carrier label size</string>
-    <string name="status_bar_carrier_font_style_title">Carrier label font</string>
+    <string name="show_carrier_statusbar">แถบสถานะเท่านั้น</string>
+    <string name="show_carrier_enabled">หน้าจอล็อค &amp; แถบสถานะ</string>
+    <string name="status_bar_carrier_size">ขนาดป้ายชื่อ</string>
+    <string name="status_bar_carrier_font_style_title">แบบอักษรป้ายชื่อ</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
-    <string name="status_bar_carrier_color">Carrier label color</string>
+    <string name="status_bar_carrier_color">สีป้ายชื่อ</string>
     <!-- Hide notch -->
     <string name="hide_notch_title">Hide notch</string>
     <string name="hide_notch_summary">If enabled it hides notch and fills in side gaps</string>
