@@ -73,20 +73,20 @@
     <string name="powermenu_restart">รีสตาร์ท</string>
     <string name="powermenu_restart_recovery">รีสตาร์ทขั้นสูง</string>
     <string name="powermenu_airplane">โหมดเครื่องบิน</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_torch">Flashlight</string>
+    <string name="powermenu_settings">การตั้งค่า</string>
+    <string name="powermenu_lockdown">ปิดตายอุปกรณ์</string>
+    <string name="powermenu_users">ผู้ใช้</string>
+    <string name="powermenu_logout">ออกจากระบบ</string>
+    <string name="powermenu_torch">ไฟฉาย</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">เปิดหน้าจอเมื่อชาร์จ</string>
+    <string name="wake_when_plugged_or_unplugged_summary">เปิดหน้าจอเมื่อเชื่อมต่อหรือตัดการเชื่อมต่อกับแหล่งจ่ายไฟ</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_title">สถานะแบตเตอรี่ของบลูทูธ</string>
+    <string name="bluetooth_battery_summary">แสดงสถานะแบตเตอรี่สำหรับอุปกรณ์บลูทูธหากมีการเชื่อมต่อ</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_title">แสดงแถบแจ้งเตือนน้อยลง</string>
+    <string name="less_boring_heads_up_summary">แสดงแถบแจ้งเตือนเฉพาะแอปโทรออกหรือส่งข้อความเท่านั้นหากไม่ได้อยู่ข้างหน้า</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Brightness slider tweaks</string>
     <string name="qs_show_brightness_title">Brightness slider</string>
