@@ -571,53 +571,53 @@
     <string name="no_stat_because_reset_state">Nhấn thiết lập lại để bắt đầu thu thập thời gian trong dữ liệu trạng thái</string>
     <string name="no_stat_because_reset_wakelock">Nhấn thiết lập lại để bắt đầu thu thập thời gian trong dữ liệu trạng thái</string>
     <string name="no_stat_because_plugged">Vui lòng rút nguồn điện để lấy dữ liệu wakelock</string>
-    <string name="no_states_file_found">No states file found. Are you sure your phone is 
-        compatible?\n\nIf you are running a custom ROM or kernel, try 
-        contacting its developer to inform him that the states file is not 
-        readable.</string>
-    <string name="deep_sleep">"Deep Sleep"</string>
-    <string name="mt_refresh">Refresh</string>
-    <string name="mt_share">Share</string>
-    <string name="mt_reset">Reset</string>
-    <string name="time_in_state_title">Time in state</string>
-    <string name="time_in_state_summary">Show CPU frequency statistics</string>
+    <string name="no_states_file_found">Không tìm thấy tập tin trạng thái. Bạn có chắc điện thoại của bạn 
+        tương thích?\n\nNếu bạn đang chạy ROM hoặc kernel tùy biến, thử 
+        thông báo với nhà phát triển rằng tập tin trạng thái không thể 
+        đọc được.</string>
+    <string name="deep_sleep">"Ngủ sâu"</string>
+    <string name="mt_refresh">Làm mới</string>
+    <string name="mt_share">Chia sẻ</string>
+    <string name="mt_reset">Thiết lập lại</string>
+    <string name="time_in_state_title">Thời gian trong trạng thái</string>
+    <string name="time_in_state_summary">Hiển thị thống kê tần số CPU</string>
     <!-- Sensor block per-package -->
-    <string name="sensor_block_title">Sensor block per-package</string>
-    <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
+    <string name="sensor_block_title">Chặn cảm biến mỗi gói phần mềm</string>
+    <string name="sensor_block_summary">Chặn quyền truy cập vào một số cảm biến cho một số ứng dụng để tiết kiệm pin</string>
     <!-- QS edit icon -->
-    <string name="qs_edit_title">QS edit icon</string>
-    <string name="qs_edit_summary">Display the tile edit icon in quick settings footer</string>
+    <string name="qs_edit_title">Biểu tượng chỉnh sửa QS</string>
+    <string name="qs_edit_summary">Hiển thị biểu tượng chỉnh sửa trong phần chân cài đặt nhanh</string>
     <!-- Evolution navigation -->
-    <string name="navigation_category">Navigation bar</string>
-    <string name="navigation_summary">Customize navigation bar style and behavior</string>
-    <string name="navbar_tuner_title">Edit navigation bar</string>
-    <string name="navbar_tuner_summary">Edit the navigation bar layout and buttons</string>
+    <string name="navigation_category">Thanh điều hướng</string>
+    <string name="navigation_summary">Tùy chỉnh kiểu và cách tương tác với thanh điều hướng</string>
+    <string name="navbar_tuner_title">Chỉnh thanh điều hướng</string>
+    <string name="navbar_tuner_summary">Chỉnh bố cục thanh điều hướng và các nút bấm</string>
     <!-- Hardware button navigation -->
-    <string name="hardware_keys_volume_keys_title">Volume rocker</string>
-    <string name="hardware_keys_home_key_title">Home button</string>
-    <string name="hardware_keys_menu_key_title">Menu button</string>
-    <string name="hardware_keys_assist_key_title">Search button</string>
-    <string name="hardware_keys_appswitch_key_title">Overview button</string>
-    <string name="hardware_keys_back_key_title">Back button</string>
-    <string name="hardware_keys_double_tap_summary">Set double tap action</string>
-    <string name="hardware_keys_single_tap_summary">Set single tap action</string>
-    <string name="hardware_keys_long_press_summary">Set long press action</string>
-    <string name="hardware_keys_single_tap_title">Single tap action</string>
-    <string name="hardware_keys_long_press_title">Long press action</string>
-    <string name="hardware_keys_double_tap_title">Double tap action</string>
-    <string name="hardware_keys_category">Hardware keys</string>
-    <string name="hardware_keys_summary">Customize hardware key actions</string>
-    <string name="hardware_keys_disable_title">Disable hardware buttons</string>
+    <string name="hardware_keys_volume_keys_title">Nút âm lượng</string>
+    <string name="hardware_keys_home_key_title">Nút màn hình chính</string>
+    <string name="hardware_keys_menu_key_title">Nút Menu</string>
+    <string name="hardware_keys_assist_key_title">Nút Tìm kiếm</string>
+    <string name="hardware_keys_appswitch_key_title">Nút Tổng quan</string>
+    <string name="hardware_keys_back_key_title">Nút Quay lại</string>
+    <string name="hardware_keys_double_tap_summary">Đặt hành động khi nhấn đúp</string>
+    <string name="hardware_keys_single_tap_summary">Đặt hành động khi chạm một lần</string>
+    <string name="hardware_keys_long_press_summary">Đặt hành động khi nhấn giữ</string>
+    <string name="hardware_keys_single_tap_title">Hành động khi nhấn một lần</string>
+    <string name="hardware_keys_long_press_title">Hành động khi nhấn giữ</string>
+    <string name="hardware_keys_double_tap_title">Hành động khi nhấn đúp</string>
+    <string name="hardware_keys_category">Phím cứng</string>
+    <string name="hardware_keys_summary">Tuỳ biến hành động phím cứng</string>
+    <string name="hardware_keys_disable_title">Vô hiệu phím cứng</string>
     <!-- Lockscreen icons -->
-    <string name="lockscreen_tuner_title">Lockscreen Shortcuts</string>
+    <string name="lockscreen_tuner_title">Lối tắt màn hình khóa</string>
     <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Charging animation</string>
-    <string name="lockscreen_charging_animation_summary">Display a bolt animation when the device is charging</string>
+    <string name="lockscreen_charging_animation_title">Hiệu ứng sạc</string>
+    <string name="lockscreen_charging_animation_summary">Hiển thị hiệu ứng chớp khi thiết bị được cắm sạc</string>
     <!-- Statusbar ticker -->
-    <string name="ticker_category">Ticker</string>
-    <string name="ticker_summary">Notification preview in status bar</string>
-    <string name="ticker_animation_mode_title">Ticker animation</string>
-    <string name="ticker_animation_mode_alpha_fade">Fade</string>
-    <string name="ticker_animation_mode_scroll">Scroll</string>
+    <string name="ticker_category">Thông báo tường thuật</string>
+    <string name="ticker_summary">Xem trước thông báo trên thanh trạng thái</string>
+    <string name="ticker_animation_mode_title">Hiệu ứng thông báo tường thuật</string>
+    <string name="ticker_animation_mode_alpha_fade">Làm mờ</string>
+    <string name="ticker_animation_mode_scroll">Cuộn</string>
     <string name="ticker_tick_duration_title">Ticker duration</string>
 </resources>
