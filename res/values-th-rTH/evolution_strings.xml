@@ -257,9 +257,9 @@
     <string name="status_bar_carrier_color">สีป้ายชื่อ</string>
     <!-- Hide notch -->
     <string name="hide_notch_title">ซ่อนคัตเอาท์</string>
-    <string name="hide_notch_summary">If enabled it hides notch and fills in side gaps</string>
+    <string name="hide_notch_summary">หากเปิดใช้งานจะซ่อนคัตเอาท์และเติมในช่องว่างด้านข้าง</string>
     <!-- Roaming indicator icon -->
-    <string name="roaming_indicator_icon_title">Roaming indicator</string>
+    <string name="roaming_indicator_icon_title">แสดงการโรมมิ่ง</string>
     <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">Brightness control</string>
