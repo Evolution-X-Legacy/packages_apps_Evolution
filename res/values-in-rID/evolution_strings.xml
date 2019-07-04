@@ -89,8 +89,8 @@
     <string name="bluetooth_battery_title">Status baterai Bluetooth</string>
     <string name="bluetooth_battery_summary">Menampilkan status baterai untuk perangkat bluetooth yang terhubung jika tersedia</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_title">Buat tampilan cepat sedikit mengganggu</string>
+    <string name="less_boring_heads_up_summary">Tampilan cepat hanya untuk aplikasi Telfon dan Sms jika mereka tidak di tampilan layar</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Kecerahan beralih slider</string>
     <string name="qs_show_brightness_title">Pengaturan kecerahan</string>
@@ -100,7 +100,7 @@
     <string name="qs_show_auto_brightness_title">Tombol adaptif kecerahan</string>
     <string name="qs_show_auto_brightness_summary">Tampilkan tombol kecerahan adaptif</string>
     <string name="qs_auto_brightness_right_title">Posisi di kanan untuk tombol kecerahan adaptif</string>
-    <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
+    <string name="qs_auto_brightness_right_summary">Pindahkan tombol pengaturan kecerahan adaptif ke kanan dari bar geser</string>
     <string name="qs_show_brightness_buttons_title">Tombol kontrol kecerahan</string>
     <string name="qs_show_brightness_buttons_summary">Tampilkan tombol untuk menambah atau mengurangi kecerahan</string>
     <!-- Power menu on secure lockscreen -->
@@ -139,48 +139,48 @@
     <string name="enable_clock_weekday_summary">Waktu disingkat sebelum hari minggu</string>
     <string name="right_clock">Jam di kanan</string>
     <string name="center_clock">Jam di tengah</string>
-    <string name="left_clock">Left clock</string>
-    <string name="dont_show">Don\'t show</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
-    <string name="am_pm_clock_normal">Normal font size</string>
-    <string name="am_pm_clock_small">Small font size</string>
-    <string name="am_pm_clock_none">Don\'t show</string>
-    <string name="clock_date_display_none">Don\'t show</string>
-    <string name="clock_date_display_small">Small font size</string>
-    <string name="clock_date_display_normal">Normal font size</string>
+    <string name="left_clock">Jam kiri</string>
+    <string name="dont_show">Jangan tampilkan</string>
+    <string name="clock_date_display">Tanggal</string>
+    <string name="clock_date_display_summary">Tampilkan tanggal khusus sebelum jam</string>
+    <string name="clock_date_style">Gaya tanggal</string>
+    <string name="clock_date_format">Format tanggal</string>
+    <string name="clock_date_string_edittext_title">Harus sesuai format tanggal contoh. MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">Masukan teks</string>
+    <string name="am_pm_clock_normal">Ukuran huruf normal</string>
+    <string name="am_pm_clock_small">Ukuran huruf kecil</string>
+    <string name="am_pm_clock_none">Jangan Tampilkan</string>
+    <string name="clock_date_display_none">Jangan Tampilkan</string>
+    <string name="clock_date_display_small">Ukuran huruf kecil</string>
+    <string name="clock_date_display_normal">Ukuran huruf normal</string>
     <string name="clock_date_style_normal">Normal</string>
-    <string name="clock_date_style_lowercase">Lowercase</string>
-    <string name="clock_date_style_uppercase">Uppercase</string>
-    <string name="clock_date_format_custom">Custom java format</string>
-    <string name="clock_date_right">Right of time</string>
-    <string name="clock_date_left">Left of time</string>
-    <string name="clock_date_position">Date position</string>
-    <string name="date_cat">Date</string>
-    <string name="clock_cat">Clock</string>
-    <string name="status_bar_clock_font_style_title">Font style</string>
+    <string name="clock_date_style_lowercase">Huruf kecil</string>
+    <string name="clock_date_style_uppercase">Huruf besar</string>
+    <string name="clock_date_format_custom">Format java kustom</string>
+    <string name="clock_date_right">Sebelah kanan jam</string>
+    <string name="clock_date_left">Sebelah kiri jam</string>
+    <string name="clock_date_position">Posisi tanggal</string>
+    <string name="date_cat">Tanggal</string>
+    <string name="clock_cat">Jam</string>
+    <string name="status_bar_clock_font_style_title">Gaya huruf</string>
     <string name="status_bar_clock_font_style_summary">%1$s</string>
-    <string name="status_bar_clock_font_size_title">Font size</string>
-    <string name="status_bar_clock_color_title">Font color</string>
+    <string name="status_bar_clock_font_size_title">Ukuran huruf</string>
+    <string name="status_bar_clock_color_title">Warna huruf</string>
     <!-- Lockscreen cover art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="media_art_title">Sampul album media</string>
+    <string name="media_art_summary">Aktifkan sampul media pada kunci layar</string>
     <!-- Lock screen visualizer -->
-    <string name="lockscreen_visualizer_category">Visualizer</string>
-    <string name="lockscreen_visualizer_title">Enable lockscreen visualizer</string>
-    <string name="lockscreen_visualizer_summary">Show visualizer on lockscreen when music is playing</string>
-    <string name="lockscreen_visualizer_enable_custom">Use custom color</string>
-    <string name="lockscreen_visualizer_enable_custom_summary">Use a preset color instead of the generated color</string>
-    <string name="lockscreen_visualizer_custom_color">Visualizer Color</string>
+    <string name="lockscreen_visualizer_category">Visualisasi</string>
+    <string name="lockscreen_visualizer_title">Nyalakan visualisasi di kunci layar</string>
+    <string name="lockscreen_visualizer_summary">Tampilkan visualizer pada kunci layar saat memainkan musik</string>
+    <string name="lockscreen_visualizer_enable_custom">Gunakan warna khusus</string>
+    <string name="lockscreen_visualizer_enable_custom_summary">Gunakan warna bawaan daripada warna yang dihasilkan</string>
+    <string name="lockscreen_visualizer_custom_color">Warna Visualisasi</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Ambient Music visualizer</string>
-    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+    <string name="ambient_visualizer_title">Visualisasi ambien musik</string>
+    <string name="ambient_visualizer_summary">Menampilkan bilah visualisasi juga pada tampilan ambien (tapi kurang buram)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">Rotation Swap</string>
+    <string name="swap_volume_buttons">Ubah rotasi</string>
     <string name="volume_keys_swap_summary">Swap volume buttons based on device rotation</string>
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_title">Animations</string>
