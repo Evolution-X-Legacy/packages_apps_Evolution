@@ -619,5 +619,5 @@
     <string name="ticker_animation_mode_title">Hiệu ứng thông báo tường thuật</string>
     <string name="ticker_animation_mode_alpha_fade">Làm mờ</string>
     <string name="ticker_animation_mode_scroll">Cuộn</string>
-    <string name="ticker_tick_duration_title">Ticker duration</string>
+    <string name="ticker_tick_duration_title">Thời gian tường thuật</string>
 </resources>
