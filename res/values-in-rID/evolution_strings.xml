@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Tombol fisik</string>
     <string name="gestures_title">Gestur</string>
     <string name="lockscreen_title">Kunci layar</string>
     <string name="misc_title">Lain-lain</string>
@@ -31,9 +31,9 @@
     <string name="notifications_title">Notifikasi</string>
     <string name="aosp_gesture_title">Gestur AOSP</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">Ubah pengaturan tombol fisik perangkat</string>
+    <string name="gestures_summary">Isyarat berdasarkan Pengaturan/Tindakan</string>
+    <string name="misc_summary">Pengaturan tambahan sistem</string>
     <!-- General strings -->
     <string name="ok">Ok</string>
     <string name="reset">Reset</string>
