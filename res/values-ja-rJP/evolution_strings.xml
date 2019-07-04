@@ -307,7 +307,7 @@
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">クイック設定チューナー</string>
     <string name="show_secure_title">セキュリティフッター</string>
-    <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
+    <string name="show_secure_summary">クイック設定パネルの上部に VPN の状態を表示する</string>
     <string name="show_info_header_title">情報ヘッダー</string>
     <string name="show_info_header_summary">クイック設定パネルの上部に情報を表示する</string>
     <string name="profile_choose_app">アプリを選択</string>
