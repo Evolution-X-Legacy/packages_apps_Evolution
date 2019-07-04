@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Апаратні кнопки</string>
     <string name="gestures_title">Жести</string>
     <string name="lockscreen_title">Екран блокування</string>
     <string name="misc_title">Різні налаштування</string>
@@ -31,9 +31,9 @@
     <string name="notifications_title">Сповіщення</string>
     <string name="aosp_gesture_title">AOSP жести</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">Налаштування дій при натисканні фізичних клавіш вашого пристрою</string>
+    <string name="gestures_summary">Параметри/дії на основі жестів</string>
+    <string name="misc_summary">Додаткові налаштування системи</string>
     <!-- General strings -->
     <string name="ok">Добре</string>
     <string name="reset">Скинути</string>
@@ -54,52 +54,52 @@
     <string name="notifications_category_title">Захист сповіщень</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Стиль іконки акумулятора</string>
-    <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+    <string name="battery_style_category_summary">Змінити стиль іконки акумулятора в статус барі</string>
+    <string name="status_bar_battery_percentage_title">Відсоток заряду батареї</string>
+    <string name="status_bar_battery_percentage_summary">Показувати відсоток заряду батареї</string>
+    <string name="status_bar_battery_percentage_default">Приховано</string>
+    <string name="status_bar_battery_percentage_text_next">Поруч зі значком</string>
+    <string name="status_bar_battery_percentage_text_inside">Всередині іконки</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_port">Portrait</string>
-    <string name="status_bar_battery_style_q">Q style</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
-    <string name="status_bar_battery_style_big_circle">Big circle</string>
-    <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
-    <string name="status_bar_battery_style_text">Text</string>
-    <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_style_title">Стиль іконки батареї</string>
+    <string name="status_bar_battery_style_port">Портретна</string>
+    <string name="status_bar_battery_style_q">Стиль Android Q</string>
+    <string name="status_bar_battery_style_circle">Коло</string>
+    <string name="status_bar_battery_style_dotted_circle">Пунктирне коло</string>
+    <string name="status_bar_battery_style_big_circle">Велике коло</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Велике пунктирне коло</string>
+    <string name="status_bar_battery_style_text">Текст</string>
+    <string name="status_bar_battery_style_hidden">Приховано</string>
     <!-- Power Menu -->
-    <string name="powermenu_category_title">Power menu toggles</string>
-    <string name="powermenu_screenshot">Screenshot</string>
-    <string name="powermenu_power">Power</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_restart_recovery">Advanced restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_torch">Flashlight</string>
+    <string name="powermenu_category_title">Налаштування меню живлення</string>
+    <string name="powermenu_screenshot">Знімок екрану</string>
+    <string name="powermenu_power">Живлення</string>
+    <string name="powermenu_restart">Перезавантажити</string>
+    <string name="powermenu_restart_recovery">Розширене меню перезавантаження</string>
+    <string name="powermenu_airplane">У літаку</string>
+    <string name="powermenu_settings">Налаштування</string>
+    <string name="powermenu_lockdown">Блокування</string>
+    <string name="powermenu_users">Користувачі</string>
+    <string name="powermenu_logout">Вихід із системи</string>
+    <string name="powermenu_torch">Ліхтарик</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Прокидатись при підключені</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Ввікнути екран під час підключення чи відключення зарядного пристрою</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_title">Показати заряд Bluetooth-пристрою</string>
+    <string name="bluetooth_battery_summary">Показувати заряд батареї під\'єднаних в даний час bluetooth-пристроїв, якщо можливо</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_title">Зробити спливаючі сповіщення менш набридливими</string>
+    <string name="less_boring_heads_up_summary">Відображати спливаючі сповіщення лише для дзвінків і повідомлень</string>
     <!-- Brightness slider tweaks -->
-    <string name="brightness_slider_title">Brightness slider tweaks</string>
-    <string name="qs_show_brightness_title">Brightness slider</string>
-    <string name="qs_show_brightness_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Bottom brightness slider</string>
-    <string name="qs_brightness_position_bottom_summary">Show brightness slider on the bottom of the quick settings panel</string>
-    <string name="qs_show_auto_brightness_title">Adaptive brightness button</string>
-    <string name="qs_show_auto_brightness_summary">Show adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_title">Right position for adaptive brightness button</string>
+    <string name="brightness_slider_title">Налаштування повзунка яскравості</string>
+    <string name="qs_show_brightness_title">Повзунок яскравості</string>
+    <string name="qs_show_brightness_summary">Показати повзунок яскравості на панелі швидких налаштувань</string>
+    <string name="qs_brightness_position_bottom_title">Повзунок яскравості знизу</string>
+    <string name="qs_brightness_position_bottom_summary">Показувати повзунок яскравості знизу панелі швидких налаштувань</string>
+    <string name="qs_show_auto_brightness_title">Показати кнопку адаптивної яскравості</string>
+    <string name="qs_show_auto_brightness_summary">Показати кнопку адаптивної яскравості</string>
+    <string name="qs_auto_brightness_right_title">Розташувати кнопку адаптивної яскравості праворуч</string>
     <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
     <string name="qs_show_brightness_buttons_title">Brightness control buttons</string>
     <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
