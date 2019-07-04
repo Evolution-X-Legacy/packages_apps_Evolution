@@ -198,58 +198,58 @@
     <string name="qs_tile_animation_interpolator_decelerateInterpolator">Memperlambat</string>
     <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Mempercepat memperlambat</string>
     <string name="qs_tile_animation_interpolator_bounceInterpolator">Bouncing</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Melampaui</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
     <string name="qs_tile_animation_interpolator_anticipateInterpolator">Antisipasi</string>
-    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipate overshoot</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">mengantisipasi overshoot</string>
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_fade">Simple fade</string>
+    <string name="screen_off_animation_title">Animasi layar mati</string>
+    <string name="screen_off_animation_fade">Memudar sederhana</string>
     <string name="screen_off_animation_crt">CRT</string>
-    <string name="screen_off_animation_scale">Scale</string>
+    <string name="screen_off_animation_scale">Skala</string>
     <!-- Heads up -->
-    <string name="heads_up_title">Enable</string>
-    <string name="heads_up_summary_enabled">Heads up notifications are enabled</string>
-    <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
-    <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_title">Aktif</string>
+    <string name="heads_up_summary_enabled">Heads up notifications diaktifkan</string>
+    <string name="heads_up_summary_disabled">Heads up notifikasi dinonaktifkan</string>
+    <string name="heads_up_time_out_title">Waktu habis</string>
+    <string name="heads_up_time_out_summary">Pemberitahuan mengintip akan muncul untuk <xliff:g id="number">%d </xliff:g> detik</string>
+    <string name="heads_up_time_out_2sec">2 detik</string>
+    <string name="heads_up_time_out_4sec">4 detik</string>
+    <string name="heads_up_time_out_5sec">5 detik</string>
+    <string name="heads_up_time_out_6sec">6 detik</string>
+    <string name="heads_up_time_out_8sec">8 detik</string>
+    <string name="heads_up_time_out_10sec">10 detik</string>
+    <string name="heads_up_snooze_title">Waktu tunda</string>
+    <string name="heads_up_snooze_summary_one_minute">Menggesekkan atas pemberitahuan mengintip akan tunda kepala dari aplikasi tersebut selama 1 menit</string>
+    <string name="heads_up_snooze_summary">Menggeser ke atas pemberitahuan mengintip akan menunda notifikasi mengambang dari aplikasi tersebut selama <xliff:g id="number">%d</xliff:g> menit</string>
+    <string name="heads_up_snooze_disabled_summary">Waktu tunda dinonaktifkan</string>
+    <string name="heads_up_snooze_1min">1 menit</string>
+    <string name="heads_up_snooze_5min">5 menit</string>
+    <string name="heads_up_snooze_10min">10 menit</string>
+    <string name="heads_up_snooze_15min">15 menit</string>
+    <string name="heads_up_snooze_20min">20 menit</string>
+    <string name="add_heads_up_package">Tambah aplikasi</string>
+    <string name="add_heads_up_stoplist_summary">Matikan notifikasi heads up di aplikasi ini</string>
+    <string name="add_heads_up_blacklist_summary">Matikan heads up dari aplikasi ini</string>
+    <string name="heads_up_stoplist_title">Daftar stop</string>
+    <string name="heads_up_blacklist_title">Daftar hitam</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Getar ketika disentuh</string>
+    <string name="quick_settings_vibrate_summary">Bergetar saat menyentuh ubin QS</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">Tombol volume menjawab</string>
+    <string name="volume_answer_call_summary">Menjawab panggilan saat menekan tombol volume</string>
     <!-- Old Style Mobile -->
-    <string name="use_old_mobiletype_title">Use old mobile signal</string>
-    <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
+    <string name="use_old_mobiletype_title">Gunakan sinyal seluler lama</string>
+    <string name="use_old_mobiletype_summary">Gunakan ikon seluler dari oreo dan sebelum\nSistemUI akan memulai ulang</string>
     <!-- Custom carrier label and position -->
-    <string name="carrier_category">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
+    <string name="carrier_category">Label Operator</string>
+    <string name="carrier_label_settings_summary">Kustomisasi label operator</string>
+    <string name="custom_carrier_label_title">Nama operator kustom</string>
+    <string name="custom_carrier_label_explain">Silahkan masukkan label baru. Biarkan kosong untuk menggunakan label bawaan.</string>
+    <string name="custom_carrier_label_notset">Saat ini kustom label belum ditentukan</string>
     <string name="show_carrier_title">Carrier label</string>
     <string name="show_carrier_disabled">Disabled</string>
     <string name="show_carrier_keyguard">Lockscreen only</string>
@@ -307,11 +307,11 @@
     <string name="network_traffic_location_title">Traffic indicator placement</string>
     <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
     <string name="network_traffic_statusbar">Status bar</string>
-    <string name="network_traffic_header">Expanded header</string>
+    <string name="network_traffic_header">Mode diperluas</string>
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">QS panel tuner</string>
-    <string name="show_secure_title">Security footer</string>
-    <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
+    <string name="show_secure_title">Tampilkan footer keamanan</string>
+    <string name="show_secure_summary">Memperlihatkan status VPN di atas panel QS</string>
     <string name="show_info_header_title">Information header</string>
     <string name="show_info_header_summary">Shows information on top of the QS panel</string>
     <string name="profile_choose_app">Choose app</string>
