@@ -379,20 +379,20 @@
     <string name="lockscreen_date_selection_str_border_gradient">มืดกับเส้นขอบไล่ระดับสี</string>
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">แสดงไอคอนปิดใช้งานข้อมูล</string>
-    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+    <string name="data_disabled_icon_summary">แสดงเครื่องหมายกากบาทถัดจากแถบสัญญาณเมื่อปิดใช้งานข้อมูล</string>
     <!-- Notification guts kill app button -->
-    <string name="notification_guts_kill_app_button_title">Kill app button</string>
-    <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
+    <string name="notification_guts_kill_app_button_title">ปุ่มล้างแอปพลิเคชั่น</string>
+    <string name="notification_guts_kill_app_button_summary">แสดงปุ่มล้างแอปในการแจ้งเตือน กดรายการแจ้งเตือนค้างไว้</string>
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
-    <string name="qstile_circle_gradient">Circle with Gradient</string>
-    <string name="qstile_cookie">Cookie</string>
-    <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
+    <string name="qs_tile_style_title">รูปแบบไทล์การตั้งค่าด่วน</string>
+    <string name="qstile_default">ค่าเริ่มต้น</string>
+    <string name="qstile_circle_trim">วงกลมพร้อมตกแต่ง</string>
+    <string name="qstile_dual_tone_circle">เส้นขอบวงกลมตัดภายใน</string>
+    <string name="qstile_squircle_trim">เส้นขอบวงกลมโค้งมน</string>
+    <string name="qstile_circle_gradient">วงกลมกับการไล่ระดับสี</string>
+    <string name="qstile_cookie">คุ๊กกี้</string>
+    <string name="qstile_wavey">คลื่น</string>
+    <string name="qstile_circle_dualtone">วงกลมตัดภายใน</string>
     <string name="qstile_pokesign">Pokesign</string>
     <string name="qstile_ninja">Ninja</string>
     <string name="qstile_dottedcircle">Dotted Circle</string>
