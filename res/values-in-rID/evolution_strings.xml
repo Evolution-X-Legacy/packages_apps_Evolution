@@ -133,8 +133,8 @@
     <string name="status_bar_am_pm_info">24-jam diaktifkan</string>
     <string name="enable_clock_weekday">Hari dalam seminggu</string>
     <string name="enable_clock_weekday_summary">Waktu disingkat sebelum hari minggu</string>
-    <string name="right_clock">Right clock</string>
-    <string name="center_clock">Center clock</string>
+    <string name="right_clock">Jam di kanan</string>
+    <string name="center_clock">Jam di tengah</string>
     <string name="left_clock">Left clock</string>
     <string name="dont_show">Don\'t show</string>
     <string name="clock_date_display">Date</string>
