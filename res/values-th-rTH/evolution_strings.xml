@@ -88,14 +88,14 @@
     <string name="less_boring_heads_up_title">แสดงแถบแจ้งเตือนน้อยลง</string>
     <string name="less_boring_heads_up_summary">แสดงแถบแจ้งเตือนเฉพาะแอปโทรออกหรือส่งข้อความเท่านั้นหากไม่ได้อยู่ข้างหน้า</string>
     <!-- Brightness slider tweaks -->
-    <string name="brightness_slider_title">Brightness slider tweaks</string>
-    <string name="qs_show_brightness_title">Brightness slider</string>
-    <string name="qs_show_brightness_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Bottom brightness slider</string>
-    <string name="qs_brightness_position_bottom_summary">Show brightness slider on the bottom of the quick settings panel</string>
-    <string name="qs_show_auto_brightness_title">Adaptive brightness button</string>
-    <string name="qs_show_auto_brightness_summary">Show adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_title">Right position for adaptive brightness button</string>
+    <string name="brightness_slider_title">แถบเลื่อนปรับความสว่าง</string>
+    <string name="qs_show_brightness_title">แถบเลื่อนความสว่าง</string>
+    <string name="qs_show_brightness_summary">แสดงแถบเลื่อนความสว่างในแผงการตั้งค่าด่วน</string>
+    <string name="qs_brightness_position_bottom_title">แถบเลื่อนความสว่างด้านล่าง</string>
+    <string name="qs_brightness_position_bottom_summary">แสดงแถบเลื่อนความสว่างที่ด้านล่างของแผงการตั้งค่าด่วน</string>
+    <string name="qs_show_auto_brightness_title">ปุ่มปรับความสว่างอัตโนมัติ</string>
+    <string name="qs_show_auto_brightness_summary">แสดงปุ่มปรับความสว่างอัตโนมัติ</string>
+    <string name="qs_auto_brightness_right_title">ตำแหน่งที่เหมาะสมสำหรับปุ่มปรับความสว่างอัตโนมัติ (ขวา)</string>
     <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
     <string name="qs_show_brightness_buttons_title">Brightness control buttons</string>
     <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
