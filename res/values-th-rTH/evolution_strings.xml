@@ -184,61 +184,61 @@
     <string name="qs_tile_animation_duration_title">ระยะเวลาของอนิเมชั่น</string>
     <string name="qs_tile_animation_interpolator_title">กำหนดรูปแบบอนิเมชั่นของไทล์การตั้งค่าด่วน</string>
     <string name="qs_tile_animation_style_off">ไม่มีภาพเคลื่อนไหว</string>
-    <string name="qs_tile_animation_style_flip">Flip</string>
-    <string name="qs_tile_animation_style_rotate">Rotate</string>
-    <string name="qs_tile_animation_duration_low">Low</string>
-    <string name="qs_tile_animation_duration_default">Default</string>
-    <string name="qs_tile_animation_duration_fast">Fast</string>
-    <string name="qs_tile_animation_interpolator_linearInterpolator">Linear</string>
-    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelerate</string>
-    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelerate</string>
-    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelerate decelerate</string>
-    <string name="qs_tile_animation_interpolator_bounceInterpolator">Bounce</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
-    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipate</string>
-    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipate overshoot</string>
+    <string name="qs_tile_animation_style_flip">ดีด</string>
+    <string name="qs_tile_animation_style_rotate">หมุน</string>
+    <string name="qs_tile_animation_duration_low">ตํ่า</string>
+    <string name="qs_tile_animation_duration_default">ค่าเริ่มต้น</string>
+    <string name="qs_tile_animation_duration_fast">รวดเร็ว</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">คงที่</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">เร่งความเร็ว</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">ชะลอความเร็ว</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">ค่อยๆ ช้าลง</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">กระเด้ง</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">นุ่มนวล</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">ถอยหลังแล้วไปข้างหน้า</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">ถอยหลังแล้วไปหน้าแบบนุ่มนวล</string>
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_fade">Simple fade</string>
+    <string name="screen_off_animation_title">อนิเมชั่นปิดหน้าจอ</string>
+    <string name="screen_off_animation_fade">ค่อยๆ จาง</string>
     <string name="screen_off_animation_crt">CRT</string>
-    <string name="screen_off_animation_scale">Scale</string>
+    <string name="screen_off_animation_scale">มาตราส่วน</string>
     <!-- Heads up -->
-    <string name="heads_up_title">Enable</string>
-    <string name="heads_up_summary_enabled">Heads up notifications are enabled</string>
-    <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
-    <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_title">เปิดใช้งาน</string>
+    <string name="heads_up_summary_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
+    <string name="heads_up_summary_disabled">ปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
+    <string name="heads_up_time_out_title">ระยะเวลาในการแสดง</string>
+    <string name="heads_up_time_out_summary">เวลาในการแจ้งเตือนที่จะปรากฏขึ้น<xliff:g id="number">%d</xliff:g>วินาที</string>
+    <string name="heads_up_time_out_2sec">2 วินาที</string>
+    <string name="heads_up_time_out_4sec">4 วินาที</string>
+    <string name="heads_up_time_out_5sec">5 วินาที</string>
+    <string name="heads_up_time_out_6sec">6 วินาที</string>
+    <string name="heads_up_time_out_8sec">8 วินาที</string>
+    <string name="heads_up_time_out_10sec">10 วินาที</string>
+    <string name="heads_up_snooze_title">การปัดขึ้นเพื่อปิดการแจ้งเตือนชั่วคราว</string>
+    <string name="heads_up_snooze_summary_one_minute">การปัดขึ้นเมื่อมีการแจ้งเตือนแบบป็อปอัพจะปิดการแจ้งเตือนของแอปนั้นๆ เป็นเวลา 1 นาที</string>
+    <string name="heads_up_snooze_summary">การปัดขึ้นเมื่อมีการแจ้งเตือนแบบป็อปอัพจะปิดการแจ้งเตือนของแอปนั้นๆ เป็นเวลา<xliff:g id="number">%d</xliff:g>นาที</string>
+    <string name="heads_up_snooze_disabled_summary">ปิดการใช้งาน</string>
+    <string name="heads_up_snooze_1min">1 นาที</string>
+    <string name="heads_up_snooze_5min">5 นาที</string>
+    <string name="heads_up_snooze_10min">10 นาที</string>
+    <string name="heads_up_snooze_15min">15 นาที</string>
+    <string name="heads_up_snooze_20min">20 นาที</string>
+    <string name="add_heads_up_package">เพิ่มแอปพลิเคชั่น</string>
+    <string name="add_heads_up_stoplist_summary">ปิดใช้งานการแจ้งเตือนในแอปพลิเคชันเหล่านี้</string>
+    <string name="add_heads_up_blacklist_summary">ปิดการใช้งาน heads-up จากแอปพลิเคชั่นเหล่านี้</string>
+    <string name="heads_up_stoplist_title">หยุดรายการ</string>
+    <string name="heads_up_blacklist_title">บัญชีดำ</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">สั่นเมื่อสัมผัส</string>
+    <string name="quick_settings_vibrate_summary">สั่นเมื่อสัมผัสตัวเลือกในแผงการตั้งค่าด่วน</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">รับสายด้วยปุ่มปรับระดับเสียง</string>
+    <string name="volume_answer_call_summary">ใช้ปุ่มปรับระดับเสียงเพื่อรับสาย</string>
     <!-- Old Style Mobile -->
-    <string name="use_old_mobiletype_title">Use old mobile signal</string>
+    <string name="use_old_mobiletype_title">ใช้รูปแบบสัญญาณแบบเก่า</string>
     <string name="use_old_mobiletype_summary">ใช้ไอคอนมือถือจาก Oreo\nSystemUI จะรีสตาร์ท</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">ป้ายชื่อผู้ให้บริการเครือข่าย</string>
@@ -411,47 +411,47 @@
     <string name="qstile_badgetwo">ขอบหยัก</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">ตัวเลือกรูปแบบอักษรของนาฬิกา</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
-    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
+    <string name="lock_clock_font_summary">เปลี่ยนรูปแบบอักษรเริ่มต้นของวิดเจ็ตนาฬิกาบนหน้าจอล็อค</string>
+    <string name="lock_clock_font_dialog_title">เลือกรูปแบบนาฬิกาของหน้าจอล็อค</string>
     <!-- Lockscreen fonts - Common strings -->
-    <string name="lock_fonts_stock">Normal (default)</string>
-    <string name="lock_fonts_bold">Bold</string>
-    <string name="lock_fonts_italic">Italic</string>
-    <string name="lock_fonts_bold_italic">Bold Italic</string>
+    <string name="lock_fonts_stock">ปกติ (ค่าเริ่มต้น)</string>
+    <string name="lock_fonts_bold">ตัวหนา</string>
+    <string name="lock_fonts_italic">เอียง</string>
+    <string name="lock_fonts_bold_italic">หนาและเอียง</string>
     <string name="lock_fonts_light_italic">Light Italic</string>
-    <string name="lock_fonts_light">Light</string>
-    <string name="lock_fonts_condensed_normal">Condensed</string>
+    <string name="lock_fonts_light">ตัวบาง</string>
+    <string name="lock_fonts_condensed_normal">condensed</string>
     <string name="lock_fonts_condensed_italic">Condensed Italic</string>
     <string name="lock_fonts_condensed_bold">Condensed Bold</string>
     <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_fonts_medium_normal">Medium</string>
+    <string name="lock_fonts_medium_normal">ปานกลาง</string>
     <string name="lock_fonts_medium_italic">Medium Italic</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
     <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
     <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
     <!-- Lock date fonts -->
-    <string name="lock_date_font_title">Date font options</string>
-    <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
-    <string name="lock_date_font_dialog_title">Select lock date font</string>
+    <string name="lock_date_font_title">ตัวเลือกแบบอักษรวันที่ ของหน้าจอล็อค</string>
+    <string name="lock_date_font_summary">เปลี่ยนแบบอักษรเริ่มต้นของวันที่ในหน้าจอล็อค</string>
+    <string name="lock_date_font_dialog_title">เลือกรูปแบบอักษรวันที่ของหน้าจอล็อค</string>
     <!-- Lock owner test -->
-    <string name="lock_owner_font_title">Owner font options</string>
-    <string name="lock_owner_font_summary">Change the default font of the lockscreen owner info</string>
-    <string name="lock_owner_font_dialog_title">Select lock owner font</string>
+    <string name="lock_owner_font_title">ตัวเลือกแบบอักษรข้อมูลเจ้าของ</string>
+    <string name="lock_owner_font_summary">เปลี่ยนแบบอักษรเริ่มต้นของข้อมูลเจ้าของบนหน้าจอล็อค</string>
+    <string name="lock_owner_font_dialog_title">เลือกแบบอักษรเจ้าของหน้าจอล็อค</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">มุมแบบโค้งมน</string>
+    <string name="corner_radius">รัศมีมุมโค้งมน</string>
+    <string name="content_padding">เลื่อนไอคอนบนแถบสถานะ</string>
+    <string name="corner_fwvals">ปิดใช้งานมุมที่โค้งมน</string>
+    <string name="corner_fwvals_summary">มีประโยชน์สำหรับอุปกรณ์ที่มีมุมที่โค้งมนอยู่แล้ว</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">เปิดแอปเล่นเพลง</string>
+    <string name="headset_connect_player_summary">เปิดโปรแกรมเล่นเพลงเมื่อมีการเชื่อมต่อจากช่องหูฟัง</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">การกำหนดค่า USB</string>
+    <string name="usb_default_config_summary">เลือกรูปแบบการเชื่อมต่อเริ่มต้นเมื่อเชื่อมต่ออุปกรณ์ผ่าน USB</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
+    <string name="onthego_title">โหมด On-The-Go</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
     <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
@@ -565,19 +565,18 @@
     <string name="spinner_state_time_title">เวลา</string>
     <string name="total_time">ทั้งหมด</string>
     <string name="wakelock_time">Wakelocks</string>
-    <string name="copy_as_text">Copy as text</string>
+    <string name="copy_as_text">คัดลอกเป็นข้อความ</string>
     <string name="google_it">Google for it</string>
-    <string name="app_details">App details</string>
-    <string name="no_stat_because_reset_state">Press reset to start collecting time in state data</string>
-    <string name="no_stat_because_reset_wakelock">Press reset to start collecting wakelock data</string>
-    <string name="no_stat_because_plugged">Please unplug power to get wakelock data</string>
-    <string name="no_states_file_found">No states file found. Are you sure your phone is 
-        compatible?\n\nIf you are running a custom ROM or kernel, try 
-        contacting its developer to inform him that the states file is not 
-        readable.</string>
-    <string name="deep_sleep">"Deep Sleep"</string>
-    <string name="mt_refresh">Refresh</string>
-    <string name="mt_share">Share</string>
+    <string name="app_details">รายละเอียดแอป</string>
+    <string name="no_stat_because_reset_state">กดรีเซ็ตเพื่อเริ่มการรวบรวมข้อมูล CPU ในแต่ละเวลา</string>
+    <string name="no_stat_because_reset_wakelock">กดรีเซ็ตเพื่อเริ่มการรวบรวมข้อมูล wakelock</string>
+    <string name="no_stat_because_plugged">โปรดถอดปลั๊กไฟเพื่อรับข้อมูล wakelock</string>
+    <string name="no_states_file_found">ไม่พบไฟล์ states! คุณแน่ใจหรือว่าโทรศัพท์ของคุณใช้งาน
+	ร่วมกันได้ \n\nหากคุณใช้ ROM หรือเคอร์เนลแบบกำหนดเอง ลอง
+	ติดต่อผู้พัฒนาเพื่อแจ้งให้เขาทราบว่าไฟล์ state นั้นไม่สามารถอ่านได้</string>
+    <string name="deep_sleep">"ดีปสลีป Deep Sleep"</string>
+    <string name="mt_refresh">รีเฟรช</string>
+    <string name="mt_share">แบ่งปัน</string>
     <string name="mt_reset">รีเซ็ต</string>
     <string name="time_in_state_title">สถานะ CPU ในแต่ละเวลา</string>
     <string name="time_in_state_summary">แสดงสถิติความถี่ของ CPU</string>
