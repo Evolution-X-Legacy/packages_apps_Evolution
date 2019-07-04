@@ -454,26 +454,26 @@
     <string name="onthego_title">โหมด On-The-Go</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_alpha_summary">ค่าอัลฟ่าของการซ้อนทับ On-The-Go</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">One-handed mode</string>
-    <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
-    <string name="qs_running_services_title">Running Services Icon</string>
-    <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
+    <string name="one_hand_mode_title">โหมดมือเดียว</string>
+    <string name="one_hand_mode_summary">อนุญาตให้ปัดไปทางขวาหรือทางซ้ายบนแถบนำทาง เพื่อเปิดใช้งาน</string>
+    <string name="qs_running_services_title">ไอคอนบริการที่ทำงานอยู่</string>
+    <string name="qs_running_services_summary">เปิดใช้งานไอคอนบริการที่ทำงานอยู่ในส่วนท้ายของ QS</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">ไม่มีการตั้งค่าเริ่มต้น</string>
+    <string name="seekbar_default_value_set">ค่าที่ตั้งเป็นค่าเริ่มต้นของ<xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">ตั้งค่าเริ่มต้นแล้ว</string>
+    <string name="seekbar_default_string">ค่าเริ่มต้น</string>
     <!-- Lock Clock & Date Size -->
-    <string name="lockdate_font_size_title">Date font size</string>
-    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lockdate_font_size_title">ขนาดตัวอักษรวันที่</string>
+    <string name="lockclock_font_size_title">ขนาดตัวอักษรของนาฬิกา</string>
     <!-- Language options - Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="cursor_section_header">เคอร์เซอร์</string>
+    <string name="volume_key_cursor_control_title">ใช้ปุ่มปรับระดับเสียงควบคุมเคอร์เซอร์</string>
+    <string name="volume_key_cursor_control_off">ปิดใช้งาน</string>
+    <string name="volume_key_cursor_control_on">เพิ่ม/ลด ระดับเสียง ขยับเคอร์เซอร์ ซ้าย/ขวา</string>
+    <string name="volume_key_cursor_control_on_reverse">เพิ่ม/ลด ระดับเสียงเพื่อขยับเคอเซอร์ ขวา/ซ้าย</string>
     <!-- Doze settings editor -->
     <string name="advanced_doze_settings">Doze ขั้นสูง</string>
     <string name="doze_settings_title">การตั้งค่า Doze</string>
