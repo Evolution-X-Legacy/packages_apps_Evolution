@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Vyměnit hardwarová tlačítka</string>
+    <string name="buttons_title">Hardwarová tlačítka</string>
     <string name="gestures_title">Gesta</string>
     <string name="lockscreen_title">Zamykací obrazovka</string>
     <string name="misc_title">Různé</string>
