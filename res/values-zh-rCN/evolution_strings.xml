@@ -142,9 +142,9 @@
     <string name="left_clock">时钟居左</string>
     <string name="dont_show">不显示</string>
     <string name="clock_date_display">日期</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_format">Date format</string>
+    <string name="clock_date_display_summary">在时钟前显示自定义的日期</string>
+    <string name="clock_date_style">日期样式</string>
+    <string name="clock_date_format">日期格式</string>
     <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Enter string</string>
     <string name="am_pm_clock_normal">Normal font size</string>
