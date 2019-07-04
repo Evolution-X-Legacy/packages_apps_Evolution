@@ -316,14 +316,14 @@
     <!-- Dashboard conditions -->
     <string name="dashboard_category">Tùy chọn bảng điều khiển</string>
     <string name="dashboard_conditions_title">Điều kiện bảng điều khiển</string>
-    <string name="summary_dashboard_conditions_enabled">Điều kiện bảng điều khiển đang bật</string>
-    <string name="summary_dashboard_conditions_disabled">Đã tắt điều kiện bảng điều khiển</string>
+    <string name="summary_dashboard_conditions_enabled">Điều kiện bảng điều khiển đã bật</string>
+    <string name="summary_dashboard_conditions_disabled">Điều kiện bảng điều khiển đã tắt</string>
     <!-- Dashboard suggestions -->
     <string name="dashboard_suggestions_title">Đề xuất bảng điều khiển</string>
-    <string name="summary_dashboard_suggestions_enabled">Đề xuất bảng điều khiển đang bật</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="summary_dashboard_suggestions_enabled">Đề xuất bảng điều khiển đã bật</string>
+    <string name="summary_dashboard_suggestions_disabled">Đề xuất bảng điều khiển đã tắt</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
+    <string name="lockscreen_cover_filter_title">Bộ lọc ảnh bìa âm nhạc màn hình khoá</string>
     <string name="lockscreen_cover_filter_none">None</string>
     <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
     <string name="lockscreen_cover_filter_tint">Accent tinted</string>
@@ -382,44 +382,44 @@
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Kill app button</string>
-    <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
+    <string name="notification_guts_kill_app_button_summary">Hiển thị nút buộc dừng ứng dụng trong menu thông báo</string>
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
-    <string name="qstile_circle_gradient">Circle with Gradient</string>
-    <string name="qstile_cookie">Cookie</string>
-    <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
+    <string name="qs_tile_style_title">Kiểu biểu tượng ô cài đặt nhanh</string>
+    <string name="qstile_default">Mặc định</string>
+    <string name="qstile_circle_trim">Vòng tròn có viền</string>
+    <string name="qstile_dual_tone_circle">Vòng tròn hai tông màu</string>
+    <string name="qstile_squircle_trim">Hình vuông bo tròn có viền</string>
+    <string name="qstile_circle_gradient">Vòng tròn với Gradient</string>
+    <string name="qstile_cookie">Bánh quy</string>
+    <string name="qstile_wavey">Sóng</string>
+    <string name="qstile_circle_dualtone">Vòng tròn hai tông màu</string>
     <string name="qstile_pokesign">Pokesign</string>
     <string name="qstile_ninja">Ninja</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
-    <string name="qstile_attemptmountain">An attempt of a mountain</string>
-    <string name="qstile_squaremedo">The Squaremedo</string>
-    <string name="qstile_hexagon">Hexagon</string>
-    <string name="qstile_star">Star</string>
-    <string name="qstile_gear">Gear</string>
-    <string name="qstile_diamond">Diamond</string>
-    <string name="qstile_circleoutline">CircleOutline</string>
-    <string name="qstile_roundedrect">Rounded Rectangle</string>
-    <string name="qstile_square">Square</string>
-    <string name="qstile_squircle">Squircle</string>
-    <string name="qstile_teardrop">Teardrop</string>
-    <string name="qstile_badge">Badge</string>
-    <string name="qstile_badgetwo">Badge two</string>
+    <string name="qstile_dottedcircle">Vòng tròn chấm</string>
+    <string name="qstile_attemptmountain">Ngọn núi hùng vĩ</string>
+    <string name="qstile_squaremedo">Hình vuông chéo nhau</string>
+    <string name="qstile_hexagon">Hình lục giác</string>
+    <string name="qstile_star">Ngôi sao</string>
+    <string name="qstile_gear">Bánh răng</string>
+    <string name="qstile_diamond">Kim cương</string>
+    <string name="qstile_circleoutline">Vòng tròn phác thảo</string>
+    <string name="qstile_roundedrect">Hình chữ nhật bo tròn</string>
+    <string name="qstile_square">Hình vuông</string>
+    <string name="qstile_squircle">Hình vuông bo tròn</string>
+    <string name="qstile_teardrop">Hình giọt nước</string>
+    <string name="qstile_badge">Huy hiệu</string>
+    <string name="qstile_badgetwo">Huy hiệu hai</string>
     <!-- Lock Clock Fonts -->
-    <string name="lock_clock_font_title">Clock font options</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
-    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
+    <string name="lock_clock_font_title">Tùy chọn phông đồng hồ</string>
+    <string name="lock_clock_font_summary">Thay đổi phông chữ mặc định của tiện ích đồng hồ trên màn hình khóa</string>
+    <string name="lock_clock_font_dialog_title">Chọn phông chữ đồng hồ màn hình khóa</string>
     <!-- Lockscreen fonts - Common strings -->
-    <string name="lock_fonts_stock">Normal (default)</string>
-    <string name="lock_fonts_bold">Bold</string>
-    <string name="lock_fonts_italic">Italic</string>
-    <string name="lock_fonts_bold_italic">Bold Italic</string>
-    <string name="lock_fonts_light_italic">Light Italic</string>
-    <string name="lock_fonts_light">Light</string>
+    <string name="lock_fonts_stock">Bình thường (mặc định)</string>
+    <string name="lock_fonts_bold">Đậm</string>
+    <string name="lock_fonts_italic">Nghiêng</string>
+    <string name="lock_fonts_bold_italic">Nghiêng đậm</string>
+    <string name="lock_fonts_light_italic">Nghiêng nhạt</string>
+    <string name="lock_fonts_light">Mảnh</string>
     <string name="lock_fonts_condensed_normal">Condensed</string>
     <string name="lock_fonts_condensed_italic">Condensed Italic</string>
     <string name="lock_fonts_condensed_bold">Condensed Bold</string>
