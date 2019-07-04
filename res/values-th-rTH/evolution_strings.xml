@@ -306,43 +306,43 @@
     <string name="network_traffic_header">ส่วนบนที่แยกออกมา</string>
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">ปรับแต่งแผงตั้งค่าด่วน</string>
-    <string name="show_secure_title">Security footer</string>
-    <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
-    <string name="show_info_header_title">Information header</string>
-    <string name="show_info_header_summary">Shows information on top of the QS panel</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="show_secure_title">ความปลอดภัย</string>
+    <string name="show_secure_summary">แสดงสถานะ VPN ที่ด้านบนของแผงตั้งค่าด่วน</string>
+    <string name="show_info_header_title">ข้อมูลที่ส่วนหัว</string>
+    <string name="show_info_header_summary">แสดงข้อมูลที่ด้านบนของแผงการตั้งค่าด่วน</string>
+    <string name="profile_choose_app">เลือกแอปพลิเคชั่น</string>
+    <string name="dialog_delete_title">ลบ</string>
+    <string name="dialog_delete_message">ลบรายการที่เลือก?</string>
     <!-- Dashboard conditions -->
-    <string name="dashboard_category">Dashboard options</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_category">ตัวเลือกแดชบอร์ด</string>
+    <string name="dashboard_conditions_title">เงื่อนไขแดชบอร์ด</string>
+    <string name="summary_dashboard_conditions_enabled">เปิดใช้งานเงื่อนไขแดชบอร์ด</string>
+    <string name="summary_dashboard_conditions_disabled">เงื่อนไขแดชบอร์ดถูกปิดใช้งาน</string>
     <!-- Dashboard suggestions -->
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_suggestions_title">ข้อเสนอแนะแดชบอร์ด</string>
+    <string name="summary_dashboard_suggestions_enabled">เปิดใช้งานคำแนะนำแดชบอร์ดแล้ว</string>
+    <string name="summary_dashboard_suggestions_disabled">คำแนะนำแดชบอร์ดถูกปิดใช้งาน</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
-    <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_cover_filter_tint">Accent tinted</string>
-    <string name="lockscreen_cover_filter_blur">Blur</string>
-    <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_cover_filter_title">ฟิลเตอร์ภาพหน้าปกของสื่อบนหน้าจอล็อค</string>
+    <string name="lockscreen_cover_filter_none">ไม่มี</string>
+    <string name="lockscreen_cover_filter_grayscale">โทนสีเทา</string>
+    <string name="lockscreen_cover_filter_tint">ธีมสีอุปกรณ์</string>
+    <string name="lockscreen_cover_filter_blur">เบลอ</string>
+    <string name="lockscreen_cover_filter_grayblur">โทนสีเทาและเบลอ</string>
     <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Let everyone know that you\'re using Evolution X 2.0 when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evolution_logo_title">โลโก้ Evolution X 2.0</string>
+    <string name="evolution_logo_summary">บอกให้ทุกคนรู้ว่าคุณกำลังใช้ Evolution X 2.0 เมื่อพวกเขาเห็นหน้าจอของคุณ</string>
+    <string name="status_bar_logo_style_title">รูปแบบโลโก้ที่กำหนดเอง</string>
     <!-- QS themes -->
-    <string name="qs_panel_alpha_title">Opacity</string>
-    <string name="qs_panel_color_title">Color</string>
-    <string name="qs_bg_wall_title">Use Wallpaper colors</string>
-    <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
-    <string name="qs_bg_use_fw">Use default colors</string>
-    <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
+    <string name="qs_panel_alpha_title">ความทึบแสง</string>
+    <string name="qs_panel_color_title">สี</string>
+    <string name="qs_bg_wall_title">ใช้สีของภาพหน้าจอ</string>
+    <string name="qs_bg_wall_summary">ตั้งค่าสีพื้นหลังของการตั้งค่าด่วนจากวอลล์เปเปอร์</string>
+    <string name="qs_bg_use_fw">ใช้สีเริ่มต้น</string>
+    <string name="qs_bg_use_fw_summary">ปิดใช้งานรูปแบบการตั้งค่าด่วนแบบกำหนดเองสำหรับเอ็นจิ้นธีมภายนอก</string>
     <!-- Hide On Lockscreen -->
-    <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
-    <string name="hide_lockscreen_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="hide_lockscreen_status_bar_title">ซ่อนแถบสถานะ</string>
+    <string name="hide_lockscreen_status_bar_summary">แตะแถบสถานะเพื่อสลับการมองเห็น</string>
     <!-- Lockscreen items -->
     <string name="lockscreen_hide_items_category">Hide items</string>
     <string name="lockscreen_clock_title">Clock widget</string>
