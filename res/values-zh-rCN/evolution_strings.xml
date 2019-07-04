@@ -19,36 +19,36 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">AOSP Gestures</string>
+    <string name="buttons_title">实体按键</string>
+    <string name="gestures_title">手势</string>
+    <string name="lockscreen_title">锁屏界面</string>
+    <string name="misc_title">杂项设置</string>
+    <string name="navbar_title">导航栏</string>
+    <string name="powermenu_title">电源菜单</string>
+    <string name="quicksettings_title">快速设置</string>
+    <string name="statusbar_title">状态栏</string>
+    <string name="volume_title">音量键控制</string>
+    <string name="notifications_title">通知</string>
+    <string name="aosp_gesture_title">AOSP 手势</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">自定义设备的物理按键行为</string>
+    <string name="gestures_summary">手势基本选项/操作</string>
+    <string name="misc_summary">系统设置</string>
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="ok">确定</string>
+    <string name="reset">重置</string>
+    <string name="cancel">取消</string>
+    <string name="save">保存</string>
+    <string name="action_save">保存</string>
+    <string name="action_cancel">取消</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">颜色选择器</string>
+    <string name="press_color_to_apply">选取一个颜色并应用</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
-    <string name="hex">Hex:</string>
+    <string name="hex">十六进制：</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
+    <string name="set">应用</string>
     <string name="color_default">Default</string>
     <string name="battery_category">Battery</string>
     <string name="notifications_category_title">Annoying notifications protection</string>
