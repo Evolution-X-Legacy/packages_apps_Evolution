@@ -312,58 +312,58 @@
     <string name="qs_panel_tuner_category_title">QS panel tuner</string>
     <string name="show_secure_title">Tampilkan footer keamanan</string>
     <string name="show_secure_summary">Memperlihatkan status VPN di atas panel QS</string>
-    <string name="show_info_header_title">Information header</string>
-    <string name="show_info_header_summary">Shows information on top of the QS panel</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="show_info_header_title">Informasi header</string>
+    <string name="show_info_header_summary">Tampilkan informasi di atas panel QS</string>
+    <string name="profile_choose_app">Pilih aplikasi</string>
+    <string name="dialog_delete_title">Hapus</string>
+    <string name="dialog_delete_message">Hapus item yang dipilih?</string>
     <!-- Dashboard conditions -->
-    <string name="dashboard_category">Dashboard options</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_category">Opsi Dasbor</string>
+    <string name="dashboard_conditions_title">Kondisi dasbor</string>
+    <string name="summary_dashboard_conditions_enabled">Kondisi dasbor diaktifkan</string>
+    <string name="summary_dashboard_conditions_disabled">Kondisi dasbor dinonaktifkan</string>
     <!-- Dashboard suggestions -->
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_suggestions_title">Saran dasbor</string>
+    <string name="summary_dashboard_suggestions_enabled">Dasbor saran diaktifkan</string>
+    <string name="summary_dashboard_suggestions_disabled">Dasbor saran dinonaktifkan</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
-    <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_cover_filter_tint">Accent tinted</string>
-    <string name="lockscreen_cover_filter_blur">Blur</string>
-    <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_cover_filter_title">Gambar album di layar kunci</string>
+    <string name="lockscreen_cover_filter_none">Tidak ada</string>
+    <string name="lockscreen_cover_filter_grayscale">Hitam putih</string>
+    <string name="lockscreen_cover_filter_tint">Aksen diwarnai</string>
+    <string name="lockscreen_cover_filter_blur">Mengaburkan</string>
+    <string name="lockscreen_cover_filter_grayblur">Skala abu-abu dan kabur</string>
     <!-- Evolution X 2.0 logo -->
     <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Let everyone know that you\'re using Evolution X 2.0 when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evolution_logo_summary">Biarkan semua orang tahu bahwa Anda menggunakan Evolution X 2.0 ketika mereka melihat layar Anda</string>
+    <string name="status_bar_logo_style_title">Kostum gambar logo</string>
     <!-- QS themes -->
-    <string name="qs_panel_alpha_title">Opacity</string>
-    <string name="qs_panel_color_title">Color</string>
-    <string name="qs_bg_wall_title">Use Wallpaper colors</string>
-    <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
-    <string name="qs_bg_use_fw">Use default colors</string>
-    <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
+    <string name="qs_panel_alpha_title">Kegelapan</string>
+    <string name="qs_panel_color_title">Warna</string>
+    <string name="qs_bg_wall_title">Gunakan warna Wallpaper</string>
+    <string name="qs_bg_wall_summary">Atur warna latar QS dari Wallpaper</string>
+    <string name="qs_bg_use_fw">Gunakan warna standar</string>
+    <string name="qs_bg_use_fw_summary">Nonaktifkan gaya pengaturan cepat khusus untuk mesin tema eksternal</string>
     <!-- Hide On Lockscreen -->
-    <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
-    <string name="hide_lockscreen_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="hide_lockscreen_status_bar_title">Menyembunyikan statusbar</string>
+    <string name="hide_lockscreen_status_bar_summary">Sentuh bilah status untuk mengaktifkan keterlihatan</string>
     <!-- Lockscreen items -->
-    <string name="lockscreen_hide_items_category">Hide items</string>
-    <string name="lockscreen_clock_title">Clock widget</string>
-    <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
-    <string name="lockscreen_info_title">Items underneath the clock</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_hide_items_category">Sembunyikan item</string>
+    <string name="lockscreen_clock_title">Widget jam</string>
+    <string name="lockscreen_clock_summary">Tampilkan jam widget di lockscreen</string>
+    <string name="lockscreen_info_title">Item di bawah jam</string>
+    <string name="lockscreen_info_summary">Tampilkan tanggal, cuaca, alarm dan zen di lockscreen</string>
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
+    <string name="lockscreen_clock_selection_title">Gaya jam</string>
+    <string name="lockscreen_clock_selection_digital">Standar</string>
     <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
     <string name="lockscreen_clock_selection_analog">Analog</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Sammy dengan aksen</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy dengan aksen (alt)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
-    <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">Jam gradient (dengan shishu logo)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
     <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
     <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
