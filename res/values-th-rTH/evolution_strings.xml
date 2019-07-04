@@ -361,14 +361,14 @@
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
     <string name="lockscreen_clock_selection_gradient_btlglogo">นาฬิกาไล่โทนสี (พร้อมโลโก้ bootleg)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">นาฬิกาไล่โทนสี (พร้อมโลโก้ shishu)</string>
-    <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
-    <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
-    <string name="lockscreen_clock_selection_text">Text</string>
+    <string name="lockscreen_clock_selection_gradient_full">นาฬิกาไล่ระดับโทนสีเต็ม</string>
+    <string name="lockscreen_clock_selection_gradient_likeqs">นาฬิกาไล่โทนสีขาวดำ</string>
+    <string name="lockscreen_clock_selection_text">ข้อความ</string>
     <!-- Lockscreen Date styles -->
-    <string name="lockscreen_date_selection_title">Date style</string>
-    <string name="lockscreen_date_selection_default">Default</string>
-    <string name="lockscreen_date_selection_str_box">Semi-transparent box</string>
-    <string name="lockscreen_date_selection_str_round">Semi-transparent box (round)</string>
+    <string name="lockscreen_date_selection_title">รูปแบบวันที่</string>
+    <string name="lockscreen_date_selection_default">ค่าเริ่มต้น</string>
+    <string name="lockscreen_date_selection_str_box">กึ่งโปร่งใส</string>
+    <string name="lockscreen_date_selection_str_round">กึ่งโปร่งใส (รอบๆ)</string>
     <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
     <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
     <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
