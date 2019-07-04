@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="button_title">Nút</string>
+    <string name="button_title">Phím</string>
     <string name="gestures_title">Cử chỉ</string>
     <string name="lockscreen_title">Màn hình khoá</string>
     <string name="misc_title">Linh tinh</string>
@@ -160,7 +160,7 @@
     <string name="clock_cat">Đồng hồ</string>
     <string name="status_bar_clock_font_style_title">Kiểu phông chữ</string>
     <string name="status_bar_clock_font_style_summary">%1$s</string>
-    <string name="status_bar_clock_font_size_title">Cỡ phông chữ</string>
+    <string name="status_bar_clock_font_size_title">Kích thước phông chữ</string>
     <string name="status_bar_clock_color_title">Màu sắc phông chữ</string>
     <!-- Lockscreen cover art -->
     <string name="media_art_title">Ảnh bìa phương tiện</string>
@@ -561,7 +561,7 @@
     <string name="state_core_mode">Nhân</string>
     <string name="kernel_wakelock_time">Kernel wakelocks</string>
     <string name="user_wakelock_time">Partial wakelocks</string>
-    <string name="battery_change">Battery change</string>
+    <string name="battery_change">Thay đổi pin</string>
     <string name="spinner_state_time_title">Thời gian</string>
     <string name="total_time">Tổng cộng</string>
     <string name="wakelock_time">Wakelocks</string>
