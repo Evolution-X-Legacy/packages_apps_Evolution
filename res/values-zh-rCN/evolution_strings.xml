@@ -89,14 +89,14 @@
     <string name="bluetooth_battery_title">显示蓝牙设备电量</string>
     <string name="bluetooth_battery_summary">显示当前连接的蓝牙设备电量(如果设备支持)</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">让浮动通知更少地打扰你</string>
-    <string name="less_boring_heads_up_summary">只显示电话和短信的后台浮动通知</string>
+    <string name="less_boring_heads_up_title">减少浮动通知频率</string>
+    <string name="less_boring_heads_up_summary">当运行其他程序时，电话和短信显示浮动通知而非全屏</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">亮度滑块</string>
     <string name="qs_show_brightness_title">亮度滑块</string>
-    <string name="qs_show_brightness_summary">在快速设置面板中显示亮度滑块</string>
-    <string name="qs_brightness_position_bottom_title">底部亮度滑块</string>
-    <string name="qs_brightness_position_bottom_summary">显示快速设置面板底部的亮度滑块</string>
+    <string name="qs_show_brightness_summary">快速设置面板显示亮度滑块</string>
+    <string name="qs_brightness_position_bottom_title">亮度滑块移至下方</string>
+    <string name="qs_brightness_position_bottom_summary">亮度滑块显示在快速设置下方</string>
     <string name="qs_show_auto_brightness_title">自动亮度按钮</string>
     <string name="qs_show_auto_brightness_summary">显示自动亮度按钮</string>
     <string name="qs_auto_brightness_right_title">在右侧显示自动调节亮度按钮</string>
