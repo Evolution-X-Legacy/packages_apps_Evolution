@@ -83,11 +83,11 @@
     <string name="powermenu_logout">注销</string>
     <string name="powermenu_torch">手电筒</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">连接或移除电源时唤醒</string>
+    <string name="wake_when_plugged_or_unplugged_title">连接或移除电源时唤醒设备</string>
     <string name="wake_when_plugged_or_unplugged_summary">连接或断开电源时唤醒屏幕</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">显示蓝牙设备电量</string>
-    <string name="bluetooth_battery_summary">显示当前连接的蓝牙设备电量，如果设备支持</string>
+    <string name="bluetooth_battery_summary">显示当前连接的蓝牙设备电量(如果设备支持)</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">让浮动通知更少地打扰你</string>
     <string name="less_boring_heads_up_summary">只显示电话和短信的后台浮动通知</string>
