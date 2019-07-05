@@ -99,24 +99,24 @@
     <string name="qs_brightness_position_bottom_summary">亮度滑块显示在快速设置下方</string>
     <string name="qs_show_auto_brightness_title">自动亮度按钮</string>
     <string name="qs_show_auto_brightness_summary">显示自动亮度按钮</string>
-    <string name="qs_auto_brightness_right_title">在右侧显示自动调节亮度按钮</string>
-    <string name="qs_auto_brightness_right_summary">右侧显示自动亮度按钮</string>
+    <string name="qs_auto_brightness_right_title">右侧自动亮度按钮</string>
+    <string name="qs_auto_brightness_right_summary">右侧自动亮度按钮</string>
     <string name="qs_show_brightness_buttons_title">亮度控制按钮</string>
-    <string name="qs_show_brightness_buttons_summary">在亮度条两侧显示加减亮度按钮</string>
+    <string name="qs_show_brightness_buttons_summary">显示亮度微调按钮</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">锁定时不显示电源菜单</string>
+    <string name="lockscreen_power_menu_disabled_title">锁定时禁用电源菜单</string>
     <string name="lockscreen_power_menu_disabled_summary">锁屏时禁用电源菜单</string>
-    <string name="notification_sound_vib_screen_on_title">若屏幕为开启状态, 发出通知提醒声音和振动</string>
-    <string name="notification_sound_vib_screen_on_summary">当屏幕唤醒时启用通知声音和振动</string>
+    <string name="notification_sound_vib_screen_on_title">亮屏时启用通知提醒声音和振动</string>
+    <string name="notification_sound_vib_screen_on_summary">屏幕唤醒时启用通知声音和振动</string>
     <!-- Less Notification sounds -->
     <string name="less_notification_sounds_title">智能通知提示音</string>
-    <string name="less_notification_sounds_summary">每个应用的通知提示音在设定的时间段内只响一次</string>
+    <string name="less_notification_sounds_summary">应用的通知提示音在设定时间段内只响一次</string>
     <string name="less_notification_sounds_default">应用默认值</string>
-    <string name="less_notification_sounds_10s">每隔 10 秒</string>
-    <string name="less_notification_sounds_30s">每隔 30 秒</string>
-    <string name="less_notification_sounds_1m">每分钟一次</string>
-    <string name="less_notification_sounds_2m">每 2 分钟</string>
-    <string name="incall_notifications_vibrate">更少烦人的来电通知</string>
+    <string name="less_notification_sounds_10s">每10秒</string>
+    <string name="less_notification_sounds_30s">每30秒</string>
+    <string name="less_notification_sounds_1m">每1分钟</string>
+    <string name="less_notification_sounds_2m">每2分钟</string>
+    <string name="incall_notifications_vibrate">减少来电通知频率</string>
     <string name="incall_notifications_vibrate_summary">来电时振动而不是响铃</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">息屏音乐信息</string>
