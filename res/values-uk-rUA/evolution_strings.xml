@@ -374,9 +374,9 @@
     <string name="lockscreen_date_selection_str_box">Напівпрозорий</string>
     <string name="lockscreen_date_selection_str_round">Напівпрозорий (закруглений)</string>
     <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
-    <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
-    <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
-    <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
+    <string name="lockscreen_date_selection_str_accent">Закруглена, проста з акцентом</string>
+    <string name="lockscreen_date_selection_str_accent_day">Закруглена, проста з акцентом (альт)</string>
+    <string name="lockscreen_date_selection_str_accent_transparent">Закруглена, прозора з акцентом</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Закруглена, прозора та з кольором стиля системи (альт)</string>
     <string name="lockscreen_date_selection_str_gradient">Градієнт</string>
     <string name="lockscreen_date_selection_str_border_accent">Темний з акцентованими гранями</string>
@@ -462,26 +462,26 @@
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">One-handed mode</string>
     <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
-    <string name="qs_running_services_title">Running Services Icon</string>
-    <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
+    <string name="qs_running_services_title">Іконка запущених додатків</string>
+    <string name="qs_running_services_summary">Показувати іконку працюючих додатків</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">Немає значень за умовчанням</string>
+    <string name="seekbar_default_value_set">Значення встановлено за замовчуванням <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">Значення за замовчуванням вже встановлено</string>
+    <string name="seekbar_default_string">За замовчуванням</string>
     <!-- Lock Clock & Date Size -->
-    <string name="lockdate_font_size_title">Date font size</string>
-    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lockdate_font_size_title">Розмір шрифту дати</string>
+    <string name="lockclock_font_size_title">Розмір шрифту годинника</string>
     <!-- Language options - Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="cursor_section_header">Курсор</string>
+    <string name="volume_key_cursor_control_title">Управління курсором кнопками гучності</string>
+    <string name="volume_key_cursor_control_off">Вимкнено</string>
+    <string name="volume_key_cursor_control_on">Гучність вверx/вниз переміщує курсор ліворуч/праворуч</string>
+    <string name="volume_key_cursor_control_on_reverse">Гучність вверx/вниз переміщує курсор праворуч/ліворуч</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze</string>
-    <string name="doze_settings_title">Doze settings</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
+    <string name="advanced_doze_settings">Додаткові настройки сплячого режиму</string>
+    <string name="doze_settings_title">Налаштування сплячого режиму</string>
+    <string name="doze_settings_summary">Редагування параметрів сплячого режиму</string>
     <string name="action_restoredefault">Restore defaults</string>
     <string name="action_profile">Profiles</string>
     <string name="action_save_as_profile">Save as profile</string>
