@@ -157,9 +157,9 @@
     <string name="clock_date_style_lowercase">小写字母</string>
     <string name="clock_date_style_uppercase">大写</string>
     <string name="clock_date_format_custom">自定义java格式</string>
-    <string name="clock_date_right">时钟与日期右侧</string>
-    <string name="clock_date_left">时钟与日期左侧</string>
-    <string name="clock_date_position">时钟与日期位置</string>
+    <string name="clock_date_right">时间居右</string>
+    <string name="clock_date_left">时间居左</string>
+    <string name="clock_date_position">日期位置</string>
     <string name="date_cat">日期</string>
     <string name="clock_cat">时钟</string>
     <string name="status_bar_clock_font_style_title">字体样式</string>
@@ -170,7 +170,7 @@
     <string name="media_art_title">艺术家封面</string>
     <string name="media_art_summary">在锁屏界面使用媒体艺术家封面</string>
     <!-- Lock screen visualizer -->
-    <string name="lockscreen_visualizer_category">锁屏可视化</string>
+    <string name="lockscreen_visualizer_category">可视化</string>
     <string name="lockscreen_visualizer_title">锁屏可视化工具标题</string>
     <string name="lockscreen_visualizer_summary">当播放音乐时在锁屏界面显示可视化效果</string>
     <string name="lockscreen_visualizer_enable_custom">使用自定义颜色：</string>
@@ -186,11 +186,11 @@
     <string name="qs_tile_animation_title">动画</string>
     <string name="qs_tile_animation_style_title">动画样式</string>
     <string name="qs_tile_animation_duration_title">动画持续时间</string>
-    <string name="qs_tile_animation_interpolator_title">瓷砖动画插值器</string>
+    <string name="qs_tile_animation_interpolator_title">平铺动画插值器</string>
     <string name="qs_tile_animation_style_off">无动画</string>
     <string name="qs_tile_animation_style_flip">翻转</string>
     <string name="qs_tile_animation_style_rotate">旋转</string>
-    <string name="qs_tile_animation_duration_low">Low</string>
+    <string name="qs_tile_animation_duration_low">慢速</string>
     <string name="qs_tile_animation_duration_default">默认</string>
     <string name="qs_tile_animation_duration_fast">快</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">线性</string>
@@ -239,15 +239,15 @@
     <string name="quick_settings_vibrate_title">触摸时振动</string>
     <string name="quick_settings_vibrate_summary">触摸快速设置磁贴时震动</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">音量键接听</string>
+    <string name="volume_answer_call_summary">按音量键接听电话</string>
     <!-- Old Style Mobile -->
-    <string name="use_old_mobiletype_title">Use old mobile signal</string>
-    <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
+    <string name="use_old_mobiletype_title">使用旧的移动信号图标</string>
+    <string name="use_old_mobiletype_summary">使用Android O或更老的移动信号图标\n系统界面将会重启</string>
     <!-- Custom carrier label and position -->
-    <string name="carrier_category">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
+    <string name="carrier_category">运营商名称</string>
+    <string name="carrier_label_settings_summary">自定义运营商名称</string>
+    <string name="custom_carrier_label_title">自定义运营商名称</string>
     <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
     <string name="custom_carrier_label_notset">Custom label currently not set</string>
     <string name="show_carrier_title">Carrier label</string>
@@ -305,15 +305,15 @@
     <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
     <string name="network_traffic_state_summary">Show upload &amp; download network speed</string>
     <string name="network_traffic_location_title">Traffic indicator placement</string>
-    <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
-    <string name="network_traffic_statusbar">Status bar</string>
-    <string name="network_traffic_header">Expanded header</string>
+    <string name="network_traffic_location_summary">将指示器放在状态栏或下拉栏的顶部（推荐用于带刘海屏的设备）</string>
+    <string name="network_traffic_statusbar">状态栏</string>
+    <string name="network_traffic_header">扩展状态栏顶部</string>
     <!-- QS panel tuner -->
-    <string name="qs_panel_tuner_category_title">QS panel tuner</string>
-    <string name="show_secure_title">Security footer</string>
-    <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
-    <string name="show_info_header_title">Information header</string>
-    <string name="show_info_header_summary">Shows information on top of the QS panel</string>
+    <string name="qs_panel_tuner_category_title">QS面板调谐器</string>
+    <string name="show_secure_title">安全页脚</string>
+    <string name="show_secure_summary">在QS面板上显示VPN状态</string>
+    <string name="show_info_header_title">信息标题</string>
+    <string name="show_info_header_summary">在QS面板顶部显示信息</string>
     <string name="profile_choose_app">Choose app</string>
     <string name="dialog_delete_title">Delete</string>
     <string name="dialog_delete_message">Remove selected item?</string>
