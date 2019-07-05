@@ -47,7 +47,7 @@
     <string name="arrow_right">向右</string>
     <string name="arrow_down">向下</string>
     <string name="hex">十六进制：</string>
-    <string name="hex_hint">#ff000000</string>
+    <string name="hex_hint">十六进制</string>
     <string name="set">应用</string>
     <string name="color_default">默认</string>
     <string name="battery_category">电量</string>
@@ -145,9 +145,9 @@
     <string name="clock_date_display_summary">在时钟前显示自定义的日期</string>
     <string name="clock_date_style">日期样式</string>
     <string name="clock_date_format">日期格式</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
-    <string name="am_pm_clock_normal">Normal font size</string>
+    <string name="clock_date_string_edittext_title">日期格式 例如:MM/dd/yy</string>
+    <string name="clock_date_string_edittext_summary">时钟与日期设置</string>
+    <string name="am_pm_clock_normal">正常显示AM/PM</string>
     <string name="am_pm_clock_small">Small font size</string>
     <string name="am_pm_clock_none">Don\'t show</string>
     <string name="clock_date_display_none">Don\'t show</string>
