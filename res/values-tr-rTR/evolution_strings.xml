@@ -19,19 +19,19 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Donanım Tuşları</string>
+    <string name="buttons_title">Donanım tuşları</string>
     <string name="gestures_title">Hareketler</string>
     <string name="lockscreen_title">Kilit ekranı</string>
     <string name="misc_title">Çeşitli</string>
-    <string name="navbar_title">Navigasyon çubuğu</string>
+    <string name="navbar_title">Gezinme çubuğu</string>
     <string name="powermenu_title">Güç menüsü</string>
-    <string name="quicksettings_title">Hızlı Ayarlar</string>
+    <string name="quicksettings_title">Hızlı ayarlar</string>
     <string name="statusbar_title">Durum çubuğu</string>
-    <string name="volume_title">Ses Tuşları</string>
+    <string name="volume_title">Ses tuşları</string>
     <string name="notifications_title">Bildirimler</string>
-    <string name="aosp_gesture_title">AOSP Hareketleri</string>
+    <string name="aosp_gesture_title">Aosp hareketleri</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Cihazınızın fiziksel tuş hareketlerini düzenle</string>
+    <string name="buttons_summary">Cihazınızın fiziksel tuş hareketlerini düzenleyin</string>
     <string name="gestures_summary">Harekete dayalı seçenekler ve eylemler</string>
     <string name="misc_summary">Extra sistem ayarları</string>
     <!-- General strings -->
@@ -42,28 +42,28 @@
     <string name="action_save">Kaydet</string>
     <string name="action_cancel">İptal</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Renk Seçici</string>
-    <string name="press_color_to_apply">Uygulamak için aşağıdaki renge basın</string>
+    <string name="dialog_color_picker">Renk seçici</string>
+    <string name="press_color_to_apply">Uygulamak istediğiniz rengin üzerine basın</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Ayarla</string>
     <string name="color_default">Varsayılan</string>
-    <string name="battery_category">Pil / Batarya</string>
+    <string name="battery_category">Pil</string>
     <string name="notifications_category_title">Rahatsız edici bildirim koruması</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Pil simgesi stili</string>
-    <string name="battery_style_category_summary">Durum çubuğu pil stilini değiştirin</string>
-    <string name="status_bar_battery_percentage_title">Batarya yüzdesi</string>
+    <string name="battery_style_category_summary">Durum çubuğu pil simgesi stilini değiştirme</string>
+    <string name="status_bar_battery_percentage_title">Pil yüzdesi</string>
     <string name="status_bar_battery_percentage_summary">Geçerli pil seviyesi yüzdesini göster</string>
     <string name="status_bar_battery_percentage_default">Gizli</string>
-    <string name="status_bar_battery_percentage_text_next">Simgenin yanında</string>
-    <string name="status_bar_battery_percentage_text_inside">Simgenin içinde</string>
+    <string name="status_bar_battery_percentage_text_next">Simge yanında</string>
+    <string name="status_bar_battery_percentage_text_inside">Simge içinde</string>
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">Pil stili</string>
     <string name="status_bar_battery_style_port">Dikey</string>
-    <string name="status_bar_battery_style_q">Android Q</string>
+    <string name="status_bar_battery_style_q">Q stili</string>
     <string name="status_bar_battery_style_circle">Daire</string>
     <string name="status_bar_battery_style_dotted_circle">Noktalı daire</string>
     <string name="status_bar_battery_style_big_circle">Büyük daire</string>
@@ -309,25 +309,25 @@
     <string name="network_traffic_statusbar">Durum çubuğu</string>
     <string name="network_traffic_header">Genişletilmiş başlık</string>
     <!-- QS panel tuner -->
-    <string name="qs_panel_tuner_category_title">QS panel tuner</string>
-    <string name="show_secure_title">Security footer</string>
-    <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
-    <string name="show_info_header_title">Information header</string>
-    <string name="show_info_header_summary">Shows information on top of the QS panel</string>
-    <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="qs_panel_tuner_category_title">Panel ayarlayıcısı</string>
+    <string name="show_secure_title">Güvenlik altbilgisi</string>
+    <string name="show_secure_summary">Hızlı ayarlar panelinin üstünde VPN durumunu gösterir</string>
+    <string name="show_info_header_title">Bilgi başlığı</string>
+    <string name="show_info_header_summary">Hızlı ayarlar panelinin üstünde bilgi gösterir</string>
+    <string name="profile_choose_app">Uygulama seç</string>
+    <string name="dialog_delete_title">Sil</string>
+    <string name="dialog_delete_message">Seçili öge silinsin mi?</string>
     <!-- Dashboard conditions -->
-    <string name="dashboard_category">Dashboard options</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_category">Ayarlar menüsü</string>
+    <string name="dashboard_conditions_title">Ayarlar menüsü durumları</string>
+    <string name="summary_dashboard_conditions_enabled">Ayarlar menüsü durumları etkin</string>
+    <string name="summary_dashboard_conditions_disabled">Ayarlar menüsü durumları devre dışı</string>
     <!-- Dashboard suggestions -->
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_suggestions_title">Ayarlar menüsü önerileri</string>
+    <string name="summary_dashboard_suggestions_enabled">Ayarlar menüsü önerileri etkin</string>
+    <string name="summary_dashboard_suggestions_disabled">Ayarlar menüsü önerileri devre dışı</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
+    <string name="lockscreen_cover_filter_title">Kilit ekranı albüm kapağı filtresi</string>
     <string name="lockscreen_cover_filter_none">Yok</string>
     <string name="lockscreen_cover_filter_grayscale">Gri tonlama</string>
     <string name="lockscreen_cover_filter_tint">Vurgu renkli</string>
@@ -551,8 +551,8 @@
     <string name="since_reset">Sıfırla</string>
     <string name="since_unplug">Çıkarıldı</string>
     <string name="other">Etkinlik</string>
-    <string name="kernel_wakelocks">Kernel wakelocks</string>
-    <string name="partial_wakelocks">Partial wakelocks</string>
+    <string name="kernel_wakelocks">Çekirdek uyandırma kilitleri</string>
+    <string name="partial_wakelocks">Kısmi uyandırma kilitleri</string>
     <string name="app_wakelocks">Uygulama uyandırma kilitleri</string>
     <string name="create_ref">Sıfırla</string>
     <string name="spinner_period_title">Şu tarihten beri</string>
@@ -610,11 +610,11 @@
     <string name="hardware_keys_long_press_title">Uzun dokunma eylemi</string>
     <string name="hardware_keys_double_tap_title">Çift dokunma eylemi</string>
     <string name="hardware_keys_category">Donanım tuşu</string>
-    <string name="hardware_keys_summary">Customize hardware key actions</string>
-    <string name="hardware_keys_disable_title">Disable hardware buttons</string>
+    <string name="hardware_keys_summary">Donanım tuşu eylemlerini özelleştirme</string>
+    <string name="hardware_keys_disable_title">Donanım tuşlarını devre dışı bırak</string>
     <!-- Lockscreen icons -->
-    <string name="lockscreen_tuner_title">Lockscreen Shortcuts</string>
+    <string name="lockscreen_tuner_title">Kilit ekranı kısayolları</string>
     <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Charging animation</string>
-    <string name="lockscreen_charging_animation_summary">Display a bolt animation when the device is charging</string>
+    <string name="lockscreen_charging_animation_title">Şarj animasyonu</string>
+    <string name="lockscreen_charging_animation_summary">Cihaz şarj olurken bir cıvata animasyonu görüntüle</string>
 </resources>
