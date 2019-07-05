@@ -94,14 +94,14 @@
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">亮度滑块</string>
     <string name="qs_show_brightness_title">亮度滑块</string>
-    <string name="qs_show_brightness_summary">快速设置面板显示亮度滑块</string>
+    <string name="qs_show_brightness_summary">QS面板显示亮度滑块</string>
     <string name="qs_brightness_position_bottom_title">亮度滑块移至下方</string>
-    <string name="qs_brightness_position_bottom_summary">亮度滑块显示在快速设置下方</string>
+    <string name="qs_brightness_position_bottom_summary">QS面板下方显示亮度滑块</string>
     <string name="qs_show_auto_brightness_title">自动亮度按钮</string>
     <string name="qs_show_auto_brightness_summary">显示自动亮度按钮</string>
     <string name="qs_auto_brightness_right_title">右侧自动亮度按钮</string>
-    <string name="qs_auto_brightness_right_summary">右侧自动亮度按钮</string>
-    <string name="qs_show_brightness_buttons_title">亮度控制按钮</string>
+    <string name="qs_auto_brightness_right_summary">亮度滑块右侧显示自动亮度按钮</string>
+    <string name="qs_show_brightness_buttons_title">亮度控制</string>
     <string name="qs_show_brightness_buttons_summary">显示亮度微调按钮</string>
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">锁定时禁用电源菜单</string>
@@ -120,7 +120,7 @@
     <string name="incall_notifications_vibrate_summary">来电时振动而不是响铃</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">息屏音乐信息</string>
-    <string name="force_ambient_for_media_pref_summary">配置息屏音乐信息</string>
+    <string name="force_ambient_for_media_pref_summary">息屏音乐信息配置</string>
     <string name="ambient_ticker_footer">环境音乐收录器显示在环境显示屏幕内播放音乐曲目信息。\n\n如果在启动新曲目时禁用环境显示，则会触发此操作，从而在屏幕中间强制显示带有曲目信息的干净环境屏幕。\n\n您也可以双击轨道信息以跳过轨道。</string>
     <string name="force_ambient_for_media_title">启用</string>
     <!-- Status bar clock options -->
@@ -135,7 +135,7 @@
     <string name="status_bar_clock_seconds_title">显示秒</string>
     <string name="status_bar_am_pm_title">上午/下午</string>
     <string name="status_bar_am_pm_info">24小时制已启用</string>
-    <string name="enable_clock_weekday">一周中的一天</string>
+    <string name="enable_clock_weekday">工作日</string>
     <string name="enable_clock_weekday_summary">在时间前显示星期</string>
     <string name="right_clock">时钟居右</string>
     <string name="center_clock">时钟居中</string>
@@ -480,11 +480,11 @@
     <string name="volume_key_cursor_control_on">音量键上/下控制光标左/右移动</string>
     <string name="volume_key_cursor_control_on_reverse">音量键上/下控制光标右/左移动</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">高级 Doze 模式</string>
-    <string name="doze_settings_title">Doze设置</string>
-    <string name="doze_settings_summary">编辑 Doze 模式配置设置</string>
+    <string name="advanced_doze_settings">高级打盹模式</string>
+    <string name="doze_settings_title">打盹设置</string>
+    <string name="doze_settings_summary">编辑打盹模式配置</string>
     <string name="action_restoredefault">恢复默认值</string>
-    <string name="action_profile">简介</string>
+    <string name="action_profile">配置文件</string>
     <string name="action_save_as_profile">保存配置文件</string>
     <string name="delete_profile">删除配置文件</string>
     <string name="profile_name">应用名</string>
