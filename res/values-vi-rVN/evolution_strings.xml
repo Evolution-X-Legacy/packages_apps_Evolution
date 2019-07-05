@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Phím cứng</string>
     <string name="gestures_title">Cử chỉ</string>
     <string name="lockscreen_title">Màn hình khoá</string>
     <string name="misc_title">Linh tinh</string>
@@ -31,9 +31,9 @@
     <string name="notifications_title">Thông báo</string>
     <string name="aosp_gesture_title">Cử chỉ AOSP</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">Tinh chỉnh các hành động của các nút vật lý trên thiết bị của bạn</string>
+    <string name="gestures_summary">Tùy chọn/hành động dựa trên cử chỉ</string>
+    <string name="misc_summary">Cài đặt hệ thống bổ sung</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Đặt lại</string>
@@ -373,7 +373,7 @@
     <string name="lockscreen_date_selection_default">Mặc định</string>
     <string name="lockscreen_date_selection_str_box">Hộp bán trong suốt</string>
     <string name="lockscreen_date_selection_str_round">Hộp bán trong suốt (bo tròn)</string>
-    <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
+    <string name="lockscreen_date_selection_qbeta_style">Viên thuốc Q Beta</string>
     <string name="lockscreen_date_selection_str_accent">Bo tròn, đơn giản và với màu nhấn</string>
     <string name="lockscreen_date_selection_str_accent_day">Bo tròn, đơn giản và với màu nhấn (tất cả)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Bo tròn, trong suốt và với màu nhấn</string>
@@ -592,7 +592,7 @@
     <string name="qs_edit_title">Chỉnh sửa biểu tượng cài đặt nhanh</string>
     <string name="qs_edit_summary">Hiển thị biểu tượng chỉnh sửa trong phần chân cài đặt nhanh</string>
     <!-- Evolution navigation -->
-    <string name="navigation_category">Navigation</string>
+    <string name="navigation_category">Điều hướng</string>
     <string name="navigation_summary">Tùy chỉnh kiểu và cách tương tác với thanh điều hướng</string>
     <string name="navbar_tuner_title">Chỉnh thanh điều hướng</string>
     <string name="navbar_tuner_summary">Chỉnh bố cục thanh điều hướng và các nút bấm</string>
