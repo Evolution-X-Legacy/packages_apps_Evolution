@@ -124,7 +124,7 @@
     <string name="ambient_ticker_footer">环境音乐收录器显示在环境显示屏幕内播放音乐曲目信息。\n\n如果在启动新曲目时禁用环境显示，则会触发此操作，从而在屏幕中间强制显示带有曲目信息的干净环境屏幕。\n\n您也可以双击轨道信息以跳过轨道。</string>
     <string name="force_ambient_for_media_title">启用</string>
     <!-- Status bar clock options -->
-    <string name="clock_category">显示锁屏时钟</string>
+    <string name="clock_category">时钟</string>
     <string name="status_bar_clock">时钟和日期</string>
     <string name="status_bar_clock_summary">配置状态栏时钟和日期外观</string>
     <string name="clock_title_enable">对齐</string>
@@ -135,17 +135,17 @@
     <string name="status_bar_clock_seconds_title">显示秒</string>
     <string name="status_bar_am_pm_title">上午/下午</string>
     <string name="status_bar_am_pm_info">24小时制已启用</string>
-    <string name="enable_clock_weekday">起始日</string>
-    <string name="enable_clock_weekday_summary">在时间前显示简写的星期</string>
+    <string name="enable_clock_weekday">一周中的一天</string>
+    <string name="enable_clock_weekday_summary">在时间前显示星期</string>
     <string name="right_clock">时钟居右</string>
     <string name="center_clock">时钟居中</string>
     <string name="left_clock">时钟居左</string>
     <string name="dont_show">不显示</string>
     <string name="clock_date_display">日期</string>
-    <string name="clock_date_display_summary">在时钟前显示自定义的日期</string>
+    <string name="clock_date_display_summary">自定义前缀</string>
     <string name="clock_date_style">日期样式</string>
     <string name="clock_date_format">日期格式</string>
-    <string name="clock_date_string_edittext_title">日期格式 例如:MM/dd/yy</string>
+    <string name="clock_date_string_edittext_title">日期格式 例如:月/日/年</string>
     <string name="clock_date_string_edittext_summary">输入字符</string>
     <string name="am_pm_clock_normal">正常字体大小</string>
     <string name="am_pm_clock_small">较小字体大小</string>
@@ -168,17 +168,17 @@
     <string name="status_bar_clock_color_title">字体颜色</string>
     <!-- Lockscreen cover art -->
     <string name="media_art_title">艺术家封面</string>
-    <string name="media_art_summary">在锁屏界面使用媒体艺术家封面</string>
+    <string name="media_art_summary">锁屏界面显示艺术家封面</string>
     <!-- Lock screen visualizer -->
-    <string name="lockscreen_visualizer_category">可视化</string>
-    <string name="lockscreen_visualizer_title">锁屏可视化工具标题</string>
-    <string name="lockscreen_visualizer_summary">当播放音乐时在锁屏界面显示可视化效果</string>
+    <string name="lockscreen_visualizer_category">频谱</string>
+    <string name="lockscreen_visualizer_title">启用锁屏音乐频谱效果</string>
+    <string name="lockscreen_visualizer_summary">锁屏界面显示音乐频谱效果</string>
     <string name="lockscreen_visualizer_enable_custom">使用自定义颜色：</string>
     <string name="lockscreen_visualizer_enable_custom_summary">使用预设颜色代替生成的颜色</string>
-    <string name="lockscreen_visualizer_custom_color">可视化效果颜色</string>
+    <string name="lockscreen_visualizer_custom_color">频谱效果颜色</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">环境音乐可视化</string>
-    <string name="ambient_visualizer_summary">在环境显示中也显示可视化条 (但不太透明)</string>
+    <string name="ambient_visualizer_title">环境音乐频谱</string>
+    <string name="ambient_visualizer_summary">在环境显示中也显示频谱 (但不太透明)</string>
     <!--Vol button rotation swap-->
     <string name="swap_volume_buttons">旋转交换</string>
     <string name="volume_keys_swap_summary">基于设备旋转交换音量按钮</string>
