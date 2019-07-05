@@ -122,12 +122,12 @@
     <string name="force_ambient_for_media_pref_title">息屏音乐信息</string>
     <string name="force_ambient_for_media_pref_summary">配置息屏音乐信息</string>
     <string name="ambient_ticker_footer">环境音乐收录器显示在环境显示屏幕内播放音乐曲目信息。\n\n如果在启动新曲目时禁用环境显示，则会触发此操作，从而在屏幕中间强制显示带有曲目信息的干净环境屏幕。\n\n您也可以双击轨道信息以跳过轨道。</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <string name="force_ambient_for_media_title">启用</string>
     <!-- Status bar clock options -->
-    <string name="clock_category">Clock</string>
-    <string name="status_bar_clock">Clock and Date</string>
-    <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
-    <string name="clock_title_enable">Alignment</string>
+    <string name="clock_category">显示锁屏时钟</string>
+    <string name="status_bar_clock">时钟和日期</string>
+    <string name="status_bar_clock_summary">配置状态栏时钟和日期外观</string>
+    <string name="clock_title_enable">对齐</string>
     <string name="clock_enabled">已启用</string>
     <string name="clock_disabled">已禁用</string>
     <string name="status_bar_clock_style_reset">重置颜色</string>
@@ -196,47 +196,47 @@
     <string name="qs_tile_animation_interpolator_linearInterpolator">Linear</string>
     <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelerate</string>
     <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelerate</string>
-    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelerate decelerate</string>
-    <string name="qs_tile_animation_interpolator_bounceInterpolator">Bounce</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
-    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipate</string>
-    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipate overshoot</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">先快后慢</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">弹跳</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">越界</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">先加速后减速</string>
+    <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">预留和越界</string>
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_fade">Simple fade</string>
+    <string name="screen_off_animation_title">锁屏动画</string>
+    <string name="screen_off_animation_fade">简单淡入</string>
     <string name="screen_off_animation_crt">CRT</string>
-    <string name="screen_off_animation_scale">Scale</string>
+    <string name="screen_off_animation_scale">缩放</string>
     <!-- Heads up -->
-    <string name="heads_up_title">Enable</string>
-    <string name="heads_up_summary_enabled">Heads up notifications are enabled</string>
-    <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
-    <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_title">启用</string>
+    <string name="heads_up_summary_enabled">启用浮动通知</string>
+    <string name="heads_up_summary_disabled">浮动通知已禁用</string>
+    <string name="heads_up_time_out_title">超时</string>
+    <string name="heads_up_time_out_summary">浮动通知将显示 <xliff:g id="number">%d</xliff:g> 秒</string>
+    <string name="heads_up_time_out_2sec">2 秒</string>
+    <string name="heads_up_time_out_4sec">4 秒</string>
+    <string name="heads_up_time_out_5sec">5 秒</string>
+    <string name="heads_up_time_out_6sec">6 秒</string>
+    <string name="heads_up_time_out_8sec">8 秒</string>
+    <string name="heads_up_time_out_10sec">10 秒</string>
+    <string name="heads_up_snooze_title">暂停计时器</string>
+    <string name="heads_up_snooze_summary_one_minute">上滑弹出通知将使此应用的浮动通知进入打盹状态1分钟</string>
+    <string name="heads_up_snooze_summary">上滑浮动通知将使此应用的浮动通知进入打盹状态<xliff:g id="number">%d</xliff:g>分钟</string>
+    <string name="heads_up_snooze_disabled_summary">暂停计时器已禁用</string>
+    <string name="heads_up_snooze_1min">1分钟</string>
+    <string name="heads_up_snooze_5min">5 分钟</string>
+    <string name="heads_up_snooze_10min">10 分钟</string>
+    <string name="heads_up_snooze_15min">15 分钟</string>
+    <string name="heads_up_snooze_20min">20 分钟</string>
+    <string name="add_heads_up_package">添加应用程序</string>
+    <string name="add_heads_up_stoplist_summary">禁用这些应用程序的浮动通知</string>
+    <string name="add_heads_up_blacklist_summary">禁用来自这些应用程序的浮动通知</string>
+    <string name="heads_up_stoplist_title">禁用名单</string>
+    <string name="heads_up_blacklist_title">黑名单</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
+    <string name="quick_settings_vibrate_title">触摸时振动</string>
     <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Volume keys answer</string>
