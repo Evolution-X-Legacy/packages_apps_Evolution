@@ -407,61 +407,61 @@
     <string name="qstile_gear">Шестерня</string>
     <string name="qstile_diamond">Діамант</string>
     <string name="qstile_circleoutline">Коло з контуром</string>
-    <string name="qstile_roundedrect">Rounded Rectangle</string>
-    <string name="qstile_square">Square</string>
-    <string name="qstile_squircle">Squircle</string>
-    <string name="qstile_teardrop">Teardrop</string>
-    <string name="qstile_badge">Badge</string>
-    <string name="qstile_badgetwo">Badge two</string>
+    <string name="qstile_roundedrect">Прямокутник із закругленими кутами</string>
+    <string name="qstile_square">Квадрат</string>
+    <string name="qstile_squircle">Квадрат із заокругленими кутами</string>
+    <string name="qstile_teardrop">Сльоза</string>
+    <string name="qstile_badge">Значок</string>
+    <string name="qstile_badgetwo">Значок 2</string>
     <!-- Lock Clock Fonts -->
-    <string name="lock_clock_font_title">Clock font options</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
-    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
+    <string name="lock_clock_font_title">Параметри шрифту годинника</string>
+    <string name="lock_clock_font_summary">Змінити шрифта годинника на екрані блокування</string>
+    <string name="lock_clock_font_dialog_title">Виберіть шрифт</string>
     <!-- Lockscreen fonts - Common strings -->
-    <string name="lock_fonts_stock">Normal (default)</string>
-    <string name="lock_fonts_bold">Bold</string>
-    <string name="lock_fonts_italic">Italic</string>
-    <string name="lock_fonts_bold_italic">Bold Italic</string>
-    <string name="lock_fonts_light_italic">Light Italic</string>
-    <string name="lock_fonts_light">Light</string>
-    <string name="lock_fonts_condensed_normal">Condensed</string>
-    <string name="lock_fonts_condensed_italic">Condensed Italic</string>
-    <string name="lock_fonts_condensed_bold">Condensed Bold</string>
-    <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_fonts_medium_normal">Medium</string>
-    <string name="lock_fonts_medium_italic">Medium Italic</string>
+    <string name="lock_fonts_stock">Звичайний (за замовчуванням)</string>
+    <string name="lock_fonts_bold">Жирний</string>
+    <string name="lock_fonts_italic">Курсив</string>
+    <string name="lock_fonts_bold_italic">Жирний курсив</string>
+    <string name="lock_fonts_light_italic">Легкий курсив</string>
+    <string name="lock_fonts_light">Легкий</string>
+    <string name="lock_fonts_condensed_normal">Напівжирний</string>
+    <string name="lock_fonts_condensed_italic">Напівжирний курсив</string>
+    <string name="lock_fonts_condensed_bold">Напівжирний жирний</string>
+    <string name="lock_fonts_condensed_bold_italic">Напівжирний жирний курсив</string>
+    <string name="lock_fonts_medium_normal">Середній</string>
+    <string name="lock_fonts_medium_italic">Середній курсив</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
-    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
-    <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
+    <string name="lock_clock_font_themeable">Тематичний (або VCR OSD Mono)</string>
+    <string name="lock_dateown_font_themeable">Тематичний (або Fox та Cat)</string>
     <!-- Lock date fonts -->
-    <string name="lock_date_font_title">Date font options</string>
-    <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
-    <string name="lock_date_font_dialog_title">Select lock date font</string>
+    <string name="lock_date_font_title">Параметри шрифту дати</string>
+    <string name="lock_date_font_summary">Змінити шрифт годинника на екрані блокування</string>
+    <string name="lock_date_font_dialog_title">Виберіть шрифт</string>
     <!-- Lock owner test -->
-    <string name="lock_owner_font_title">Owner font options</string>
-    <string name="lock_owner_font_summary">Change the default font of the lockscreen owner info</string>
-    <string name="lock_owner_font_dialog_title">Select lock owner font</string>
+    <string name="lock_owner_font_title">Свій шрифт дати</string>
+    <string name="lock_owner_font_summary">Змінити шрифт дати на екрані блокування</string>
+    <string name="lock_owner_font_dialog_title">Виберіть шрифт годинника на екрані блокування</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">Кути</string>
+    <string name="corner_radius">Радіус округлення кутів</string>
+    <string name="content_padding">Кутовий відступ</string>
+    <string name="corner_fwvals">Використовувати значення фреймворку</string>
+    <string name="corner_fwvals_summary">Корисно, якщо пристрій уже має закруглені кути</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">Запуск плеєра</string>
+    <string name="headset_connect_player_summary">Запускати плеєра при під’єднанні навушників</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">Конфігурація USB</string>
+    <string name="usb_default_config_summary">Вибрати поведінку за замовчуванням під час підключення пристрою через USB</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
-    <string name="global_actions_onthego_title">On-The-Go</string>
-    <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_title">Режим «На ходу»</string>
+    <string name="global_actions_onthego_title">Режим \"На ходу\"</string>
+    <string name="onthego_alpha_title">Прозорість режиму \"На ходу\"</string>
+    <string name="onthego_alpha_summary">Ступінь прозорісті режиму \"На ходу\"</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">One-handed mode</string>
-    <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
+    <string name="one_hand_mode_title">Режим \"Керування однією рукою\"</string>
+    <string name="one_hand_mode_summary">Проведіть ліворуч або праворуч по панелі навігації для увімкнення</string>
     <string name="qs_running_services_title">Іконка запущених додатків</string>
     <string name="qs_running_services_summary">Показувати іконку працюючих додатків</string>
     <!-- SeekBar -->
@@ -516,7 +516,7 @@
     <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Це максимальний час, яке ми хочемо зробити доступним для режиму обслуговування при легкому простої</string>
     <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">Це мінімальна кількість часу, що ми залишимо в режимі обслуговування після легкого сну</string>
     <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">Це мінімальна кількість часу, що ми залишимо в режимі обслуговування після глубокого сну</string>
-    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is handling a notification</string>
+    <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Кількість часу, який ми б хотіли добавити в білий список програм, які отримують сповіщення</string>
     <string name="SHORT_INACTIVE_TIMEOUT">Inactive timeout</string>
     <string name="SHORT_SENSING_TIMEOUT">Sensing timeout</string>
     <string name="SHORT_LOCATING_TIMEOUT">Locating timeout</string>
