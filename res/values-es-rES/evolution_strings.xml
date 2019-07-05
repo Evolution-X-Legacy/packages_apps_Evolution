@@ -61,32 +61,32 @@
     <string name="status_bar_battery_percentage_text_next">Al lado del icono</string>
     <string name="status_bar_battery_percentage_text_inside">Dentro del icono</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_port">Portrait</string>
-    <string name="status_bar_battery_style_q">Q style</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
-    <string name="status_bar_battery_style_big_circle">Big circle</string>
-    <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
-    <string name="status_bar_battery_style_text">Text</string>
-    <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_style_title">Diseño de la batería de la barra de estado</string>
+    <string name="status_bar_battery_style_port">Retrato</string>
+    <string name="status_bar_battery_style_q">Diseño Q</string>
+    <string name="status_bar_battery_style_circle">Círculo</string>
+    <string name="status_bar_battery_style_dotted_circle">Círculo punteado</string>
+    <string name="status_bar_battery_style_big_circle">Círculo grande</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Círculo grande punteado</string>
+    <string name="status_bar_battery_style_text">Texto</string>
+    <string name="status_bar_battery_style_hidden">Oculto</string>
     <!-- Power Menu -->
-    <string name="powermenu_category_title">Power menu toggles</string>
-    <string name="powermenu_screenshot">Screenshot</string>
+    <string name="powermenu_category_title">Menu de arranque alterno</string>
+    <string name="powermenu_screenshot">Captura de pantalla</string>
     <string name="powermenu_power">Apagar</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_restart_recovery">Advanced restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_torch">Flashlight</string>
+    <string name="powermenu_restart">Reiniciar</string>
+    <string name="powermenu_restart_recovery">Reinicio avanzado</string>
+    <string name="powermenu_airplane">Avión</string>
+    <string name="powermenu_settings">Configuración</string>
+    <string name="powermenu_lockdown">Bloquear</string>
+    <string name="powermenu_users">Usuarios</string>
+    <string name="powermenu_logout">Cerrar sesión</string>
+    <string name="powermenu_torch">Linterna</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Encender al enchufar</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Encnder la pantalla al conectar o desconectar una fuente de energía</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
+    <string name="bluetooth_battery_title">Nivel de batería de Bluetooth</string>
     <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Make heads up less annoying</string>
