@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">进化</string>
     <!-- Categories -->
     <string name="buttons_title">实体按键</string>
     <string name="gestures_title">手势</string>
@@ -44,8 +44,8 @@
     <!-- Color Picker -->
     <string name="dialog_color_picker">颜色选择器</string>
     <string name="press_color_to_apply">选取一个颜色并应用</string>
-    <string name="arrow_right">→</string>
-    <string name="arrow_down">↓</string>
+    <string name="arrow_right">向右</string>
+    <string name="arrow_down">向下</string>
     <string name="hex">十六进制：</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">应用</string>
@@ -237,7 +237,7 @@
     <string name="heads_up_blacklist_title">黑名单</string>
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">触摸时振动</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_summary">触摸快速设置磁贴时震动</string>
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Volume keys answer</string>
     <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
