@@ -458,32 +458,32 @@
     <!-- On-The-Go -->
     <string name="onthego_title">On-The-Go模式</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
-    <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_alpha_title">On-The-Go 模式透明度</string>
+    <string name="onthego_alpha_summary">On-The-Go 模式覆盖层的透明度值</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">One-handed mode</string>
-    <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
-    <string name="qs_running_services_title">Running Services Icon</string>
-    <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
+    <string name="one_hand_mode_title">单手模式</string>
+    <string name="one_hand_mode_summary">允许向右或向左滑动导航栏以启用</string>
+    <string name="qs_running_services_title">运行中的服务图标</string>
+    <string name="qs_running_services_summary">启用快速磁贴页脚中的运行中的服务图标</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">未设置任何默认选项</string>
+    <string name="seekbar_default_value_set">设定预设值为<xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">已设为默认值</string>
+    <string name="seekbar_default_string">默认</string>
     <!-- Lock Clock & Date Size -->
-    <string name="lockdate_font_size_title">Date font size</string>
-    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lockdate_font_size_title">日期字体大小</string>
+    <string name="lockclock_font_size_title">时钟字体大小</string>
     <!-- Language options - Volume rocker cursor control -->
-    <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="cursor_section_header">光标</string>
+    <string name="volume_key_cursor_control_title">音量键光标控制</string>
+    <string name="volume_key_cursor_control_off">已禁用</string>
+    <string name="volume_key_cursor_control_on">音量键上/下控制光标左/右移动</string>
+    <string name="volume_key_cursor_control_on_reverse">音量键上/下控制光标右/左移动</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze</string>
-    <string name="doze_settings_title">Doze settings</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
-    <string name="action_restoredefault">Restore defaults</string>
+    <string name="advanced_doze_settings">高级 Doze 模式</string>
+    <string name="doze_settings_title">Doze设置</string>
+    <string name="doze_settings_summary">编辑 Doze 模式配置设置</string>
+    <string name="action_restoredefault">恢复默认值</string>
     <string name="action_profile">Profiles</string>
     <string name="action_save_as_profile">Save as profile</string>
     <string name="delete_profile">Delete profile</string>
@@ -532,13 +532,13 @@
     <string name="SHORT_IDLE_FACTOR">Idle factor</string>
     <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string>
     <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string>
-    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string>
-    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string>
-    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
-    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_FACTOR">Light idle factor</string>
-    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Max light idle timeout</string>
+    <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">彩信应用白名单最大持续时间</string>
+    <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">短信应用白名单最大持续时间</string>
+    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light Idle模式Inactive状态后的超时时间</string>
+    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light Idle模式中的Pre Idle状态超时时间</string>
+    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light Idle模式超时时间</string>
+    <string name="SHORT_LIGHT_IDLE_FACTOR">Light Idle模式判定因素</string>
+    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Idle模式最大超时时间</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string>
     <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Maintenance mode light doze min timeout</string>
