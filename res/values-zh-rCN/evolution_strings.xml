@@ -42,13 +42,13 @@
     <string name="action_save">保存</string>
     <string name="action_cancel">取消</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">颜色选择器</string>
-    <string name="press_color_to_apply">选取一个颜色并应用</string>
+    <string name="dialog_color_picker">拾色器</string>
+    <string name="press_color_to_apply">选取并应用颜色</string>
     <string name="arrow_right">向右</string>
     <string name="arrow_down">向下</string>
     <string name="hex">十六进制：</string>
-    <string name="hex_hint">十六进制</string>
-    <string name="set">应用</string>
+    <string name="hex_hint">#ff000000</string>
+    <string name="set">设置</string>
     <string name="color_default">默认</string>
     <string name="battery_category">电量</string>
     <string name="notifications_category_title">烦人通知保护</string>
@@ -56,10 +56,10 @@
     <string name="battery_style_category_title">电池图标样式</string>
     <string name="battery_style_category_summary">更改状态栏电池样式</string>
     <string name="status_bar_battery_percentage_title">电量百分比</string>
-    <string name="status_bar_battery_percentage_summary">显示电量百分比</string>
+    <string name="status_bar_battery_percentage_summary">显示当前电量百分比</string>
     <string name="status_bar_battery_percentage_default">隐藏</string>
     <string name="status_bar_battery_percentage_text_next">图标旁</string>
-    <string name="status_bar_battery_percentage_text_inside">图标内</string>
+    <string name="status_bar_battery_percentage_text_inside">在图标内</string>
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">电池样式</string>
     <string name="status_bar_battery_style_port">纵向</string>
@@ -283,7 +283,7 @@
     <string name="volume_steps_reset">重置</string>
     <!-- Audio Panel view  -->
     <string name="audio_panel_view_title">音量面板</string>
-    <string name="audio_panel_view_summary">自定义音量面板对话框</string>
+    <string name="audio_panel_view_summary">自定义音量面板</string>
     <string name="audio_panel_view_info">即使在此处禁用，活动音量流也将显示在屏幕上。此处启用的音量流将强制显示。</string>
     <string name="audio_panel_view_media_title">媒体</string>
     <string name="audio_panel_view_ringer_title">铃声</string>
