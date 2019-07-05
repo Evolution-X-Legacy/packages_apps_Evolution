@@ -27,7 +27,7 @@
     <string name="powermenu_title">Меню выключения</string>
     <string name="quicksettings_title">Панель быстрых настроек</string>
     <string name="statusbar_title">Строка состояния</string>
-    <string name="volume_title">Качелька регулировки громкости</string>
+    <string name="volume_title">Кнопки регулировки громкости</string>
     <string name="notifications_title">Настройка уведомлений</string>
     <string name="aosp_gesture_title">AOSP жесты</string>
     <!-- Summaries -->
