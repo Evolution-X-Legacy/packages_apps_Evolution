@@ -421,7 +421,7 @@
     <string name="lock_fonts_stock">Обычный (по умолчанию)</string>
     <string name="lock_fonts_bold">Жирный</string>
     <string name="lock_fonts_italic">Курсив</string>
-    <string name="lock_fonts_bold_italic">Полужирный курсив</string>
+    <string name="lock_fonts_bold_italic">Жирный курсив</string>
     <string name="lock_fonts_light_italic">Легкий курсив</string>
     <string name="lock_fonts_light">Легкий</string>
     <string name="lock_fonts_condensed_normal">Полужирный</string>
