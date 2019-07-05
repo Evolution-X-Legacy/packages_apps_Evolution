@@ -310,7 +310,7 @@
     <string name="network_traffic_header">Заголовок быстрых настроек</string>
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">Настройка панели QS</string>
-    <string name="show_secure_title">Иинформация о безопасности</string>
+    <string name="show_secure_title">Информация о безопасности</string>
     <string name="show_secure_summary">Показывает статус VPN в верхней части панели быстрых настроек</string>
     <string name="show_info_header_title">Информация в заголовке</string>
     <string name="show_info_header_summary">Показывает информацию в верхней части панели быстрых настроек</string>
