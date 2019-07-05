@@ -189,13 +189,13 @@
     <string name="qs_tile_animation_interpolator_title">Интерполяция анимации</string>
     <string name="qs_tile_animation_style_off">Без анимации</string>
     <string name="qs_tile_animation_style_flip">Переворот</string>
-    <string name="qs_tile_animation_style_rotate">Поворот</string>
+    <string name="qs_tile_animation_style_rotate">Вращение</string>
     <string name="qs_tile_animation_duration_low">Низкая</string>
     <string name="qs_tile_animation_duration_default">По умолчанию</string>
     <string name="qs_tile_animation_duration_fast">Быстрая</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">Линейная</string>
     <string name="qs_tile_animation_interpolator_accelerateInterpolator">Ускорение</string>
-    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Замедление</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Замедленная </string>
     <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Ускорить и замедлить</string>
     <string name="qs_tile_animation_interpolator_bounceInterpolator">Прыжок</string>
     <string name="qs_tile_animation_interpolator_overshootInterpolator">Перекрытие</string>
