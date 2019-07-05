@@ -32,7 +32,7 @@
     <string name="aosp_gesture_title">Gesta AOSP</string>
     <!-- Summaries -->
     <string name="buttons_summary">Upravte akce fyzických tlačítek zařízení</string>
-    <string name="gestures_summary">Nastavení/akce založené na gestech</string>
+    <string name="gestures_summary">Možnosti/akce založené na gestech</string>
     <string name="misc_summary">Širší systémová nastavení</string>
     <!-- General strings -->
     <string name="ok">OK</string>
