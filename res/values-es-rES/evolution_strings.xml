@@ -19,15 +19,15 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolución</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Botones Físicos</string>
     <string name="gestures_title">Gestos</string>
     <string name="lockscreen_title">Pantalla de bloqueo</string>
     <string name="misc_title">Misceláneo</string>
     <string name="navbar_title">Barra de navegación</string>
     <string name="powermenu_title">Menu de apagado</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
+    <string name="quicksettings_title">Ajustes Rapidos</string>
+    <string name="statusbar_title">Barra de estado</string>
+    <string name="volume_title">Control de Volumen</string>
     <string name="notifications_title">Notificaciones</string>
     <string name="aosp_gesture_title">Gestos AOSP</string>
     <!-- Summaries -->
