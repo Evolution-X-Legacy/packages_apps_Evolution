@@ -27,13 +27,13 @@
     <string name="powermenu_title">电源菜单</string>
     <string name="quicksettings_title">快速设置</string>
     <string name="statusbar_title">状态栏</string>
-    <string name="volume_title">音量键控制</string>
+    <string name="volume_title">音量调节</string>
     <string name="notifications_title">通知</string>
     <string name="aosp_gesture_title">AOSP 手势</string>
     <!-- Summaries -->
     <string name="buttons_summary">自定义设备的物理按键行为</string>
     <string name="gestures_summary">手势基本选项/操作</string>
-    <string name="misc_summary">系统设置</string>
+    <string name="misc_summary">高级设置</string>
     <!-- General strings -->
     <string name="ok">确定</string>
     <string name="reset">重置</string>
