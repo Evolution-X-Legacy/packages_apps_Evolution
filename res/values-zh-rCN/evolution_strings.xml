@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">进化</string>
+    <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
     <string name="buttons_title">实体按键</string>
     <string name="gestures_title">手势</string>
@@ -25,13 +25,13 @@
     <string name="misc_title">杂项设置</string>
     <string name="navbar_title">导航栏</string>
     <string name="powermenu_title">电源菜单</string>
-    <string name="quicksettings_title">快速设置</string>
+    <string name="quicksettings_title">快捷设置</string>
     <string name="statusbar_title">状态栏</string>
     <string name="volume_title">音量调节</string>
     <string name="notifications_title">通知</string>
     <string name="aosp_gesture_title">AOSP 手势</string>
     <!-- Summaries -->
-    <string name="buttons_summary">自定义本设备的实体按键操作</string>
+    <string name="buttons_summary">自定义此设备的实体按键操作</string>
     <string name="gestures_summary">手势基本选项/操作</string>
     <string name="misc_summary">拓展设置</string>
     <!-- General strings -->
@@ -44,26 +44,26 @@
     <!-- Color Picker -->
     <string name="dialog_color_picker">拾色器</string>
     <string name="press_color_to_apply">选取并应用颜色</string>
-    <string name="arrow_right">向右</string>
-    <string name="arrow_down">向下</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
     <string name="hex">十六进制：</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">设置</string>
+    <string name="set">应用</string>
     <string name="color_default">默认</string>
     <string name="battery_category">电量</string>
-    <string name="notifications_category_title">保留通知</string>
+    <string name="notifications_category_title">杜绝恼人通知</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">电池图标样式</string>
-    <string name="battery_style_category_summary">更改状态栏电池样式</string>
+    <string name="battery_style_category_summary">更改状态栏电池图标样式</string>
     <string name="status_bar_battery_percentage_title">电量百分比</string>
     <string name="status_bar_battery_percentage_summary">显示当前电量百分比</string>
     <string name="status_bar_battery_percentage_default">隐藏</string>
     <string name="status_bar_battery_percentage_text_next">图标旁</string>
-    <string name="status_bar_battery_percentage_text_inside">在图标内</string>
+    <string name="status_bar_battery_percentage_text_inside">图标内</string>
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">电池样式</string>
     <string name="status_bar_battery_style_port">纵向</string>
-    <string name="status_bar_battery_style_q">Android Q 样式</string>
+    <string name="status_bar_battery_style_q">Q 样式</string>
     <string name="status_bar_battery_style_circle">环形</string>
     <string name="status_bar_battery_style_dotted_circle">环形虚线</string>
     <string name="status_bar_battery_style_big_circle">大圆圈</string>
@@ -83,30 +83,30 @@
     <string name="powermenu_logout">注销</string>
     <string name="powermenu_torch">手电筒</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">连接/移除电源时唤醒设备</string>
+    <string name="wake_when_plugged_or_unplugged_title">连接时唤醒设备</string>
     <string name="wake_when_plugged_or_unplugged_summary">连接/断开电源时唤醒屏幕</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">显示蓝牙设备电量</string>
-    <string name="bluetooth_battery_summary">显示当前连接的蓝牙设备电量(如果设备支持)</string>
+    <string name="bluetooth_battery_title">蓝牙设备电量</string>
+    <string name="bluetooth_battery_summary">显示当前连接蓝牙设备的电量(如果设备支持)</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">减少浮动通知频率</string>
-    <string name="less_boring_heads_up_summary">电话、短信只在后台运行时浮动通知</string>
+    <string name="less_boring_heads_up_summary">仅在电话、短信并非前台运行时显示浮动通知</string>
     <!-- Brightness slider tweaks -->
-    <string name="brightness_slider_title">亮度滑块</string>
+    <string name="brightness_slider_title">亮度滑块调节</string>
     <string name="qs_show_brightness_title">亮度滑块</string>
-    <string name="qs_show_brightness_summary">QS面板显示亮度滑块</string>
-    <string name="qs_brightness_position_bottom_title">亮度滑块移至下方</string>
-    <string name="qs_brightness_position_bottom_summary">QS面板下方显示亮度滑块</string>
+    <string name="qs_show_brightness_summary">在快捷面板中显示亮度滑块</string>
+    <string name="qs_brightness_position_bottom_title">底部亮度滑块</string>
+    <string name="qs_brightness_position_bottom_summary">在快捷面板底部显示亮度滑块</string>
     <string name="qs_show_auto_brightness_title">自动亮度按钮</string>
     <string name="qs_show_auto_brightness_summary">显示自动亮度按钮</string>
-    <string name="qs_auto_brightness_right_title">右侧自动亮度按钮</string>
-    <string name="qs_auto_brightness_right_summary">亮度滑块右侧显示自动亮度按钮</string>
-    <string name="qs_show_brightness_buttons_title">亮度控制</string>
+    <string name="qs_auto_brightness_right_title">在右侧显示自动亮度按钮</string>
+    <string name="qs_auto_brightness_right_summary">在亮度滑块右侧显示自动亮度按钮</string>
+    <string name="qs_show_brightness_buttons_title">亮度控制按钮</string>
     <string name="qs_show_brightness_buttons_summary">显示亮度微调按钮</string>
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">锁定时禁用电源菜单</string>
-    <string name="lockscreen_power_menu_disabled_summary">锁屏时禁用电源菜单</string>
-    <string name="notification_sound_vib_screen_on_title">亮屏时启用通知提醒声音和振动</string>
+    <string name="lockscreen_power_menu_disabled_summary">在锁屏时禁止唤起电源菜单</string>
+    <string name="notification_sound_vib_screen_on_title">亮屏时启用通知提醒</string>
     <string name="notification_sound_vib_screen_on_summary">屏幕唤醒时启用通知声音和振动</string>
     <!-- Less Notification sounds -->
     <string name="less_notification_sounds_title">智能通知提示音</string>
