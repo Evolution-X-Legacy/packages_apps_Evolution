@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Hardwarová tlačítka</string>
     <string name="gestures_title">Gesta</string>
     <string name="lockscreen_title">Zamykací obrazovka</string>
     <string name="misc_title">Různé</string>
@@ -31,9 +31,9 @@
     <string name="notifications_title">Oznámení</string>
     <string name="aosp_gesture_title">Gesta AOSP</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">Upravte akce fyzických tlačítek zařízení</string>
+    <string name="gestures_summary">Nastavení/akce založené na gestech</string>
+    <string name="misc_summary">Širší systémová nastavení</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Restartovat</string>
@@ -592,7 +592,7 @@
     <string name="qs_edit_title">Ikona úprav QS</string>
     <string name="qs_edit_summary">Zobrazit ikonu úpravy dlaždic v zápatí rychlých nastavení</string>
     <!-- Evolution navigation -->
-    <string name="navigation_category">Navigation</string>
+    <string name="navigation_category">Navigace</string>
     <string name="navigation_summary">Upravit styl navigačního panelu a chování</string>
     <string name="navbar_tuner_title">Upravit navigační panel</string>
     <string name="navbar_tuner_summary">Upravit rozložení navigačního panelu a tlačítek</string>

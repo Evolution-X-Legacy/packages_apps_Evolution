@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">ปุ่มฮาร์ดแวร์</string>
     <string name="gestures_title">ท่าทาง</string>
     <string name="lockscreen_title">หน้าจอล็อค</string>
     <string name="misc_title">ตั้งค่าอื่นๆ</string>
@@ -31,9 +31,9 @@
     <string name="notifications_title">การแจ้งเตือน</string>
     <string name="aosp_gesture_title">ท่าทาง AOSP</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">ปรับแต่งการกระทำของปุ่มฮาร์ดแวร์ของอุปกรณ์ของคุณ</string>
+    <string name="gestures_summary">ปรับแต่งตัวเลือก ท่าทาง/การกระทำ</string>
+    <string name="misc_summary">การตั้งค่าระบบพิเศษ</string>
     <!-- General strings -->
     <string name="ok">ตกลง</string>
     <string name="reset">รีเซ็ต</string>
@@ -591,7 +591,7 @@
     <string name="qs_edit_title">แก้ไขไอคอนในการตั้งค่าด่วน</string>
     <string name="qs_edit_summary">แสดงไอคอนแก้ไขไทล์ ในส่วนท้ายของการตั้งค่าด่วน</string>
     <!-- Evolution navigation -->
-    <string name="navigation_category">Navigation</string>
+    <string name="navigation_category">นำทาง</string>
     <string name="navigation_summary">ปรับแต่งรูปแบบและลักษณะการทำงานของแถบนำทาง</string>
     <string name="navbar_tuner_title">แก้ไขแถบนำทาง</string>
     <string name="navbar_tuner_summary">แก้ไขเค้าโครงและปุ่มของแถบการนำทาง</string>

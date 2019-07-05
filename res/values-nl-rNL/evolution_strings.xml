@@ -19,31 +19,31 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">AOSP Gestures</string>
+    <string name="buttons_title">Fysieke knoppen</string>
+    <string name="gestures_title">Gebaren</string>
+    <string name="lockscreen_title">Vergrendelscherm</string>
+    <string name="misc_title">Overige</string>
+    <string name="navbar_title">Navigatiebalk</string>
+    <string name="powermenu_title">Aan-/uit menu</string>
+    <string name="quicksettings_title">Snelle instellingen</string>
+    <string name="statusbar_title">Statusbalk</string>
+    <string name="volume_title">Volumeknoppen</string>
+    <string name="notifications_title">Meldingen</string>
+    <string name="aosp_gesture_title">AOSP Gebaren</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">De acties van uw apparaten aanpassen aan fysieke knoppen</string>
+    <string name="gestures_summary">Gebaar gebaseerde opties/acties</string>
+    <string name="misc_summary">Extra systeeminstellingen</string>
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="reset">Opnieuw instellen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="save">Opslaan</string>
+    <string name="action_save">Opslaan</string>
+    <string name="action_cancel">Annuleren</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Kleurenkiezer</string>
+    <string name="press_color_to_apply">Druk op onderstaande kleur om toe te passen</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
