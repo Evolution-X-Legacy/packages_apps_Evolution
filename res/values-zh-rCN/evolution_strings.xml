@@ -92,36 +92,36 @@
     <string name="less_boring_heads_up_title">让浮动通知更少地打扰你</string>
     <string name="less_boring_heads_up_summary">只显示电话和短信的后台浮动通知</string>
     <!-- Brightness slider tweaks -->
-    <string name="brightness_slider_title">Brightness slider tweaks</string>
-    <string name="qs_show_brightness_title">Brightness slider</string>
-    <string name="qs_show_brightness_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Bottom brightness slider</string>
-    <string name="qs_brightness_position_bottom_summary">Show brightness slider on the bottom of the quick settings panel</string>
-    <string name="qs_show_auto_brightness_title">Adaptive brightness button</string>
-    <string name="qs_show_auto_brightness_summary">Show adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_title">Right position for adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
-    <string name="qs_show_brightness_buttons_title">Brightness control buttons</string>
-    <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
+    <string name="brightness_slider_title">亮度滑块</string>
+    <string name="qs_show_brightness_title">亮度滑块</string>
+    <string name="qs_show_brightness_summary">在快速设置面板中显示亮度滑块</string>
+    <string name="qs_brightness_position_bottom_title">底部亮度滑块</string>
+    <string name="qs_brightness_position_bottom_summary">显示快速设置面板底部的亮度滑块</string>
+    <string name="qs_show_auto_brightness_title">自动亮度按钮</string>
+    <string name="qs_show_auto_brightness_summary">显示自动亮度按钮</string>
+    <string name="qs_auto_brightness_right_title">在右侧显示自动调节亮度按钮</string>
+    <string name="qs_auto_brightness_right_summary">右侧显示自动亮度按钮</string>
+    <string name="qs_show_brightness_buttons_title">亮度控制按钮</string>
+    <string name="qs_show_brightness_buttons_summary">在亮度条两侧显示加减亮度按钮</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">No power menu when locked</string>
-    <string name="lockscreen_power_menu_disabled_summary">Disable power menu on secure lockscreen</string>
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="lockscreen_power_menu_disabled_title">锁定时不显示电源菜单</string>
+    <string name="lockscreen_power_menu_disabled_summary">锁屏时禁用电源菜单</string>
+    <string name="notification_sound_vib_screen_on_title">若屏幕为开启状态, 发出通知提醒声音和振动</string>
+    <string name="notification_sound_vib_screen_on_summary">当屏幕唤醒时启用通知声音和振动</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
-    <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
+    <string name="less_notification_sounds_title">智能通知提示音</string>
+    <string name="less_notification_sounds_summary">每个应用的通知提示音在设定的时间段内只响一次</string>
+    <string name="less_notification_sounds_default">应用默认值</string>
+    <string name="less_notification_sounds_10s">每隔 10 秒</string>
+    <string name="less_notification_sounds_30s">每隔 30 秒</string>
+    <string name="less_notification_sounds_1m">每分钟一次</string>
+    <string name="less_notification_sounds_2m">每 2 分钟</string>
+    <string name="incall_notifications_vibrate">更少烦人的来电通知</string>
+    <string name="incall_notifications_vibrate_summary">来电时振动而不是响铃</string>
     <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
+    <string name="force_ambient_for_media_pref_title">息屏音乐信息</string>
+    <string name="force_ambient_for_media_pref_summary">配置息屏音乐信息</string>
+    <string name="ambient_ticker_footer">环境音乐收录器显示在环境显示屏幕内播放音乐曲目信息。\n\n如果在启动新曲目时禁用环境显示，则会触发此操作，从而在屏幕中间强制显示带有曲目信息的干净环境屏幕。\n\n您也可以双击轨道信息以跳过轨道。</string>
     <string name="force_ambient_for_media_title">Enable</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Clock</string>
