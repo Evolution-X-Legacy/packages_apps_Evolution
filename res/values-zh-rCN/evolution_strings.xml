@@ -180,13 +180,13 @@
     <string name="ambient_visualizer_title">环境音乐频谱</string>
     <string name="ambient_visualizer_summary">在环境显示中也显示频谱 (但不太透明)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">旋转交换</string>
-    <string name="volume_keys_swap_summary">基于设备旋转交换音量按钮</string>
+    <string name="swap_volume_buttons">横屏交换音量按钮</string>
+    <string name="volume_keys_swap_summary">横屏交换音量按钮</string>
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_title">动画</string>
     <string name="qs_tile_animation_style_title">动画样式</string>
     <string name="qs_tile_animation_duration_title">动画持续时间</string>
-    <string name="qs_tile_animation_interpolator_title">平铺动画插值器</string>
+    <string name="qs_tile_animation_interpolator_title">缓动函数</string>
     <string name="qs_tile_animation_style_off">无动画</string>
     <string name="qs_tile_animation_style_flip">翻转</string>
     <string name="qs_tile_animation_style_rotate">旋转</string>
@@ -248,13 +248,13 @@
     <string name="carrier_category">运营商名称</string>
     <string name="carrier_label_settings_summary">自定义运营商名称</string>
     <string name="custom_carrier_label_title">自定义运营商名称</string>
-    <string name="custom_carrier_label_explain">请输入新的运营商名称，留空为恢复默认运营商名称。</string>
+    <string name="custom_carrier_label_explain">请输入新的运营商名称，留空为默认</string>
     <string name="custom_carrier_label_notset">未设置自定义运营商标签</string>
     <string name="show_carrier_title">运营商标签</string>
     <string name="show_carrier_disabled">已禁用</string>
     <string name="show_carrier_keyguard">仅锁屏界面</string>
     <string name="show_carrier_statusbar">只显示状态栏</string>
-    <string name="show_carrier_enabled">锁屏界面 &amp; 状态栏</string>
+    <string name="show_carrier_enabled">锁屏界面和状态栏</string>
     <string name="status_bar_carrier_size">运营商标签文本大小</string>
     <string name="status_bar_carrier_font_style_title">运营商标签字体</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
@@ -263,11 +263,11 @@
     <string name="hide_notch_title">隐藏刘海</string>
     <string name="hide_notch_summary">隐藏刘海将会填充刘海周围的缝隙</string>
     <!-- Roaming indicator icon -->
-    <string name="roaming_indicator_icon_title">漫游指示器</string>
-    <string name="roaming_indicator_icon_summary">漫游时在信号图标处显示漫游标志</string>
+    <string name="roaming_indicator_icon_title">漫游标志</string>
+    <string name="roaming_indicator_icon_summary">显示漫游标志</string>
     <!-- Brightness control -->
     <string name="status_bar_toggle_brightness">亮度控制</string>
-    <string name="status_bar_toggle_brightness_summary">通过在状态栏上滑动来调整亮度</string>
+    <string name="status_bar_toggle_brightness_summary">滑动状态栏调整亮度</string>
     <!-- Volume keys control rint tone stream -->
     <string name="volume_keys_control_ring_tone_title">控制铃声音量</string>
     <string name="volume_keys_control_ring_tone_summary">默认情况下，音量键控制媒体音量滑块。启用以切换到铃声音量滑块。</string>
