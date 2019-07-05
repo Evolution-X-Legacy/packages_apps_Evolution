@@ -54,12 +54,12 @@
     <string name="notifications_category_title">烦人通知保护</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">电池图标样式</string>
-    <string name="battery_style_category_summary">更改状态栏电池图标样式</string>
+    <string name="battery_style_category_summary">更改状态栏电池样式</string>
     <string name="status_bar_battery_percentage_title">电量百分比</string>
     <string name="status_bar_battery_percentage_summary">显示电量百分比</string>
     <string name="status_bar_battery_percentage_default">隐藏</string>
-    <string name="status_bar_battery_percentage_text_next">在图标旁</string>
-    <string name="status_bar_battery_percentage_text_inside">在图标内</string>
+    <string name="status_bar_battery_percentage_text_next">图标旁</string>
+    <string name="status_bar_battery_percentage_text_inside">图标内</string>
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">电池样式</string>
     <string name="status_bar_battery_style_port">纵向</string>
