@@ -74,23 +74,23 @@
     <string name="powermenu_category_title">电源菜单按钮</string>
     <string name="powermenu_screenshot">屏幕截图</string>
     <string name="powermenu_power">关机</string>
-    <string name="powermenu_restart">Restart</string>
-    <string name="powermenu_restart_recovery">Advanced restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_torch">Flashlight</string>
+    <string name="powermenu_restart">重启</string>
+    <string name="powermenu_restart_recovery">恢复模式</string>
+    <string name="powermenu_airplane">飞行模式</string>
+    <string name="powermenu_settings">设置</string>
+    <string name="powermenu_lockdown">锁定</string>
+    <string name="powermenu_users">用户</string>
+    <string name="powermenu_logout">注销</string>
+    <string name="powermenu_torch">手电筒</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">连接或移除电源时唤醒</string>
+    <string name="wake_when_plugged_or_unplugged_summary">连接或断开电源时唤醒屏幕</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_title">显示蓝牙设备电量</string>
+    <string name="bluetooth_battery_summary">显示当前连接的蓝牙设备电量，如果设备支持</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_title">让浮动通知更少地打扰你</string>
+    <string name="less_boring_heads_up_summary">只显示电话和短信的后台浮动通知</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Brightness slider tweaks</string>
     <string name="qs_show_brightness_title">Brightness slider</string>
