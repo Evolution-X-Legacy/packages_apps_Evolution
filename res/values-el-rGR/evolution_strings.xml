@@ -164,18 +164,18 @@
     <string name="clock_cat">Ρολόι</string>
     <string name="status_bar_clock_font_style_title">Στυλ γραμματοσειράς</string>
     <string name="status_bar_clock_font_style_summary">%1$s</string>
-    <string name="status_bar_clock_font_size_title">Font size</string>
-    <string name="status_bar_clock_color_title">Font color</string>
+    <string name="status_bar_clock_font_size_title">Μέγεθος γραμ/σειράς</string>
+    <string name="status_bar_clock_color_title">Χρώμα γραμματοσειράς</string>
     <!-- Lockscreen cover art -->
-    <string name="media_art_title">Media cover art</string>
-    <string name="media_art_summary">Enable media cover art on the lockscreen</string>
+    <string name="media_art_title">Εξώφυλλο άλμπουμ</string>
+    <string name="media_art_summary">Ενεργοποίηση εξωφύλλου άλμπουμ στην οθόνη κλειδώματος</string>
     <!-- Lock screen visualizer -->
-    <string name="lockscreen_visualizer_category">Visualizer</string>
-    <string name="lockscreen_visualizer_title">Enable lockscreen visualizer</string>
-    <string name="lockscreen_visualizer_summary">Show visualizer on lockscreen when music is playing</string>
-    <string name="lockscreen_visualizer_enable_custom">Use custom color</string>
-    <string name="lockscreen_visualizer_enable_custom_summary">Use a preset color instead of the generated color</string>
-    <string name="lockscreen_visualizer_custom_color">Visualizer Color</string>
+    <string name="lockscreen_visualizer_category">Οπτικά εφέ</string>
+    <string name="lockscreen_visualizer_title">Οπτικά εφέ οθόνης κλειδώματος</string>
+    <string name="lockscreen_visualizer_summary">Δείξε οπτικά εφέ στην οθόνη κλειδώματος όταν παίζει μουσικη</string>
+    <string name="lockscreen_visualizer_enable_custom">Χρήση προσαρμοσμένου χρώματος</string>
+    <string name="lockscreen_visualizer_enable_custom_summary">Χρήση ενός προσαρμοσμένου χρώματος αντί για το αυτόματο χρώμα που δημιουργείται</string>
+    <string name="lockscreen_visualizer_custom_color">Χρώμα οπτικών εφέ</string>
     <!-- Ambient visualizer -->
     <string name="ambient_visualizer_title">Ambient Music visualizer</string>
     <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
