@@ -533,11 +533,11 @@
     <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Thời lượng danh sách trắng ứng dụng tạm thời tối đa</string>
     <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Thời lượng danh sách trắng ứng dụng MMS tối đa</string>
     <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Thời lượng danh sách trắng tối đa của ứng dụng SMS</string>
-    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
-    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Light pre idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Light idle timeout</string>
-    <string name="SHORT_LIGHT_IDLE_FACTOR">Light idle factor</string>
-    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Max light idle timeout</string>
+    <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Nhàn rỗi sau khi hết thời gian không hoạt động</string>
+    <string name="SHORT_LIGHT_PRE_IDLE_TIMEOUT">Hết thời gian chờ nhàn rỗi</string>
+    <string name="SHORT_LIGHT_IDLE_TIMEOUT">Thời gian chờ nhàn rỗi</string>
+    <string name="SHORT_LIGHT_IDLE_FACTOR">Yếu tố nhàn rỗi</string>
+    <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Thời gian chờ tối đa nhàn rỗi</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string>
     <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Maintenance mode light doze min timeout</string>
