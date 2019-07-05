@@ -319,60 +319,60 @@
     <string name="dialog_delete_message">Видалити вибраний елемент?</string>
     <!-- Dashboard conditions -->
     <string name="dashboard_category">Опції меню налаштувань</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_conditions_title">Сповіщення в головному меню</string>
+    <string name="summary_dashboard_conditions_enabled">Сповіщення в головному меню ввімкнено</string>
+    <string name="summary_dashboard_conditions_disabled">Сповіщення в головному меню вимкнено</string>
     <!-- Dashboard suggestions -->
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_suggestions_title">Підказки в головному меню</string>
+    <string name="summary_dashboard_suggestions_enabled">Підказки в головному меню ввімкнено</string>
+    <string name="summary_dashboard_suggestions_disabled">Підказки в головному меню вимкнено</string>
     <!-- Lockscreen cover art filter -->
-    <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
-    <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
-    <string name="lockscreen_cover_filter_tint">Accent tinted</string>
-    <string name="lockscreen_cover_filter_blur">Blur</string>
-    <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
+    <string name="lockscreen_cover_filter_title">Фільтр обкладинки альбому</string>
+    <string name="lockscreen_cover_filter_none">Нічого</string>
+    <string name="lockscreen_cover_filter_grayscale">Відтінки сірого</string>
+    <string name="lockscreen_cover_filter_tint">У колір акценту</string>
+    <string name="lockscreen_cover_filter_blur">Розмиття</string>
+    <string name="lockscreen_cover_filter_grayblur">Розмиті відтінки сірого</string>
     <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Let everyone know that you\'re using Evolution X 2.0 when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evolution_logo_title">Логотип Evolution X 2.0</string>
+    <string name="evolution_logo_summary">Нехай всі знають, що ви використовуєте Evolution X 2.0, коли вони бачать ваш екран</string>
+    <string name="status_bar_logo_style_title">Користувацький стиль логотипа</string>
     <!-- QS themes -->
-    <string name="qs_panel_alpha_title">Opacity</string>
-    <string name="qs_panel_color_title">Color</string>
-    <string name="qs_bg_wall_title">Use Wallpaper colors</string>
-    <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
-    <string name="qs_bg_use_fw">Use default colors</string>
-    <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
+    <string name="qs_panel_alpha_title">Прозорість</string>
+    <string name="qs_panel_color_title">Колір</string>
+    <string name="qs_bg_wall_title">Використовувати кольорові шпалери</string>
+    <string name="qs_bg_wall_summary">Встановити колір фону QS від шпалери</string>
+    <string name="qs_bg_use_fw">Використання кольорів за замовчуванням</string>
+    <string name="qs_bg_use_fw_summary">Вимкнення спеціальних стилів швидких налаштувань для зовнішніх двигунів тем</string>
     <!-- Hide On Lockscreen -->
-    <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
-    <string name="hide_lockscreen_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="hide_lockscreen_status_bar_title">Приховати статус бар</string>
+    <string name="hide_lockscreen_status_bar_summary">Торкніться рядка стану для перемикання видимості</string>
     <!-- Lockscreen items -->
-    <string name="lockscreen_hide_items_category">Hide items</string>
-    <string name="lockscreen_clock_title">Clock widget</string>
-    <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
-    <string name="lockscreen_info_title">Items underneath the clock</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_hide_items_category">Приховати елементи</string>
+    <string name="lockscreen_clock_title">Віджет годинника</string>
+    <string name="lockscreen_clock_summary">Показувати віджет годинника на екрані блокування</string>
+    <string name="lockscreen_info_title">Елементи під годинником</string>
+    <string name="lockscreen_info_summary">Показувати дату, погоду, будильники і дзен на екрані блокування</string>
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
-    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
-    <string name="lockscreen_clock_selection_analog">Analog</string>
-    <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+    <string name="lockscreen_clock_selection_title">Стиль годинника</string>
+    <string name="lockscreen_clock_selection_digital">За замовчуванням</string>
+    <string name="lockscreen_clock_selection_digital_bold">Цифровий (жирний)</string>
+    <string name="lockscreen_clock_selection_analog">Аналоговий</string>
+    <string name="lockscreen_clock_selection_sammy">Вертикальний</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Вертикальний (жирний)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Вертикальний з акцентом</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Вертикальний з акцентом (альт)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
-    <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
-    <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
-    <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
-    <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
-    <string name="lockscreen_clock_selection_text">Text</string>
+    <string name="lockscreen_clock_selection_gradient_btlglogo">Градієнтний годинник (з логотипом bootleg)</string>
+    <string name="lockscreen_clock_selection_gradient_shishu">Градієнтний годинник (з логотипом shishu)</string>
+    <string name="lockscreen_clock_selection_gradient_full">Годинник з повним градієнтом</string>
+    <string name="lockscreen_clock_selection_gradient_likeqs">Годинник з монохромним градієнтом</string>
+    <string name="lockscreen_clock_selection_text">Текст</string>
     <!-- Lockscreen Date styles -->
-    <string name="lockscreen_date_selection_title">Date style</string>
-    <string name="lockscreen_date_selection_default">Default</string>
-    <string name="lockscreen_date_selection_str_box">Semi-transparent box</string>
-    <string name="lockscreen_date_selection_str_round">Semi-transparent box (round)</string>
+    <string name="lockscreen_date_selection_title">Стиль дати</string>
+    <string name="lockscreen_date_selection_default">За замовчуванням</string>
+    <string name="lockscreen_date_selection_str_box">Напівпрозорий</string>
+    <string name="lockscreen_date_selection_str_round">Напівпрозорий (закруглений)</string>
     <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
     <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
     <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
