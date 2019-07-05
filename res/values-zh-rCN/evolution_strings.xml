@@ -424,38 +424,39 @@
     <string name="lock_fonts_bold_italic">粗斜体</string>
     <string name="lock_fonts_light_italic">细斜体</string>
     <string name="lock_fonts_light">亮色</string>
-    <string name="lock_fonts_condensed_normal">Condensed</string>
-    <string name="lock_fonts_condensed_italic">Condensed Italic</string>
-    <string name="lock_fonts_condensed_bold">Condensed Bold</string>
-    <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_fonts_medium_normal">Medium</string>
-    <string name="lock_fonts_medium_italic">Medium Italic</string>
+    <string name="lock_fonts_condensed_normal">简明</string>
+    <string name="lock_fonts_condensed_italic">简明斜体</string>
+    <string name="lock_fonts_condensed_bold">紧凑粗体</string>
+    <string name="lock_fonts_condensed_bold_italic">紧凑粗斜体</string>
+    <string name="lock_fonts_medium_normal">中等</string>
+    <string name="lock_fonts_medium_italic">中等斜体</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
     <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
     <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
     <!-- Lock date fonts -->
-    <string name="lock_date_font_title">Date font options</string>
-    <string name="lock_date_font_summary">Change the default font of the lockscreen date widget</string>
-    <string name="lock_date_font_dialog_title">Select lock date font</string>
+    <string name="lock_date_font_title">日期字体选项</string>
+    <string name="lock_date_font_summary">更改锁屏日期窗口小部件的默认字体</string>
+    <string name="lock_date_font_dialog_title">选择锁屏日期字体的样式</string>
     <!-- Lock owner test -->
-    <string name="lock_owner_font_title">Owner font options</string>
-    <string name="lock_owner_font_summary">Change the default font of the lockscreen owner info</string>
-    <string name="lock_owner_font_dialog_title">Select lock owner font</string>
+    <string name="lock_owner_font_title">机主字体选项</string>
+    <string name="lock_owner_font_summary">更改锁屏信息的默认字体</string>
+    <string name="lock_owner_font_dialog_title">选择锁屏中机主信息字体的格式</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">边角</string>
+    <string name="corner_radius">圆角半径</string>
+    <string name="content_padding">边角内容填充</string>
+    <string name="corner_fwvals">使用框架值</string>
+    <string name="corner_fwvals_summary">49/5000
+如果设备实际上有圆角，则很有用</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">启动音乐应用程序</string>
+    <string name="headset_connect_player_summary">当耳机连接时，启动默认的音乐应用程序</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">USB 配置</string>
+    <string name="usb_default_config_summary">选择通过USB连接到设备时的默认行为</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
+    <string name="onthego_title">On-The-Go模式</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
     <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
