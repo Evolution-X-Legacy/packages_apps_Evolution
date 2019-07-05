@@ -525,7 +525,7 @@
     <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Период до перехода в режим бездействия</string>
     <string name="SHORT_IDLE_PENDING_TIMEOUT">Время ожидания бездействия</string>
     <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Максимальное время бездействия</string>
-    <string name="SHORT_IDLE_PENDING_FACTOR">коэффициент бездействия</string>
+    <string name="SHORT_IDLE_PENDING_FACTOR">Коэффициент бездействия</string>
     <string name="SHORT_IDLE_TIMEOUT">Таймаут простоя</string>
     <string name="SHORT_MAX_IDLE_TIMEOUT">Макс. длительность режима бездействия</string>
     <string name="SHORT_IDLE_FACTOR">Масштабирование бездействия</string>
