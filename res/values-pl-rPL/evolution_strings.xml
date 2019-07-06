@@ -172,23 +172,23 @@
     <!-- Lock screen visualizer -->
     <string name="lockscreen_visualizer_category">Wizualizer</string>
     <string name="lockscreen_visualizer_title">Wyświetlaj wizualizer na ekranie blokady</string>
-    <string name="lockscreen_visualizer_summary">Wyświetlaj wizualizer na ekranie blokady, gdy gra muzyka</string>
+    <string name="lockscreen_visualizer_summary">Pokazuj wizualizer na ekranie blokady, gdy gra muzyka</string>
     <string name="lockscreen_visualizer_enable_custom">Użyj niestandardowego koloru</string>
     <string name="lockscreen_visualizer_enable_custom_summary">Użyj gotowego koloru zamiast wygenerowanego</string>
     <string name="lockscreen_visualizer_custom_color">Kolor wizualizera</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Ambient Music visualizer</string>
-    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+    <string name="ambient_visualizer_title">Wizualizer na ekranie zgodnym z otoczeniem</string>
+    <string name="ambient_visualizer_summary">Pokazuje paski wizualizacji również na ekranie zgodnym z otoczeniem (ale mniej nieprzezroczyste)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">Rotation Swap</string>
-    <string name="volume_keys_swap_summary">Swap volume buttons based on device rotation</string>
+    <string name="swap_volume_buttons">Zamiana przycisków głośności</string>
+    <string name="volume_keys_swap_summary">Zamień przyciski głośności według obrotu urządzenia</string>
     <!-- Tiles animation style  -->
-    <string name="qs_tile_animation_title">Animations</string>
-    <string name="qs_tile_animation_style_title">Animation style</string>
-    <string name="qs_tile_animation_duration_title">Animation duration</string>
-    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
-    <string name="qs_tile_animation_style_off">No animation</string>
-    <string name="qs_tile_animation_style_flip">Flip</string>
+    <string name="qs_tile_animation_title">Animacje</string>
+    <string name="qs_tile_animation_style_title">Styl animacji</string>
+    <string name="qs_tile_animation_duration_title">Czas trwania animacji</string>
+    <string name="qs_tile_animation_interpolator_title">Czas trwania animacji kafelków</string>
+    <string name="qs_tile_animation_style_off">Bez animacji</string>
+    <string name="qs_tile_animation_style_flip">Obrót</string>
     <string name="qs_tile_animation_style_rotate">Rotate</string>
     <string name="qs_tile_animation_duration_low">Low</string>
     <string name="qs_tile_animation_duration_default">Default</string>
