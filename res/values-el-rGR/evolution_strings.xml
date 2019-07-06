@@ -61,7 +61,7 @@
     <string name="status_bar_battery_percentage_text_next">Δίπλα στο εικονίδιο</string>
     <string name="status_bar_battery_percentage_text_inside">Μέσα στο εικονίδιο</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Στυλ Μπαταρίας</string>
+    <string name="status_bar_battery_style_title">Στυλ εικονιδίου μπαταρίας</string>
     <string name="status_bar_battery_style_port">Πορτραίτο</string>
     <string name="status_bar_battery_style_q">Εμφάνιση Q</string>
     <string name="status_bar_battery_style_circle">Κύκλος</string>
@@ -87,7 +87,7 @@
     <string name="wake_when_plugged_or_unplugged_summary">Ενεργοποίηση της οθόνης κατά την σύνδεση ή αποσύνδεση μιας πηγής ισχύος</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Κατάσταση μπαταρίας Bluetooth</string>
-    <string name="bluetooth_battery_summary">Δείξε την κατάσταση της μπαταρίας της συνδεδεμένης συσκευής bluetooth εαν ειναι διαθέσιμη</string>
+    <string name="bluetooth_battery_summary">Εμφάνιση της κατάστασης μπαταρίας της συνδεδεμένης συσκευής bluetooth εαν ειναι διαθέσιμη</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Κάντε τις κεφαλίδες λιγότερο ενοχλητικές</string>
     <string name="less_boring_heads_up_summary">Εμφάνιση κεφαλίδων μόνο για εφαρμογές κλήσης ή μηνυμάτων, αν δεν βρίσκονται στο προσκήνιο</string>
