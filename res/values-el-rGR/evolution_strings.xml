@@ -183,7 +183,7 @@
     <string name="swap_volume_buttons">Εναλλαγή περιστροφής</string>
     <string name="volume_keys_swap_summary">Ενάλλαγη πλήκτρων έντασης με βάσει την περιστροφή της οθόνης</string>
     <!-- Tiles animation style  -->
-    <string name="qs_tile_animation_title">Εφέ Κίνησης</string>
+    <string name="qs_tile_animation_title">Εφέ κίνησης</string>
     <string name="qs_tile_animation_style_title">Στυλ εφέ</string>
     <string name="qs_tile_animation_duration_title">Διάρκεια εφέ κίνησης</string>
     <string name="qs_tile_animation_interpolator_title">Παρεμβολή κίνησης πλακιδίων</string>
