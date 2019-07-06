@@ -17,9 +17,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">Entwicklung</string>
     <!-- Categories -->
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">Hardwaretasten tauschen</string>
     <string name="gestures_title">Gestures</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="misc_title">Miscellaneous</string>
