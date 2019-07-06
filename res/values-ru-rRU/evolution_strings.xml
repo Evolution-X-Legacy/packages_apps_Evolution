@@ -617,6 +617,6 @@
     <string name="lockscreen_charging_animation_title">Анимация зарядки</string>
     <string name="lockscreen_charging_animation_summary">Показывать анимацию при подключении зарядного устройства</string>
     <!-- Alert Slider -->
-    <string name="swap_slider_order_title">Swap slider</string>
-    <string name="swap_slider_order_summary">Swap the alert slider modes order (only for devices with alert slider support)</string>
+    <string name="swap_slider_order_title">Поменять значения переключателя</string>
+    <string name="swap_slider_order_summary">Менять местами порядок режимов оповещения (только для устройств с поддержкой ползунка)</string>
 </resources>
