@@ -149,8 +149,8 @@
     <string name="clock_date_string_edittext_summary">Εισάγετε συμβολοσειρά</string>
     <string name="am_pm_clock_normal">Κανονικό μέγεθος γραμματοσειράς</string>
     <string name="am_pm_clock_small">Μικρό μέγεθος γραμματοσειράς</string>
-    <string name="am_pm_clock_none">Να μην εμφανίζεται</string>
-    <string name="clock_date_display_none">Να μην εμφανίζεται</string>
+    <string name="am_pm_clock_none">Κρυφό</string>
+    <string name="clock_date_display_none">Κρυφό</string>
     <string name="clock_date_display_small">Μικρό μέγεθος γραμματοσειράς</string>
     <string name="clock_date_display_normal">Κανονικό μέγεθος γραμματοσειράς</string>
     <string name="clock_date_style_normal">Κανονικό</string>
