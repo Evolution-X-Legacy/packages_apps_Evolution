@@ -48,7 +48,7 @@
     <string name="arrow_down">Flecha abajo</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
+    <string name="set">Establecer</string>
     <string name="color_default">Por defecto</string>
     <string name="battery_category">Batería</string>
     <string name="notifications_category_title">Protección de notificaciones molestas</string>
@@ -87,9 +87,9 @@
     <string name="wake_when_plugged_or_unplugged_summary">Encnder la pantalla al conectar o desconectar una fuente de energía</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Nivel de batería de Bluetooth</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_summary">Mostrar el nivel de batería de los dispositivos de bluetooth, si esta disponible</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
+    <string name="less_boring_heads_up_title">Hacer las notificaciones flotantes menos molestas</string>
     <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Brightness slider tweaks</string>
