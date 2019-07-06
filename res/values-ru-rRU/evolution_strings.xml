@@ -35,7 +35,7 @@
     <string name="gestures_summary">Действия/настройки, основанные на жестах</string>
     <string name="misc_summary">Дополнительные настройки системы</string>
     <!-- General strings -->
-    <string name="ok">Хорошо</string>
+    <string name="ok">OK</string>
     <string name="reset">Сброс</string>
     <string name="cancel">Отмена</string>
     <string name="save">Сохранить</string>
@@ -46,7 +46,7 @@
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
-    <string name="hex">Шестнадцатеричный код:</string>
+    <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Применить</string>
     <string name="color_default">По умолчанию</string>
