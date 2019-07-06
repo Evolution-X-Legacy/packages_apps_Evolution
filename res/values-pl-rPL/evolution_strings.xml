@@ -31,38 +31,38 @@
     <string name="notifications_title">Powiadomienia</string>
     <string name="aosp_gesture_title">Gesty AOSP</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">Konfiguruj ustawienia przycisków sprzętowych</string>
+    <string name="gestures_summary">Opcje / działania oparte na gestach</string>
+    <string name="misc_summary">Dodatkowe ustawienia użytkownika</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="cancel">Anuluj</string>
+    <string name="save">Zapisz</string>
+    <string name="action_save">Zapisz</string>
+    <string name="action_cancel">Anuluj</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">Próbnik kolorów</string>
+    <string name="press_color_to_apply">Naciśnij na kolor poniżej, aby zastosować</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
-    <string name="battery_category">Battery</string>
-    <string name="notifications_category_title">Annoying notifications protection</string>
+    <string name="set">Ustaw</string>
+    <string name="color_default">Domyślne</string>
+    <string name="battery_category">Bateria</string>
+    <string name="notifications_category_title">Ochrona przed irytującymi powiadomieniami</string>
     <!-- Battery percentage -->
-    <string name="battery_style_category_title">Battery icon style</string>
-    <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+    <string name="battery_style_category_title">Wygląd ikony baterii</string>
+    <string name="battery_style_category_summary">Zmień wygląd baterii paska stanu</string>
+    <string name="status_bar_battery_percentage_title">Procent baterii</string>
+    <string name="status_bar_battery_percentage_summary">Pokazuj obecny poziom naładowania baterii</string>
+    <string name="status_bar_battery_percentage_default">Ukryty</string>
+    <string name="status_bar_battery_percentage_text_next">Obok ikony</string>
+    <string name="status_bar_battery_percentage_text_inside">Wewnątrz ikony</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_port">Portrait</string>
+    <string name="status_bar_battery_style_title">Styl paska baterii</string>
+    <string name="status_bar_battery_style_port">Pionowy</string>
     <string name="status_bar_battery_style_q">styl android Q</string>
     <string name="status_bar_battery_style_circle">Okrąg</string>
     <string name="status_bar_battery_style_dotted_circle">Przerywany okrąg</string>
@@ -75,18 +75,18 @@
     <string name="powermenu_screenshot">Zdjęcie Ekranu</string>
     <string name="powermenu_power">Zasilanie</string>
     <string name="powermenu_restart">Uruchom ponownie</string>
-    <string name="powermenu_restart_recovery">Advanced restart</string>
-    <string name="powermenu_airplane">Airplane</string>
-    <string name="powermenu_settings">Settings</string>
-    <string name="powermenu_lockdown">Lock Down</string>
-    <string name="powermenu_users">Users</string>
-    <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_torch">Flashlight</string>
+    <string name="powermenu_restart_recovery">Zaawansowany restart</string>
+    <string name="powermenu_airplane">Tryb samolotowy</string>
+    <string name="powermenu_settings">Ustawienia</string>
+    <string name="powermenu_lockdown">Zablokuj</string>
+    <string name="powermenu_users">Użytkownicy</string>
+    <string name="powermenu_logout">Wyloguj</string>
+    <string name="powermenu_torch">Latarka</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">Wybudź przy podłączaniu</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Włącz ekran podczas podłączania lub odłączania źródła zasilania</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
+    <string name="bluetooth_battery_title">Stan naładowania baterii Bluetooth</string>
     <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Make heads up less annoying</string>
