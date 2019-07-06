@@ -618,6 +618,6 @@
     <string name="lockscreen_charging_animation_title">Animace nabíjení</string>
     <string name="lockscreen_charging_animation_summary">Zobrazí animaci při nabíjení zařízení</string>
     <!-- Alert Slider -->
-    <string name="swap_slider_order_title">Swap slider</string>
-    <string name="swap_slider_order_summary">Swap the alert slider modes order (only for devices with alert slider support)</string>
+    <string name="swap_slider_order_title">Prohození pozic posuvníku</string>
+    <string name="swap_slider_order_summary">Prohodit pořadí režimů posuvníku (pouze pro zařízení s podporou posuvníku upozornění)</string>
 </resources>
