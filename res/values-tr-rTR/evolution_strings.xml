@@ -617,4 +617,7 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">Şarj animasyonu</string>
     <string name="lockscreen_charging_animation_summary">Cihaz şarj olurken bir cıvata animasyonu görüntüle</string>
+    <!-- Alert Slider -->
+    <string name="swap_slider_order_title">Swap slider</string>
+    <string name="swap_slider_order_summary">Swap the alert slider modes order (only for devices with alert slider support)</string>
 </resources>
