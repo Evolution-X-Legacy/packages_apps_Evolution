@@ -415,7 +415,7 @@
     <string name="qstile_badgetwo">Έμβλημα δύο</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Ρυθμίσεις γραμματοσειράς ρολογιού</string>
-    <string name="lock_clock_font_summary">Αλλάξετε την προεπιλεγμένη γραμματοσειρά του ρολογιού κλειδώματος οθόνης</string>
+    <string name="lock_clock_font_summary">Αλλάξτε την προεπιλεγμένη γραμματοσειρά του ρολογιού κλειδώματος οθόνης</string>
     <string name="lock_clock_font_dialog_title">Επιλέξτε γραμματοσειρά για το ρόλοι κλειδώματος</string>
     <!-- Lockscreen fonts - Common strings -->
     <string name="lock_fonts_stock">Κανονική (προεπιλογή)</string>
@@ -446,7 +446,7 @@
     <string name="corners_category">Γωνίες</string>
     <string name="corner_radius">Στρογγυλεμένες γωνίες</string>
     <string name="content_padding">Περιεχόμενα γωνίας</string>
-    <string name="corner_fwvals">Χρήση τιμών framework</string>
+    <string name="corner_fwvals">Χρήση τιμών συστήματος</string>
     <string name="corner_fwvals_summary">Χρήσιμο όταν η συσκευή έχει πραγματικά στρογγυλεμένες γωνίες</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Εκκίνηση εφαρμογής μουσικής</string>
@@ -461,7 +461,7 @@
     <string name="onthego_alpha_summary">Τιμή άλφα κατά την λειτουργία on the go</string>
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Λειτουργία ενός χεριού</string>
-    <string name="one_hand_mode_summary">Επιτρέψτε την σάρωση κατά μήκος δεξιά ή αριστερά στην μπάρα πλοήγησης για να ενεργοποιηθεί</string>
+    <string name="one_hand_mode_summary">Επιτρέψτε την ολίσθιση κατά μήκος δεξιά ή αριστερά στην μπάρα πλοήγησης για ενεργοποίηση</string>
     <string name="qs_running_services_title">Εικονίδιο εκτελούμενων υπηρεσιών</string>
     <string name="qs_running_services_summary">Ενεργοποίηση εικονιδίου εκτελούμενων υπηρεσιών στην κεφαλίδα</string>
     <!-- SeekBar -->
