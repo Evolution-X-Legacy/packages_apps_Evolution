@@ -121,26 +121,26 @@
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Επιλογέας μουσικής οθόνης περιβάλλοντος</string>
     <string name="force_ambient_for_media_pref_summary">Διαμόρφωση του επιλογέα μουσικής οθόνης περιβάλλοντος</string>
-    <string name="ambient_ticker_footer">Η επιλογή μουσικής οθόνης περιβάλλοντος δείχνει παίζοντας μουσική και επιτρέπει να παρακολουθείτε πληροφορίες μέσα στην screen.\n\nIt\'s οθόνη που ενεργοποιείται. Επίσης, εάν η οθόνη περιβάλλοντος είναι απενεργοποιημένη κατά την εκκίνηση ένα νέο κομμάτι, εμφανίζεται σε νέα οθόνη με πληροφορίες κομματιού στη μέση της screen.\n\nYou μπορεί επίσης να διπλασιαστεί αν πατήσετε παρακολούθηση πληροφοριών σε παράβλεψη κομματιών.</string>
+    <string name="ambient_ticker_footer">Η επιλογή Μουσικής Οθόνης Περιβάλλοντος εμφανίζει το κομμάτι που παίζει και επιτρέπει να παρακολουθείτε πληροφορίες μέσα στην οθόνη.\n\n Ενεργοποιείται επίσης, άν η οθόνη περιβάλλοντος είναι απενεργοποιημένη κατά την εκκίνηση ένα νέου κομματιού, εμφανίζεται σε νέα οθόνη με πληροφορίες κομματιού στη μέση της οθόνης.\n\n Μπορείτε επίσης να προσπεράσετε ένα κομμάτι με διπλό πάτημα πάνω στις πληροφορίες.</string>
     <string name="force_ambient_for_media_title">Ενεργοποίηση</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Ρολόι</string>
     <string name="status_bar_clock">Ώρα και Ημερομηνία</string>
-    <string name="status_bar_clock_summary">Διαμόρφωση εμφάνισης ρολογιού και ημερομηνίας, στην γραμμή κατάστασης</string>
-    <string name="clock_title_enable">Ευθυγράμμιση</string>
+    <string name="status_bar_clock_summary">Διαμόρφωση εμφάνισης ώρας και ημερομηνίας, στην γραμμή κατάστασης</string>
+    <string name="clock_title_enable">Στοίχιση</string>
     <string name="clock_enabled">Ενεργοποιημένο</string>
     <string name="clock_disabled">Απενεργοποιημένο</string>
     <string name="status_bar_clock_style_reset">Επαναφορά χρώματος</string>
     <string name="status_bar_show_clock_title">Εμφανιση ώρας και ημερομηνίας</string>
     <string name="status_bar_clock_seconds_title">Εμφάνιση δευτερολέπτων</string>
     <string name="status_bar_am_pm_title">ΠΜ/ΜΜ</string>
-    <string name="status_bar_am_pm_info">Είναι ενεργοποιημένη η 24-ωρη μορφή ώρας</string>
+    <string name="status_bar_am_pm_info">Ενεργοποίηση της 24-ωρης μορφή ώρας</string>
     <string name="enable_clock_weekday">Ημέρα της εβδομάδας</string>
     <string name="enable_clock_weekday_summary">Ημέρα της εβδομάδας πριν από την ώρα</string>
-    <string name="right_clock">Ρολόι δεξιά</string>
+    <string name="right_clock">Ρολόι στα δεξιά</string>
     <string name="center_clock">Ρολόι στο κέντρο</string>
-    <string name="left_clock">Ρολόι αριστερά</string>
-    <string name="dont_show">Να μην εμφανίζεται</string>
+    <string name="left_clock">Ρολόι στα αριστερά</string>
+    <string name="dont_show">Κρυφό</string>
     <string name="clock_date_display">Ημερομηνία</string>
     <string name="clock_date_display_summary">Εμφάνιση προσαρμοσμένης ημερομηνίας πριν το ρολόι</string>
     <string name="clock_date_style">Μορφή ημερομηνίας</string>
