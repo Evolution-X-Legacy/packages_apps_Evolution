@@ -479,9 +479,9 @@
     <string name="volume_key_cursor_control_on">Τα κουμπιά έντασης πάνω/κάτω κινούν τον δρομέα αριστερά/δεξιά</string>
     <string name="volume_key_cursor_control_on_reverse">Τα κουμπιά έντασης πάνω/κάτω κινούν τον κέρσορα δεξιά/αριστερά</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Προηγμένο doze</string>
-    <string name="doze_settings_title">Ρυθμίσεις Doze</string>
-    <string name="doze_settings_summary">Επεξεργασία ρυθμίσεων doze</string>
+    <string name="advanced_doze_settings">Προηγμένη λειτουργία ύπνου</string>
+    <string name="doze_settings_title">Ρυθμίσεις λειτουργίας ύπνου</string>
+    <string name="doze_settings_summary">Επεξεργασία ρυθμίσεων λειτουργίας ύπνου</string>
     <string name="action_restoredefault">Επαναφορά προεπιλογών</string>
     <string name="action_profile">Προφίλ</string>
     <string name="action_save_as_profile">Αποθήκευση προφίλ</string>
