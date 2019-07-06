@@ -615,4 +615,7 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">充电动画</string>
     <string name="lockscreen_charging_animation_summary">当设备充电时显示一个螺旋动画</string>
+    <!-- Alert Slider -->
+    <string name="swap_slider_order_title">Swap slider</string>
+    <string name="swap_slider_order_summary">Swap the alert slider modes order (only for devices with alert slider support)</string>
 </resources>
