@@ -24,34 +24,34 @@
     <string name="lockscreen_title">Lock screen</string>
     <string name="misc_title">Miscellaneous</string>
     <string name="navbar_title">Navigation bar</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">AOSP Gestures</string>
+    <string name="powermenu_title">قائمة تشغيل</string>
+    <string name="quicksettings_title">الإعدادات السريعة</string>
+    <string name="statusbar_title">شريط الحالة</string>
+    <string name="volume_title">معدل مستوي الصوت</string>
+    <string name="notifications_title">الإشعارات</string>
+    <string name="aosp_gesture_title">إيماءات AOSP</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
+    <string name="buttons_summary">تعديل تصرفات أزرار الهاتف</string>
     <string name="gestures_summary">Gesture based options/actions</string>
     <string name="misc_summary">Extra system settings</string>
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="ok">موافق</string>
+    <string name="reset">إعادة ضبط</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="action_save">حفظ</string>
+    <string name="action_cancel">إلغاء</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
+    <string name="dialog_color_picker">اختيار الألوان</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
-    <string name="arrow_right">→</string>
-    <string name="arrow_down">↓</string>
+    <string name="arrow_right">سهم يمين</string>
+    <string name="arrow_down">سهم أسفل</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
+    <string name="set">تعيين</string>
     <string name="color_default">Default</string>
-    <string name="battery_category">Battery</string>
-    <string name="notifications_category_title">Annoying notifications protection</string>
+    <string name="battery_category">البطارية</string>
+    <string name="notifications_category_title">حماية من الإشعارات المزعجة</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Battery icon style</string>
     <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
