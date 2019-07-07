@@ -19,17 +19,21 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
+    <string name="aosp_gesture_title">Gestes AOSP</string>
     <string name="buttons_title">Boutons de volume</string>
     <string name="gestures_title">Gestes</string>
+    <string name="interface_category">Interface</string>
     <string name="lockscreen_title">Écran de verrouillage</string>
+    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="logo_category">Logo</string>
     <string name="misc_title">Divers</string>
     <string name="navbar_title">Barre de navigation</string>
+    <string name="notifications_title">Notifications</string>
     <string name="powermenu_title">Menu marche/arrêt</string>
     <string name="quicksettings_title">Paramètres rapides</string>
+    <string name="qs_style_category">QS theming</string>
     <string name="statusbar_title">Barre d\'état</string>
     <string name="volume_title">Volume rockers</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="aosp_gesture_title">Gestes AOSP</string>
     <!-- Summaries -->
     <string name="buttons_summary">Changez les actions des touches physiques</string>
     <string name="gestures_summary">Options pour les gestes</string>
@@ -210,6 +214,7 @@
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Scale</string>
     <!-- Heads up -->
+    <string name="heads_up_category">Heads up</string>
     <string name="heads_up_title">Enable</string>
     <string name="heads_up_summary_enabled">Heads up notifications are enabled</string>
     <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
@@ -273,6 +278,7 @@
     <string name="volume_keys_control_ring_tone_summary">Keys control media slider by default. Enable to switch to ring tone slider.</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">Volume steps</string>
+    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
     <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
     <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
     <string name="volume_steps_music_title">Volume steps: Music</string>
@@ -620,4 +626,5 @@
     <!-- Alert Slider -->
     <string name="swap_slider_order_title">Swap slider</string>
     <string name="swap_slider_order_summary">Swap the alert slider modes order (only for devices with alert slider support)</string>
+    <string name="button_wake_summary">Wake device by pressing the button</string>
 </resources>
