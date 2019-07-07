@@ -19,17 +19,21 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
+    <string name="aosp_gesture_title">AOSP ジェスチャー</string>
     <string name="buttons_title">ハードウェアボタン</string>
     <string name="gestures_title">ジェスチャー</string>
+    <string name="interface_category">Interface</string>
     <string name="lockscreen_title">ロック画面</string>
+    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="logo_category">Logo</string>
     <string name="misc_title">その他</string>
     <string name="navbar_title">ナビゲーションバー</string>
+    <string name="notifications_title">通知</string>
     <string name="powermenu_title">電源メニュー</string>
     <string name="quicksettings_title">クイック設定</string>
+    <string name="qs_style_category">QS theming</string>
     <string name="statusbar_title">ステータスバー</string>
     <string name="volume_title">音量ボタン</string>
-    <string name="notifications_title">通知</string>
-    <string name="aosp_gesture_title">AOSP ジェスチャー</string>
     <!-- Summaries -->
     <string name="buttons_summary">端末の物理ボタンのアクションを設定する</string>
     <string name="gestures_summary">ジェスチャーのアクションを設定する</string>
@@ -210,6 +214,7 @@
     <string name="screen_off_animation_crt">ブラウン管</string>
     <string name="screen_off_animation_scale">縮小</string>
     <!-- Heads up -->
+    <string name="heads_up_category">Heads up</string>
     <string name="heads_up_title">有効</string>
     <string name="heads_up_summary_enabled">Heads Up は有効です</string>
     <string name="heads_up_summary_disabled">Heads Up は無効です</string>
@@ -273,6 +278,7 @@
     <string name="volume_keys_control_ring_tone_summary">既定では音量キーはメディア音量を制御します。有効にすると着信音量に切り替わります。</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">音量レベル</string>
+    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
     <string name="volume_steps_alarm_title">音量レベル: アラーム</string>
     <string name="volume_steps_dtmf_title">音量レベル: ダイアル入力</string>
     <string name="volume_steps_music_title">音量レベル: 音楽</string>
@@ -617,4 +623,5 @@
     <!-- Alert Slider -->
     <string name="swap_slider_order_title">スライダーの入れ替え</string>
     <string name="swap_slider_order_summary">Alert Slider モードの向きを入れ替える (対応している端末のみ)</string>
+    <string name="button_wake_summary">Wake device by pressing the button</string>
 </resources>
