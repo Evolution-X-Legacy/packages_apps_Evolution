@@ -19,17 +19,21 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
+    <string name="aosp_gesture_title">Cử chỉ AOSP</string>
     <string name="buttons_title">Phím cứng</string>
     <string name="gestures_title">Cử chỉ</string>
+    <string name="interface_category">Interface</string>
     <string name="lockscreen_title">Màn hình khoá</string>
+    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="logo_category">Logo</string>
     <string name="misc_title">Linh tinh</string>
     <string name="navbar_title">Thanh điều hướng</string>
+    <string name="notifications_title">Thông báo</string>
     <string name="powermenu_title">Menu nguồn</string>
     <string name="quicksettings_title">Cài đặt nhanh</string>
+    <string name="qs_style_category">QS theming</string>
     <string name="statusbar_title">Thanh trạng thái</string>
     <string name="volume_title">Phím Âm lượng</string>
-    <string name="notifications_title">Thông báo</string>
-    <string name="aosp_gesture_title">Cử chỉ AOSP</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tinh chỉnh các hành động của các nút vật lý trên thiết bị của bạn</string>
     <string name="gestures_summary">Tùy chọn/hành động dựa trên cử chỉ</string>
@@ -210,6 +214,7 @@
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Co giãn</string>
     <!-- Heads up -->
+    <string name="heads_up_category">Heads up</string>
     <string name="heads_up_title">Kích hoạt</string>
     <string name="heads_up_summary_enabled">Thông báo nổi được kích hoạt</string>
     <string name="heads_up_summary_disabled">Thông báo nổi đã bị tắt</string>
@@ -273,6 +278,7 @@
     <string name="volume_keys_control_ring_tone_summary">Phím điều khiển thanh trượt phương tiện theo mặc định. Kích hoạt để chuyển sang thanh trượt nhạc chuông.</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">Mức âm lượng</string>
+    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
     <string name="volume_steps_alarm_title">Mức âm lượng: Báo thức</string>
     <string name="volume_steps_dtmf_title">Mức âm lượng: DTMF</string>
     <string name="volume_steps_music_title">Mức âm lượng: Nhạc</string>
@@ -620,4 +626,5 @@
     <!-- Alert Slider -->
     <string name="swap_slider_order_title">Swap slider</string>
     <string name="swap_slider_order_summary">Swap the alert slider modes order (only for devices with alert slider support)</string>
+    <string name="button_wake_summary">Wake device by pressing the button</string>
 </resources>
