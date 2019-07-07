@@ -122,7 +122,7 @@
     <string name="force_ambient_for_media_pref_title">アンビエント音楽ティッカー</string>
     <string name="force_ambient_for_media_pref_summary">アンビエント音楽ティッカーを設定する</string>
     <string name="ambient_ticker_footer">アンビエント音楽ティッカーはアンビエント表示内で再生中の楽曲情報を表示します。\n\nアンビエント表示が無効になっていても新しい曲が開始された時に起動し、アンビエント表示と楽曲情報を画面中央に強制表示します。\n\n楽曲情報をダブルタップして曲をスキップできます。</string>
-    <string name="force_ambient_for_media_title">有効にする</string>
+    <string name="force_ambient_for_media_title">有効</string>
     <!-- Status bar clock options -->
     <string name="clock_category">時計</string>
     <string name="status_bar_clock">時計と日付</string>
@@ -167,7 +167,7 @@
     <string name="status_bar_clock_font_size_title">フォントサイズ</string>
     <string name="status_bar_clock_color_title">フォントの色</string>
     <!-- Lockscreen cover art -->
-    <string name="media_art_title">メディアアートカバー</string>
+    <string name="media_art_title">メディアカバーアート</string>
     <string name="media_art_summary">ロック画面にアルバムアートを表示する</string>
     <!-- Lock screen visualizer -->
     <string name="lockscreen_visualizer_category">ビジュアライザー</string>
