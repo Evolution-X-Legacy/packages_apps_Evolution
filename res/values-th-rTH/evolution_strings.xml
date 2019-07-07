@@ -19,17 +19,21 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
+    <string name="aosp_gesture_title">ท่าทาง AOSP</string>
     <string name="buttons_title">ปุ่มฮาร์ดแวร์</string>
     <string name="gestures_title">ท่าทาง</string>
+    <string name="interface_category">Interface</string>
     <string name="lockscreen_title">หน้าจอล็อค</string>
+    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="logo_category">Logo</string>
     <string name="misc_title">ตั้งค่าอื่นๆ</string>
     <string name="navbar_title">แถบนำทาง</string>
+    <string name="notifications_title">การแจ้งเตือน</string>
     <string name="powermenu_title">เมนูเพาว์เวอร์</string>
     <string name="quicksettings_title">แถบการตั้งค่าด่วน</string>
+    <string name="qs_style_category">QS theming</string>
     <string name="statusbar_title">แถบสถานะ</string>
     <string name="volume_title">ปุ่มปรับระดับเสียง</string>
-    <string name="notifications_title">การแจ้งเตือน</string>
-    <string name="aosp_gesture_title">ท่าทาง AOSP</string>
     <!-- Summaries -->
     <string name="buttons_summary">ปรับแต่งการกระทำของปุ่มฮาร์ดแวร์ของอุปกรณ์ของคุณ</string>
     <string name="gestures_summary">ปรับแต่งตัวเลือก ท่าทาง/การกระทำ</string>
@@ -210,6 +214,7 @@
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">มาตราส่วน</string>
     <!-- Heads up -->
+    <string name="heads_up_category">Heads up</string>
     <string name="heads_up_title">เปิดใช้งาน</string>
     <string name="heads_up_summary_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
     <string name="heads_up_summary_disabled">ปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
@@ -273,6 +278,7 @@
     <string name="volume_keys_control_ring_tone_summary">ปุ่มควบคุมระดับเสียงของสื่อตามค่าเริ่มต้น เปิดใช้งานเพื่อสลับไปยังแถบเลื่อนเสียงเรียกเข้า</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">ระดับการกดปุ่มเพิ่ม - ลดเสียง</string>
+    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
     <string name="volume_steps_alarm_title">ระดับการกด: นาฬิกาปลุก</string>
     <string name="volume_steps_dtmf_title">ระดับการกด: แป้นตัวเลข</string>
     <string name="volume_steps_music_title">ระดับการกด: สื่อ</string>
@@ -619,4 +625,5 @@
     <!-- Alert Slider -->
     <string name="swap_slider_order_title">สลับแถบเลื่อน</string>
     <string name="swap_slider_order_summary">สลับโหมดเลื่อนลำดับการแจ้งเตือน (สำหรับอุปกรณ์ที่รองรับการเลื่อนตัวแจ้งเตือน)</string>
+    <string name="button_wake_summary">Wake device by pressing the button</string>
 </resources>
