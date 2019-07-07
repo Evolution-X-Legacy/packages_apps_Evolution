@@ -22,16 +22,16 @@
     <string name="aosp_gesture_title">ท่าทาง AOSP</string>
     <string name="buttons_title">ปุ่มฮาร์ดแวร์</string>
     <string name="gestures_title">ท่าทาง</string>
-    <string name="interface_category">Interface</string>
+    <string name="interface_category">อินเตอร์เฟซ</string>
     <string name="lockscreen_title">หน้าจอล็อค</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
-    <string name="logo_category">Logo</string>
+    <string name="lockscreen_shortcuts_category">ทาง​ลัด</string>
+    <string name="logo_category">โลโก้</string>
     <string name="misc_title">ตั้งค่าอื่นๆ</string>
     <string name="navbar_title">แถบนำทาง</string>
     <string name="notifications_title">การแจ้งเตือน</string>
     <string name="powermenu_title">เมนูเพาว์เวอร์</string>
     <string name="quicksettings_title">แถบการตั้งค่าด่วน</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">ชุดรูปแบบการตั้งค่าด่วน</string>
     <string name="statusbar_title">แถบสถานะ</string>
     <string name="volume_title">ปุ่มปรับระดับเสียง</string>
     <!-- Summaries -->
@@ -214,7 +214,7 @@
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">มาตราส่วน</string>
     <!-- Heads up -->
-    <string name="heads_up_category">Heads up</string>
+    <string name="heads_up_category">การแจ้งเตือนด้านบน</string>
     <string name="heads_up_title">เปิดใช้งาน</string>
     <string name="heads_up_summary_enabled">เปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
     <string name="heads_up_summary_disabled">ปิดใช้งานการแจ้งเตือนแบบป๊อปอัพ</string>
