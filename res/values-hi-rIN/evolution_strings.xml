@@ -17,62 +17,62 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">एवोलूशन X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP Gestures</string>
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="interface_category">Interface</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
-    <string name="logo_category">Logo</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="qs_style_category">QS theming</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
+    <string name="aosp_gesture_title">AOSP इशारों</string>
+    <string name="buttons_title">हार्डवेयर बटन</string>
+    <string name="gestures_title">इशारे</string>
+    <string name="interface_category">अंतरफलक</string>
+    <string name="lockscreen_title">लॉक स्क्रीन</string>
+    <string name="lockscreen_shortcuts_category">शॉर्टकट</string>
+    <string name="logo_category">लोगो</string>
+    <string name="misc_title">कई तरह का</string>
+    <string name="navbar_title">नेविगेशन बार</string>
+    <string name="notifications_title">अधिसूचनाऐ</string>
+    <string name="powermenu_title">पावर मेन्यू</string>
+    <string name="quicksettings_title">शीग्र सेटिंग्स</string>
+    <string name="qs_style_category">QS थीमिंग</string>
+    <string name="statusbar_title">स्टेटस बार</string>
+    <string name="volume_title">वॉल्यूम बटन</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="buttons_summary">फोन बटन के कार्य को बदलने के लिए</string>
+    <string name="gestures_summary">इशारा आधारित विकल्प</string>
+    <string name="misc_summary">अतिरिक्त सिस्टम सेटिंग्स</string>
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="ok">ठीक है</string>
+    <string name="reset">रीसेट</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="save">सेव</string>
+    <string name="action_save">सेव</string>
+    <string name="action_cancel">रद्द करें</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Color Picker</string>
-    <string name="press_color_to_apply">Press on color below to apply</string>
+    <string name="dialog_color_picker">रंग उठाओ</string>
+    <string name="press_color_to_apply">अप्लाई के लिए कलर पर क्लिक करें</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
-    <string name="color_default">Default</string>
-    <string name="battery_category">Battery</string>
-    <string name="notifications_category_title">Annoying notifications protection</string>
+    <string name="set">सेट करें</string>
+    <string name="color_default">डिफ़ॉल्ट</string>
+    <string name="battery_category">बैटरी</string>
+    <string name="notifications_category_title">अवांछित सूचना सुरक्षा</string>
     <!-- Battery percentage -->
-    <string name="battery_style_category_title">Battery icon style</string>
-    <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
-    <string name="status_bar_battery_percentage_title">Battery percentage</string>
-    <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+    <string name="battery_style_category_title">बैटरी आइकन शैली</string>
+    <string name="battery_style_category_summary">बैटरी आइकन शैली बदलने के लिए</string>
+    <string name="status_bar_battery_percentage_title">बैटरी का प्रतिशत</string>
+    <string name="status_bar_battery_percentage_summary">वर्तमान बैटरी प्रतिशत दिखाएं</string>
+    <string name="status_bar_battery_percentage_default">छिपा हुआ</string>
+    <string name="status_bar_battery_percentage_text_next">आइकन के बगल में</string>
+    <string name="status_bar_battery_percentage_text_inside">आइकन के अंदर</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
-    <string name="status_bar_battery_style_port">Portrait</string>
-    <string name="status_bar_battery_style_q">Q style</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
+    <string name="status_bar_battery_style_title">बैटरी शैली</string>
+    <string name="status_bar_battery_style_port">पोर्ट्रेट</string>
+    <string name="status_bar_battery_style_q">Q शैली</string>
+    <string name="status_bar_battery_style_circle">वृत्त</string>
+    <string name="status_bar_battery_style_dotted_circle">डॉट वृत्त</string>
     <string name="status_bar_battery_style_big_circle">Big circle</string>
     <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
-    <string name="status_bar_battery_style_text">Text</string>
+    <string name="status_bar_battery_style_text">टेक्स्ट</string>
     <string name="status_bar_battery_style_hidden">Hidden</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Power menu toggles</string>
@@ -125,10 +125,10 @@
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
     <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <string name="ambient_ticker_footer">चलने वाले गीतों की जानकारी परिवेश स्क्रीन पर दिखाई जाती है। यदि परिवेश स्क्रीन अक्षम है या एक नया ट्रैक शुरू किया है, तो स्क्रीन के बीच में गीत की जानकारी के साथ एक नई पर्यावरण स्क्रीन प्रदर्शित की जाएगी। जानकारी छोड़ने के लिए डबल टैप करें।</string>
+    <string name="force_ambient_for_media_title">सक्षम</string>
     <!-- Status bar clock options -->
-    <string name="clock_category">Clock</string>
+    <string name="clock_category">घडी</string>
     <string name="status_bar_clock">Clock and Date</string>
     <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
     <string name="clock_title_enable">Alignment</string>
