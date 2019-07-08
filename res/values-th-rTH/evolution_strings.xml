@@ -622,8 +622,5 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">อนิเมชั่นการชาร์จ</string>
     <string name="lockscreen_charging_animation_summary">แสดงภาพเอนิเมชั่นสายฟ้าเมื่ออุปกรณ์กำลังชาร์จ</string>
-    <!-- Alert Slider -->
-    <string name="swap_slider_order_title">สลับแถบเลื่อน</string>
-    <string name="swap_slider_order_summary">สลับโหมดเลื่อนลำดับการแจ้งเตือน (สำหรับอุปกรณ์ที่รองรับการเลื่อนตัวแจ้งเตือน)</string>
     <string name="button_wake_summary">ปลุกอุปกรณ์โดยกดปุ่ม</string>
 </resources>
