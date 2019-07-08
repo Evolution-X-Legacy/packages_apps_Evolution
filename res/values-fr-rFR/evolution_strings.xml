@@ -24,14 +24,14 @@
     <string name="gestures_title">Gestes</string>
     <string name="interface_category">Interface</string>
     <string name="lockscreen_title">Écran de verrouillage</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="lockscreen_shortcuts_category">Raccourcis</string>
     <string name="logo_category">Logo</string>
     <string name="misc_title">Divers</string>
     <string name="navbar_title">Barre de navigation</string>
     <string name="notifications_title">Notifications</string>
     <string name="powermenu_title">Menu marche/arrêt</string>
     <string name="quicksettings_title">Paramètres rapides</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">Thème des paramètres rapides</string>
     <string name="statusbar_title">Barre d\'état</string>
     <string name="volume_title">Volume rockers</string>
     <!-- Summaries -->
@@ -110,47 +110,47 @@
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Pas de menu marche/arrêt sur l\'écran de verrouillage</string>
     <string name="lockscreen_power_menu_disabled_summary">Désactiver le menu Marche/Arrêt sur l’écran de verrouillage</string>
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="notification_sound_vib_screen_on_title">Notifications bruyantes lorsque l\'appareil est allumé</string>
+    <string name="notification_sound_vib_screen_on_summary">Désactiver pour bloquer le son des notifications et les vibrations lorsque l\'écran est allumé</string>
     <!-- Less Notification sounds -->
     <string name="less_notification_sounds_title">Sons des notifications intelligentes</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
+    <string name="less_notification_sounds_summary">Jouer le son de notification de chaque application une seule fois par période définie</string>
+    <string name="less_notification_sounds_default">Valeur définie par l\'application</string>
+    <string name="less_notification_sounds_10s">Toutes les 10 secondes</string>
+    <string name="less_notification_sounds_30s">Toutes les 30 secondes</string>
+    <string name="less_notification_sounds_1m">Toutes les minutes</string>
+    <string name="less_notification_sounds_2m">Toutes les 2 minutes</string>
+    <string name="incall_notifications_vibrate">Moins de notifications gênantes pendant un appel</string>
     <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
     <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <string name="force_ambient_for_media_title">Activé</string>
     <!-- Status bar clock options -->
-    <string name="clock_category">Clock</string>
-    <string name="status_bar_clock">Clock and Date</string>
+    <string name="clock_category">Horloge</string>
+    <string name="status_bar_clock">Horloge et date</string>
     <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
     <string name="clock_title_enable">Alignment</string>
-    <string name="clock_enabled">Enabled</string>
-    <string name="clock_disabled">Disabled</string>
-    <string name="status_bar_clock_style_reset">Reset color</string>
-    <string name="status_bar_show_clock_title">Show clock and date</string>
-    <string name="status_bar_clock_seconds_title">Show seconds</string>
+    <string name="clock_enabled">Activé</string>
+    <string name="clock_disabled">Désactivé</string>
+    <string name="status_bar_clock_style_reset">Remettre la couleur par défaut</string>
+    <string name="status_bar_show_clock_title">Afficher la date et l\'heure</string>
+    <string name="status_bar_clock_seconds_title">Afficher les secondes</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
     <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="enable_clock_weekday">Day of the week</string>
+    <string name="enable_clock_weekday">Jour de la semaine</string>
     <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
-    <string name="right_clock">Right clock</string>
-    <string name="center_clock">Center clock</string>
-    <string name="left_clock">Left clock</string>
-    <string name="dont_show">Don\'t show</string>
+    <string name="right_clock">Horloge à droite</string>
+    <string name="center_clock">Horloge au centre</string>
+    <string name="left_clock">Horloge à gauche</string>
+    <string name="dont_show">Ne pas afficher</string>
     <string name="clock_date_display">Date</string>
     <string name="clock_date_display_summary">Display custom date before the clock</string>
-    <string name="clock_date_style">Date style</string>
-    <string name="clock_date_format">Date format</string>
-    <string name="clock_date_string_edittext_title">Must be in DateFormat eg. MM/dd/yy</string>
-    <string name="clock_date_string_edittext_summary">Enter string</string>
+    <string name="clock_date_style">Style de la date</string>
+    <string name="clock_date_format">Format de la date</string>
+    <string name="clock_date_string_edittext_title">Doit être dans le format JJ/MM/AA</string>
+    <string name="clock_date_string_edittext_summary">Entrer une valeur</string>
     <string name="am_pm_clock_normal">Normal font size</string>
     <string name="am_pm_clock_small">Small font size</string>
     <string name="am_pm_clock_none">Don\'t show</string>
@@ -196,36 +196,36 @@
     <string name="qs_tile_animation_style_rotate">Rotate</string>
     <string name="qs_tile_animation_duration_low">Low</string>
     <string name="qs_tile_animation_duration_default">Default</string>
-    <string name="qs_tile_animation_duration_fast">Fast</string>
-    <string name="qs_tile_animation_interpolator_linearInterpolator">Linear</string>
-    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelerate</string>
-    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelerate</string>
-    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelerate decelerate</string>
-    <string name="qs_tile_animation_interpolator_bounceInterpolator">Bounce</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
-    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipate</string>
+    <string name="qs_tile_animation_duration_fast">Rapide</string>
+    <string name="qs_tile_animation_interpolator_linearInterpolator">Linéaire</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accélérer</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Ralentir</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accélérer et ralentir</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Rebondir</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Dépasser</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticiper</string>
     <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipate overshoot</string>
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
-    <string name="screen_off_animation_title">Screen off animation</string>
-    <string name="screen_off_animation_fade">Simple fade</string>
-    <string name="screen_off_animation_crt">CRT</string>
-    <string name="screen_off_animation_scale">Scale</string>
+    <string name="screen_off_animation_title">Animation d\'extinction d\'écran</string>
+    <string name="screen_off_animation_fade">Fondu</string>
+    <string name="screen_off_animation_crt">Tube cathodique</string>
+    <string name="screen_off_animation_scale">Disparition</string>
     <!-- Heads up -->
-    <string name="heads_up_category">Heads up</string>
-    <string name="heads_up_title">Enable</string>
-    <string name="heads_up_summary_enabled">Heads up notifications are enabled</string>
-    <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
+    <string name="heads_up_category">Notifications flottantes</string>
+    <string name="heads_up_title">Activé</string>
+    <string name="heads_up_summary_enabled">Les notifications flottantes sont activées</string>
+    <string name="heads_up_summary_disabled">Les notifications flottantes sont désactivées</string>
     <string name="heads_up_time_out_title">Time out</string>
-    <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
+    <string name="heads_up_time_out_summary">Les notifications s\'afficheront pendant <xliff:g id="number">%d</xliff:g> secondes</string>
+    <string name="heads_up_time_out_2sec">2 secondes</string>
+    <string name="heads_up_time_out_4sec">4 secondes</string>
+    <string name="heads_up_time_out_5sec">5 secondes</string>
+    <string name="heads_up_time_out_6sec">6 secondes</string>
+    <string name="heads_up_time_out_8sec">8 secondes</string>
+    <string name="heads_up_time_out_10sec">10 secondes</string>
     <string name="heads_up_snooze_title">Snooze timer</string>
     <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
     <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
@@ -235,23 +235,23 @@
     <string name="heads_up_snooze_10min">10 minutes</string>
     <string name="heads_up_snooze_15min">15 minutes</string>
     <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="add_heads_up_package">Ajouter une application</string>
+    <string name="add_heads_up_stoplist_summary">Désactiver les notifications flottantes dans ces applications</string>
+    <string name="add_heads_up_blacklist_summary">Désactiver les notifications flottantes venant de ces applications</string>
+    <string name="heads_up_stoplist_title">Liste d\'arrêt</string>
+    <string name="heads_up_blacklist_title">Liste noire</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Vibrer lors du toucher</string>
+    <string name="quick_settings_vibrate_summary">Vibrer lorsque un raccourci est touché dans les paramètres rapides</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">Décrocher par les touches de volume</string>
+    <string name="volume_answer_call_summary">Contrôler les appels avec les touches de volume</string>
     <!-- Old Style Mobile -->
-    <string name="use_old_mobiletype_title">Use old mobile signal</string>
-    <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
+    <string name="use_old_mobiletype_title">Utiliser l\'ancienne icône de données mobiles</string>
+    <string name="use_old_mobiletype_summary">Utiliser les icones d\'Android Oreo, et avant\n SystemUI redémarrera</string>
     <!-- Custom carrier label and position -->
-    <string name="carrier_category">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
+    <string name="carrier_category">Nom de l\'opérateur</string>
+    <string name="carrier_label_settings_summary">Personnaliser le nom de l\'opérateur</string>
     <string name="custom_carrier_label_title">Custom carrier label</string>
     <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
     <string name="custom_carrier_label_notset">Custom label currently not set</string>
@@ -303,28 +303,28 @@
     <string name="traffic_title">Traffic indicators</string>
     <string name="traffic_summary">Show net activity in statusbar</string>
     <string name="traffic_category">Network Traffic</string>
-    <string name="network_traffic_state_title">Network traffic display</string>
-    <string name="network_traffic_autohide">Auto hide</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
-    <string name="network_traffic_hidearrow">Hide arrows</string>
-    <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+    <string name="network_traffic_state_title">Affichage du test de débit</string>
+    <string name="network_traffic_autohide">Masquer automatiquement</string>
+    <string name="network_traffic_autohide_summary">Masquer le test de débit lorsque il n\'y a aucune activité</string>
+    <string name="network_traffic_autohide_threshold_title">Masquer automatiquement à partir d\'un certain débit Internet (en KB/s)</string>
+    <string name="network_traffic_hidearrow">Masquer les flèches</string>
+    <string name="network_traffic_hidearrow_summary">Masquer les flèches de l\'indicateur de vitesse de connexion</string>
     <string name="network_traffic_state_summary">Show upload &amp; download network speed</string>
     <string name="network_traffic_location_title">Traffic indicator placement</string>
     <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
-    <string name="network_traffic_statusbar">Status bar</string>
+    <string name="network_traffic_statusbar">Barre d\'état</string>
     <string name="network_traffic_header">Expanded header</string>
     <!-- QS panel tuner -->
-    <string name="qs_panel_tuner_category_title">QS panel tuner</string>
+    <string name="qs_panel_tuner_category_title">Modifier le panneau de paramètres rapides</string>
     <string name="show_secure_title">Security footer</string>
-    <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
+    <string name="show_secure_summary">Afficher le statut du VPN en haut des paramètres rapides</string>
     <string name="show_info_header_title">Information header</string>
     <string name="show_info_header_summary">Shows information on top of the QS panel</string>
     <string name="profile_choose_app">Choose app</string>
-    <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="dialog_delete_title">Supprimer</string>
+    <string name="dialog_delete_message">Supprimer l\'élément sélectionné ?</string>
     <!-- Dashboard conditions -->
-    <string name="dashboard_category">Dashboard options</string>
+    <string name="dashboard_category">Options du tableau de bord</string>
     <string name="dashboard_conditions_title">Dashboard conditions</string>
     <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
     <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
@@ -334,34 +334,34 @@
     <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
     <!-- Lockscreen cover art filter -->
     <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
+    <string name="lockscreen_cover_filter_none">Aucun</string>
     <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
     <string name="lockscreen_cover_filter_tint">Accent tinted</string>
     <string name="lockscreen_cover_filter_blur">Blur</string>
     <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
     <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Let everyone know that you\'re using Evolution X 2.0 when they see your screen</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="evolution_logo_title">Logo Evolution X 2.0</string>
+    <string name="evolution_logo_summary">Montre à tout le monde que tu utilise la meilleure ROM au monde, Evolution X 2.0</string>
+    <string name="status_bar_logo_style_title">Définir un logo</string>
     <!-- QS themes -->
-    <string name="qs_panel_alpha_title">Opacity</string>
-    <string name="qs_panel_color_title">Color</string>
-    <string name="qs_bg_wall_title">Use Wallpaper colors</string>
-    <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
-    <string name="qs_bg_use_fw">Use default colors</string>
-    <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
+    <string name="qs_panel_alpha_title">Opacité</string>
+    <string name="qs_panel_color_title">Couleur</string>
+    <string name="qs_bg_wall_title">Utiliser les couleurs du fond d\'écran</string>
+    <string name="qs_bg_wall_summary">Définir la couleur des paramètres rapides en fonction du fond d\'écran</string>
+    <string name="qs_bg_use_fw">Utiliser les couleurs par défaut</string>
+    <string name="qs_bg_use_fw_summary">Désactiver les thèmes des paramètres rapides venant d\'autres logiciels de thème</string>
     <!-- Hide On Lockscreen -->
-    <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
+    <string name="hide_lockscreen_status_bar_title">Masquer la barre d\'état</string>
     <string name="hide_lockscreen_status_bar_summary">Touch status bar to toggle visibility</string>
     <!-- Lockscreen items -->
-    <string name="lockscreen_hide_items_category">Hide items</string>
-    <string name="lockscreen_clock_title">Clock widget</string>
+    <string name="lockscreen_hide_items_category">Cacher les éléments</string>
+    <string name="lockscreen_clock_title">Widget de l\'horloge</string>
     <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
     <string name="lockscreen_info_title">Items underneath the clock</string>
     <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
+    <string name="lockscreen_clock_selection_title">Style de l\'horloge</string>
+    <string name="lockscreen_clock_selection_digital">Par défaut</string>
     <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
     <string name="lockscreen_clock_selection_analog">Analog</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
@@ -392,24 +392,24 @@
     <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Kill app button</string>
-    <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
+    <string name="notification_guts_kill_app_button_summary">Afficher un bouton pour forcer l\'arrêt d\'une application dans le menu d\'appui long sur une notification</string>
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
-    <string name="qstile_circle_gradient">Circle with Gradient</string>
+    <string name="qs_tile_style_title">Style des tuiles des réglages rapides</string>
+    <string name="qstile_default">Par défaut</string>
+    <string name="qstile_circle_trim">Cercle morcelé</string>
+    <string name="qstile_dual_tone_circle">Cercle à deux couleurs</string>
+    <string name="qstile_squircle_trim">Carré arrondi morcelé</string>
+    <string name="qstile_circle_gradient">Cercle avec dégradé</string>
     <string name="qstile_cookie">Cookie</string>
-    <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
-    <string name="qstile_pokesign">Pokesign</string>
+    <string name="qstile_wavey">Vagues</string>
+    <string name="qstile_circle_dualtone">Cercles avec deux teintes</string>
+    <string name="qstile_pokesign">Signe Pokémon</string>
     <string name="qstile_ninja">Ninja</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
-    <string name="qstile_attemptmountain">An attempt of a mountain</string>
+    <string name="qstile_dottedcircle">Cercle en pointillé</string>
+    <string name="qstile_attemptmountain">Une tentative de forme de montagne</string>
     <string name="qstile_squaremedo">The Squaremedo</string>
-    <string name="qstile_hexagon">Hexagon</string>
-    <string name="qstile_star">Star</string>
+    <string name="qstile_hexagon">Hexagone</string>
+    <string name="qstile_star">Étoile</string>
     <string name="qstile_gear">Gear</string>
     <string name="qstile_diamond">Diamond</string>
     <string name="qstile_circleoutline">CircleOutline</string>
