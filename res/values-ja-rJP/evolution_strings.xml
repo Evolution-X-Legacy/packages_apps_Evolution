@@ -620,8 +620,5 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">充電アニメーション</string>
     <string name="lockscreen_charging_animation_summary">充電中に電気のアニメーションを表示する</string>
-    <!-- Alert Slider -->
-    <string name="swap_slider_order_title">スライダーの入れ替え</string>
-    <string name="swap_slider_order_summary">Alert Slider モードの向きを入れ替える (対応している端末のみ)</string>
     <string name="button_wake_summary">ボタンを押してロック解除する</string>
 </resources>
