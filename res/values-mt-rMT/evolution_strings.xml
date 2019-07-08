@@ -19,32 +19,32 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP Gestures</string>
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
+    <string name="aosp_gesture_title">Ġesti tal-AOSP</string>
+    <string name="buttons_title">Buttuni tal-ħardwer</string>
+    <string name="gestures_title">Ġesti</string>
     <string name="interface_category">Interface</string>
     <string name="lockscreen_title">Lock screen</string>
     <string name="lockscreen_shortcuts_category">Shortcuts</string>
     <string name="logo_category">Logo</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="notifications_title">Notifications</string>
+    <string name="misc_title">Mixxellanji</string>
+    <string name="navbar_title">Bar tan-navigazzjoni</string>
+    <string name="notifications_title">Notifiki</string>
     <string name="powermenu_title">Power menu</string>
     <string name="quicksettings_title">Quick settings</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">Temi tal-QS</string>
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume rockers</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
     <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
+    <string name="misc_summary">Settings tas-sistema żejda</string>
     <!-- General strings -->
-    <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="reset">Irrisettja</string>
+    <string name="cancel">Ikkanċella</string>
     <string name="save">Save</string>
     <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="action_cancel">Ikkanċella</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
@@ -52,28 +52,28 @@
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
-    <string name="set">Set</string>
+    <string name="set">Issettja</string>
     <string name="color_default">Default</string>
-    <string name="battery_category">Battery</string>
+    <string name="battery_category">Batterija</string>
     <string name="notifications_category_title">Annoying notifications protection</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Battery icon style</string>
     <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
     <string name="status_bar_battery_percentage_title">Battery percentage</string>
     <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
-    <string name="status_bar_battery_percentage_default">Hidden</string>
-    <string name="status_bar_battery_percentage_text_next">Next to the icon</string>
-    <string name="status_bar_battery_percentage_text_inside">Inside the icon</string>
+    <string name="status_bar_battery_percentage_default">Moħbijha</string>
+    <string name="status_bar_battery_percentage_text_next">Ħdejn l-ikona</string>
+    <string name="status_bar_battery_percentage_text_inside">Ġol-ikona</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Battery style</string>
+    <string name="status_bar_battery_style_title">Stil ta\' batterija</string>
     <string name="status_bar_battery_style_port">Portrait</string>
-    <string name="status_bar_battery_style_q">Q style</string>
-    <string name="status_bar_battery_style_circle">Circle</string>
-    <string name="status_bar_battery_style_dotted_circle">Dotted circle</string>
-    <string name="status_bar_battery_style_big_circle">Big circle</string>
-    <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
+    <string name="status_bar_battery_style_q">Stil ta\' Q</string>
+    <string name="status_bar_battery_style_circle">Ċirku</string>
+    <string name="status_bar_battery_style_dotted_circle">Ċirku mtaqqab</string>
+    <string name="status_bar_battery_style_big_circle">Ċirku kbir</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Ċirku kbir mtaqqab</string>
     <string name="status_bar_battery_style_text">Text</string>
-    <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_style_hidden">Moħbijha</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Power menu toggles</string>
     <string name="powermenu_screenshot">Screenshot</string>
@@ -85,21 +85,21 @@
     <string name="powermenu_lockdown">Lock Down</string>
     <string name="powermenu_users">Users</string>
     <string name="powermenu_logout">Logout</string>
-    <string name="powermenu_torch">Flashlight</string>
+    <string name="powermenu_torch">Torċ</string>
     <!-- Power plug events -->
     <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
     <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Bluetooth battery status</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_title">Status tal-batterija tal-Bluetooth</string>
+    <string name="bluetooth_battery_summary">Uri l-istatus tal-batterija għall-apparat Bluetooth konness, jekk disponibbli</string>
     <!-- Heads up options -->
-    <string name="less_boring_heads_up_title">Make heads up less annoying</string>
+    <string name="less_boring_heads_up_title">Għamel il-floating notifications inqas tedjanti</string>
     <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Brightness slider tweaks</string>
-    <string name="qs_show_brightness_title">Brightness slider</string>
-    <string name="qs_show_brightness_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Bottom brightness slider</string>
+    <string name="qs_show_brightness_title">Slider tal-luminożità</string>
+    <string name="qs_show_brightness_summary">Uri slider tal-luminożità fil-panel tal-quick settings</string>
+    <string name="qs_brightness_position_bottom_title">Slider tal-luminożità ta\' isfel</string>
     <string name="qs_brightness_position_bottom_summary">Show brightness slider on the bottom of the quick settings panel</string>
     <string name="qs_show_auto_brightness_title">Adaptive brightness button</string>
     <string name="qs_show_auto_brightness_summary">Show adaptive brightness button</string>
