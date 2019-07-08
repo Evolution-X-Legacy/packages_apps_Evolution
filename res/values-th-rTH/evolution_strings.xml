@@ -379,7 +379,7 @@
     <string name="lockscreen_date_selection_default">ค่าเริ่มต้น</string>
     <string name="lockscreen_date_selection_str_box">กึ่งโปร่งใส</string>
     <string name="lockscreen_date_selection_str_round">กึ่งโปร่งใส (รอบๆ)</string>
-    <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
+    <string name="lockscreen_date_selection_qbeta_style">Android Q Beta pill</string>
     <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
     <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
@@ -536,7 +536,7 @@
     <string name="SHORT_MAX_IDLE_TIMEOUT">หมดเวลาที่ไม่ได้ใช้งานสูงสุด</string>
     <string name="SHORT_IDLE_FACTOR">ปัจจัยว่าง</string>
     <string name="SHORT_MIN_TIME_TO_ALARM">เวลาในการปลุกขั้นต่ำ</string>
-    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string>
+    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่อนุญาตสูงสุดของแอป temp</string>
     <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่อนุญาตสูงสุดของแอป MMS </string>
     <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">ระยะเวลาที่อนุญาตสูงสุดของแอป SMS สูงสุด</string>
     <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">ไม่ได้ใช้งานแสงหลังจากหมดเวลาใช้งาน</string>
