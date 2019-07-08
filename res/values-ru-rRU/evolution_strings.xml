@@ -35,7 +35,7 @@
     <string name="statusbar_title">Строка состояния</string>
     <string name="volume_title">Кнопки регулировки громкости</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Настройка действий аппаратных кнопок Вашего устройства</string>
+    <string name="buttons_summary">Настройка действий аппаратных кнопок вашего устройства</string>
     <string name="gestures_summary">Действия/настройки, основанные на жестах</string>
     <string name="misc_summary">Дополнительные настройки системы</string>
     <!-- General strings -->
@@ -88,17 +88,17 @@
     <string name="powermenu_torch">Фонарик</string>
     <!-- Power plug events -->
     <string name="wake_when_plugged_or_unplugged_title">Включение при зарядке</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Включать экран при подключении или отключении зарядного устройства</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Включать экран при подключении или отключении устройства питания</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Статус батареи Bluetooth</string>
-    <string name="bluetooth_battery_summary">Статус батареи для подключенных Bluetooth устройство, если доступно</string>
+    <string name="bluetooth_battery_summary">Показывать заряд батареи подключенных Bluetooth-устройств, если доступно</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Менее надоедливые всплывающие уведомления</string>
     <string name="less_boring_heads_up_summary">Показать всплывающие уведомления только для звонков или сообщений (если они не на переднем плане)</string>
     <!-- Brightness slider tweaks -->
-    <string name="brightness_slider_title">Настройки слайдера яркости</string>
-    <string name="qs_show_brightness_title">Слайдер яркости</string>
-    <string name="qs_show_brightness_summary">Показывать слайдер яркости в быстрых настройках</string>
+    <string name="brightness_slider_title">Настройки ползунка яркости</string>
+    <string name="qs_show_brightness_title">Ползунок яркости</string>
+    <string name="qs_show_brightness_summary">Показывать ползунок яркости в быстрых настройках</string>
     <string name="qs_brightness_position_bottom_title">Ползунок яркости снизу</string>
     <string name="qs_brightness_position_bottom_summary">Показать ползунок яркости снизу панели быстрых настроек</string>
     <string name="qs_show_auto_brightness_title">Кнопка адаптивной яркости</string>
@@ -126,7 +126,7 @@
     <string name="force_ambient_for_media_pref_title">Функция «Сейчас играет»</string>
     <string name="force_ambient_for_media_pref_summary">Настройки Ambient music ticker</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker отображает информацию о текущем треке используя «Ambient Display» срабатывает также, если «Ambient Display» отключен при проигрывании нового трека, принудительно очищает экран и показывает информацию о треке в середине экрана.  Для пропуска дважды коснитесь информации о треке.</string>
-    <string name="force_ambient_for_media_title">Вкл</string>
+    <string name="force_ambient_for_media_title">Включить</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Часы</string>
     <string name="status_bar_clock">Время и дата</string>
