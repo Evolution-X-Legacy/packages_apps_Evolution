@@ -379,7 +379,7 @@
     <string name="lockscreen_date_selection_default">За замовчуванням</string>
     <string name="lockscreen_date_selection_str_box">Напівпрозорий</string>
     <string name="lockscreen_date_selection_str_round">Напівпрозорий (закруглений)</string>
-    <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
+    <string name="lockscreen_date_selection_qbeta_style">Q Бета таблетки</string>
     <string name="lockscreen_date_selection_str_accent">Закруглена, проста з акцентом</string>
     <string name="lockscreen_date_selection_str_accent_day">Закруглена, проста з акцентом (альт)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Закруглена, прозора з акцентом</string>
@@ -623,8 +623,5 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">Анімація заряджання</string>
     <string name="lockscreen_charging_animation_summary">Показувати анімацію при підключенні зарядного пристрою</string>
-    <!-- Alert Slider -->
-    <string name="swap_slider_order_title">Поміняти значення перемикача</string>
-    <string name="swap_slider_order_summary">Міняти місцями порядок режимів оповіщення (тільки для пристроїв з підтримкою повзунка)</string>
     <string name="button_wake_summary">Розбудити пристрій натисканням клавіши</string>
 </resources>
