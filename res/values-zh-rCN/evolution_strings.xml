@@ -22,16 +22,16 @@
     <string name="aosp_gesture_title">AOSP 手势</string>
     <string name="buttons_title">实体按键</string>
     <string name="gestures_title">手势</string>
-    <string name="interface_category">Interface</string>
+    <string name="interface_category">界面</string>
     <string name="lockscreen_title">锁屏界面</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="lockscreen_shortcuts_category">快捷操作</string>
     <string name="logo_category">Logo</string>
     <string name="misc_title">杂项设置</string>
     <string name="navbar_title">导航栏</string>
     <string name="notifications_title">通知</string>
     <string name="powermenu_title">电源菜单</string>
     <string name="quicksettings_title">快捷设置</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">QS主题</string>
     <string name="statusbar_title">状态栏</string>
     <string name="volume_title">音量调节</string>
     <!-- Summaries -->
@@ -214,7 +214,7 @@
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">缩放</string>
     <!-- Heads up -->
-    <string name="heads_up_category">Heads up</string>
+    <string name="heads_up_category">浮动通知</string>
     <string name="heads_up_title">启用</string>
     <string name="heads_up_summary_enabled">启用浮动通知</string>
     <string name="heads_up_summary_disabled">浮动通知已禁用</string>
@@ -262,7 +262,7 @@
     <string name="show_carrier_enabled">锁屏界面和状态栏</string>
     <string name="status_bar_carrier_size">运营商标签文本大小</string>
     <string name="status_bar_carrier_font_style_title">运营商标签字体</string>
-    <string name="status_bar_carrier_font_style_summary">%1$s</string>
+    <string name="status_bar_carrier_font_style_summary">%1$s:</string>
     <string name="status_bar_carrier_color">运营商标签颜色</string>
     <!-- Hide notch -->
     <string name="hide_notch_title">隐藏刘海</string>
@@ -278,7 +278,7 @@
     <string name="volume_keys_control_ring_tone_summary">音量键控制铃声而非媒体音量</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">音量调整级别</string>
-    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
+    <string name="volume_steps_summary">自定义音乐面板中的步进等级</string>
     <string name="volume_steps_alarm_title">音量调整级别:闹钟</string>
     <string name="volume_steps_dtmf_title">音量调整级别:双音多频</string>
     <string name="volume_steps_music_title">音量调整级别:媒体音量</string>
@@ -363,11 +363,11 @@
     <string name="lockscreen_clock_selection_title">时钟样式</string>
     <string name="lockscreen_clock_selection_digital">默认</string>
     <string name="lockscreen_clock_selection_digital_bold">数字 (粗体)</string>
-    <string name="lockscreen_clock_selection_analog">Analog</string>
+    <string name="lockscreen_clock_selection_analog">模拟</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (粗体)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">三星样式 主题色 (粗体)</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">带有访问(alt)的Sammy</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
     <string name="lockscreen_clock_selection_gradient_btlglogo">渐变时钟(与shishu 标志)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">渐变时钟(与shishu 标志)</string>
@@ -552,7 +552,7 @@
     <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">通知白名单最大持续时间</string>
     <!-- Time In State & CPU State -->
     <string name="state_time_mode">唤醒</string>
-    <string name="since_boot">Boot</string>
+    <string name="since_boot">引导</string>
     <string name="since_charged">充电完成</string>
     <string name="since_unplugged">电源未接通</string>
     <string name="since_reset">重置</string>
@@ -621,5 +621,5 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">充电动画</string>
     <string name="lockscreen_charging_animation_summary">当设备充电时显示一个螺旋动画</string>
-    <string name="button_wake_summary">Wake device by pressing the button</string>
+    <string name="button_wake_summary">通过按下按键唤醒设备</string>
 </resources>
