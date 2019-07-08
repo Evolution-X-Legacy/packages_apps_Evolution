@@ -22,16 +22,16 @@
     <string name="aosp_gesture_title">Gestur AOSP</string>
     <string name="buttons_title">Tombol fisik</string>
     <string name="gestures_title">Gestur</string>
-    <string name="interface_category">Interface</string>
+    <string name="interface_category">Tampilan</string>
     <string name="lockscreen_title">Kunci layar</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="lockscreen_shortcuts_category">Pintasan</string>
     <string name="logo_category">Logo</string>
     <string name="misc_title">Lain-lain</string>
     <string name="navbar_title">Navigasi bar</string>
     <string name="notifications_title">Notifikasi</string>
     <string name="powermenu_title">Tombol Power</string>
     <string name="quicksettings_title">Pengaturan cepat</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">QS tema</string>
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume Rocker</string>
     <!-- Summaries -->
@@ -214,7 +214,7 @@
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Skala</string>
     <!-- Heads up -->
-    <string name="heads_up_category">Heads up</string>
+    <string name="heads_up_category">Notifikasi mengambang</string>
     <string name="heads_up_title">Aktif</string>
     <string name="heads_up_summary_enabled">Heads up notifications diaktifkan</string>
     <string name="heads_up_summary_disabled">Heads up notifikasi dinonaktifkan</string>
@@ -278,7 +278,7 @@
     <string name="volume_keys_control_ring_tone_summary">Tombol mengontrol penggeser media secara default.  Aktifkan untuk beralih ke bilah geser nada dering.</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">Tingkat volume</string>
-    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
+    <string name="volume_steps_summary">Sesuaikan jumlah langkah pada panel volume</string>
     <string name="volume_steps_alarm_title">Langkah volume: Alarm</string>
     <string name="volume_steps_dtmf_title">Langkah volume: DTMF</string>
     <string name="volume_steps_music_title">Alur Volume: Music</string>
@@ -403,15 +403,15 @@
     <string name="qstile_cookie">Cookie</string>
     <string name="qstile_wavey">Wavey</string>
     <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
-    <string name="qstile_pokesign">Pokesign</string>
+    <string name="qstile_pokesign">Pokemon</string>
     <string name="qstile_ninja">Ninja</string>
     <string name="qstile_dottedcircle">Dotted Circle</string>
     <string name="qstile_attemptmountain">An attempt of a mountain</string>
     <string name="qstile_squaremedo">The Squaremedo</string>
     <string name="qstile_hexagon">Hexagon</string>
-    <string name="qstile_star">Star</string>
-    <string name="qstile_gear">Gear</string>
-    <string name="qstile_diamond">Diamond</string>
+    <string name="qstile_star">Bintang</string>
+    <string name="qstile_gear">Gigi</string>
+    <string name="qstile_diamond">Berlian</string>
     <string name="qstile_circleoutline">CircleOutline</string>
     <string name="qstile_roundedrect">Rounded Rectangle</string>
     <string name="qstile_square">Square</string>
@@ -620,5 +620,5 @@
     <!-- Charging animation -->
     <string name="lockscreen_charging_animation_title">Animasi pengisian</string>
     <string name="lockscreen_charging_animation_summary">Tampilkan animasi bolt ketika perangkat sedang diisi</string>
-    <string name="button_wake_summary">Wake device by pressing the button</string>
+    <string name="button_wake_summary">Bangunkan perangkat dengan menekan tombol</string>
 </resources>
