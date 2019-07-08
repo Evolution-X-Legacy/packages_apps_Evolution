@@ -22,16 +22,16 @@
     <string name="aosp_gesture_title">Gestos AOSP</string>
     <string name="buttons_title">Botones Físicos</string>
     <string name="gestures_title">Gestos</string>
-    <string name="interface_category">Interface</string>
+    <string name="interface_category">Interfaz</string>
     <string name="lockscreen_title">Pantalla de bloqueo</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="lockscreen_shortcuts_category">Accesos directos</string>
     <string name="logo_category">Logo</string>
     <string name="misc_title">Misceláneo</string>
     <string name="navbar_title">Barra de navegación</string>
     <string name="notifications_title">Notificaciones</string>
     <string name="powermenu_title">Menu de apagado</string>
     <string name="quicksettings_title">Ajustes Rapidos</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">Tema QS</string>
     <string name="statusbar_title">Barra de estado</string>
     <string name="volume_title">Control de Volumen</string>
     <!-- Summaries -->
@@ -101,19 +101,19 @@
     <string name="qs_show_brightness_summary">Motrar una barra de brillo en el panel de las configuraciones rápidas</string>
     <string name="qs_brightness_position_bottom_title">Mostrar la barra de brillo a bajo</string>
     <string name="qs_brightness_position_bottom_summary">Mostrar la barra de brillo abajo del panel de configuraciones rápidas</string>
-    <string name="qs_show_auto_brightness_title">Adaptive brightness button</string>
-    <string name="qs_show_auto_brightness_summary">Show adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_title">Right position for adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
-    <string name="qs_show_brightness_buttons_title">Brightness control buttons</string>
-    <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
+    <string name="qs_show_auto_brightness_title">Botón de brillo automático</string>
+    <string name="qs_show_auto_brightness_summary">Botón de brillo automático</string>
+    <string name="qs_auto_brightness_right_title">Posición derecha para el botón de brillo adaptativo</string>
+    <string name="qs_auto_brightness_right_summary">Mueve el botón de brillo adaptativo a la derecha del deslizador de brillo</string>
+    <string name="qs_show_brightness_buttons_title">Botones de control de brillo</string>
+    <string name="qs_show_brightness_buttons_summary">Mostrar botones para aumentar o disminuir el brillo</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">No power menu when locked</string>
-    <string name="lockscreen_power_menu_disabled_summary">Disable power menu on secure lockscreen</string>
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="lockscreen_power_menu_disabled_title">Deshabilitar menú de apagado en pantalla de bloqueo</string>
+    <string name="lockscreen_power_menu_disabled_summary">Desactiva el menú de apagado en la pantalla de bloqueo</string>
+    <string name="notification_sound_vib_screen_on_title">Notificaciones ruidosas si la pantalla esta encendida</string>
+    <string name="notification_sound_vib_screen_on_summary">Desactivar para que la pantalla no suene ni vibre si la pantalla esta encendida</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
+    <string name="less_notification_sounds_title">Sonidos de notificacion inteligente</string>
     <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
     <string name="less_notification_sounds_default">App default</string>
     <string name="less_notification_sounds_10s">Every 10 seconds</string>
