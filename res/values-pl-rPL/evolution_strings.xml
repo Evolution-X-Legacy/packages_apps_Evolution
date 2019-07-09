@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolucja X</string>
+    <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">Gesty AOSP</string>
     <string name="buttons_title">Przyciski sprzętowe</string>
@@ -114,17 +114,17 @@
     <string name="notification_sound_vib_screen_on_summary">Wyłącz aby blokować powiadomienia, dźwięki i wibracje gdy ekran jest włączony</string>
     <!-- Less Notification sounds -->
     <string name="less_notification_sounds_title">Inteligentne dźwięki powiadomień</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
-    <string name="less_notification_sounds_30s">Every 30 seconds</string>
-    <string name="less_notification_sounds_1m">Every minute</string>
-    <string name="less_notification_sounds_2m">Every 2 minutes</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
-    <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
+    <string name="less_notification_sounds_summary">Odtwarzaj dźwięk powiadomienia danej aplikacji tylko raz na dany okres</string>
+    <string name="less_notification_sounds_default">Domyślna aplikacja</string>
+    <string name="less_notification_sounds_10s">Co 10 sekund</string>
+    <string name="less_notification_sounds_30s">Co 30 sekund</string>
+    <string name="less_notification_sounds_1m">Co minutę</string>
+    <string name="less_notification_sounds_2m">Co 2 minuty</string>
+    <string name="incall_notifications_vibrate">Mniej irytujące powiadomienia w czasie połączeń głosowych</string>
+    <string name="incall_notifications_vibrate_summary">Wibracje zamiast odtwarzania dźwięku dla powiadomień podczas połączenia</string>
     <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
+    <string name="force_ambient_for_media_pref_title">Nazwa utworu na ekranie Ambient</string>
+    <string name="force_ambient_for_media_pref_summary">Skonfiguruj znacznik muzyki</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
     <string name="force_ambient_for_media_title">Enable</string>
     <!-- Status bar clock options -->
@@ -132,23 +132,23 @@
     <string name="status_bar_clock">Clock and Date</string>
     <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
     <string name="clock_title_enable">Alignment</string>
-    <string name="clock_enabled">Enabled</string>
-    <string name="clock_disabled">Disabled</string>
-    <string name="status_bar_clock_style_reset">Reset color</string>
-    <string name="status_bar_show_clock_title">Show clock and date</string>
-    <string name="status_bar_clock_seconds_title">Show seconds</string>
-    <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
-    <string name="enable_clock_weekday">Day of the week</string>
-    <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
-    <string name="right_clock">Right clock</string>
-    <string name="center_clock">Center clock</string>
-    <string name="left_clock">Left clock</string>
-    <string name="dont_show">Don\'t show</string>
-    <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
+    <string name="clock_enabled">Włączone</string>
+    <string name="clock_disabled">Wyłączone</string>
+    <string name="status_bar_clock_style_reset">Zresetuj kolor</string>
+    <string name="status_bar_show_clock_title">Pokaż zegar i date</string>
+    <string name="status_bar_clock_seconds_title">Pokaż sekundy</string>
+    <string name="status_bar_am_pm_title">12-godzinny</string>
+    <string name="status_bar_am_pm_info">24-godzinny zegar jest aktywny</string>
+    <string name="enable_clock_weekday">Dzień tygodnia</string>
+    <string name="enable_clock_weekday_summary">Skrót dnia tygodnia przed zegarem</string>
+    <string name="right_clock">Po prawej</string>
+    <string name="center_clock">Zegar na środku</string>
+    <string name="left_clock">Po lewej</string>
+    <string name="dont_show">Ukryj</string>
+    <string name="clock_date_display">Data</string>
+    <string name="clock_date_display_summary">Wyświetl zmodyfikowaną datę przed zegarem</string>
     <string name="clock_date_style">Wygląd daty</string>
-    <string name="clock_date_format">Date format</string>
+    <string name="clock_date_format">Format daty</string>
     <string name="clock_date_string_edittext_title">Musi to być format daty np. MM/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Wprowadź ciąg</string>
     <string name="am_pm_clock_normal">Normalny rozmiar czcionki</string>
@@ -220,25 +220,25 @@
     <string name="heads_up_summary_disabled">Heads up notifications are disabled</string>
     <string name="heads_up_time_out_title">Time out</string>
     <string name="heads_up_time_out_summary">Peeking notifications will show for <xliff:g id="number">%d</xliff:g> seconds</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
-    <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
+    <string name="heads_up_time_out_2sec">2 sekundy</string>
+    <string name="heads_up_time_out_4sec">4 sekundy</string>
+    <string name="heads_up_time_out_5sec">5 sekund</string>
+    <string name="heads_up_time_out_6sec">6 sekund</string>
+    <string name="heads_up_time_out_8sec">8 sekund</string>
+    <string name="heads_up_time_out_10sec">10 sekund</string>
+    <string name="heads_up_snooze_title">Licznik czasu drzemki</string>
+    <string name="heads_up_snooze_summary_one_minute">Przesunięcie w górę wyskakujących powiadomień wyłączy je na 1 minutę</string>
+    <string name="heads_up_snooze_summary">Przesunięcie w górę wyskakujących powiadomień wyłączy je w tej aplikacji na <xliff:g id="number">%d</xliff:g> minut</string>
+    <string name="heads_up_snooze_disabled_summary">Drzemka jest wyłączona</string>
+    <string name="heads_up_snooze_1min">1 minuta</string>
+    <string name="heads_up_snooze_5min">5 minut</string>
+    <string name="heads_up_snooze_10min">10 minut</string>
+    <string name="heads_up_snooze_15min">15 minut</string>
+    <string name="heads_up_snooze_20min">20 minut</string>
+    <string name="add_heads_up_package">Dodaj aplikację</string>
+    <string name="add_heads_up_stoplist_summary">Wyłącz wyskakujące powiadomienia w aplikacjach</string>
+    <string name="add_heads_up_blacklist_summary">Wyłącz wyskakujące powiadomienia w tych aplikacjach</string>
+    <string name="heads_up_stoplist_title">Lista wstrzymanych</string>
     <string name="heads_up_blacklist_title">Blacklist</string>
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Vibrate on touch</string>
