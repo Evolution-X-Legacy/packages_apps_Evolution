@@ -76,7 +76,7 @@
     <string name="status_bar_battery_style_hidden">Скрыть</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Меню питания</string>
-    <string name="powermenu_screenshot">Скриншот</string>
+    <string name="powermenu_screenshot">Снимок экрана</string>
     <string name="powermenu_power">Выключить</string>
     <string name="powermenu_restart">Перезагрузка</string>
     <string name="powermenu_restart_recovery">Расширенная перезагрузка</string>
@@ -88,13 +88,13 @@
     <string name="powermenu_torch">Фонарик</string>
     <!-- Power plug events -->
     <string name="wake_when_plugged_or_unplugged_title">Включение при зарядке</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Включать экран при подключении или отключении устройства питания</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Включать экран при подключении или отключении зарядного устройства</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Статус батареи Bluetooth</string>
-    <string name="bluetooth_battery_summary">Показывать заряд батареи подключенных Bluetooth-устройств, если доступно</string>
+    <string name="bluetooth_battery_summary">Показывать заряд батареи подключенных Bluetooth устройств, если доступно</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Менее надоедливые всплывающие уведомления</string>
-    <string name="less_boring_heads_up_summary">Показать всплывающие уведомления только для звонков или сообщений (если они не на переднем плане)</string>
+    <string name="less_boring_heads_up_summary">Показать всплывающие уведомления только для звонков или сообщений, если они не на переднем плане</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Настройки ползунка яркости</string>
     <string name="qs_show_brightness_title">Ползунок яркости</string>
