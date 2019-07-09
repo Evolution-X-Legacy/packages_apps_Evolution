@@ -220,66 +220,66 @@
     <string name="heads_up_summary_disabled">Notificaciones de advertencia desactivada</string>
     <string name="heads_up_time_out_title">Tiempo de espera</string>
     <string name="heads_up_time_out_summary">La notificación se mostrará durante <xliff:g id="number">%d </xliff:g> segundos</string>
-    <string name="heads_up_time_out_2sec">2 seconds</string>
-    <string name="heads_up_time_out_4sec">4 seconds</string>
-    <string name="heads_up_time_out_5sec">5 seconds</string>
-    <string name="heads_up_time_out_6sec">6 seconds</string>
-    <string name="heads_up_time_out_8sec">8 seconds</string>
-    <string name="heads_up_time_out_10sec">10 seconds</string>
-    <string name="heads_up_snooze_title">Snooze timer</string>
-    <string name="heads_up_snooze_summary_one_minute">Swiping up on peeking notifications will snooze heads up from that application for 1 minute</string>
-    <string name="heads_up_snooze_summary">Swiping up on peeking notifications will snooze heads up from that application for <xliff:g id="number">%d</xliff:g> minutes</string>
-    <string name="heads_up_snooze_disabled_summary">Snooze timer is disabled</string>
-    <string name="heads_up_snooze_1min">1 minute</string>
-    <string name="heads_up_snooze_5min">5 minutes</string>
-    <string name="heads_up_snooze_10min">10 minutes</string>
+    <string name="heads_up_time_out_2sec">2 segundos</string>
+    <string name="heads_up_time_out_4sec">4 segundos</string>
+    <string name="heads_up_time_out_5sec">5 segundos</string>
+    <string name="heads_up_time_out_6sec">6 segundos</string>
+    <string name="heads_up_time_out_8sec">8 segundos</string>
+    <string name="heads_up_time_out_10sec">10 segundos</string>
+    <string name="heads_up_snooze_title">Posponer alarma</string>
+    <string name="heads_up_snooze_summary_one_minute">Deslizar hacia arriba en las notificaciones flotantes, las pospondrá por 1 minuto</string>
+    <string name="heads_up_snooze_summary">Deslizar hacia arriba en las notificaciones flotantes de la aplicación las silenciará por <xliff:g id="number">%d</xliff:g> minutos</string>
+    <string name="heads_up_snooze_disabled_summary">Postergar alarma está desactivado</string>
+    <string name="heads_up_snooze_1min">1 minuto</string>
+    <string name="heads_up_snooze_5min">5 minutos</string>
+    <string name="heads_up_snooze_10min">10 minutos</string>
     <string name="heads_up_snooze_15min">15 minutos</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_snooze_20min">20 minutos</string>
+    <string name="add_heads_up_package">Agregar aplicación</string>
+    <string name="add_heads_up_stoplist_summary">Desactivar notificaciones flotantes en esas aplicaciones</string>
+    <string name="add_heads_up_blacklist_summary">Desactivar notificaciones flotantes de estas aplicaciones</string>
+    <string name="heads_up_stoplist_title">Lista de exclusión</string>
+    <string name="heads_up_blacklist_title">Lista negra</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Vibrar al tocar</string>
+    <string name="quick_settings_vibrate_summary">Vibrar al tocar en los ajustes rápidos</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">Responder con teclas de volumen</string>
+    <string name="volume_answer_call_summary">Responder la llamada al presionar las teclas del volumen</string>
     <!-- Old Style Mobile -->
-    <string name="use_old_mobiletype_title">Use old mobile signal</string>
-    <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
+    <string name="use_old_mobiletype_title">Usar el indicador de señal antiguo</string>
+    <string name="use_old_mobiletype_summary">Al usar el indicador de señal de Oreo y las versiones anteriores. La interfaz de usuario se reiniciará</string>
     <!-- Custom carrier label and position -->
-    <string name="carrier_category">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="show_carrier_title">Carrier label</string>
-    <string name="show_carrier_disabled">Disabled</string>
-    <string name="show_carrier_keyguard">Lockscreen only</string>
-    <string name="show_carrier_statusbar">Statusbar only</string>
-    <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
-    <string name="status_bar_carrier_size">Carrier label size</string>
-    <string name="status_bar_carrier_font_style_title">Carrier label font</string>
+    <string name="carrier_category">Nombre de operadora</string>
+    <string name="carrier_label_settings_summary">Personaliza el nombre de operadora</string>
+    <string name="custom_carrier_label_title">Nombre de operadora personalizado</string>
+    <string name="custom_carrier_label_explain">Porfavor introduzca una nueva etiqueta. Deja en blanco para volver a etiqueta de Stock.</string>
+    <string name="custom_carrier_label_notset">Etiqueta personalizada no definida</string>
+    <string name="show_carrier_title">Nombre de la operadora</string>
+    <string name="show_carrier_disabled">Deshabilitado</string>
+    <string name="show_carrier_keyguard">Solo pantalla de bloqueo</string>
+    <string name="show_carrier_statusbar">Solo barra de estado</string>
+    <string name="show_carrier_enabled">Pantalla de bloqueo &amp; barra de estado</string>
+    <string name="status_bar_carrier_size">Tamaño del nombre de la operadora</string>
+    <string name="status_bar_carrier_font_style_title">Fuente de nombre de operadora</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
-    <string name="status_bar_carrier_color">Carrier label color</string>
+    <string name="status_bar_carrier_color">Color del nombre de la operadora</string>
     <!-- Hide notch -->
-    <string name="hide_notch_title">Hide notch</string>
-    <string name="hide_notch_summary">If enabled it hides notch and fills in side gaps</string>
+    <string name="hide_notch_title">Ocultar notch</string>
+    <string name="hide_notch_summary">Al activarse se oculta el notch y se rellena el espacio de los laterales</string>
     <!-- Roaming indicator icon -->
-    <string name="roaming_indicator_icon_title">Roaming indicator</string>
-    <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
+    <string name="roaming_indicator_icon_title">Indicador de roaming</string>
+    <string name="roaming_indicator_icon_summary">Mostrar indicador de roaming en el icono de señal cuando esta en modo roaming</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Control de brillo</string>
+    <string name="status_bar_toggle_brightness_summary">Ajustar el brillo deslizando a través de la barra de estado</string>
     <!-- Volume keys control rint tone stream -->
-    <string name="volume_keys_control_ring_tone_title">Control ring volume</string>
-    <string name="volume_keys_control_ring_tone_summary">Keys control media slider by default. Enable to switch to ring tone slider.</string>
+    <string name="volume_keys_control_ring_tone_title">Control del volumen de sonido</string>
+    <string name="volume_keys_control_ring_tone_summary">Los botones de volumen controlan el volumen multimedia de forma predeterminada. Habilitar para cambiar a control del tono de llamada.</string>
     <!-- Volume Steps -->
-    <string name="volume_steps_title">Volume steps</string>
-    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
-    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
+    <string name="volume_steps_title">Niveles de volumen</string>
+    <string name="volume_steps_summary">Personaliza el número de pasos en el panel de volumen</string>
+    <string name="volume_steps_alarm_title">Nivel de volumen: Alarma</string>
     <string name="volume_steps_dtmf_title">Niveles de volumen: DTMF</string>
     <string name="volume_steps_music_title">Nivel de volumen: Música</string>
     <string name="volume_steps_notification_title">Niveles de volumen: Notificationes</string>
@@ -453,53 +453,53 @@
     <string name="corner_radius">Radio de la esquina redondeada</string>
     <string name="content_padding">Relleno de contenido en esquinas</string>
     <string name="corner_fwvals">Usar valores de framework</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corner_fwvals_summary">Util si tu dispositivo tiene las esquinas redondeadas</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_title">Ejecuta la aplicación de música</string>
+    <string name="headset_connect_player_summary">Iniciar el reproductor de música por defecto al conectar los auriculares</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
-    <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
+    <string name="usb_default_config_title">Configuración de USB</string>
+    <string name="usb_default_config_summary">Elijir el comportamiento predeterminado cuando esté conectado a un dispositivo a través de USB</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
-    <string name="global_actions_onthego_title">On-The-Go</string>
-    <string name="onthego_alpha_title">On-The-Go Alpha</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_title">Modo On-The-Go</string>
+    <string name="global_actions_onthego_title">Modo en marcha</string>
+    <string name="onthego_alpha_title">On-The-Go Alfa</string>
+    <string name="onthego_alpha_summary">Valor alfa de la superposición On-The-Go</string>
     <!-- Onehand UI mode -->
-    <string name="one_hand_mode_title">One-handed mode</string>
-    <string name="one_hand_mode_summary">Allow swiping across right or left on navbar to enable</string>
-    <string name="qs_running_services_title">Running Services Icon</string>
-    <string name="qs_running_services_summary">Enable the running services icon in the footer</string>
+    <string name="one_hand_mode_title">Modo de una sola mano</string>
+    <string name="one_hand_mode_summary">Permite deslizar a la izquierda o derecha en la barra de navegacion para activar</string>
+    <string name="qs_running_services_title">Icono de servicios en ejecución</string>
+    <string name="qs_running_services_summary">Habilitar botón de servicios en ejecución en los ajustes rápidos</string>
     <!-- SeekBar -->
-    <string name="seekbar_no_default_value">No default value set</string>
-    <string name="seekbar_default_value_set">Value set to default of <xliff:g id="number">%d</xliff:g></string>
-    <string name="seekbar_default_value_already_set">Default value is already set</string>
-    <string name="seekbar_default_string">Default</string>
+    <string name="seekbar_no_default_value">Sin valor por defecto seleccionado</string>
+    <string name="seekbar_default_value_set">Valor establecido por defecto de <xliff:g id="number">%d</xliff:g></string>
+    <string name="seekbar_default_value_already_set">El valor por defecto ya está establecido</string>
+    <string name="seekbar_default_string">Por defecto</string>
     <!-- Lock Clock & Date Size -->
-    <string name="lockdate_font_size_title">Date font size</string>
-    <string name="lockclock_font_size_title">Clock font size</string>
+    <string name="lockdate_font_size_title">Tamaño de la fuente de la fecha</string>
+    <string name="lockclock_font_size_title">Tamaño de la fuente del reloj</string>
     <!-- Language options - Volume rocker cursor control -->
     <string name="cursor_section_header">Cursor</string>
-    <string name="volume_key_cursor_control_title">Volume key cursor control</string>
-    <string name="volume_key_cursor_control_off">Disabled</string>
-    <string name="volume_key_cursor_control_on">Volume up/down moves cursor left/right</string>
-    <string name="volume_key_cursor_control_on_reverse">Volume up/down moves cursor right/left</string>
+    <string name="volume_key_cursor_control_title">Control del cursor con teclas de volumen</string>
+    <string name="volume_key_cursor_control_off">Deshabilitado</string>
+    <string name="volume_key_cursor_control_on">Volumen arriba/abajo mueve el cursor hacia la izquierda/derecha</string>
+    <string name="volume_key_cursor_control_on_reverse">Los botones subir/bajar volumen moverán el cursor a la derecha/izquierda</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze</string>
-    <string name="doze_settings_title">Doze settings</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
-    <string name="action_restoredefault">Restore defaults</string>
-    <string name="action_profile">Profiles</string>
-    <string name="action_save_as_profile">Save as profile</string>
-    <string name="delete_profile">Delete profile</string>
-    <string name="profile_name">Name</string>
-    <string name="string_seconds">seconds</string>
-    <string name="string_default">Default</string>
-    <string name="action_filter">Filter</string>
-    <string name="doze_settings_applied">Settings applied</string>
-    <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string>
-    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
-    <string name="DESC_LOCATING_TIMEOUT">This is how long we will wait to try to get a good location fix before going in to idle mode</string>
+    <string name="advanced_doze_settings">Doze avanzado</string>
+    <string name="doze_settings_title">Ajustes Doze</string>
+    <string name="doze_settings_summary">Edita los ajustes Doze</string>
+    <string name="action_restoredefault">Restaurar los valores predeterminados</string>
+    <string name="action_profile">Perfiles</string>
+    <string name="action_save_as_profile">Guardar cómo perfil</string>
+    <string name="delete_profile">Borrar perfil</string>
+    <string name="profile_name">Nombre</string>
+    <string name="string_seconds">segundos</string>
+    <string name="string_default">Por defecto</string>
+    <string name="action_filter">Filtrar</string>
+    <string name="doze_settings_applied">Configuración aplicada</string>
+    <string name="DESC_INACTIVE_TIMEOUT">Es el momento, después de estar inactivo, en el que empezamos a mirar el sensor de movimiento para determinar si el dispositivo está siendo dejado solo. No lo hacemos inmediatamente después de estar inactivo sólo porque no queremos estar continuamente ejecutando el sensor de movimiento significativo cuando la pantalla está apagada</string>
+    <string name="DESC_SENSING_TIMEOUT">Si no recibimos un callback de AnyMotion en esta cantidad de tiempo + locating_to, cambiaremos de STATE_SENSING a STATE_INACTIVE, y cualquier callbacks de AnyMotion mientras no esté en STATE_SENSING será ignorado</string>
+    <string name="DESC_LOCATING_TIMEOUT">Esto es cuánto tiempo esperaremos para intentar obtener una buena solución de ubicación antes de entrar en modo inactivo</string>
     <string name="DESC_LOCATION_ACCURACY">The desired maximum accuracy (in meters) we consider the location to be good enough to go on to idle. We will be trying to get an accuracy fix at least this good or until locating_to expires</string>
     <string name="DESC_MOTION_INACTIVE_TIMEOUT">This is the time, after seeing motion, that we wait after becoming inactive from that until we start looking for motion again</string>
     <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after the inactive timeout elapses, that we will wait looking for significant motion until we truly consider the device to be idle</string>
