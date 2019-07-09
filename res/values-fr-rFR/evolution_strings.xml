@@ -121,16 +121,16 @@
     <string name="less_notification_sounds_1m">Toutes les minutes</string>
     <string name="less_notification_sounds_2m">Toutes les 2 minutes</string>
     <string name="incall_notifications_vibrate">Moins de notifications gênantes pendant un appel</string>
-    <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
+    <string name="incall_notifications_vibrate_summary">Vibrer au lieu d\'émettre un son pour les notifications lors des appels</string>
     <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
+    <string name="force_ambient_for_media_pref_title">Afficher les infos du média en mode Veille</string>
+    <string name="force_ambient_for_media_pref_summary">Configurer les infos du média en mode Veille</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
     <string name="force_ambient_for_media_title">Activé</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Horloge</string>
     <string name="status_bar_clock">Horloge et date</string>
-    <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
+    <string name="status_bar_clock_summary">Configurer l\'apparence de l\'horloge et de la date dans la barre d\'état</string>
     <string name="clock_title_enable">Alignment</string>
     <string name="clock_enabled">Activé</string>
     <string name="clock_disabled">Désactivé</string>
@@ -138,7 +138,7 @@
     <string name="status_bar_show_clock_title">Afficher la date et l\'heure</string>
     <string name="status_bar_clock_seconds_title">Afficher les secondes</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+    <string name="status_bar_am_pm_info">L\'horloge au format 24 heures est activée</string>
     <string name="enable_clock_weekday">Jour de la semaine</string>
     <string name="enable_clock_weekday_summary">Abbreviated day of the week before the time</string>
     <string name="right_clock">Horloge à droite</string>
@@ -146,13 +146,13 @@
     <string name="left_clock">Horloge à gauche</string>
     <string name="dont_show">Ne pas afficher</string>
     <string name="clock_date_display">Date</string>
-    <string name="clock_date_display_summary">Display custom date before the clock</string>
+    <string name="clock_date_display_summary">Afficher une date personnalisée avant l\'horloge</string>
     <string name="clock_date_style">Style de la date</string>
     <string name="clock_date_format">Format de la date</string>
     <string name="clock_date_string_edittext_title">Doit être dans le format JJ/MM/AA</string>
     <string name="clock_date_string_edittext_summary">Entrer une valeur</string>
-    <string name="am_pm_clock_normal">Normal font size</string>
-    <string name="am_pm_clock_small">Small font size</string>
+    <string name="am_pm_clock_normal">Police de taille normale</string>
+    <string name="am_pm_clock_small">Police de petite taille</string>
     <string name="am_pm_clock_none">Ne pas afficher</string>
     <string name="clock_date_display_none">Ne pas afficher</string>
     <string name="clock_date_display_small">Police de petite taille</string>
@@ -160,7 +160,7 @@
     <string name="clock_date_style_normal">Normal</string>
     <string name="clock_date_style_lowercase">Minuscules</string>
     <string name="clock_date_style_uppercase">Majuscules</string>
-    <string name="clock_date_format_custom">Custom java format</string>
+    <string name="clock_date_format_custom">Format personnalisé de java</string>
     <string name="clock_date_right">À droite de l\'heure</string>
     <string name="clock_date_left">À gauche de l\'heure</string>
     <string name="clock_date_position">Position de la date</string>
@@ -176,25 +176,25 @@
     <!-- Lock screen visualizer -->
     <string name="lockscreen_visualizer_category">Visualiseur</string>
     <string name="lockscreen_visualizer_title">Activer le visualiseur sur l\'écran de verrouillage</string>
-    <string name="lockscreen_visualizer_summary">Show visualizer on lockscreen when music is playing</string>
+    <string name="lockscreen_visualizer_summary">Afficher le visualiseur sur l\'écran de verrouillage pendant la lecture de la musique</string>
     <string name="lockscreen_visualizer_enable_custom">Utiliser une couleur personnalisée</string>
     <string name="lockscreen_visualizer_enable_custom_summary">Utiliser une couleur prédéfinie au lieu d\'une couleur générée</string>
     <string name="lockscreen_visualizer_custom_color">Couleur du visualiseur</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Ambient Music visualizer</string>
+    <string name="ambient_visualizer_title">Musique ambiante</string>
     <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">Rotation Swap</string>
-    <string name="volume_keys_swap_summary">Swap volume buttons based on device rotation</string>
+    <string name="swap_volume_buttons">Inversement lors de la rotation</string>
+    <string name="volume_keys_swap_summary">Permuter les boutons de volume basé sur la rotation de l\'appareil</string>
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_title">Animations</string>
-    <string name="qs_tile_animation_style_title">Animation style</string>
-    <string name="qs_tile_animation_duration_title">Animation duration</string>
-    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
+    <string name="qs_tile_animation_style_title">Style d\'animation</string>
+    <string name="qs_tile_animation_duration_title">Durée de l\'animation</string>
+    <string name="qs_tile_animation_interpolator_title">Interpolateur d\'animation des raccourcis</string>
     <string name="qs_tile_animation_style_off">Aucune animation</string>
-    <string name="qs_tile_animation_style_flip">Flip</string>
-    <string name="qs_tile_animation_style_rotate">Rotate</string>
-    <string name="qs_tile_animation_duration_low">Low</string>
+    <string name="qs_tile_animation_style_flip">Retourner</string>
+    <string name="qs_tile_animation_style_rotate">Rotation</string>
+    <string name="qs_tile_animation_duration_low">Faible</string>
     <string name="qs_tile_animation_duration_default">Par défaut</string>
     <string name="qs_tile_animation_duration_fast">Rapide</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">Linéaire</string>
@@ -252,18 +252,18 @@
     <!-- Custom carrier label and position -->
     <string name="carrier_category">Nom de l\'opérateur</string>
     <string name="carrier_label_settings_summary">Personnaliser le nom de l\'opérateur</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
+    <string name="custom_carrier_label_title">Nom personnalisé de l\'opérateur</string>
     <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
     <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="show_carrier_title">Carrier label</string>
-    <string name="show_carrier_disabled">Disabled</string>
+    <string name="show_carrier_title">Nom de l\'opérateur</string>
+    <string name="show_carrier_disabled">Désactiver</string>
     <string name="show_carrier_keyguard">Uniquement sur l\'écran de verrouillage</string>
     <string name="show_carrier_statusbar">Uniquement sur la barre d\'état</string>
     <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
     <string name="status_bar_carrier_size">Carrier label size</string>
-    <string name="status_bar_carrier_font_style_title">Carrier label font</string>
+    <string name="status_bar_carrier_font_style_title">Police du libellé opérateur</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
-    <string name="status_bar_carrier_color">Carrier label color</string>
+    <string name="status_bar_carrier_color">Couleur du label opérateur</string>
     <!-- Hide notch -->
     <string name="hide_notch_title">Cacher l\'encoche</string>
     <string name="hide_notch_summary">If enabled it hides notch and fills in side gaps</string>
@@ -271,25 +271,25 @@
     <string name="roaming_indicator_icon_title">Indicateur d\'itinérance</string>
     <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
+    <string name="status_bar_toggle_brightness">Contrôle de la luminosité</string>
     <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
     <!-- Volume keys control rint tone stream -->
-    <string name="volume_keys_control_ring_tone_title">Control ring volume</string>
+    <string name="volume_keys_control_ring_tone_title">Contrôle du volume de la sonnerie</string>
     <string name="volume_keys_control_ring_tone_summary">Keys control media slider by default. Enable to switch to ring tone slider.</string>
     <!-- Volume Steps -->
-    <string name="volume_steps_title">Volume steps</string>
+    <string name="volume_steps_title">Incrémentation du volume</string>
     <string name="volume_steps_summary">Customize number of steps in volume panel</string>
-    <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
-    <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
-    <string name="volume_steps_music_title">Volume steps: Music</string>
-    <string name="volume_steps_notification_title">Volume steps: Notification</string>
-    <string name="volume_steps_ring_title">Volume steps: Ringer</string>
-    <string name="volume_steps_system_title">Volume steps: System</string>
-    <string name="volume_steps_voice_call_title">Volume steps: Voice Call</string>
+    <string name="volume_steps_alarm_title">Niveaux du volume: Alarme</string>
+    <string name="volume_steps_dtmf_title">Niveaux du volume : DTMF</string>
+    <string name="volume_steps_music_title">Niveaux du volume : Musique</string>
+    <string name="volume_steps_notification_title">Niveaux du volume : Notification</string>
+    <string name="volume_steps_ring_title">Niveaux du volume : Sonnerie</string>
+    <string name="volume_steps_system_title">Niveaux du volume : Système</string>
+    <string name="volume_steps_voice_call_title">Niveaux du volume : Appel Vocal</string>
     <string name="volume_steps_reset">Réinitialiser</string>
     <!-- Audio Panel view  -->
     <string name="audio_panel_view_title">Panneau de volume</string>
-    <string name="audio_panel_view_summary">Customize volume panel dialog</string>
+    <string name="audio_panel_view_summary">Personnaliser la boîte de dialogue du panneau de volume</string>
     <string name="audio_panel_view_info">Active volume stream will be displayed on the screen even if disabled here. Volume streams enabled here would be displayed forcefully.</string>
     <string name="audio_panel_view_media_title">Média</string>
     <string name="audio_panel_view_ringer_title">Sonnerie</string>
@@ -298,10 +298,10 @@
     <string name="audio_panel_view_alarm_title">Alarme</string>
     <string name="audio_panel_view_voice_title">Voix</string>
     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
-    <string name="audio_panel_view_position_title">Volume panel on left</string>
+    <string name="audio_panel_view_position_title">Panneau de volume à gauche</string>
     <!-- Network traffic Settings -->
     <string name="traffic_title">Indicateur de débit internet</string>
-    <string name="traffic_summary">Show net activity in statusbar</string>
+    <string name="traffic_summary">Afficher l\'indicateur du débit Internet dans la barre d\'état</string>
     <string name="traffic_category">Débit réseau</string>
     <string name="network_traffic_state_title">Affichage du test de débit</string>
     <string name="network_traffic_autohide">Masquer automatiquement</string>
@@ -316,16 +316,16 @@
     <string name="network_traffic_header">Expanded header</string>
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">Modifier le panneau de paramètres rapides</string>
-    <string name="show_secure_title">Security footer</string>
+    <string name="show_secure_title">Afficher le pied de page de sécurité</string>
     <string name="show_secure_summary">Afficher le statut du VPN en haut des paramètres rapides</string>
-    <string name="show_info_header_title">Information header</string>
+    <string name="show_info_header_title">Afficher l\'entête d\'informations</string>
     <string name="show_info_header_summary">Shows information on top of the QS panel</string>
     <string name="profile_choose_app">Choisir une application</string>
     <string name="dialog_delete_title">Supprimer</string>
     <string name="dialog_delete_message">Supprimer l\'élément sélectionné ?</string>
     <!-- Dashboard conditions -->
     <string name="dashboard_category">Options du tableau de bord</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
+    <string name="dashboard_conditions_title">Conditions du tableau de bord</string>
     <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
     <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
     <!-- Dashboard suggestions -->
@@ -382,7 +382,7 @@
     <string name="lockscreen_date_selection_qbeta_style">Pilule type Q Beta</string>
     <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
     <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
-    <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
+    <string name="lockscreen_date_selection_str_accent_transparent">Arrondi, transparent et avec accent</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Rounded, transparent and with accent (alt)</string>
     <string name="lockscreen_date_selection_str_gradient">Gradient</string>
     <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
