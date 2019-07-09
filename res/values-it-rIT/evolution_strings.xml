@@ -20,7 +20,7 @@
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">Gesture AOSP</string>
-    <string name="buttons_title">Pulsanti fisici</string>
+    <string name="buttons_title">Pulsanti hardware</string>
     <string name="gestures_title">Gesture</string>
     <string name="interface_category">Interfaccia</string>
     <string name="lockscreen_title">Schermata di sblocco</string>
