@@ -47,7 +47,7 @@
     <string name="action_cancel">İptal</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Renk seçici</string>
-    <string name="press_color_to_apply">Uygulamak istediğiniz rengin üzerine basın</string>
+    <string name="press_color_to_apply">Uygulamak istediğiniz rengin üzerine dokunun</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
@@ -85,7 +85,7 @@
     <string name="powermenu_lockdown">Kilitleme</string>
     <string name="powermenu_users">Kullanıcılar</string>
     <string name="powermenu_logout">Çıkış</string>
-    <string name="powermenu_torch">Fener</string>
+    <string name="powermenu_torch">El feneri</string>
     <!-- Power plug events -->
     <string name="wake_when_plugged_or_unplugged_title">Takıp çıkarmada uyan</string>
     <string name="wake_when_plugged_or_unplugged_summary">Şarj aleti takıldığında veya çıkarıldığında ekranı aç</string>
@@ -102,7 +102,7 @@
     <string name="qs_brightness_position_bottom_title">Alt parlaklık kaydırıcısı</string>
     <string name="qs_brightness_position_bottom_summary">Hızlı ayarlar paneli altında parlaklık kaydırıcısını göster</string>
     <string name="qs_show_auto_brightness_title">Uyarlanabilir parlaklık tuşu</string>
-    <string name="qs_show_auto_brightness_summary">Uyarlanan Parlaklık tuşunu göster</string>
+    <string name="qs_show_auto_brightness_summary">Uyarlanabilir parlaklık tuşunu göster</string>
     <string name="qs_auto_brightness_right_title">Uyarlanabilir parlaklık tuşu için sağ konum</string>
     <string name="qs_auto_brightness_right_summary">Uyarlanabilir parlaklık tuşu kaydırıcısını sağ getirir</string>
     <string name="qs_show_brightness_buttons_title">Parlaklık kontrol tuşları</string>
@@ -118,9 +118,9 @@
     <string name="less_notification_sounds_default">Uygulama varsayılanı</string>
     <string name="less_notification_sounds_10s">10 saniyede bir</string>
     <string name="less_notification_sounds_30s">30 saniyede bir</string>
-    <string name="less_notification_sounds_1m">Dakikada bir</string>
-    <string name="less_notification_sounds_2m">2 dakikada bir</string>
-    <string name="incall_notifications_vibrate">Arama sırasında daha az rahatsız edici bildirimler</string>
+    <string name="less_notification_sounds_1m">Her dakika</string>
+    <string name="less_notification_sounds_2m">Her 2 dakikada</string>
+    <string name="incall_notifications_vibrate">Arama sırasında daha az bildirimler</string>
     <string name="incall_notifications_vibrate_summary">Arama sırasındaki bildirimler için bildirim sesi çalmak yerine titret</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Ortam müzik bilgisi</string>
@@ -216,7 +216,7 @@
     <!-- Heads up -->
     <string name="heads_up_category">Bildirim pencereleri</string>
     <string name="heads_up_title">Etkinleştir</string>
-    <string name="heads_up_summary_enabled">Bildirim pencereleri etkinleştirildi</string>
+    <string name="heads_up_summary_enabled">Bildirim pencereleri etkin</string>
     <string name="heads_up_summary_disabled">Bildirim pencereleri devre dışı</string>
     <string name="heads_up_time_out_title">Zaman aşımı</string>
     <string name="heads_up_time_out_summary">Bildirim pencereleri <xliff:g id="number">%d</xliff:g> saniye boyunca gösterilecek</string>
