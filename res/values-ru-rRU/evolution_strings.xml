@@ -442,7 +442,7 @@
     <string name="lock_dateown_font_themeable">Тематические (или Fox и Cat)</string>
     <!-- Lock date fonts -->
     <string name="lock_date_font_title">Настройки шрифта даты</string>
-    <string name="lock_date_font_summary">Измененить шрифт  даты на экране блокировки</string>
+    <string name="lock_date_font_summary">Изменить шрифт  даты на экране блокировки</string>
     <string name="lock_date_font_dialog_title">Выберите шрифт даты</string>
     <!-- Lock owner test -->
     <string name="lock_owner_font_title">Свой шрифт даты</string>
@@ -461,7 +461,7 @@
     <string name="usb_default_config_title">Настройки USB</string>
     <string name="usb_default_config_summary">Выберите поведение по умолчанию при подключении к устройству через USB</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">Режим \"На ходу\" (On-The-Go mode)</string>
+    <string name="onthego_title">Режим \"На ходу\"</string>
     <string name="global_actions_onthego_title">Режим \"На ходу\"</string>
     <string name="onthego_alpha_title">Прозрачность режима \"На ходу\"</string>
     <string name="onthego_alpha_summary">Степень прозрачности режима \"На ходу\"</string>
@@ -524,15 +524,15 @@
     <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">Это минимальное количество времени, что мы останемся в режиме обслуживания после глубокого сна</string>
     <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Количество времени, которое мы хотели бы добавить в белый список приложений, которое обрабатывает уведомление</string>
     <string name="SHORT_INACTIVE_TIMEOUT">Время бездействия</string>
-    <string name="SHORT_SENSING_TIMEOUT">Таймаут ожидания движения</string>
-    <string name="SHORT_LOCATING_TIMEOUT">Таймаут определения местоположения</string>
+    <string name="SHORT_SENSING_TIMEOUT">Тайм-аут ожидания движения</string>
+    <string name="SHORT_LOCATING_TIMEOUT">Тайм-аут определения местоположения</string>
     <string name="SHORT_LOCATION_ACCURACY">Точность местоположения</string>
     <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Период обнаружения движения</string>
     <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Период до перехода в режим бездействия</string>
     <string name="SHORT_IDLE_PENDING_TIMEOUT">Время ожидания бездействия</string>
     <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Максимальное время бездействия</string>
     <string name="SHORT_IDLE_PENDING_FACTOR">Коэффициент бездействия</string>
-    <string name="SHORT_IDLE_TIMEOUT">Таймаут простоя</string>
+    <string name="SHORT_IDLE_TIMEOUT">Тайм-аут простоя</string>
     <string name="SHORT_MAX_IDLE_TIMEOUT">Макс. длительность режима бездействия</string>
     <string name="SHORT_IDLE_FACTOR">Масштабирование бездействия</string>
     <string name="SHORT_MIN_TIME_TO_ALARM">Минимальное время для будильника</string>
@@ -592,7 +592,7 @@
     <string name="time_in_state_summary">Показывать статистику частоты процессора</string>
     <!-- Sensor block per-package -->
     <string name="sensor_block_title">Блокировка датчиков</string>
-    <string name="sensor_block_summary">Заблокировать доступ к датчикам для некоторых приложений для экономии заряда батареи.</string>
+    <string name="sensor_block_summary">Заблокировать доступ к датчикам для некоторых приложений для экономии заряда батареи</string>
     <!-- QS edit icon -->
     <string name="qs_edit_title">Редактирование иконки быстрых настроек</string>
     <string name="qs_edit_summary">Отображать значок редактирования быстрых настроек внизу</string>
@@ -616,7 +616,7 @@
     <string name="hardware_keys_double_tap_title">Действие при двойном нажатии</string>
     <string name="hardware_keys_category">Физические клавиши</string>
     <string name="hardware_keys_summary">Настройка физических клавиш</string>
-    <string name="hardware_keys_disable_title">Отключить  физические клавиши</string>
+    <string name="hardware_keys_disable_title">Отключить физические клавиши</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Ярлыки экрана блокировки</string>
     <!-- Charging animation -->
