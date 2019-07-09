@@ -22,16 +22,16 @@
     <string name="aosp_gesture_title">Gesty AOSP</string>
     <string name="buttons_title">Przyciski sprzętowe</string>
     <string name="gestures_title">Gesty</string>
-    <string name="interface_category">Interface</string>
+    <string name="interface_category">Interfejs</string>
     <string name="lockscreen_title">Ekran blokady</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="lockscreen_shortcuts_category">Skróty</string>
     <string name="logo_category">Logo</string>
     <string name="misc_title">Pozostałe</string>
     <string name="navbar_title">Pasek nawigacji</string>
     <string name="notifications_title">Powiadomienia</string>
     <string name="powermenu_title">Menu zasilania</string>
     <string name="quicksettings_title">Szybkie ustawienia</string>
-    <string name="qs_style_category">QS theming</string>
+    <string name="qs_style_category">Motywy szybkich ustawień</string>
     <string name="statusbar_title">Pasek stanu</string>
     <string name="volume_title">Przyciski głośności</string>
     <!-- Summaries -->
@@ -111,9 +111,9 @@
     <string name="lockscreen_power_menu_disabled_title">Brak menu zasilania, gdy telefon jest zablokowany</string>
     <string name="lockscreen_power_menu_disabled_summary">Zablokuj menu zasilania, gdy ekran jest zablokowany</string>
     <string name="notification_sound_vib_screen_on_title">Głośne powiadomienia przy włączonym ekranie</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="notification_sound_vib_screen_on_summary">Wyłącz aby blokować powiadomienia, dźwięki i wibracje gdy ekran jest włączony</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
+    <string name="less_notification_sounds_title">Inteligentne dźwięki powiadomień</string>
     <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
     <string name="less_notification_sounds_default">App default</string>
     <string name="less_notification_sounds_10s">Every 10 seconds</string>
