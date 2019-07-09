@@ -248,7 +248,7 @@
     <string name="volume_answer_call_summary">ใช้ปุ่มปรับระดับเสียงเพื่อรับสาย</string>
     <!-- Old Style Mobile -->
     <string name="use_old_mobiletype_title">ใช้รูปแบบสัญญาณแบบเก่า</string>
-    <string name="use_old_mobiletype_summary">ใช้ไอคอนมือถือจาก Oreo\nSystemUI จะรีสตาร์ท</string>
+    <string name="use_old_mobiletype_summary">ใช้ไอคอนมือถือจาก Oreo\nหมายเหตุ: SystemUI จะรีสตาร์ท</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">ป้ายชื่อผู้ให้บริการเครือข่าย</string>
     <string name="carrier_label_settings_summary">ปรับแต่งป้ายชื่อผู้ให้บริการเครือข่าย</string>
