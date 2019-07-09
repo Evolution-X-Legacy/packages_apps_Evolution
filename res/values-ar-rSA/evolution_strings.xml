@@ -17,16 +17,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">تطور</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">إيماءات AOSP</string>
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="interface_category">Interface</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
-    <string name="logo_category">Logo</string>
-    <string name="misc_title">Miscellaneous</string>
+    <string name="buttons_title">أزرار الجهاز</string>
+    <string name="gestures_title">الإيماءات</string>
+    <string name="interface_category">واجهة المستخدم</string>
+    <string name="lockscreen_title">قفل الشاشة</string>
+    <string name="lockscreen_shortcuts_category">الاختصارات</string>
+    <string name="logo_category">الشعار</string>
+    <string name="misc_title">خيارات متنوعة</string>
     <string name="navbar_title">Navigation bar</string>
     <string name="notifications_title">الإشعارات</string>
     <string name="powermenu_title">قائمة تشغيل</string>
