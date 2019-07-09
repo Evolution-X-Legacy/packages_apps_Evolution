@@ -595,7 +595,7 @@
     <string name="sensor_block_title">Chặn cảm biến mỗi gói phần mềm</string>
     <string name="sensor_block_summary">Chặn quyền truy cập vào một số cảm biến cho một số ứng dụng để tiết kiệm pin</string>
     <!-- QS edit icon -->
-    <string name="qs_edit_title">Chỉnh sửa biểu tượng cài đặt nhanh</string>
+    <string name="qs_edit_title">Biểu tượng chỉnh sửa cài đặt nhanh</string>
     <string name="qs_edit_summary">Hiển thị biểu tượng chỉnh sửa trong phần chân cài đặt nhanh</string>
     <!-- Evolution navigation -->
     <string name="navigation_category">Điều hướng</string>
