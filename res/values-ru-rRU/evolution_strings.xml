@@ -45,6 +45,10 @@
     <string name="save">Сохранить</string>
     <string name="action_save">Сохранить</string>
     <string name="action_cancel">Отменить</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">On</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Off</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Выбор цвета</string>
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
@@ -623,4 +627,17 @@
     <string name="lockscreen_charging_animation_title">Анимация зарядки</string>
     <string name="lockscreen_charging_animation_summary">Показывать анимацию при подключении зарядного устройства</string>
     <string name="button_wake_summary">Пробуждать устройство нажатием на кнопку</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Скрыть значок блокировки экрана</string>
+    <string name="hide_lockscreen_icon_summary">Изменить видимость значка блокировки</string>
+    <!-- Wakelock blocker -->
+    <string name="wakelock_blocker_title">Wakelock Blocker</string>
+    <string name="wakelock_blocker_save">Save</string>
+    <string name="wakelock_list_header">Available wakelocks</string>
+    <string name="wakelock_blocker_reload">Reload</string>
+    <!-- Alarm blocker -->
+    <string name="alarm_blocker_title">Alarm blocker</string>
+    <string name="alarm_blocker_save">Save</string>
+    <string name="alarm_list_header">Available alarms</string>
+    <string name="alarm_blocker_reload">Reload</string>
 </resources>
