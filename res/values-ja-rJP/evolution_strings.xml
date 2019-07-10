@@ -621,4 +621,7 @@
     <string name="lockscreen_charging_animation_title">充電アニメーション</string>
     <string name="lockscreen_charging_animation_summary">充電中に電気のアニメーションを表示する</string>
     <string name="button_wake_summary">ボタンを押してロック解除する</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
 </resources>
