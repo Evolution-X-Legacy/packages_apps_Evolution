@@ -45,6 +45,10 @@
     <string name="save">保存</string>
     <string name="action_save">保存</string>
     <string name="action_cancel">中止</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_on">On</string>
+    <!-- Label for feature switch [CHAR LIMIT=30] -->
+    <string name="switch_bar_off">Off</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">色の選択</string>
     <string name="press_color_to_apply">色を選択して適用</string>
@@ -621,4 +625,17 @@
     <string name="lockscreen_charging_animation_title">充電アニメーション</string>
     <string name="lockscreen_charging_animation_summary">充電中に電気のアニメーションを表示する</string>
     <string name="button_wake_summary">ボタンを押してロック解除する</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <!-- Wakelock blocker -->
+    <string name="wakelock_blocker_title">Wakelock Blocker</string>
+    <string name="wakelock_blocker_save">Save</string>
+    <string name="wakelock_list_header">Available wakelocks</string>
+    <string name="wakelock_blocker_reload">Reload</string>
+    <!-- Alarm blocker -->
+    <string name="alarm_blocker_title">Alarm blocker</string>
+    <string name="alarm_blocker_save">Save</string>
+    <string name="alarm_list_header">Available alarms</string>
+    <string name="alarm_blocker_reload">Reload</string>
 </resources>
