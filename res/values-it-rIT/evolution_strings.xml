@@ -282,11 +282,11 @@
     <string name="volume_keys_control_ring_tone_summary">I tasti controllano il volume multimediale per impostazione predefinita. Attiva per controllare invece di default il volume della suoneria.</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">Livelli volume</string>
-    <string name="volume_steps_summary">Personalizza i livelli del volume</string>
+    <string name="volume_steps_summary">Customize number of steps in volume panel</string>
     <string name="volume_steps_alarm_title">Livelli volume: Sveglia</string>
     <string name="volume_steps_dtmf_title">Livelli volume: Doppi toni</string>
     <string name="volume_steps_music_title">Step Volume: Musica</string>
-    <string name="volume_steps_notification_title">Livelli volume: Notifiche</string>
+    <string name="volume_steps_notification_title">Volume steps: Notification</string>
     <string name="volume_steps_ring_title">Livelli volume: Suoneria</string>
     <string name="volume_steps_system_title">Livelli volume: Sistema</string>
     <string name="volume_steps_voice_call_title">Livelli volume: Chiamata</string>
@@ -297,10 +297,10 @@
     <string name="audio_panel_view_info">Il flusso del volume attivo verrà mostrato sullo schermo pur essendo disabilitato qui. I flussi del volume abilitati qui verranno mostrati.</string>
     <string name="audio_panel_view_media_title">Media</string>
     <string name="audio_panel_view_ringer_title">Suoneria</string>
-    <string name="audio_panel_view_notification_title">Notifiche</string>
+    <string name="audio_panel_view_notification_title">Notification</string>
     <string name="audio_panel_view_notification_disabled">I volumi della suoneria e di notifica sono collegati</string>
     <string name="audio_panel_view_alarm_title">Sveglia</string>
-    <string name="audio_panel_view_voice_title">Voce</string>
+    <string name="audio_panel_view_voice_title">Voice</string>
     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
     <string name="audio_panel_view_position_title">Pannello volume a sinistra</string>
     <!-- Network traffic Settings -->
@@ -361,7 +361,7 @@
     <string name="lockscreen_hide_items_category">Nascondi elementi</string>
     <string name="lockscreen_clock_title">Widget orologio</string>
     <string name="lockscreen_clock_summary">Mostra il widget orologio nella lockscreen</string>
-    <string name="lockscreen_info_title">Elementi sotto l\'orologio</string>
+    <string name="lockscreen_info_title">Items underneath the clock</string>
     <string name="lockscreen_info_summary">Mostra la data, il meteo, le sveglie e zen nella schermata di blocco</string>
     <!-- Lockscreen clock styles -->
     <string name="lockscreen_clock_selection_title">Stile orologio</string>
@@ -388,9 +388,9 @@
     <string name="lockscreen_date_selection_str_accent_day">Arrotondato, semplice e con un colore di accento (alternativo)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Arrotondato, trasparente e con un colore di accento</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Arrotondato, trasparente e con un colore di accento (alternativo)</string>
-    <string name="lockscreen_date_selection_str_gradient">Sfumato</string>
+    <string name="lockscreen_date_selection_str_gradient">Gradient</string>
     <string name="lockscreen_date_selection_str_border_accent">Scuro con bordi accentuati</string>
-    <string name="lockscreen_date_selection_str_border_gradient">Scuro con bordi sfumati</string>
+    <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Mostra icona dati disabilitati</string>
     <string name="data_disabled_icon_summary">Mostra una X accanto alla barra del segnale quando i dati sono disabilitati</string>
@@ -402,8 +402,8 @@
     <string name="qstile_default">Predefinito</string>
     <string name="qstile_circle_trim">Supercerchio doppio-tono</string>
     <string name="qstile_dual_tone_circle">Cerchio doppio-tono</string>
-    <string name="qstile_squircle_trim">Supercerchio</string>
-    <string name="qstile_circle_gradient">Cerchio (sfumato)</string>
+    <string name="qstile_squircle_trim">Squircle with trim</string>
+    <string name="qstile_circle_gradient">Circle with Gradient</string>
     <string name="qstile_cookie">Cookie</string>
     <string name="qstile_wavey">Ondulato</string>
     <string name="qstile_circle_dualtone">Cerchio con doppio tono</string>
