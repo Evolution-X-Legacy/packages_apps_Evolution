@@ -624,4 +624,7 @@
     <string name="lockscreen_charging_animation_title">Animação ao carregar</string>
     <string name="lockscreen_charging_animation_summary">Exibe uma animação de parafuso quando o dispositivo está carregando</string>
     <string name="button_wake_summary">Acordar o dispositivo pressionando o botão</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
 </resources>
