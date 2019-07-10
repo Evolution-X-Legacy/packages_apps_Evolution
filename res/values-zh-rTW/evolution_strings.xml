@@ -623,4 +623,7 @@
     <string name="lockscreen_charging_animation_title">充電動畫</string>
     <string name="lockscreen_charging_animation_summary">裝置充電時，於螢幕鎖定畫面底部顯示閃電動畫</string>
     <string name="button_wake_summary">按下按鈕時喚醒裝置</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
 </resources>
