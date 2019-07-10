@@ -20,7 +20,7 @@
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">AOSP 手勢</string>
-    <string name="buttons_title">Hardware buttons</string>
+    <string name="buttons_title">實體按鈕</string>
     <string name="gestures_title">手勢</string>
     <string name="interface_category">介面</string>
     <string name="lockscreen_title">螢幕鎖定畫面</string>
@@ -87,8 +87,8 @@
     <string name="powermenu_logout">登出</string>
     <string name="powermenu_torch">手電筒</string>
     <!-- Power plug events -->
-    <string name="wake_when_plugged_or_unplugged_title">Wake on plug</string>
-    <string name="wake_when_plugged_or_unplugged_summary">Turn the screen on when connecting or disconnecting a power source</string>
+    <string name="wake_when_plugged_or_unplugged_title">接上電源時喚醒</string>
+    <string name="wake_when_plugged_or_unplugged_summary">接上或拔除電源時喚醒裝置</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">藍牙電池狀態</string>
     <string name="bluetooth_battery_summary">可用時，顯示已連接的藍牙裝置電池狀態</string>
