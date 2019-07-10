@@ -621,4 +621,7 @@
     <string name="lockscreen_charging_animation_title">Animasi pengisian</string>
     <string name="lockscreen_charging_animation_summary">Tampilkan animasi bolt ketika perangkat sedang diisi</string>
     <string name="button_wake_summary">Bangunkan perangkat dengan menekan tombol</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
 </resources>
