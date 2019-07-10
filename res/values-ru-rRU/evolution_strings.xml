@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">Настройки Evolution X</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">AOSP жесты</string>
     <string name="buttons_title">Аппаратные кнопки</string>
@@ -35,7 +35,7 @@
     <string name="statusbar_title">Строка состояния</string>
     <string name="volume_title">Кнопки регулировки громкости</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Настройка действий аппаратных кнопок вашего устройства</string>
+    <string name="buttons_summary">Настройка действий аппаратных кнопок Вашего устройства</string>
     <string name="gestures_summary">Действия/настройки, основанные на жестах</string>
     <string name="misc_summary">Дополнительные настройки системы</string>
     <!-- General strings -->
@@ -65,9 +65,9 @@
     <string name="status_bar_battery_percentage_text_next">Рядом с иконкой</string>
     <string name="status_bar_battery_percentage_text_inside">Внутри иконки</string>
     <!-- Status bar battery style-->
-    <string name="status_bar_battery_style_title">Стиль значка</string>
-    <string name="status_bar_battery_style_port">Портретный</string>
-    <string name="status_bar_battery_style_q">Стиль Android Q</string>
+    <string name="status_bar_battery_style_title">Стиль значка батареи</string>
+    <string name="status_bar_battery_style_port">Вертикальный</string>
+    <string name="status_bar_battery_style_q">Android Q</string>
     <string name="status_bar_battery_style_circle">Круг</string>
     <string name="status_bar_battery_style_dotted_circle">Пунктирный круг</string>
     <string name="status_bar_battery_style_big_circle">Большой круг</string>
@@ -90,8 +90,8 @@
     <string name="wake_when_plugged_or_unplugged_title">Включение при зарядке</string>
     <string name="wake_when_plugged_or_unplugged_summary">Включать экран при подключении или отключении зарядного устройства</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Статус батареи Bluetooth</string>
-    <string name="bluetooth_battery_summary">Показывать заряд батареи подключенных Bluetooth устройств, если доступно</string>
+    <string name="bluetooth_battery_title">Заряд Bluetooth-устройства</string>
+    <string name="bluetooth_battery_summary">Показывать заряд батареи подключенных Bluetooth-устройств, если доступно</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Менее надоедливые всплывающие уведомления</string>
     <string name="less_boring_heads_up_summary">Показать всплывающие уведомления только для звонков или сообщений, если они не на переднем плане</string>
@@ -149,7 +149,7 @@
     <string name="clock_date_display_summary">Показывать дату перед часами</string>
     <string name="clock_date_style">Стиль даты</string>
     <string name="clock_date_format">Формат даты</string>
-    <string name="clock_date_string_edittext_title">Значение должно соответствовать формату, например, ММ/dd/yy</string>
+    <string name="clock_date_string_edittext_title">Значение должно соответствовать формату, например: ММ/dd/yy</string>
     <string name="clock_date_string_edittext_summary">Ввести значение</string>
     <string name="am_pm_clock_normal">Нормальный размер шрифта</string>
     <string name="am_pm_clock_small">Маленький размер шрифта</string>
