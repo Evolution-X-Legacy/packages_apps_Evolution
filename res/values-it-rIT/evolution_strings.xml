@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">Gesture AOSP</string>
+    <string name="aosp_gesture_title">AOSP Gestures</string>
     <string name="buttons_title">Pulsanti hardware</string>
     <string name="gestures_title">Gesture</string>
     <string name="interface_category">Interfaccia</string>
@@ -197,17 +197,17 @@
     <string name="qs_tile_animation_interpolator_title">Interpolatore animazione tile</string>
     <string name="qs_tile_animation_style_off">Nessuna animazione</string>
     <string name="qs_tile_animation_style_flip">Capovolgi</string>
-    <string name="qs_tile_animation_style_rotate">Ruota</string>
+    <string name="qs_tile_animation_style_rotate">Rotate</string>
     <string name="qs_tile_animation_duration_low">Basso</string>
     <string name="qs_tile_animation_duration_default">Predefinito</string>
     <string name="qs_tile_animation_duration_fast">Veloce</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">Lineare</string>
-    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelera</string>
-    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelera</string>
-    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelera e decelera</string>
+    <string name="qs_tile_animation_interpolator_accelerateInterpolator">Accelerate</string>
+    <string name="qs_tile_animation_interpolator_decelerateInterpolator">Decelerate</string>
+    <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Accelerate decelerate</string>
     <string name="qs_tile_animation_interpolator_bounceInterpolator">Rimbalzo</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Supera</string>
-    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipa</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Overshoot</string>
+    <string name="qs_tile_animation_interpolator_anticipateInterpolator">Anticipate</string>
     <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Anticipare superamento</string>
     <string name="qs_set_animation_style">%1$s</string>
     <string name="qs_set_animation_duration">%1$s</string>
@@ -235,24 +235,24 @@
     <string name="heads_up_snooze_summary">Scorri verso l\'alto sulle notifiche per posticipare le notifiche fluttuanti dall\'applicazione per <xliff:g id="number">%d</xliff:g> minuti</string>
     <string name="heads_up_snooze_disabled_summary">La sospensione è disattivata</string>
     <string name="heads_up_snooze_1min">1 minuto</string>
-    <string name="heads_up_snooze_5min">5 minuti</string>
-    <string name="heads_up_snooze_10min">10 minuti</string>
-    <string name="heads_up_snooze_15min">15 minuti</string>
-    <string name="heads_up_snooze_20min">20 minuti</string>
+    <string name="heads_up_snooze_5min">5 minutes</string>
+    <string name="heads_up_snooze_10min">10 minutes</string>
+    <string name="heads_up_snooze_15min">15 minutes</string>
+    <string name="heads_up_snooze_20min">20 minutes</string>
     <string name="add_heads_up_package">Aggiungi applicazione</string>
     <string name="add_heads_up_stoplist_summary">Disabilita le notifiche head up in queste applicazioni</string>
     <string name="add_heads_up_blacklist_summary">Disattiva le notifiche heads up da queste app</string>
     <string name="heads_up_stoplist_title">Liste bloccate</string>
     <string name="heads_up_blacklist_title">Lista nera</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibra al tocco</string>
+    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
     <string name="quick_settings_vibrate_summary">Vibra al tocco dei tile delle impostazioni rapide</string>
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Risposta con tasti volume</string>
     <string name="volume_answer_call_summary">Rispondi alle chiamate premendo i tasti del volume</string>
     <!-- Old Style Mobile -->
     <string name="use_old_mobiletype_title">Usa vecchio segnale mobile</string>
-    <string name="use_old_mobiletype_summary">Usa le icone mobili da oreo e prima che\nSystemUI si riavvii</string>
+    <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">Nome operatore</string>
     <string name="carrier_label_settings_summary">Personalizza il nome operatore</string>
