@@ -165,8 +165,8 @@
     <string name="clock_date_style_lowercase">ตัวพิมพ์เล็ก</string>
     <string name="clock_date_style_uppercase">ตัวพิมพ์ใหญ่</string>
     <string name="clock_date_format_custom">รูปแบบวันที่ ที่กำหนดเอง</string>
-    <string name="clock_date_right">เวลาที่เหมาะสม</string>
-    <string name="clock_date_left">เหลือเวลา</string>
+    <string name="clock_date_right">ด้านขวานาฬิกา</string>
+    <string name="clock_date_left">ด้านซ้ายนาฬิกา</string>
     <string name="clock_date_position">ตำแหน่งวันที่</string>
     <string name="date_cat">วันที่</string>
     <string name="clock_cat">นาฬิกา</string>
