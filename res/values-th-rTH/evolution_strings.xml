@@ -46,9 +46,9 @@
     <string name="action_save">บันทึก</string>
     <string name="action_cancel">ยกเลิก</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">เปิด</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">ปิด</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">ตัวเลือกสี</string>
     <string name="press_color_to_apply">เลือกสีด้านล่างเพื่อใช้งาน</string>
@@ -628,16 +628,16 @@
     <string name="lockscreen_charging_animation_summary">แสดงภาพเอนิเมชั่นสายฟ้าเมื่ออุปกรณ์กำลังชาร์จ</string>
     <string name="button_wake_summary">ปลุกอุปกรณ์โดยกดปุ่ม</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">ซ่อนไอคอนหน้าจอล็อค</string>
+    <string name="hide_lockscreen_icon_summary">เปลี่ยนการมองเห็นไอคอนล็อคหน้าจอ</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">บล็อก Wakelock</string>
+    <string name="wakelock_blocker_save">บันทึก</string>
+    <string name="wakelock_list_header">Wakelocks ที่เปิดใช้งานได้</string>
+    <string name="wakelock_blocker_reload">รีโหลด</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">บล็อกสัญญาณเตือน</string>
+    <string name="alarm_blocker_save">บันทึก</string>
+    <string name="alarm_list_header">สัญญาณเตือนที่เปิดใช้งานได้</string>
+    <string name="alarm_blocker_reload">รีโหลด</string>
 </resources>
