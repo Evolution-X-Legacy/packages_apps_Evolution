@@ -624,4 +624,7 @@
     <string name="lockscreen_charging_animation_title">Анімація заряджання</string>
     <string name="lockscreen_charging_animation_summary">Показувати анімацію при підключенні зарядного пристрою</string>
     <string name="button_wake_summary">Розбудити пристрій натисканням клавіши</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
 </resources>
