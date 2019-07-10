@@ -624,4 +624,7 @@
     <string name="lockscreen_charging_animation_title">Animace nabíjení</string>
     <string name="lockscreen_charging_animation_summary">Zobrazí animaci při nabíjení zařízení</string>
     <string name="button_wake_summary">Probudit zařízení stisknutím tlačítka hlasitosti</string>
+    <!-- Hide Lockscreen icon -->
+    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
+    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
 </resources>
