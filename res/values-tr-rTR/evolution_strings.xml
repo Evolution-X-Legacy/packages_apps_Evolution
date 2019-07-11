@@ -46,9 +46,9 @@
     <string name="action_save">Kaydet</string>
     <string name="action_cancel">İptal</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Açık</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Kapalı</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Renk seçici</string>
     <string name="press_color_to_apply">Uygulamak istediğiniz rengin üzerine dokunun</string>
@@ -629,16 +629,16 @@
     <string name="lockscreen_charging_animation_summary">Cihaz şarj olurken bir cıvata animasyonu görüntüle</string>
     <string name="button_wake_summary">Tuşa basıldığında cihazı uyandır</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">Kilit ekranı simgesini gizle</string>
+    <string name="hide_lockscreen_icon_summary">Kilit ekranı simgesinin görünürlüğünü değiştir</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Uyandırma kilidi engelleyici</string>
+    <string name="wakelock_blocker_save">Kaydet</string>
+    <string name="wakelock_list_header">Mevcut uyandırma kilitleri</string>
+    <string name="wakelock_blocker_reload">Yeniden yükle</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Alarm engelleyici</string>
+    <string name="alarm_blocker_save">Kaydet</string>
+    <string name="alarm_list_header">Kullanılabilir alarmlar</string>
+    <string name="alarm_blocker_reload">Yeniden yükle</string>
 </resources>
