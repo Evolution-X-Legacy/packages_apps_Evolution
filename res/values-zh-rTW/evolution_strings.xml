@@ -46,9 +46,9 @@
     <string name="action_save">儲存</string>
     <string name="action_cancel">取消</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">開啟</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">關閉</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">選色器</string>
     <string name="press_color_to_apply">輕觸色彩以套用</string>
