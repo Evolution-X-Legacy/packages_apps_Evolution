@@ -46,9 +46,9 @@
     <string name="action_save">Αποθήκευση</string>
     <string name="action_cancel">Απόρριψη</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Ενεργό</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Κλειστό</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Επιλογή Χρωμάτων</string>
     <string name="press_color_to_apply">Επιλογή χρώματος για εφαρμογή</string>
@@ -626,16 +626,16 @@
     <string name="lockscreen_charging_animation_summary">Ένδειξη αστραπής κατά την διάρκεια της φόρτισης</string>
     <string name="button_wake_summary">Αφύπνιση συσκευής με το πάτημα του πλήκτρου</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">Απόκρυψη εικονιδίου οθόνης κλειδώματος</string>
+    <string name="hide_lockscreen_icon_summary">Αλλαγή ορατότητας του εικονιδίου οθόνης κλειδώματος</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Φραγή Wakelocks</string>
+    <string name="wakelock_blocker_save">Αποθήκευση</string>
+    <string name="wakelock_list_header">Διαθέσιμα wakelocks</string>
+    <string name="wakelock_blocker_reload">Επαναφόρτωση</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Μπλοκάρισμα ειδοποιήσεων</string>
+    <string name="alarm_blocker_save">Αποθήκευση</string>
+    <string name="alarm_list_header">Διαθέσιμες ειδοποιήσεις</string>
+    <string name="alarm_blocker_reload">Επαναφόρτωση</string>
 </resources>
