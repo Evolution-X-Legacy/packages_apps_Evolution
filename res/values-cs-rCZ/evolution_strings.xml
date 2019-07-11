@@ -46,9 +46,9 @@
     <string name="action_save">Uložit</string>
     <string name="action_cancel">Zrušit</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Zap.</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Vyp.</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Výběr barvy</string>
     <string name="press_color_to_apply">Pro použití klepněte na barvu umístěnou níže</string>
@@ -629,16 +629,16 @@
     <string name="lockscreen_charging_animation_summary">Zobrazí animaci při nabíjení zařízení</string>
     <string name="button_wake_summary">Probudit zařízení stisknutím tlačítka hlasitosti</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">Skrýt ikonu zámku obrazovky</string>
+    <string name="hide_lockscreen_icon_summary">Změna viditelnosti ikony zámku obrazovky</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Blokování wakelocků</string>
+    <string name="wakelock_blocker_save">Uložit</string>
+    <string name="wakelock_list_header">Dostupné wakelocky</string>
+    <string name="wakelock_blocker_reload">Znovu načíst</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Blokování alarmů</string>
+    <string name="alarm_blocker_save">Uložit</string>
+    <string name="alarm_list_header">Dostupné alarmy</string>
+    <string name="alarm_blocker_reload">Znovu načíst</string>
 </resources>
