@@ -75,7 +75,7 @@
     <string name="status_bar_battery_style_circle">Lingkaran</string>
     <string name="status_bar_battery_style_dotted_circle">Lingkaran putus-putus</string>
     <string name="status_bar_battery_style_big_circle">Lingkaran besar</string>
-    <string name="status_bar_battery_style_big_dotted_circle">Lingkaran besar putus-putus</string>
+    <string name="status_bar_battery_style_big_dotted_circle">Lingkaran bertitik besar</string>
     <string name="status_bar_battery_style_text">Teks</string>
     <string name="status_bar_battery_style_hidden">Tersembunyi</string>
     <!-- Power Menu -->
