@@ -46,9 +46,9 @@
     <string name="action_save">Simpan</string>
     <string name="action_cancel">Batalkan</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Hidup</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Matikan</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Pilihan Warna</string>
     <string name="press_color_to_apply">Tekan pada warna dibawah untuk menerapkan</string>
@@ -626,16 +626,16 @@
     <string name="lockscreen_charging_animation_summary">Tampilkan animasi bolt ketika perangkat sedang diisi</string>
     <string name="button_wake_summary">Bangunkan perangkat dengan menekan tombol</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">Sembunyikan ikon pengunci layar</string>
+    <string name="hide_lockscreen_icon_summary">Merubah visibilitas ikon kunci layar</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Blokir Wakelock</string>
+    <string name="wakelock_blocker_save">Simpan</string>
+    <string name="wakelock_list_header">Wakelocks tersedia</string>
+    <string name="wakelock_blocker_reload">Memuat Ulang</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Memblokir alarm</string>
+    <string name="alarm_blocker_save">Simpan</string>
+    <string name="alarm_list_header">Alarm tersedia</string>
+    <string name="alarm_blocker_reload">Muat Ulang</string>
 </resources>
