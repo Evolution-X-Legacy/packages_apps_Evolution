@@ -628,16 +628,16 @@
     <string name="lockscreen_charging_animation_summary">裝置充電時，於螢幕鎖定畫面底部顯示閃電動畫</string>
     <string name="button_wake_summary">按下按鈕時喚醒裝置</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">隱藏鎖定圖示</string>
+    <string name="hide_lockscreen_icon_summary">隱藏螢幕鎖定畫面底部鎖頭圖示</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Wakelock 封鎖器</string>
+    <string name="wakelock_blocker_save">儲存</string>
+    <string name="wakelock_list_header">可用的 Wakelock</string>
+    <string name="wakelock_blocker_reload">重新載入</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Alarm 封鎖器</string>
+    <string name="alarm_blocker_save">儲存</string>
+    <string name="alarm_list_header">可用的 Alarm</string>
+    <string name="alarm_blocker_reload">重新載入</string>
 </resources>
