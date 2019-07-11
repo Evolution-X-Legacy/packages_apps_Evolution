@@ -46,9 +46,9 @@
     <string name="action_save">保存</string>
     <string name="action_cancel">中止</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">ON</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">OFF</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">色の選択</string>
     <string name="press_color_to_apply">色を選択して適用</string>
@@ -626,16 +626,16 @@
     <string name="lockscreen_charging_animation_summary">充電中に電気のアニメーションを表示する</string>
     <string name="button_wake_summary">ボタンを押してロック解除する</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">ロック画面のアイコンを隠す</string>
+    <string name="hide_lockscreen_icon_summary">ロック画面の表示を変更する</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">WakeLock ブロッカー</string>
+    <string name="wakelock_blocker_save">保存</string>
+    <string name="wakelock_list_header">有効な WakeLock</string>
+    <string name="wakelock_blocker_reload">再読込</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Alarm ブロッカー</string>
+    <string name="alarm_blocker_save">保存</string>
+    <string name="alarm_list_header">使用可能な Alarm</string>
+    <string name="alarm_blocker_reload">再読込</string>
 </resources>
