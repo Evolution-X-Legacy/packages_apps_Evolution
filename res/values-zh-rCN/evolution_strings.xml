@@ -46,9 +46,9 @@
     <string name="action_save">保存</string>
     <string name="action_cancel">取消</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">打开</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">关闭</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">拾色器</string>
     <string name="press_color_to_apply">选取并应用颜色</string>
@@ -627,16 +627,16 @@
     <string name="lockscreen_charging_animation_summary">当设备充电时显示一个螺旋动画</string>
     <string name="button_wake_summary">通过按下按键唤醒设备</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">隐藏锁屏图标</string>
+    <string name="hide_lockscreen_icon_summary">更改时钟小部件的可见性</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">唤醒锁拦截器</string>
+    <string name="wakelock_blocker_save">保存</string>
+    <string name="wakelock_list_header">可用唤醒锁</string>
+    <string name="wakelock_blocker_reload">重载</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">定时锁拦截器</string>
+    <string name="alarm_blocker_save">保存</string>
+    <string name="alarm_list_header">可用定时锁</string>
+    <string name="alarm_blocker_reload">重载</string>
 </resources>
