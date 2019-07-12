@@ -565,7 +565,7 @@
     <string name="partial_wakelocks">Wakelock parziali</string>
     <string name="app_wakelocks">Wakelock delle app</string>
     <string name="create_ref">Reimposta</string>
-    <string name="spinner_period_title">Da</string>
+    <string name="spinner_period_title">Since</string>
     <string name="spinner_type_title">Mostra</string>
     <string name="screen_on_time">Schermo attivo</string>
     <string name="awake_time">Attivo</string>
