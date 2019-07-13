@@ -61,7 +61,7 @@
     <string name="battery_category">バッテリー</string>
     <string name="notifications_category_title">煩わしい通知を防止</string>
     <!-- Battery percentage -->
-    <string name="battery_style_category_title">バッテリーアイコンのスタイル</string>
+    <string name="battery_style_category_title">バッテリーのスタイル</string>
     <string name="battery_style_category_summary">ステータスバーのバッテリーのスタイルを変更する</string>
     <string name="status_bar_battery_percentage_title">バッテリー残量</string>
     <string name="status_bar_battery_percentage_summary">現在のバッテリー残量を表示する</string>
@@ -169,7 +169,7 @@
     <string name="clock_date_left">時刻の左</string>
     <string name="clock_date_position">日付の位置</string>
     <string name="date_cat">日付</string>
-    <string name="clock_cat">時計</string>
+    <string name="clock_cat">時計と日付</string>
     <string name="status_bar_clock_font_style_title">フォントのスタイル</string>
     <string name="status_bar_clock_font_style_summary">%1$s</string>
     <string name="status_bar_clock_font_size_title">フォントサイズ</string>
