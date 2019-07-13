@@ -548,10 +548,10 @@
     <string name="SHORT_LIGHT_IDLE_TIMEOUT">Thời gian chờ nhàn rỗi</string>
     <string name="SHORT_LIGHT_IDLE_FACTOR">Yếu tố nhàn rỗi</string>
     <string name="SHORT_LIGHT_MAX_IDLE_TIMEOUT">Thời gian chờ tối đa nhàn rỗi</string>
-    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Maintenance mode light idle min timeout</string>
-    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Maintenance mode light idle max timeout</string>
-    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Maintenance mode light doze min timeout</string>
-    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Maintenance mode full doze min timeout</string>
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Duy trì thời gian chờ nhàn rỗi tối thiểu</string>
+    <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Duy trì thời gian chờ nhàn rỗi tối đa</string>
+    <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Duy trì thời gian ngủ nhẹ tối thiểu</string>
+    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Duy trì thời gian ngủ sâu tối thiểu</string>
     <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Thời lượng danh sách trắng thông báo tối đa</string>
     <!-- Time In State & CPU State -->
     <string name="state_time_mode">Thức</string>
