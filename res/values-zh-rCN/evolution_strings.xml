@@ -25,7 +25,7 @@
     <string name="interface_category">界面</string>
     <string name="lockscreen_title">锁屏界面</string>
     <string name="lockscreen_shortcuts_category">快捷操作</string>
-    <string name="logo_category">标志</string>
+    <string name="logo_category">Logo</string>
     <string name="misc_title">杂项设置</string>
     <string name="navbar_title">导航栏</string>
     <string name="notifications_title">通知</string>
