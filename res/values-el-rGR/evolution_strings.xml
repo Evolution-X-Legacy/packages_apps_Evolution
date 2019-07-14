@@ -672,9 +672,9 @@
     <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
     <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">Εξαναγκασμός εκτεταμένων ειδοποιήσεων</string>
+    <string name="force_expanded_notifications_summary">Είναι διαθέσιμο μόνο για εφαρμογές που υποστηρίζουν εκτεταμένες ειδοποιήσεις</string>
     <!-- Allow fake signature -->
     <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake_summary">Επέτρεψε στις εφαρμογές να παρακάμπτουν την ασφάλεια του συστήματος σαν άλλη εφαρμογή.</string>
 </resources>
