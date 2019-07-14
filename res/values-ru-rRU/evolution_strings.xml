@@ -24,14 +24,14 @@
     <string name="gestures_title">Жесты</string>
     <string name="interface_category">Интерфейс</string>
     <string name="lockscreen_title">Экран блокировки</string>
-    <string name="lockscreen_shortcuts_category">Ярлыки</string>
+    <string name="lockscreen_shortcuts_category">Ярлыки на экране блокировки</string>
     <string name="logo_category">Логотип</string>
     <string name="misc_title">Другие настройки</string>
     <string name="navbar_title">Панель навигации</string>
     <string name="notifications_title">Настройка уведомлений</string>
     <string name="powermenu_title">Меню выключения</string>
     <string name="quicksettings_title">Панель быстрых настроек</string>
-    <string name="qs_style_category">Темы QS</string>
+    <string name="qs_style_category">Темы быстрых настроек</string>
     <string name="statusbar_title">Строка состояния</string>
     <string name="volume_title">Кнопки регулировки громкости</string>
     <!-- Summaries -->
@@ -153,15 +153,15 @@
     <string name="clock_date_display_summary">Показывать дату перед часами</string>
     <string name="clock_date_style">Стиль даты</string>
     <string name="clock_date_format">Формат даты</string>
-    <string name="clock_date_string_edittext_title">Значение должно соответствовать формату, например: ММ/dd/yy</string>
+    <string name="clock_date_string_edittext_title">Значение должно соответствовать формату, например: ММ/дд/гг</string>
     <string name="clock_date_string_edittext_summary">Ввести значение</string>
-    <string name="am_pm_clock_normal">Нормальный размер шрифта</string>
+    <string name="am_pm_clock_normal">Обычный размер шрифта</string>
     <string name="am_pm_clock_small">Маленький размер шрифта</string>
     <string name="am_pm_clock_none">Не показывать</string>
     <string name="clock_date_display_none">Не показывать</string>
     <string name="clock_date_display_small">Маленький размер шрифта</string>
-    <string name="clock_date_display_normal">Нормальный размер шрифта</string>
-    <string name="clock_date_style_normal">Нормальный</string>
+    <string name="clock_date_display_normal">Обычный размер шрифта</string>
+    <string name="clock_date_style_normal">Обычные</string>
     <string name="clock_date_style_lowercase">Строчные</string>
     <string name="clock_date_style_uppercase">Прописные</string>
     <string name="clock_date_format_custom">Пользовательский Java-формат</string>
@@ -185,7 +185,7 @@
     <string name="lockscreen_visualizer_enable_custom_summary">Использовать свой цвет вместо сгенерированного</string>
     <string name="lockscreen_visualizer_custom_color">Цвет визуализатора</string>
     <!-- Ambient visualizer -->
-    <string name="ambient_visualizer_title">Визуализация музыки на окружающем экране</string>
+    <string name="ambient_visualizer_title">Визуализация музыки на экране в режиме Ambient Display</string>
     <string name="ambient_visualizer_summary">Показывать визуализацию музыки на окружающем экране (но менее прозрачно)</string>
     <!--Vol button rotation swap-->
     <string name="swap_volume_buttons">Смена направления при повороте</string>
@@ -246,13 +246,13 @@
     <string name="heads_up_blacklist_title">Черный список</string>
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при нажатии</string>
-    <string name="quick_settings_vibrate_summary">Вибрировать при нажатии на тайлы в быстрых настройках</string>
+    <string name="quick_settings_vibrate_summary">Вибрировать при нажатии на плитки быстрых настроек</string>
     <!-- The volume key answer -->
     <string name="volume_answer_call_title">Ответ клавишами громкости</string>
     <string name="volume_answer_call_summary">Ответить на вызов нажатием клавиш громкости</string>
     <!-- Old Style Mobile -->
     <string name="use_old_mobiletype_title">Использовать старый значок сети</string>
-    <string name="use_old_mobiletype_summary">Использовать значки сети из Oreo и ранее\nSystemUI будет перезапущен</string>
+    <string name="use_old_mobiletype_summary">Использовать значки сети из Android Oreo и ранее\nSystemUI будет перезапущен</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">Имя оператора</string>
     <string name="carrier_label_settings_summary">Настроить имя оператора</string>
@@ -279,7 +279,7 @@
     <string name="status_bar_toggle_brightness_summary">Регулировать яркость экрана движением пальца по строке состояния</string>
     <!-- Volume keys control rint tone stream -->
     <string name="volume_keys_control_ring_tone_title">Управление громкостью звонка</string>
-    <string name="volume_keys_control_ring_tone_summary">По умолчанию клавиши управляют громкостью мультимедиа. Включить для управления громкостью мелодии звонка.</string>
+    <string name="volume_keys_control_ring_tone_summary">По умолчанию клавиши управляют громкостью мультимедиа. Включите, для управления громкостью мелодии звонка.</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">Уровни громкости</string>
     <string name="volume_steps_summary">Настроить количество шагов в панели громкости</string>
@@ -294,7 +294,7 @@
     <!-- Audio Panel view  -->
     <string name="audio_panel_view_title">Панель громкости</string>
     <string name="audio_panel_view_summary">Настройка диалогового окна панели громкости</string>
-    <string name="audio_panel_view_info">Активный поток громкости будет отображаться на экране, даже если он отключен. Потоки томов, включенные здесь, будут отображаться принудительно.</string>
+    <string name="audio_panel_view_info">Активный поток громкости будет отображаться на экране, даже если он отключен. Источники громкости, включенные здесь, будут отображаться принудительно.</string>
     <string name="audio_panel_view_media_title">Медиа</string>
     <string name="audio_panel_view_ringer_title">Рингтон</string>
     <string name="audio_panel_view_notification_title">Уведомление</string>
@@ -366,31 +366,31 @@
     <!-- Lockscreen clock styles -->
     <string name="lockscreen_clock_selection_title">Стиль часов</string>
     <string name="lockscreen_clock_selection_digital">По умолчанию</string>
-    <string name="lockscreen_clock_selection_digital_bold">Цифровые (жирные)</string>
+    <string name="lockscreen_clock_selection_digital_bold">Цифровые (жирный шрифт)</string>
     <string name="lockscreen_clock_selection_analog">Аналоговые</string>
     <string name="lockscreen_clock_selection_sammy">Вертикальные</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Вертикальные (жирные)</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Вертикальные (жирный шрифт)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Вертикальные с акцентом</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Вертикальные с акцентом (альт)</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Вертикальные с акцентом (альтернативные)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
     <string name="lockscreen_clock_selection_gradient_btlglogo">Часы с градиентом (с bootleg лого)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">Часы с градиентом (с shishu logo)</string>
     <string name="lockscreen_clock_selection_gradient_full">Часы с полным градиентом</string>
     <string name="lockscreen_clock_selection_gradient_likeqs">Часы с монохромным градиентом</string>
-    <string name="lockscreen_clock_selection_text">Текст</string>
+    <string name="lockscreen_clock_selection_text">Текст (Android Q)</string>
     <!-- Lockscreen Date styles -->
     <string name="lockscreen_date_selection_title">Стиль даты</string>
     <string name="lockscreen_date_selection_default">По умолчанию</string>
     <string name="lockscreen_date_selection_str_box">Полупрозрачный</string>
-    <string name="lockscreen_date_selection_str_round">Полупрозрачная (скругленная)</string>
-    <string name="lockscreen_date_selection_qbeta_style">Q Бета-таблетка</string>
+    <string name="lockscreen_date_selection_str_round">Полупрозрачный (скругленный)</string>
+    <string name="lockscreen_date_selection_qbeta_style">Android Q</string>
     <string name="lockscreen_date_selection_str_accent">Округленный, простой и с акцентом</string>
-    <string name="lockscreen_date_selection_str_accent_day">Округленный, простой и с акцентом (альт)</string>
+    <string name="lockscreen_date_selection_str_accent_day">Округленный, простой и с акцентом (альтернативный)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Округленный, прозрачный и с акцентом</string>
-    <string name="lockscreen_date_selection_str_accent_transparent_day">Округленный, прозрачный и с акцентом (альт)</string>
+    <string name="lockscreen_date_selection_str_accent_transparent_day">Округленный, прозрачный и с акцентом (альтернативный)</string>
     <string name="lockscreen_date_selection_str_gradient">Градиент</string>
-    <string name="lockscreen_date_selection_str_border_accent">Темный с акцентом границ</string>
-    <string name="lockscreen_date_selection_str_border_gradient">Темный с акцентом границ</string>
+    <string name="lockscreen_date_selection_str_border_accent">Темный с акцентированными границами</string>
+    <string name="lockscreen_date_selection_str_border_gradient">Темный с градиентными границами</string>
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Индикатор выключенной передачи данных (крестик в иконке уровня сети)</string>
     <string name="data_disabled_icon_summary">Отображать крестик в иконке уровня сети когда передача данных выключена</string>
@@ -410,7 +410,7 @@
     <string name="qstile_pokesign">Мяч покемона</string>
     <string name="qstile_ninja">Ниндзя</string>
     <string name="qstile_dottedcircle">Пунктирный круг</string>
-    <string name="qstile_attemptmountain">С профилем горы</string>
+    <string name="qstile_attemptmountain">Горы</string>
     <string name="qstile_squaremedo">Квадрат в ромбе</string>
     <string name="qstile_hexagon">Шестиугольник</string>
     <string name="qstile_star">Звезда</string>
@@ -460,7 +460,12 @@
     <string name="corner_fwvals_summary">Полезно, если устройство имеет закругленные углы</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Автозапуск плеера</string>
-    <string name="headset_connect_player_summary">Запускать плеер при подключении наушников</string>
+    <string name="headset_connect_player_disabled">Disabled</string>
+    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
+    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
+    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
+    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
+    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">Настройки USB</string>
     <string name="usb_default_config_summary">Выберите поведение по умолчанию при подключении к устройству через USB</string>
@@ -501,7 +506,7 @@
     <string name="string_default">По умолчанию</string>
     <string name="action_filter">Фильтр</string>
     <string name="doze_settings_applied">Настройки применены</string>
-    <string name="DESC_INACTIVE_TIMEOUT">Таймаут после перехода в спящий режим, после которого анализируется датчик движения, для определения того, что телефон не используется. Уменьшает потребление, снижая частоту запросов к датчику движения</string>
+    <string name="DESC_INACTIVE_TIMEOUT">Время в спящем режиме, после которого использование телефона определяется с помощью датчика движения. Позволяет снизить частоту запросов к датчику движения после выключения экрана для экономии заряда батареи</string>
     <string name="DESC_SENSING_TIMEOUT">Если за это время не получен отклик от AnyMotion, состояние меняется с STATE_SENSING на STATE_INACTIVE. Все последующие вызовы будут проигнорированы</string>
     <string name="DESC_LOCATING_TIMEOUT">Период определения местоположения до перехода в режим бездействия</string>
     <string name="DESC_LOCATION_ACCURACY">Желаемая максимальная точность (в метрах), после которой мы считаем, что местоположение достаточно хорошее, чтобы перейти в режим ожидания. Мы попытаемся получить фикс точности, по крайней мере, до этого значения или до тех пор, пока не истечёт locating_to</string>
@@ -640,4 +645,35 @@
     <string name="alarm_blocker_save">Сохранить</string>
     <string name="alarm_list_header">Доступные сигналы</string>
     <string name="alarm_blocker_reload">Перезагрузка</string>
+    <!-- Gaming mode -->
+    <string name="gaming_mode_title">Gaming Mode</string>
+    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
+    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
+    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
+    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
+    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
+    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
+    <string name="gaming_mode_headsup_title">Block notifications</string>
+    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
+    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
+    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
+    <string name="gaming_mode_gestures_title">Disable gestures</string>
+    <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
+    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
+    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
+    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
+    <string name="gaming_mode_ringer_off_title">Do not change</string>
+    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
+    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
+    <string name="gaming_mode_ringer_silent_title">Silent</string>
+    <string name="gaming_mode_notifications_title">Notifications</string>
+    <string name="gaming_mode_notifications_off_title">Disabled</string>
+    <string name="gaming_mode_notifications_notif_title">Show notification</string>
+    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
+    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
+    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
+    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <!-- Force expanded notifications -->
+    <string name="force_expanded_notifications_title">Force expanded notifications</string>
+    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
 </resources>
