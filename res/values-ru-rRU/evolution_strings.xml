@@ -198,7 +198,7 @@
     <string name="qs_tile_animation_style_off">Без анимации</string>
     <string name="qs_tile_animation_style_flip">Переворот</string>
     <string name="qs_tile_animation_style_rotate">Вращение</string>
-    <string name="qs_tile_animation_duration_low">Низкая</string>
+    <string name="qs_tile_animation_duration_low">Медленная</string>
     <string name="qs_tile_animation_duration_default">По умолчанию</string>
     <string name="qs_tile_animation_duration_fast">Быстрая</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">Линейная</string>
@@ -216,7 +216,7 @@
     <string name="screen_off_animation_title">Анимация отключения экрана</string>
     <string name="screen_off_animation_fade">Простое затухание</string>
     <string name="screen_off_animation_crt">Эффект \"старого\" телевизора</string>
-    <string name="screen_off_animation_scale">Масштаб</string>
+    <string name="screen_off_animation_scale">Масштабирование</string>
     <!-- Heads up -->
     <string name="heads_up_category">Всплывающие уведомления</string>
     <string name="heads_up_title">Вкл</string>
