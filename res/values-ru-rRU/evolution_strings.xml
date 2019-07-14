@@ -459,7 +459,7 @@
     <string name="corner_fwvals">Используйте базовые значения</string>
     <string name="corner_fwvals_summary">Полезно, если устройство имеет закругленные углы</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Автозапуск плеера</string>
+    <string name="headset_connect_player_title">Автозапуск музыкального приложения</string>
     <string name="headset_connect_player_disabled">Выключено</string>
     <string name="headset_connect_player_wired">Когда проводные наушники подключены</string>
     <string name="headset_connect_player_bt_no_carkit">Когда Bluetooth наушники подключены (не Carkit)</string>
