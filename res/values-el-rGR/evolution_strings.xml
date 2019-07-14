@@ -605,7 +605,7 @@
     <string name="qs_edit_summary">Εμφάνιση εικονιδίου επεξεργασίας στο υποσέλιδο των γρήγορων ρυθμίσεων</string>
     <!-- Evolution navigation -->
     <string name="navigation_category">Πλοήγηση</string>
-    <string name="navigation_summary">Προσαρμογή στυλ πλοήγησης και συμπεριφοράς</string>
+    <string name="navigation_summary">Στυλ και συμπεριφορά μπάρας πλοήγησης</string>
     <string name="navbar_tuner_title">Επεξεργασία γραμμής πλοήγησης</string>
     <string name="navbar_tuner_summary">Επεξεργασία της διάταξης και των κουμπιών της γραμμής πλοήγησης</string>
     <!-- Hardware button navigation -->
