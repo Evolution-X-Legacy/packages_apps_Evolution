@@ -393,7 +393,7 @@
     <string name="lockscreen_date_selection_str_border_gradient">Σκοτεινό με βαθμωτά άκρα</string>
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Εμφάνιση εικονιδίου απενεργοποιημένων δεδομένων</string>
-    <string name="data_disabled_icon_summary">Εμφάνιση του σημαδιού σταυρού δίπλα στη μπάρα σήματος όταν τα δεδομένα είναι ανενεργά</string>
+    <string name="data_disabled_icon_summary">Εμφάνιση του σημαδιού σταυρού δίπλα στις μπάρες σήματος όταν τα δεδομένα είναι ανενεργά</string>
     <!-- Notification guts kill app button -->
     <string name="notification_guts_kill_app_button_title">Πλήκτρο τερματισμού εφαρμογής</string>
     <string name="notification_guts_kill_app_button_summary">Εμφάνιση πλήκτρου τερματισμού εφαρμογής με την παρατεταμένη πίεση στην ειδοποιήση</string>
@@ -476,7 +476,7 @@
     <string name="onthego_alpha_summary">Τιμή άλφα κατά την λειτουργία on the go</string>
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Λειτουργία ενός χεριού</string>
-    <string name="one_hand_mode_summary">Επιτρέψτε την ολίσθιση κατά μήκος δεξιά ή αριστερά στην μπάρα πλοήγησης για ενεργοποίηση</string>
+    <string name="one_hand_mode_summary">Επιτρέψτε την ολίσθιση κατά μήκος δεξιά ή αριστερά στην γραμμή πλοήγησης για ενεργοποίηση</string>
     <string name="qs_running_services_title">Εικονίδιο εκτελούμενων υπηρεσιών</string>
     <string name="qs_running_services_summary">Ενεργοποίηση εικονιδίου εκτελούμενων υπηρεσιών στην κεφαλίδα</string>
     <!-- SeekBar -->
@@ -670,7 +670,7 @@
     <string name="gaming_mode_notifications_toast_title">Εμφάνιση τοστ</string>
     <string name="gaming_mode_notifications_all_title">Εμφάνιση ειδοποίησης</string>
     <string name="gaming_mode_dynamic_title">Δυναμική λειτουργία παιχνιδιού</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_dynamic_summary">Κατά την έναρξη ενός παιχνιδιού, θα γίνεται αυτόματη προσθήκη στην λειτουργία παιχνιδιού. Δεν δουλεύει με όλα τα παιχνίδια.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Εξαναγκασμός εκτεταμένων ειδοποιήσεων</string>
     <string name="force_expanded_notifications_summary">Είναι διαθέσιμο μόνο για εφαρμογές που υποστηρίζουν εκτεταμένες ειδοποιήσεις</string>
