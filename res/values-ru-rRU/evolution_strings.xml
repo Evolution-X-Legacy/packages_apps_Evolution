@@ -302,14 +302,14 @@
     <string name="audio_panel_view_alarm_title">Будильник</string>
     <string name="audio_panel_view_voice_title">Голос</string>
     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
-    <string name="audio_panel_view_position_title">Панель громкости слева</string>
+    <string name="audio_panel_view_position_title">Панель громкости с левой стороны экрана</string>
     <!-- Network traffic Settings -->
     <string name="traffic_title">Индикация трафика</string>
     <string name="traffic_summary">Показывать сетевую активность в строке состояния</string>
     <string name="traffic_category">Сетевой трафик</string>
     <string name="network_traffic_state_title">Индикатор сетевого трафика</string>
     <string name="network_traffic_autohide">Автоскрытие</string>
-    <string name="network_traffic_autohide_summary">Скрывать монитор трафика при отсутствии активности</string>
+    <string name="network_traffic_autohide_summary">Скрывать индикатор трафика, когда нет активности</string>
     <string name="network_traffic_autohide_threshold_title">Порог автоскрытия сетевой активности (KB/s)</string>
     <string name="network_traffic_hidearrow">Скрыть стрелки</string>
     <string name="network_traffic_hidearrow_summary">Скрыть стрелки индикатора сетевого трафика</string>
@@ -319,7 +319,7 @@
     <string name="network_traffic_statusbar">Строка состояния</string>
     <string name="network_traffic_header">Заголовок быстрых настроек</string>
     <!-- QS panel tuner -->
-    <string name="qs_panel_tuner_category_title">Настройка панели QS</string>
+    <string name="qs_panel_tuner_category_title">Настройка Быстрых Настроек</string>
     <string name="show_secure_title">Информация о безопасности</string>
     <string name="show_secure_summary">Показывает статус VPN в верхней части панели быстрых настроек</string>
     <string name="show_info_header_title">Информация в заголовке</string>
@@ -476,7 +476,7 @@
     <string name="onthego_alpha_summary">Степень прозрачности режима \"На ходу\"</string>
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Управление одной рукой</string>
-    <string name="one_hand_mode_summary">Включение свайпом вправо или влево по панели навигации</string>
+    <string name="one_hand_mode_summary">Включение жестом вправо или влево по панели навигации</string>
     <string name="qs_running_services_title">Запущенные службы</string>
     <string name="qs_running_services_summary">Показывать иконку работающих приложений</string>
     <!-- SeekBar -->
@@ -587,7 +587,7 @@
     <string name="copy_as_text">Копировать как текст</string>
     <string name="google_it">Искать в Google</string>
     <string name="app_details">О приложении</string>
-    <string name="no_stat_because_reset_state">Нажмите кнопку сброса, чтобы начать сбор данных о пробуждения</string>
+    <string name="no_stat_because_reset_state">Нажмите кнопку сброса, чтобы начать сбор данных с момента включения</string>
     <string name="no_stat_because_reset_wakelock">Нажмите кнопку сброса, чтобы начать сбор данных о пробуждения</string>
     <string name="no_stat_because_plugged">Отключите зарядное устройство для начала сбора данных о пробуждениях</string>
     <string name="no_states_file_found">\"Файл состояний не найден. Вы уверены, что Ваш телефон поддерживается?
