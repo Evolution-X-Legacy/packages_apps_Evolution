@@ -103,14 +103,14 @@
     <string name="brightness_slider_title">Ρυθμίσεις διακόπτη φωτεινότητας</string>
     <string name="qs_show_brightness_title">Ρυθμιστικό φωτεινότητας</string>
     <string name="qs_show_brightness_summary">Εμφάνιση ολισθιτικού φωτεινότητας στις γρήγορες ρυθμίσεις</string>
-    <string name="qs_brightness_position_bottom_title">Εμφάνιση του ολισθιτικού φωτεινότητας στο κάτω μέρος</string>
-    <string name="qs_brightness_position_bottom_summary">Εμφάνιση του ολισθιτικού φωτεινότητας στο κάτω μέρος του πίνακα γρήγορων ρυθμίσεων</string>
+    <string name="qs_brightness_position_bottom_title">Ολισθιτικό φωτεινότητας στο κάτω μέρος</string>
+    <string name="qs_brightness_position_bottom_summary">Ολισθιτικού φωτεινότητας στο κάτω μέρος των γρήγορων ρυθμίσεων</string>
     <string name="qs_show_auto_brightness_title">Πλήκτρο προσαρμοστικής φωτεινότητας</string>
     <string name="qs_show_auto_brightness_summary">Εμφάνιση του κουμπιού προσαρμοστικής φωτεινότητας</string>
     <string name="qs_auto_brightness_right_title">Κουμπί προσαρμοστικής φωτεινότητας στα δεξιά</string>
     <string name="qs_auto_brightness_right_summary">Ρυθμιστικό φωτεινότητας στα δεξιά</string>
     <string name="qs_show_brightness_buttons_title">Κουμπιά ρυθμιστικού φωτεινότητας</string>
-    <string name="qs_show_brightness_buttons_summary">Εμφάνιση κουμπιών για να αυξήση ή μείωση φωτεινότητας</string>
+    <string name="qs_show_brightness_buttons_summary">Εμφάνιση κουμπιών για αυξομείωση φωτεινότητας</string>
     <!-- Power menu on secure lockscreen -->
     <string name="lockscreen_power_menu_disabled_title">Χωρίς μενού ενέργειας στην οθόνη κλειδώματος</string>
     <string name="lockscreen_power_menu_disabled_summary">Απενεργοποίηση των γρήγορων ρυθμίσεων στην ασφαλή οθόνη κλειδώματος</string>
