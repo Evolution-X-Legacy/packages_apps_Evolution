@@ -104,20 +104,20 @@
     <string name="qs_show_brightness_title">Ползунок яркости</string>
     <string name="qs_show_brightness_summary">Показывать ползунок яркости в быстрых настройках</string>
     <string name="qs_brightness_position_bottom_title">Ползунок яркости снизу</string>
-    <string name="qs_brightness_position_bottom_summary">Показать ползунок яркости снизу панели быстрых настроек</string>
+    <string name="qs_brightness_position_bottom_summary">Показать ползунок яркости под панелью быстрых настроек</string>
     <string name="qs_show_auto_brightness_title">Кнопка адаптивной яркости</string>
     <string name="qs_show_auto_brightness_summary">Показать кнопку адаптивной яркости</string>
-    <string name="qs_auto_brightness_right_title">Правая позиция кнопки адаптивной яркости</string>
+    <string name="qs_auto_brightness_right_title">Кнопка адаптивной яркости справа</string>
     <string name="qs_auto_brightness_right_summary">Переместить кнопку адаптивной яркости справа от слайдера яркости</string>
     <string name="qs_show_brightness_buttons_title">Кнопки яркости</string>
     <string name="qs_show_brightness_buttons_summary">Показать кнопки для увеличения или уменьшения яркости</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">Отсутствие меню питания на экране блокировке</string>
+    <string name="lockscreen_power_menu_disabled_title">Отсутствует меню питания на экране блокировке</string>
     <string name="lockscreen_power_menu_disabled_summary">Отключить меню питания на заблокированном экране</string>
     <string name="notification_sound_vib_screen_on_title">Уведомления со звуком при включенном экране</string>
     <string name="notification_sound_vib_screen_on_summary">Воспроизведение звука и вибрации для уведомлений при включенном экране</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Менее частые звуки уведомлений</string>
+    <string name="less_notification_sounds_title">Реже звуки уведомлений</string>
     <string name="less_notification_sounds_summary">Ограничить частоту звука уведомления каждого приложения только одним разом за выбранный период времени</string>
     <string name="less_notification_sounds_default">Стандартное поведение</string>
     <string name="less_notification_sounds_10s">Каждые 10 секунд</string>
@@ -128,8 +128,8 @@
     <string name="incall_notifications_vibrate_summary">Только вибрация уведомлений во время звонка</string>
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Функция «Сейчас играет»</string>
-    <string name="force_ambient_for_media_pref_summary">Настройки Ambient music ticker</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker отображает информацию о текущем треке используя «Ambient Display» срабатывает также, если «Ambient Display» отключен при проигрывании нового трека, принудительно очищает экран и показывает информацию о треке в середине экрана.  Для пропуска дважды коснитесь информации о треке.</string>
+    <string name="force_ambient_for_media_pref_summary">Информация о текущем треке в режиме «Ambient Display»</string>
+    <string name="ambient_ticker_footer">Ambient Music Ticker отображает информацию о текущем треке используя «Ambient Display»\n\nСрабатывает также, если «Ambient Display» отключен при проигрывании нового трека, принудительно очищает экран и показывает информацию о треке в середине экрана.\n\nДля пропуска дважды коснитесь информации о треке.</string>
     <string name="force_ambient_for_media_title">Включить</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Часы</string>
@@ -186,9 +186,9 @@
     <string name="lockscreen_visualizer_custom_color">Цвет визуализатора</string>
     <!-- Ambient visualizer -->
     <string name="ambient_visualizer_title">Визуализация музыки на экране в режиме Ambient Display</string>
-    <string name="ambient_visualizer_summary">Показывать визуализацию музыки на окружающем экране (но менее прозрачно)</string>
+    <string name="ambient_visualizer_summary">Показывать визуализацию музыки на Ambient Display (но менее прозрачно)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">Смена направления при повороте</string>
+    <string name="swap_volume_buttons">Смена направления при повороте устройства</string>
     <string name="volume_keys_swap_summary">Поменять кнопки громкости местами в соответствии с ориентацией устройства</string>
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_title">Анимации</string>
@@ -460,12 +460,12 @@
     <string name="corner_fwvals_summary">Полезно, если устройство имеет закругленные углы</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Автозапуск плеера</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
-    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
-    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
-    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
+    <string name="headset_connect_player_disabled">Выключено</string>
+    <string name="headset_connect_player_wired">Когда проводные наушники подключены</string>
+    <string name="headset_connect_player_bt_no_carkit">Когда Bluetooth наушники подключены (не Carkit)</string>
+    <string name="headset_connect_player_bt">Когда Bluetooth наушники подключены</string>
+    <string name="headset_connect_player_both_no_carkit">Когда проводные или Bluetooth наушники подключены(не Carkit)</string>
+    <string name="headset_connect_player_both">Когда проводные или Bluetooth наушники подключены</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">Настройки USB</string>
     <string name="usb_default_config_summary">Выберите поведение по умолчанию при подключении к устройству через USB</string>
@@ -564,7 +564,7 @@
     <string name="since_charged">Заряжено</string>
     <string name="since_unplugged">Не подключено</string>
     <string name="since_reset">Сброс</string>
-    <string name="since_unplug">Отключение от питания</string>
+    <string name="since_unplug">Отключено от питания</string>
     <string name="other">Активность</string>
     <string name="kernel_wakelocks">Пробуждения ядра</string>
     <string name="partial_wakelocks">Частичные пробуждения</string>
@@ -646,34 +646,34 @@
     <string name="alarm_list_header">Доступные сигналы</string>
     <string name="alarm_blocker_reload">Перезагрузка</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Gaming Mode</string>
-    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
-    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
-    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
-    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
-    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
-    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
-    <string name="gaming_mode_headsup_title">Block notifications</string>
-    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
-    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
-    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
-    <string name="gaming_mode_gestures_title">Disable gestures</string>
-    <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
-    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
-    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
-    <string name="gaming_mode_ringer_off_title">Do not change</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
-    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
-    <string name="gaming_mode_ringer_silent_title">Silent</string>
-    <string name="gaming_mode_notifications_title">Notifications</string>
-    <string name="gaming_mode_notifications_off_title">Disabled</string>
-    <string name="gaming_mode_notifications_notif_title">Show notification</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_title">Игровой режим</string>
+    <string name="gaming_mode_summary">Настроить параметры Игрового режима</string>
+    <string name="gaming_mode_master_title">Включить функции Игрового режима</string>
+    <string name="gaming_mode_master_summary">Разрешить изменять настройки Игрового режима</string>
+    <string name="gaming_mode_app_picker_title">Автоматически включать для этих приложений</string>
+    <string name="add_gaming_mode_package_title">Добавить приложения для Игрового режима</string>
+    <string name="add_gaming_mode_package_summary">Игровой режим будет автоматически включен для выбранных приложений.</string>
+    <string name="gaming_mode_headsup_title">Блокировать уведомления</string>
+    <string name="gaming_mode_headsup_summary">Блокировать все сообщения, кроме звонков.</string>
+    <string name="gaming_mode_hardware_keys_title">Заблокировать кнопки</string>
+    <string name="gaming_mode_hardware_keys_summary">Отключение аппаратных кнопок при включённом Игровом режиме.</string>
+    <string name="gaming_mode_gestures_title">Отключить жесты</string>
+    <string name="gaming_mode_gestures_summary">Отключить навигацию жестами, когда включён Игровой режим.</string>
+    <string name="gaming_mode_brightness_title">Отключить автоматическую настройку яркости</string>
+    <string name="gaming_mode_brightness_summary">Яркость экрана блокировки при включённом Игровом режиме.</string>
+    <string name="gaming_mode_ringer_title">Звонок в игровом режиме</string>
+    <string name="gaming_mode_ringer_off_title">Не изменять</string>
+    <string name="gaming_mode_ringer_vibrate_title">Вибрация</string>
+    <string name="gaming_mode_ringer_dnd_title">Не беспокоить</string>
+    <string name="gaming_mode_ringer_silent_title">Беззвучный</string>
+    <string name="gaming_mode_notifications_title">Уведомления</string>
+    <string name="gaming_mode_notifications_off_title">Отключено</string>
+    <string name="gaming_mode_notifications_notif_title">Показать уведомление</string>
+    <string name="gaming_mode_notifications_toast_title">Показывать всплывающие уведомления</string>
+    <string name="gaming_mode_notifications_all_title">Показать все уведомления</string>
+    <string name="gaming_mode_dynamic_title">Динамический Игровой режим</string>
+    <string name="gaming_mode_dynamic_summary">Всякий раз, когда вы открываете какое-либо приложение и система обнаруживает, что оно является игрой, оно будет автоматически добавлено в список игр. Обратите внимание, что это работает не для каждого игрового приложения.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">Принудительно разворачивать уведомления</string>
+    <string name="force_expanded_notifications_summary">Доступно только для приложений, поддерживающих разворачиваемые уведомления</string>
 </resources>
