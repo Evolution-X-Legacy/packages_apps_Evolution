@@ -25,7 +25,7 @@
     <string name="interface_category">Interface</string>
     <string name="lockscreen_title">Tela de bloqueio</string>
     <string name="lockscreen_shortcuts_category">Atalhos</string>
-    <string name="logo_category">Logo</string>
+    <string name="logo_category">Logotipo</string>
     <string name="misc_title">Diversos</string>
     <string name="navbar_title">Barra de navegação</string>
     <string name="notifications_title">Notificações</string>
@@ -368,7 +368,7 @@
     <string name="lockscreen_clock_selection_digital">Padrão</string>
     <string name="lockscreen_clock_selection_digital_bold">Digital (negrito)</string>
     <string name="lockscreen_clock_selection_analog">Analógico</string>
-    <string name="lockscreen_clock_selection_sammy">Sammy</string>
+    <string name="lockscreen_clock_selection_sammy">Samsung</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (negrito)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Sammy com detalhe</string>
     <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy com detalhe (alternativo)</string>
@@ -460,8 +460,8 @@
     <string name="corner_fwvals_summary">Útil se o dispositivo realmente tiver bordas arredondadas</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Iniciar o aplicativo de música</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
-    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
+    <string name="headset_connect_player_disabled">Desabilitado</string>
+    <string name="headset_connect_player_wired">Quando o fone de ouvido com fio estiver conectado</string>
     <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
     <string name="headset_connect_player_bt">When BT headset is plugged in</string>
     <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
