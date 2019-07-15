@@ -198,9 +198,9 @@
     <string name="qs_tile_animation_style_off">Bez animace</string>
     <string name="qs_tile_animation_style_flip">Překlopení</string>
     <string name="qs_tile_animation_style_rotate">Otočení</string>
-    <string name="qs_tile_animation_duration_low">Malá</string>
+    <string name="qs_tile_animation_duration_low">Pomalu</string>
     <string name="qs_tile_animation_duration_default">Výchozí</string>
-    <string name="qs_tile_animation_duration_fast">Rychlá</string>
+    <string name="qs_tile_animation_duration_fast">Rychle</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">Lineární</string>
     <string name="qs_tile_animation_interpolator_accelerateInterpolator">Zrychlení</string>
     <string name="qs_tile_animation_interpolator_decelerateInterpolator">Zpomalení</string>
@@ -678,6 +678,6 @@
     <string name="force_expanded_notifications_title">Vynutit rozšířená oznámení</string>
     <string name="force_expanded_notifications_summary">K dispozici pouze pro aplikace, které podporují rozšířená oznámení</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">Povolit napodobení podpisu</string>
+    <string name="allow_signature_fake_summary">Umožnit aplikacím obejít bezpečnostní systémy tím, že se budou chovat jako jiné aplikace.</string>
 </resources>
