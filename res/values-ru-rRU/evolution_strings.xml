@@ -54,7 +54,7 @@
     <string name="press_color_to_apply">Нажмите на цвет, чтобы применить</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
-    <string name="hex">Шестнадцатеричный код:</string>
+    <string name="hex">Hex:</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">Применить</string>
     <string name="color_default">По умолчанию</string>
