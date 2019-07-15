@@ -460,8 +460,8 @@
     <string name="corner_fwvals_summary">Корисно, якщо пристрій уже має закруглені кути</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Запуск плеєра</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
-    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
+    <string name="headset_connect_player_disabled">Вимкнено</string>
+    <string name="headset_connect_player_wired">Коли гарнітура підключена</string>
     <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
     <string name="headset_connect_player_bt">When BT headset is plugged in</string>
     <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
@@ -643,11 +643,11 @@
     <string name="wakelock_blocker_reload">Reload</string>
     <!-- Alarm blocker -->
     <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_save">Зберегти</string>
+    <string name="alarm_list_header">Доступні будильники</string>
+    <string name="alarm_blocker_reload">Перезапустити</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Gaming Mode</string>
+    <string name="gaming_mode_title">Ігровий режим</string>
     <string name="gaming_mode_summary">Customize gaming mode preferences</string>
     <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
     <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
