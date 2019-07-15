@@ -46,9 +46,9 @@
     <string name="action_save">Zapisz</string>
     <string name="action_cancel">Anuluj</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Włącz</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Wyłącz</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Próbnik kolorów</string>
     <string name="press_color_to_apply">Naciśnij na kolor poniżej, aby zastosować</string>
@@ -129,13 +129,13 @@
     <!-- Ambient display music ticker -->
     <string name="force_ambient_for_media_pref_title">Nazwa utworu na ekranie Ambient</string>
     <string name="force_ambient_for_media_pref_summary">Skonfiguruj znacznik muzyki</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <string name="ambient_ticker_footer">Ambient Music Ticker pokazuje informacje o odtwarzanej muzyce w ekranie Ambient Display.\n\nZostanie także pokazany, jeśli ekran Ambient Display jest wyłączony i zostanie odtworzony nowy utwór, wyświetlając czysty ekran Ambient z informacjami o utworze na środku ekranu.\n\nMożesz także nacisnąć dwukrotnie informacje o utworze, aby go przeskoczyć.</string>
+    <string name="force_ambient_for_media_title">Włącz</string>
     <!-- Status bar clock options -->
-    <string name="clock_category">Clock</string>
-    <string name="status_bar_clock">Clock and Date</string>
-    <string name="status_bar_clock_summary">Configure statusbar clock and date appearance</string>
-    <string name="clock_title_enable">Alignment</string>
+    <string name="clock_category">Zegar</string>
+    <string name="status_bar_clock">Data i czas</string>
+    <string name="status_bar_clock_summary">Skonfiguruj wygląd daty i zegara na pasku stanu</string>
+    <string name="clock_title_enable">Porzadkowanie</string>
     <string name="clock_enabled">Włączone</string>
     <string name="clock_disabled">Wyłączone</string>
     <string name="status_bar_clock_style_reset">Zresetuj kolor</string>
@@ -319,7 +319,7 @@
     <string name="network_traffic_statusbar">Pasek powiadomień</string>
     <string name="network_traffic_header">Tryb rozszerzony</string>
     <!-- QS panel tuner -->
-    <string name="qs_panel_tuner_category_title">QS panel tuner</string>
+    <string name="qs_panel_tuner_category_title">Edycja panelu szybkich ustawień</string>
     <string name="show_secure_title">Pokaż stopę bezpieczeństwa</string>
     <string name="show_secure_summary">Wyświetla VPN na górze panelu QS</string>
     <string name="show_info_header_title">Pokaż nagłówek informacji</string>
@@ -460,12 +460,12 @@
     <string name="corner_fwvals_summary">Przydatne jeśli urządzenie ma zaokrąglone narożniki</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Uruchom odtwarzacz muzyki</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
-    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
-    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
-    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
+    <string name="headset_connect_player_disabled">Wyłączone</string>
+    <string name="headset_connect_player_wired">Gdy jest podłączony przewodowy zestaw słuchawkowy</string>
+    <string name="headset_connect_player_bt_no_carkit">Gdy jest podłączony zestaw słuchawkowy BT (nie zestaw głośnomówiący)</string>
+    <string name="headset_connect_player_bt">Gdy jest podłączony zestaw słuchawkowy BT</string>
+    <string name="headset_connect_player_both_no_carkit">Gdy jest podłączony przewodowy zestaw słuchawkowy lub zestaw słuchawkowy BT (nie zestaw głośnomówiący)</string>
+    <string name="headset_connect_player_both">Gdy jest podłączony przewodowy zestaw słuchawkowy lub zestaw słuchawkowy BT</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">Konfiguracja USB</string>
     <string name="usb_default_config_summary">Wybierz domyślne zachowanie po podłączeniu do urządzenia przez USB</string>
@@ -631,31 +631,31 @@
     <string name="lockscreen_charging_animation_summary">Pokaż animacje pioruna w trakcie ładowania urządzenia</string>
     <string name="button_wake_summary">Wybudź urządzenie poprzez naciśnięcie przycisku</string>
     <!-- Hide Lockscreen icon -->
-    <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_title">Ukryj ikonę zablokowania ekranu</string>
+    <string name="hide_lockscreen_icon_summary">Zmień widoczność ikony ekranu blokady</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Blokowanie wybudzeń</string>
+    <string name="wakelock_blocker_save">Zapisz</string>
+    <string name="wakelock_list_header">Dostępne wybudzenia</string>
+    <string name="wakelock_blocker_reload">Przeładuj</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
-    <string name="alarm_blocker_save">Save</string>
-    <string name="alarm_list_header">Available alarms</string>
-    <string name="alarm_blocker_reload">Reload</string>
+    <string name="alarm_blocker_title">Blokada alarmów</string>
+    <string name="alarm_blocker_save">Zapisz</string>
+    <string name="alarm_list_header">Dostępne alarmy</string>
+    <string name="alarm_blocker_reload">Przeładuj</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Gaming Mode</string>
-    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
-    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
-    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
-    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
-    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
-    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
-    <string name="gaming_mode_headsup_title">Block notifications</string>
-    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
-    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
-    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
-    <string name="gaming_mode_gestures_title">Disable gestures</string>
+    <string name="gaming_mode_title">Tryb gry</string>
+    <string name="gaming_mode_summary">Dostosuj ustawienia trybu grania</string>
+    <string name="gaming_mode_master_title">Włącz funkcje trybu gier</string>
+    <string name="gaming_mode_master_summary">Zezwól na dostosowanie opcji trybu gier</string>
+    <string name="gaming_mode_app_picker_title">Włącz automatycznie dla tych aplikacji</string>
+    <string name="add_gaming_mode_package_title">Dodaj aplikacje do trybu grania</string>
+    <string name="add_gaming_mode_package_summary">Tryb gier zostanie automatycznie włączony dla wybranych aplikacji.</string>
+    <string name="gaming_mode_headsup_title">Blokuj powiadomienia</string>
+    <string name="gaming_mode_headsup_summary">Blokuj wszystkie wyskakujące wiadomości oprócz połączeń.</string>
+    <string name="gaming_mode_hardware_keys_title">Zablokuj przyciski</string>
+    <string name="gaming_mode_hardware_keys_summary">Wyłącz przyciski sprzętowe, gdy włączony jest tryb gier.</string>
+    <string name="gaming_mode_gestures_title">Wyłącz gesty</string>
     <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
     <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
     <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
