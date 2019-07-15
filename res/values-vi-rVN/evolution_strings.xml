@@ -460,12 +460,12 @@
     <string name="corner_fwvals_summary">Hữu ích nếu thiết bị thực sự có các góc tròn</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Mở ứng dụng nhạc</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
-    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
-    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
-    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
+    <string name="headset_connect_player_disabled">Đã tắt</string>
+    <string name="headset_connect_player_wired">Khi tai nghe có dây được kết nối</string>
+    <string name="headset_connect_player_bt_no_carkit">Khi tai nghe BT (không có bộ phụ kiện xe hơi) được kết nối</string>
+    <string name="headset_connect_player_bt">Khi tai nghe BT được kết nối</string>
+    <string name="headset_connect_player_both_no_carkit">Khi tai nghe có dây hoặc tai nghe BT (không có bộ phụ kiện xe hơi) được kết nối</string>
+    <string name="headset_connect_player_both">Khi tai nghe có dây hoặc tai nghe BT được kết nối</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">Cấu hình USB</string>
     <string name="usb_default_config_summary">Chọn hành vi mặc định khi được kết nối với thiết bị qua USB</string>
@@ -647,12 +647,12 @@
     <string name="alarm_list_header">Các cảnh báo có sẵn</string>
     <string name="alarm_blocker_reload">Tải lại</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Gaming Mode</string>
-    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
-    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
-    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
-    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
-    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
+    <string name="gaming_mode_title">Chế độ Trò chơi</string>
+    <string name="gaming_mode_summary">Tùy chỉnh tùy chọn chế độ trò chơi</string>
+    <string name="gaming_mode_master_title">Kích hoạt tính năng chế độ trò chơi</string>
+    <string name="gaming_mode_master_summary">Cho phép tùy chỉnh cài đặt chế độ trò chơi</string>
+    <string name="gaming_mode_app_picker_title">Tự động bật cho các ứng dụng này</string>
+    <string name="add_gaming_mode_package_title">Thêm ứng dụng cho chế độ trò chơi</string>
     <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
     <string name="gaming_mode_headsup_title">Block notifications</string>
     <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
