@@ -653,23 +653,23 @@
     <string name="gaming_mode_master_summary">Cho phép tùy chỉnh cài đặt chế độ trò chơi</string>
     <string name="gaming_mode_app_picker_title">Tự động bật cho các ứng dụng này</string>
     <string name="add_gaming_mode_package_title">Thêm ứng dụng cho chế độ trò chơi</string>
-    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
-    <string name="gaming_mode_headsup_title">Block notifications</string>
-    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
-    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
-    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
-    <string name="gaming_mode_gestures_title">Disable gestures</string>
-    <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
-    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
+    <string name="add_gaming_mode_package_summary">Chế độ trò chơi sẽ tự động bật cho những ứng dụng đã chọn.</string>
+    <string name="gaming_mode_headsup_title">Chặn thông báo</string>
+    <string name="gaming_mode_headsup_summary">Chặn tất cả các thông báo nổi ngoại trừ cuộc gọi.</string>
+    <string name="gaming_mode_hardware_keys_title">Khóa phím</string>
+    <string name="gaming_mode_hardware_keys_summary">Vô hiệu hóa phím cứng khi chế độ trò chơi được bật.</string>
+    <string name="gaming_mode_gestures_title">Vô hiệu hóa cử chỉ</string>
+    <string name="gaming_mode_gestures_summary">Vô hiệu hóa cử chỉ điều hướng khi chế độ trò chơi được bật.</string>
+    <string name="gaming_mode_brightness_title">Tắt độ sáng tự động</string>
+    <string name="gaming_mode_brightness_summary">Khóa độ sáng màn hình khi chế độ trò chơi được bật.</string>
     <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
-    <string name="gaming_mode_ringer_off_title">Do not change</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
-    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
-    <string name="gaming_mode_ringer_silent_title">Silent</string>
-    <string name="gaming_mode_notifications_title">Notifications</string>
-    <string name="gaming_mode_notifications_off_title">Disabled</string>
-    <string name="gaming_mode_notifications_notif_title">Show notification</string>
+    <string name="gaming_mode_ringer_off_title">Không thay đổi</string>
+    <string name="gaming_mode_ringer_vibrate_title">Rung</string>
+    <string name="gaming_mode_ringer_dnd_title">Không làm phiền</string>
+    <string name="gaming_mode_ringer_silent_title">Im lặng</string>
+    <string name="gaming_mode_notifications_title">Thông báo</string>
+    <string name="gaming_mode_notifications_off_title">Đã tắt</string>
+    <string name="gaming_mode_notifications_notif_title">Hiện thông báo</string>
     <string name="gaming_mode_notifications_toast_title">Show toasts</string>
     <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
     <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
@@ -678,6 +678,6 @@
     <string name="force_expanded_notifications_title">Force expanded notifications</string>
     <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
+    <string name="allow_signature_fake">Cho phép giả mạo chữ ký</string>
     <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
 </resources>
