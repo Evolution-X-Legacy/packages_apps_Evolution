@@ -671,13 +671,13 @@
     <string name="gaming_mode_notifications_off_title">Disabilitato</string>
     <string name="gaming_mode_notifications_notif_title">Mostra notifiche</string>
     <string name="gaming_mode_notifications_toast_title">Mostra notifiche toast</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_notifications_all_title">Mostra notifiche toast e notifiche regolari</string>
+    <string name="gaming_mode_dynamic_title">Modalità gaming dinamica</string>
+    <string name="gaming_mode_dynamic_summary">Ogni volta che apri un\'app e viene rilevata come gioco dal sistema, sarà aggiunta nella lista dei giochi automaticamente. Potrebbe non funzionare per ogni app.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">Forza notifiche estese</string>
+    <string name="force_expanded_notifications_summary">Forza le app che supportano le notifiche estese</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">Consenti l\'elusione della firma dell\'app</string>
+    <string name="allow_signature_fake_summary">Consenti alle app di aggirare i sistemi di sicurezza facendo finta di essere un\'altra app.</string>
 </resources>
