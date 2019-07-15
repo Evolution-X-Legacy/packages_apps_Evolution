@@ -660,9 +660,9 @@
     <string name="gaming_mode_hardware_keys_summary">Vô hiệu hóa phím cứng khi chế độ trò chơi được bật.</string>
     <string name="gaming_mode_gestures_title">Vô hiệu hóa cử chỉ</string>
     <string name="gaming_mode_gestures_summary">Vô hiệu hóa cử chỉ điều hướng khi chế độ trò chơi được bật.</string>
-    <string name="gaming_mode_brightness_title">Tắt độ sáng tự động</string>
+    <string name="gaming_mode_brightness_title">Vô hiệu hóa độ sáng tự động</string>
     <string name="gaming_mode_brightness_summary">Khóa độ sáng màn hình khi chế độ trò chơi được bật.</string>
-    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
+    <string name="gaming_mode_ringer_title">Chuông trong chế độ trò chơi</string>
     <string name="gaming_mode_ringer_off_title">Không thay đổi</string>
     <string name="gaming_mode_ringer_vibrate_title">Rung</string>
     <string name="gaming_mode_ringer_dnd_title">Không làm phiền</string>
@@ -670,10 +670,10 @@
     <string name="gaming_mode_notifications_title">Thông báo</string>
     <string name="gaming_mode_notifications_off_title">Đã tắt</string>
     <string name="gaming_mode_notifications_notif_title">Hiện thông báo</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_notifications_toast_title">Hiện thông báo nhanh</string>
+    <string name="gaming_mode_notifications_all_title">Hiện thông báo nhanh và thông báo</string>
+    <string name="gaming_mode_dynamic_title">Chế độ trò chơi Dynamic</string>
+    <string name="gaming_mode_dynamic_summary">Bất cứ khi nào bạn mở bất kỳ ứng dụng nào và hệ thống thấy đó là một trò chơi, nó sẽ tự động được thêm vào danh sách trò chơi. Xin lưu ý rằng điều này không hoạt động cho mọi ứng dụng trò chơi.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Buộc mở rộng thông báo</string>
     <string name="force_expanded_notifications_summary">Bắt buộc các ứng dụng hỗ trợ mở rộng thông báo</string>
