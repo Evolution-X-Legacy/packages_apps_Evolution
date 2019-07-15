@@ -198,9 +198,9 @@
     <string name="qs_tile_animation_style_off">Bez animace</string>
     <string name="qs_tile_animation_style_flip">Překlopení</string>
     <string name="qs_tile_animation_style_rotate">Otočení</string>
-    <string name="qs_tile_animation_duration_low">Pomalu</string>
+    <string name="qs_tile_animation_duration_low">Malá</string>
     <string name="qs_tile_animation_duration_default">Výchozí</string>
-    <string name="qs_tile_animation_duration_fast">Rychle</string>
+    <string name="qs_tile_animation_duration_fast">Rychlá</string>
     <string name="qs_tile_animation_interpolator_linearInterpolator">Lineární</string>
     <string name="qs_tile_animation_interpolator_accelerateInterpolator">Zrychlení</string>
     <string name="qs_tile_animation_interpolator_decelerateInterpolator">Zpomalení</string>
@@ -371,7 +371,7 @@
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (tučné)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Sammy se zvýrazněním</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy se zvýrazněním (staré)</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy se zvýrazněním (alt)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
     <string name="lockscreen_clock_selection_gradient_btlglogo">Gradientní hodiny (s logem bootleg)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">Gradientní hodiny (s logem shishu)</string>
@@ -387,7 +387,7 @@
     <string name="lockscreen_date_selection_str_accent">Zakulacené, jednoduché a s odstínem</string>
     <string name="lockscreen_date_selection_str_accent_day">Zakulacené, jednoduché a s odstínem (alt)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Zakulacené, průhledné a s odstínem</string>
-    <string name="lockscreen_date_selection_str_accent_transparent_day">Zakulacené, průhledné a s odstínem (staré)</string>
+    <string name="lockscreen_date_selection_str_accent_transparent_day">Zakulacené, průhledné a s odstínem (alt)</string>
     <string name="lockscreen_date_selection_str_gradient">Barevný přechod</string>
     <string name="lockscreen_date_selection_str_border_accent">Tmavé s okraji odstínu</string>
     <string name="lockscreen_date_selection_str_border_gradient">Tmavé s gradientními okraji</string>
