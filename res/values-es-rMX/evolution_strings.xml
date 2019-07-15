@@ -50,7 +50,7 @@
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_off">Apagado</string>
     <!-- Color Picker -->
-    <string name="dialog_color_picker">Selector de color</string>
+    <string name="dialog_color_picker">Selección de color</string>
     <string name="press_color_to_apply">Pulse en el color de abajo para aplicar</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
@@ -70,8 +70,8 @@
     <string name="status_bar_battery_percentage_text_inside">Dentro del icono</string>
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">Diseño de la batería de la barra de estado</string>
-    <string name="status_bar_battery_style_port">Vertical/Por defecto</string>
-    <string name="status_bar_battery_style_q">Estilo Q</string>
+    <string name="status_bar_battery_style_port">Retrato</string>
+    <string name="status_bar_battery_style_q">Diseño Q</string>
     <string name="status_bar_battery_style_circle">Círculo</string>
     <string name="status_bar_battery_style_dotted_circle">Círculo punteado</string>
     <string name="status_bar_battery_style_big_circle">Círculo grande</string>
