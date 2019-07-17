@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Ogni due minuti</string>
     <string name="incall_notifications_vibrate">Notifiche meno fastidiose per le chiamate in corso</string>
     <string name="incall_notifications_vibrate_summary">Vibra invece di suonare per le notifiche durante le chiamate</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Ticker musicale Ambient</string>
     <string name="force_ambient_for_media_pref_summary">Configura il ticker musicale Ambient</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker mostra le informazioni della traccia musicale all\'interno della schermata Ambient display.\n\nSi attiva anche se Ambient Display è disabilitato quando viene avviata una nuova traccia, forzando una schermata Ambient vuota con le informazioni sulla traccia nel mezzo dello schermo.\n\nPuoi anche toccare due volte sulle informazioni sulla traccia per saltarla.</string>
     <string name="force_ambient_for_media_title">Attiva</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Orologio</string>
     <string name="status_bar_clock">Orologio e data</string>
