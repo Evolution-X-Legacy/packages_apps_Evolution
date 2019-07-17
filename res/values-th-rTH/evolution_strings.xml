@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">ทุกๆ 2 นาที</string>
     <string name="incall_notifications_vibrate">ลดการแจ้งเตือนระหว่างการโทร</string>
     <string name="incall_notifications_vibrate_summary">สั่นเตือนแทนการเล่นเสียงการแจ้งเตือนขณะคุยโทรศัพท์</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">แสดงรายละเอียดเพลงบนจอ Ambient</string>
     <string name="force_ambient_for_media_pref_summary">ปรับการแสดงรายละเอียดเพลงบนจอ Ambient</string>
     <string name="ambient_ticker_footer">หน้าจอAmbianจะแสดงเพลงที่กำลังเล่นพร้อมรายละเอียด\n\nถ้าปิดการใช้งานเมื่อเริ่มต้นเพลงใหม่จะแสดงข้อมูลที่กลางจอ\n\nสามารถแตะ2ครั้งที่ข้อมูลเพื่อข้ามเพลงใด้</string>
     <string name="force_ambient_for_media_title">เปิดใช้งาน</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">นาฬิกา</string>
     <string name="status_bar_clock">วัน &amp; เวลา</string>
