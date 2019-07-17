@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">Skonfiguruj znacznik muzyki</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker pokazuje informacje o odtwarzanej muzyce w ekranie Ambient Display.\n\nZostanie także pokazany, jeśli ekran Ambient Display jest wyłączony i zostanie odtworzony nowy utwór, wyświetlając czysty ekran Ambient z informacjami o utworze na środku ekranu.\n\nMożesz także nacisnąć dwukrotnie informacje o utworze, aby go przeskoczyć.</string>
     <string name="force_ambient_for_media_title">Włącz</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Muzyka nastrojowa</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Zegar</string>
     <string name="status_bar_clock">Data i czas</string>
