@@ -52,8 +52,8 @@
     <!-- Color Picker -->
     <string name="dialog_color_picker">拾色器</string>
     <string name="press_color_to_apply">选取并应用颜色</string>
-    <string name="arrow_right">向右</string>
-    <string name="arrow_down">向下</string>
+    <string name="arrow_right">→</string>
+    <string name="arrow_down">↓</string>
     <string name="hex">十六进制：</string>
     <string name="hex_hint">#ff000000</string>
     <string name="set">应用</string>
@@ -123,7 +123,7 @@
     <string name="less_notification_sounds_10s">每10秒</string>
     <string name="less_notification_sounds_30s">每30秒</string>
     <string name="less_notification_sounds_1m">每1分钟</string>
-    <string name="less_notification_sounds_2m">每2分钟</string>
+    <string name="less_notification_sounds_2m">每 2 分钟</string>
     <string name="incall_notifications_vibrate">减少来电通知频率</string>
     <string name="incall_notifications_vibrate_summary">来电时振动而不是响铃</string>
     <!-- Ambient Music Ticker -->
@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">息屏音乐信息配置</string>
     <string name="ambient_ticker_footer">环境音乐收录器显示在环境显示屏幕内播放音乐曲目信息。\n\n如果在启动新曲目时禁用环境显示，则会触发此操作，从而在屏幕中间强制显示带有曲目信息的干净环境屏幕。\n\n您也可以双击轨道信息以跳过轨道。</string>
     <string name="force_ambient_for_media_title">启用</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">周围环境音乐</string>
     <!-- Status bar clock options -->
     <string name="clock_category">时钟</string>
     <string name="status_bar_clock">时钟和日期</string>
