@@ -648,7 +648,7 @@
     <string name="alarm_list_header">Các cảnh báo có sẵn</string>
     <string name="alarm_blocker_reload">Tải lại</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Chế độ Trò chơi</string>
+    <string name="gaming_mode_title">Chế độ trò chơi</string>
     <string name="gaming_mode_summary">Tùy chỉnh tùy chọn chế độ trò chơi</string>
     <string name="gaming_mode_master_title">Kích hoạt tính năng chế độ trò chơi</string>
     <string name="gaming_mode_master_summary">Cho phép tùy chỉnh cài đặt chế độ trò chơi</string>
