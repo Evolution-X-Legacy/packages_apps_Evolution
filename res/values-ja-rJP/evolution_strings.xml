@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">2分毎</string>
     <string name="incall_notifications_vibrate">迷惑な着信通知を減らす</string>
     <string name="incall_notifications_vibrate_summary">通話中は通知サウンドの代わりに振動させる</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">アンビエント音楽ティッカー</string>
     <string name="force_ambient_for_media_pref_summary">アンビエント音楽ティッカーを設定する</string>
     <string name="ambient_ticker_footer">アンビエント音楽ティッカーはアンビエント表示内で再生中の楽曲情報を表示します。\n\nアンビエント表示が無効になっていても新しい曲が開始された時に起動し、アンビエント表示と楽曲情報を画面中央に強制表示します。\n\n楽曲情報をダブルタップして曲をスキップできます。</string>
     <string name="force_ambient_for_media_title">有効</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">時計</string>
     <string name="status_bar_clock">時計と日付</string>
