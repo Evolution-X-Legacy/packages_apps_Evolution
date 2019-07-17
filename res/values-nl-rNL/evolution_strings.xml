@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Elke 2 minuten</string>
     <string name="incall_notifications_vibrate">Minder irritante notificaties tijdens het bellen</string>
     <string name="incall_notifications_vibrate_summary">Laat notificaties het apparaat trillen in plaats van geluid afspelen tijdens het bellen</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Ambiente muziekticker</string>
     <string name="force_ambient_for_media_pref_summary">Ambiente muziekticker instellingen</string>
     <string name="ambient_ticker_footer">Toont huidige muziektrack-info op inactiviteitsdisplay.\n\nHet display wordt ook geactiveerd als een nieuw nummer is gestart; dit zorgt voor een leeg inactiviteitsdisplay met de trackinfo in het midden van het scherm.\n\nU kunt ook op de trackinfo dubbeltikken om het nummer over te slaan.</string>
     <string name="force_ambient_for_media_title">Inschakelen</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Klok</string>
     <string name="status_bar_clock">Klok en Datum</string>
