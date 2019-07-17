@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Toutes les 2 minutes</string>
     <string name="incall_notifications_vibrate">Moins de notifications gênantes pendant un appel</string>
     <string name="incall_notifications_vibrate_summary">Vibrer au lieu d\'émettre un son pour les notifications lors des appels</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Afficher les infos du média en mode Veille</string>
     <string name="force_ambient_for_media_pref_summary">Configurer les infos du média en mode Veille</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
     <string name="force_ambient_for_media_title">Activé</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Horloge</string>
     <string name="status_bar_clock">Horloge et date</string>
