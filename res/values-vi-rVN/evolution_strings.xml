@@ -31,7 +31,7 @@
     <string name="notifications_title">Thông báo</string>
     <string name="powermenu_title">Menu nguồn</string>
     <string name="quicksettings_title">Cài đặt nhanh</string>
-    <string name="qs_style_category">Chủ đề QS</string>
+    <string name="qs_style_category">Chủ đề cài đặt nhanh</string>
     <string name="statusbar_title">Thanh trạng thái</string>
     <string name="volume_title">Phím Âm lượng</string>
     <!-- Summaries -->
@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Mỗi 2 phút</string>
     <string name="incall_notifications_vibrate">Thông báo trong cuộc gọi ít phiền toái hơn</string>
     <string name="incall_notifications_vibrate_summary">Rung thay vì phát một âm thanh thông báo trong cuộc gọi</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Thẻ âm nhạc xem nhanh</string>
     <string name="force_ambient_for_media_pref_summary">Cấu hình thẻ âm nhạc xem nhanh</string>
     <string name="ambient_ticker_footer">Thẻ âm nhạc xem nhanh hiện thông tin bản nhạc đang phát với màn hình xem nhanh.\n\nNó cũng được kích hoạt khi màn hình xem nhanh đã tắt khi bản nhạc mới bắt đầu, hiện màn hình xem nhanh sạch sẽ với thông tin bản nhạc ở giữa màn hình.\n\nBạn cũng có thể nhấn đúp lên thông tin bản nhạc để bỏ qua bài đó.</string>
     <string name="force_ambient_for_media_title">Kích hoạt</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Đồng hồ</string>
     <string name="status_bar_clock">Đồng hồ và ngày</string>
@@ -491,7 +492,7 @@
     <string name="cursor_section_header">Con trỏ</string>
     <string name="volume_key_cursor_control_title">Điều khiển con trỏ bằng phím âm lượng</string>
     <string name="volume_key_cursor_control_off">Đã tắt</string>
-    <string name="volume_key_cursor_control_on">Âm lượng lên/xuống di chuyển trỏ chuột sang trái/phải</string>
+    <string name="volume_key_cursor_control_on">Tăng/Giảm âm lượng di chuyển con trỏ sang trái/phải</string>
     <string name="volume_key_cursor_control_on_reverse">Tăng/Giảm âm lượng di chuyển con trỏ sang phải/trái</string>
     <!-- Doze settings editor -->
     <string name="advanced_doze_settings">Doze nâng cao</string>
@@ -619,7 +620,7 @@
     <string name="hardware_keys_appswitch_key_title">Nút Tổng quan</string>
     <string name="hardware_keys_back_key_title">Nút Quay lại</string>
     <string name="hardware_keys_double_tap_summary">Đặt hành động khi nhấn đúp</string>
-    <string name="hardware_keys_single_tap_summary">Đặt hành động khi chạm một lần</string>
+    <string name="hardware_keys_single_tap_summary">Đặt hành động khi nhấn một lần</string>
     <string name="hardware_keys_long_press_summary">Đặt hành động khi nhấn giữ</string>
     <string name="hardware_keys_single_tap_title">Hành động khi nhấn một lần</string>
     <string name="hardware_keys_long_press_title">Hành động khi nhấn giữ</string>
