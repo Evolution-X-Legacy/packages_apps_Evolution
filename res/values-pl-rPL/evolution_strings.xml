@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Co 2 minuty</string>
     <string name="incall_notifications_vibrate">Mniej irytujące powiadomienia w czasie połączeń głosowych</string>
     <string name="incall_notifications_vibrate_summary">Wibracje zamiast odtwarzania dźwięku dla powiadomień podczas połączenia</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Nazwa utworu na ekranie Ambient</string>
     <string name="force_ambient_for_media_pref_summary">Skonfiguruj znacznik muzyki</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker pokazuje informacje o odtwarzanej muzyce w ekranie Ambient Display.\n\nZostanie także pokazany, jeśli ekran Ambient Display jest wyłączony i zostanie odtworzony nowy utwór, wyświetlając czysty ekran Ambient z informacjami o utworze na środku ekranu.\n\nMożesz także nacisnąć dwukrotnie informacje o utworze, aby go przeskoczyć.</string>
     <string name="force_ambient_for_media_title">Włącz</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Zegar</string>
     <string name="status_bar_clock">Data i czas</string>
@@ -667,14 +668,14 @@
     <string name="gaming_mode_notifications_title">Powiadomienia</string>
     <string name="gaming_mode_notifications_off_title">Wyłączone</string>
     <string name="gaming_mode_notifications_notif_title">Pokaż powiadomienia</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_notifications_toast_title">Pokaż małe powiadomienie</string>
+    <string name="gaming_mode_notifications_all_title">Pokaż zwykłe i małe powiadomienie</string>
+    <string name="gaming_mode_dynamic_title">Dynamiczny tryb gier</string>
+    <string name="gaming_mode_dynamic_summary">Za każdym razem, gdy otworzysz dowolną aplikację, a system uzna ją za grę, zostanie ona automatycznie dodana do listy gier. Pamiętaj, że nie działa to w przypadku każdej aplikacji do gier.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">Wymuś rozwinięte powiadomienia</string>
+    <string name="force_expanded_notifications_summary">Wymuszaj aplikacje obsługujące rozszerzone powiadomienia</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">Pozwól na fałszowanie podpisu</string>
+    <string name="allow_signature_fake_summary">Zezwalaj aplikacji na ominięcie zabezpieczeń systemu poprzez udawanie innej aplikacji.</string>
 </resources>
