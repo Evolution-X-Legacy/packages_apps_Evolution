@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Кожні 2 хвилини</string>
     <string name="incall_notifications_vibrate">Менше дратуючих сповіщень під час дзвінка</string>
     <string name="incall_notifications_vibrate_summary">Тільки вібрація повідомлень під час дзвінка</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Функція «Зараз грає»</string>
     <string name="force_ambient_for_media_pref_summary">Налаштування Ambient music ticker</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker відображає інформацію про поточний трек для Ambient Display.\n\nВін також запускається, якщо Ambient Display вимкнений, коли починається новий трек й вмикає Ambient Display з інформацією про трек на середені екрану.\n\nВи також можете натиснути двічі на інформацію про трек, щоб пропустити його.</string>
     <string name="force_ambient_for_media_title">Активувати</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Годинник</string>
     <string name="status_bar_clock">Годинник та дата</string>
