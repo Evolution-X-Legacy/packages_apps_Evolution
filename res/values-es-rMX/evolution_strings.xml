@@ -71,7 +71,7 @@
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">Diseño de la batería de la barra de estado</string>
     <string name="status_bar_battery_style_port">Retrato</string>
-    <string name="status_bar_battery_style_q">Diseño Q</string>
+    <string name="status_bar_battery_style_q">Estilo Q</string>
     <string name="status_bar_battery_style_circle">Círculo</string>
     <string name="status_bar_battery_style_dotted_circle">Círculo punteado</string>
     <string name="status_bar_battery_style_big_circle">Círculo grande</string>
@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">Configura el ticker de musica ambiente</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker muestra la información de la pista de música en reproducción en la pantalla de visualización de Ambiente. Se dispara también si la Visualización de ambiente se desactiva cuando se inicia una nueva pista, forzando una pantalla de ambiente limpio con ingenio.</string>
     <string name="force_ambient_for_media_title">Activado</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Música ambiente</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Reloj</string>
     <string name="status_bar_clock">Fecha y Hora</string>
