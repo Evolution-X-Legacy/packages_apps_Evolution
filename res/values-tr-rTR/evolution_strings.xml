@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Her 2 dakikada</string>
     <string name="incall_notifications_vibrate">Arama sırasında daha az bildirimler</string>
     <string name="incall_notifications_vibrate_summary">Arama sırasındaki bildirimler için bildirim sesi çalmak yerine titret</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Ortam müzik bilgisi</string>
     <string name="force_ambient_for_media_pref_summary">Ortam ekranında müzik bilgisini yapılandırma</string>
     <string name="ambient_ticker_footer">Ortam ekranı müzik bilgisi, ortam ekranında müzik parça bilgilerini gösterir.\n\nYeni bir parça başlatıldığında ortam ekranı devre dışı bırakılmışsa, ekranın ortasında parça bilgisi içeren temiz bir ortam ekranına zorlamak için de kullanılır.\n\nParçayı atlamak için parça bilgisine de iki kez dokunabilirsiniz.</string>
     <string name="force_ambient_for_media_title">Etkinleştir</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Saat</string>
     <string name="status_bar_clock">Saat ve tarih</string>
