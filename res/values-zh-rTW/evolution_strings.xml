@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">每 2 分鐘</string>
     <string name="incall_notifications_vibrate">通話中靜音通知</string>
     <string name="incall_notifications_vibrate_summary">通話時以振動替代通知音效</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">微光螢幕音樂指示器</string>
     <string name="force_ambient_for_media_pref_summary">設定微光螢幕音樂指示器</string>
     <string name="ambient_ticker_footer">微光螢幕音樂指示器將於微光螢幕顯示目前播放中的音樂資訊\n\n就算未啟用微光螢幕，音樂切換時，仍將於螢幕中間顯示微光螢幕音樂指示器。\n\n您可輕觸兩下跳過目前播放中的音樂。</string>
     <string name="force_ambient_for_media_title">啟用</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">時鐘</string>
     <string name="status_bar_clock">時鐘與日期</string>
