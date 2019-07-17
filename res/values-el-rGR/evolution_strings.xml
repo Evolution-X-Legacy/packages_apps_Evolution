@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Κάθε 2 λεπτά</string>
     <string name="incall_notifications_vibrate">Λιγότερες ειδοποιήσεις κατά την διάρκεια των κλήσεων</string>
     <string name="incall_notifications_vibrate_summary">Δόνηση αντί αναπαραγωγή ένος ήχου για ειδοποιήσεις κατά τη διάρκεια κλήσεων</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Επιλογέας μουσικής οθόνης περιβάλλοντος</string>
     <string name="force_ambient_for_media_pref_summary">Διαμόρφωση του επιλογέα μουσικής οθόνης περιβάλλοντος</string>
     <string name="ambient_ticker_footer">Η επιλογή Μουσικής Οθόνης Περιβάλλοντος εμφανίζει το κομμάτι που παίζει και επιτρέπει να παρακολουθείτε πληροφορίες μέσα στην οθόνη.\n\n Ενεργοποιείται επίσης, άν η οθόνη περιβάλλοντος είναι απενεργοποιημένη κατά την εκκίνηση ένα νέου κομματιού, εμφανίζεται σε νέα οθόνη με πληροφορίες κομματιού στη μέση της οθόνης.\n\n Μπορείτε επίσης να προσπεράσετε ένα κομμάτι με διπλό πάτημα πάνω στις πληροφορίες.</string>
     <string name="force_ambient_for_media_title">Ενεργοποίηση</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Ρολόι</string>
     <string name="status_bar_clock">Ώρα και Ημερομηνία</string>
