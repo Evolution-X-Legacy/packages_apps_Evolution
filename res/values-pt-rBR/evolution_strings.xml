@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">A cada 2 minutos</string>
     <string name="incall_notifications_vibrate">Notificações de chamadas menos irritantes</string>
     <string name="incall_notifications_vibrate_summary">Vibrar em vez de reproduzir um som para notificações durante as chamadas</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Ícone de Música em Ambiente</string>
     <string name="force_ambient_for_media_pref_summary">Configurar o ícone de música ambiente</string>
     <string name="ambient_ticker_footer">O Ambient Music Ticker mostra a informação da música sendo tocada dentro da tela de exibição ambiente.\n\nEle também é acionado se a Exibição Ambiente está desativada quando uma nova faixa é iniciada, forçando uma tela ambiente limpa com informações da faixa no meio da tela.\n\nVocê também pode tocar duas vezes nas informações da faixa para pular a música.</string>
     <string name="force_ambient_for_media_title">Ativar</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Relógio</string>
     <string name="status_bar_clock">Relógio e Data</string>
