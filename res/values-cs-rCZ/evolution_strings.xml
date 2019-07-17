@@ -127,11 +127,11 @@
     <string name="incall_notifications_vibrate">Méně obtěžující oznámení během hovoru</string>
     <string name="incall_notifications_vibrate_summary">Vibrace namísto přehrávání zvuku pro oznámení během hovoru</string>
     <!-- Ambient Music Ticker -->
-    <string name="force_ambient_for_media_pref_title">Hudební oznámení na Ambientním displeji</string>
+    <string name="force_ambient_for_media_pref_title">Text oznámení okolní hudby</string>
     <string name="force_ambient_for_media_pref_summary">Nastavení hudebního oznámení na Ambientním displeji</string>
     <string name="ambient_ticker_footer">Hudební oznámení na Ambientním displeji zobrazuje informace o přehrávaných skladbách.\n\nJe spuštěno i v případě, že je při spuštění nové skladby zakázán Ambientní displej, což znamená, že se uprostřed obrazovky zobrazí informace o přehrávané skladbě.\n\nMůžete také dvojitým klepnutím na informaci o skladbě skladbu přeskočit.</string>
-    <string name="force_ambient_for_media_title">Zapnout</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="force_ambient_for_media_title">Zobrazit hudební oznámení na zamčené obrazovce</string>
+    <string name="ambient_title">Okolní hudba</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Hodiny</string>
     <string name="status_bar_clock">Hodiny a datum</string>
