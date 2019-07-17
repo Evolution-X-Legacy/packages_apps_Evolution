@@ -126,11 +126,12 @@
     <string name="less_notification_sounds_2m">Setiap 2 menit</string>
     <string name="incall_notifications_vibrate">Mengurangi notifikasi ketika telefon</string>
     <string name="incall_notifications_vibrate_summary">Pemberitahuan getar daripada dering saat telepon</string>
-    <!-- Ambient display music ticker -->
+    <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Ticker musik sekitar</string>
     <string name="force_ambient_for_media_pref_summary">Mengkonfigurasi tampilan musik sekitar</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker menampilkan informasi trekmusik yang dimainkan dengan tampilan layar Ambient.\n\nIni juga terpicu jika Tampilan Ambien dimatikan saat trek baru dimulai, memaksa membersihkan layar ambien dengan informasi trek di tengah layar.\n\nKamu juga bisa mengetuk dua kali pada info trek untuk melewati trek.</string>
     <string name="force_ambient_for_media_title">Aktif</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Jam</string>
     <string name="status_bar_clock">Jam dan Tanggal</string>
