@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">Cấu hình thẻ âm nhạc xem nhanh</string>
     <string name="ambient_ticker_footer">Thẻ âm nhạc xem nhanh hiện thông tin bản nhạc đang phát với màn hình xem nhanh.\n\nNó cũng được kích hoạt khi màn hình xem nhanh đã tắt khi bản nhạc mới bắt đầu, hiện màn hình xem nhanh sạch sẽ với thông tin bản nhạc ở giữa màn hình.\n\nBạn cũng có thể nhấn đúp lên thông tin bản nhạc để bỏ qua bài đó.</string>
     <string name="force_ambient_for_media_title">Kích hoạt</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Âm nhạc xung quanh</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Đồng hồ</string>
     <string name="status_bar_clock">Đồng hồ và ngày</string>
@@ -402,7 +402,7 @@
     <string name="qs_tile_style_title">Kiểu biểu tượng ô cài đặt nhanh</string>
     <string name="qstile_default">Mặc định</string>
     <string name="qstile_circle_trim">Vòng tròn có viền</string>
-    <string name="qstile_dual_tone_circle">Vòng tròn hai tông màu</string>
+    <string name="qstile_dual_tone_circle">Vòng tròn có viền hai tông màu</string>
     <string name="qstile_squircle_trim">Hình vuông bo tròn có viền</string>
     <string name="qstile_circle_gradient">Vòng tròn với Gradient</string>
     <string name="qstile_cookie">Bánh quy</string>
