@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">Configurar o ícone de música ambiente</string>
     <string name="ambient_ticker_footer">O Ambient Music Ticker mostra a informação da música sendo tocada dentro da tela de exibição ambiente.\n\nEle também é acionado se a Exibição Ambiente está desativada quando uma nova faixa é iniciada, forçando uma tela ambiente limpa com informações da faixa no meio da tela.\n\nVocê também pode tocar duas vezes nas informações da faixa para pular a música.</string>
     <string name="force_ambient_for_media_title">Ativar</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Música Ambiente</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Relógio</string>
     <string name="status_bar_clock">Relógio e Data</string>
@@ -681,4 +681,8 @@
     <!-- Allow fake signature -->
     <string name="allow_signature_fake">Permitir falsificação de assinatura</string>
     <string name="allow_signature_fake_summary">Permitir que apps ignorem sistemas de segurança fingindo ser um aplicativo diferente.</string>
+    <!-- Screenshot type -->
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Full</string>
+    <string name="screenshot_type_partial">Partial</string>
 </resources>
