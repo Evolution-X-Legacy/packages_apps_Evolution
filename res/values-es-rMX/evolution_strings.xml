@@ -81,7 +81,7 @@
     <!-- Power Menu -->
     <string name="powermenu_category_title">Menu de arranque alterno</string>
     <string name="powermenu_screenshot">Captura de pantalla</string>
-    <string name="powermenu_power">Poder</string>
+    <string name="powermenu_power">Encender</string>
     <string name="powermenu_restart">Reiniciar</string>
     <string name="powermenu_restart_recovery">Reinicio avanzado</string>
     <string name="powermenu_airplane">Avión</string>
@@ -682,7 +682,7 @@
     <string name="allow_signature_fake">Permitir signature spoofing</string>
     <string name="allow_signature_fake_summary">Permitir a las aplicaciones traspasar el sistema de seguridad pretendiendo ser otra aplicacion.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Tipo de captura de pantalla</string>
+    <string name="screenshot_type_fullscreen">completo</string>
+    <string name="screenshot_type_partial">Parcial</string>
 </resources>
