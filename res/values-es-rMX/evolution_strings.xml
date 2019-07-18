@@ -538,7 +538,7 @@
     <string name="SHORT_LOCATING_TIMEOUT">Tiempo de localización</string>
     <string name="SHORT_LOCATION_ACCURACY">Precisión de ubicación</string>
     <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Tiempo de espera inactivo de movimiento</string>
-    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Idle después de tiempo inactivo</string>
+    <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Luz inactiva después de tiempo de espera</string>
     <string name="SHORT_IDLE_PENDING_TIMEOUT">Tiempo de espera inactivo</string>
     <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Tiempo máximo inactivo pendiente</string>
     <string name="SHORT_IDLE_PENDING_FACTOR">Factor de inactivo pendiente</string>
