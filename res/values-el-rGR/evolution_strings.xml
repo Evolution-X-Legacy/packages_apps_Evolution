@@ -462,7 +462,7 @@
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Εκκίνηση εφαρμογής μουσικής</string>
     <string name="headset_connect_player_disabled">Απενεργοποιημένο</string>
-    <string name="headset_connect_player_wired">Όταν είναι συνδεδεμένα τα ασύρματα ακουστικά</string>
+    <string name="headset_connect_player_wired">Όταν είναι συνδεδεμένα τα ενσύρματα ακουστικά</string>
     <string name="headset_connect_player_bt_no_carkit">Όταν τα ακουστικά BT (όχι carkit) είναι συνδεδεμένα</string>
     <string name="headset_connect_player_bt">Όταν τα ακουστικά BT είναι συνδεδεμένα</string>
     <string name="headset_connect_player_both_no_carkit">Όταν τα ενσύρματα ή BT ακουστικά (όχι carkit) είναι συνδεδεμένα</string>
