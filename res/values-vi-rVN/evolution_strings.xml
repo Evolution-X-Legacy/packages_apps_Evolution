@@ -681,4 +681,8 @@
     <!-- Allow fake signature -->
     <string name="allow_signature_fake">Cho phép giả mạo chữ ký</string>
     <string name="allow_signature_fake_summary">Cho phép các ứng dụng bỏ qua các hệ thống bảo mật bằng cách giả vờ là một ứng dụng khác.</string>
+    <!-- Screenshot type -->
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Full</string>
+    <string name="screenshot_type_partial">Partial</string>
 </resources>
