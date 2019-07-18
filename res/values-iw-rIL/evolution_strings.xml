@@ -668,18 +668,18 @@
     <string name="gaming_mode_notifications_title">התראות</string>
     <string name="gaming_mode_notifications_off_title">מושבת</string>
     <string name="gaming_mode_notifications_notif_title">הצג התראות</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_notifications_toast_title">הצג הודעות טוסט</string>
+    <string name="gaming_mode_notifications_all_title">הצג הודעות טוסט והתראות</string>
+    <string name="gaming_mode_dynamic_title">מצב משחק דינמי</string>
+    <string name="gaming_mode_dynamic_summary">בכל פעם שאתה פותח יישום המערכת תבדוק אם זה משחק. אם כן, זה יתווסף אוטומטית רשימת המשחקים. לידיעתך, פעולה זו אינה פועלת עבור כל יישומי המשחקים.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">אלץ התראות מורחבות</string>
+    <string name="force_expanded_notifications_summary">אלץ יישומים אשר תומכים בהתראות מורחבות</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">אפשר זיוף חתימה</string>
+    <string name="allow_signature_fake_summary">אפשר ליישומים לעקוף מערכות אבטחה על ידי התחפשות ליישום שונה.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">סוג צילום מסך</string>
+    <string name="screenshot_type_fullscreen">מלא</string>
+    <string name="screenshot_type_partial">חלקי</string>
 </resources>
