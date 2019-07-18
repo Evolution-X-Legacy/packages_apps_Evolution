@@ -679,7 +679,7 @@
     <string name="allow_signature_fake">署名の偽装を許可</string>
     <string name="allow_signature_fake_summary">アプリが別のアプリになりすましてセキュリティシステムをバイパスできるようにする</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">スクリーンショットの種類</string>
+    <string name="screenshot_type_fullscreen">全画面</string>
+    <string name="screenshot_type_partial">一部</string>
 </resources>
