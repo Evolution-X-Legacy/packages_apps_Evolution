@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">Информация о текущем треке в режиме «Ambient Display»</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker отображает информацию о текущем треке используя «Ambient Display»\n\nСрабатывает также, если «Ambient Display» отключен при проигрывании нового трека, принудительно очищает экран и показывает информацию о треке в середине экрана.\n\nДля пропуска дважды коснитесь информации о треке.</string>
     <string name="force_ambient_for_media_title">Включить</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Сейчас играет</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Часы</string>
     <string name="status_bar_clock">Время и дата</string>
@@ -681,7 +681,7 @@
     <string name="allow_signature_fake">Разрешить подмену подписи</string>
     <string name="allow_signature_fake_summary">Разрешить приложениям обойти систему безопасности, выдавая себя за другое приложение.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Тип скриншота</string>
+    <string name="screenshot_type_fullscreen">Полный</string>
+    <string name="screenshot_type_partial">Частичный</string>
 </resources>
