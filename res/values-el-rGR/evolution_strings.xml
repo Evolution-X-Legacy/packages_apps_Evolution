@@ -462,7 +462,7 @@
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Εκκίνηση εφαρμογής μουσικής</string>
     <string name="headset_connect_player_disabled">Απενεργοποιημένο</string>
-    <string name="headset_connect_player_wired">Όταν είναι συνδεδεμένα τα ασύρματα ακουστικά</string>
+    <string name="headset_connect_player_wired">Όταν είναι συνδεδεμένα τα ενσύρματα ακουστικά</string>
     <string name="headset_connect_player_bt_no_carkit">Όταν τα ακουστικά BT (όχι carkit) είναι συνδεδεμένα</string>
     <string name="headset_connect_player_bt">Όταν τα ακουστικά BT είναι συνδεδεμένα</string>
     <string name="headset_connect_player_both_no_carkit">Όταν τα ενσύρματα ή BT ακουστικά (όχι carkit) είναι συνδεδεμένα</string>
@@ -679,7 +679,7 @@
     <string name="allow_signature_fake">Επιτρέψτε τις ψευδείς υπογραφές</string>
     <string name="allow_signature_fake_summary">Επέτρεψε στις εφαρμογές να παρακάμπτουν την ασφάλεια του συστήματος σαν άλλη εφαρμογή.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Τύπος στιγμιότυπου οθόνης</string>
+    <string name="screenshot_type_fullscreen">Πλήρης</string>
+    <string name="screenshot_type_partial">Μερικό</string>
 </resources>
