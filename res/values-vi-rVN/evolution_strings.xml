@@ -108,7 +108,7 @@
     <string name="qs_show_auto_brightness_title">Nút độ sáng thích nghi</string>
     <string name="qs_show_auto_brightness_summary">Hiển thị nút độ sáng thích nghi</string>
     <string name="qs_auto_brightness_right_title">Nút độ sáng thích nghi bên phải</string>
-    <string name="qs_auto_brightness_right_summary">Di chuyển nút độ sáng thích nghi sang bên phải của thanh điều chỉnh độ sáng</string>
+    <string name="qs_auto_brightness_right_summary">Di chuyển nút độ sáng thích ứng sang bên phải của thanh điều chỉnh độ sáng</string>
     <string name="qs_show_brightness_buttons_title">Nút điều chỉnh độ sáng</string>
     <string name="qs_show_brightness_buttons_summary">Hiện nút để tăng hoặc giảm độ sáng</string>
     <!-- Power menu on secure lockscreen -->
@@ -253,7 +253,7 @@
     <string name="volume_answer_call_summary">Trả lời cuộc gọi khi nhấn nút âm lượng</string>
     <!-- Old Style Mobile -->
     <string name="use_old_mobiletype_title">Sử dụng biểu tượng mạng di động cũ</string>
-    <string name="use_old_mobiletype_summary">Sử dụng biểu tượng mạng di động của Android O\nSystemUI sẽ khởi động lại</string>
+    <string name="use_old_mobiletype_summary">Sử dụng biểu tượng mạng di động của Android O\n SystemUI sẽ khởi động lại</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">Tên nhà mạng</string>
     <string name="carrier_label_settings_summary">Tùy chỉnh tên nhà mạng</string>
@@ -402,7 +402,7 @@
     <string name="qs_tile_style_title">Kiểu biểu tượng ô cài đặt nhanh</string>
     <string name="qstile_default">Mặc định</string>
     <string name="qstile_circle_trim">Vòng tròn có viền</string>
-    <string name="qstile_dual_tone_circle">Vòng tròn có viền hai tông màu</string>
+    <string name="qstile_dual_tone_circle">Vòng tròn hai tông màu</string>
     <string name="qstile_squircle_trim">Hình vuông bo tròn có viền</string>
     <string name="qstile_circle_gradient">Vòng tròn với Gradient</string>
     <string name="qstile_cookie">Bánh quy</string>
@@ -492,7 +492,7 @@
     <string name="cursor_section_header">Con trỏ</string>
     <string name="volume_key_cursor_control_title">Điều khiển con trỏ bằng phím âm lượng</string>
     <string name="volume_key_cursor_control_off">Đã tắt</string>
-    <string name="volume_key_cursor_control_on">Tăng/Giảm âm lượng di chuyển con trỏ sang trái/phải</string>
+    <string name="volume_key_cursor_control_on">Âm lượng lên/xuống di chuyển trỏ chuột sang trái/phải</string>
     <string name="volume_key_cursor_control_on_reverse">Tăng/Giảm âm lượng di chuyển con trỏ sang phải/trái</string>
     <!-- Doze settings editor -->
     <string name="advanced_doze_settings">Doze nâng cao</string>
@@ -648,7 +648,7 @@
     <string name="alarm_list_header">Các cảnh báo có sẵn</string>
     <string name="alarm_blocker_reload">Tải lại</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Chế độ trò chơi</string>
+    <string name="gaming_mode_title">Chế độ Trò chơi</string>
     <string name="gaming_mode_summary">Tùy chỉnh tùy chọn chế độ trò chơi</string>
     <string name="gaming_mode_master_title">Kích hoạt tính năng chế độ trò chơi</string>
     <string name="gaming_mode_master_summary">Cho phép tùy chỉnh cài đặt chế độ trò chơi</string>
@@ -682,7 +682,7 @@
     <string name="allow_signature_fake">Cho phép giả mạo chữ ký</string>
     <string name="allow_signature_fake_summary">Cho phép các ứng dụng bỏ qua các hệ thống bảo mật bằng cách giả vờ là một ứng dụng khác.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Kiểu chụp màn hình</string>
+    <string name="screenshot_type_fullscreen">Đầy đủ</string>
+    <string name="screenshot_type_partial">Một phần</string>
 </resources>
