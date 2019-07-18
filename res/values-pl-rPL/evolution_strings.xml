@@ -678,4 +678,8 @@
     <!-- Allow fake signature -->
     <string name="allow_signature_fake">Pozwól na fałszowanie podpisu</string>
     <string name="allow_signature_fake_summary">Zezwalaj aplikacji na ominięcie zabezpieczeń systemu poprzez udawanie innej aplikacji.</string>
+    <!-- Screenshot type -->
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Full</string>
+    <string name="screenshot_type_partial">Partial</string>
 </resources>
