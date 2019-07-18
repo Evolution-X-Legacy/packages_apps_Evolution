@@ -682,7 +682,7 @@
     <string name="allow_signature_fake">Consenti l\'elusione della firma dell\'app</string>
     <string name="allow_signature_fake_summary">Consenti alle app di aggirare i sistemi di sicurezza facendo finta di essere un\'altra app.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Tipo di screenshot</string>
+    <string name="screenshot_type_fullscreen">Pieno</string>
+    <string name="screenshot_type_partial">Parziale</string>
 </resources>
