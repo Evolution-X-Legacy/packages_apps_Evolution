@@ -21,7 +21,7 @@
     <!-- Categories -->
     <string name="aosp_gesture_title">AOSP Gestures</string>
     <string name="buttons_title">Pulsanti hardware</string>
-    <string name="gestures_title">Gesture</string>
+    <string name="gestures_title">Gestures</string>
     <string name="interface_category">Interfaccia</string>
     <string name="lockscreen_title">Schermata di sblocco</string>
     <string name="lockscreen_shortcuts_category">Collegamenti</string>
