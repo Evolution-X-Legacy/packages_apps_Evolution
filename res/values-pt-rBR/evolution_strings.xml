@@ -682,7 +682,7 @@
     <string name="allow_signature_fake">Permitir falsificação de assinatura</string>
     <string name="allow_signature_fake_summary">Permitir que apps ignorem sistemas de segurança fingindo ser um aplicativo diferente.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Tipo de captura de tela</string>
+    <string name="screenshot_type_fullscreen">Cheio</string>
+    <string name="screenshot_type_partial">Parcial</string>
 </resources>
