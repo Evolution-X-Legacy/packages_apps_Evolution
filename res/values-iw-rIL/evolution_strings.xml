@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">דמעה</string>
     <string name="qstile_badge">תג</string>
     <string name="qstile_badgetwo">תג כפול</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">הגדרות גופן שעון</string>
     <string name="lock_clock_font_summary">שנה את גופן ברירת המחדל של השעון במסך הנעילה</string>
