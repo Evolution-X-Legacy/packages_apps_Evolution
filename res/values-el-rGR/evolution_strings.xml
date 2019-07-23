@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Δάκρυ</string>
     <string name="qstile_badge">Έμβλημα</string>
     <string name="qstile_badgetwo">Έμβλημα δύο</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Ρυθμίσεις γραμματοσειράς ρολογιού</string>
     <string name="lock_clock_font_summary">Αλλάξτε την προεπιλεγμένη γραμματοσειρά του ρολογιού κλειδώματος οθόνης</string>
