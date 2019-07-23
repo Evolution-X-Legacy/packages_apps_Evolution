@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Gota</string>
     <string name="qstile_badge">Globo</string>
     <string name="qstile_badgetwo">Insignia 2</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Opciones de fuente para reloj</string>
     <string name="lock_clock_font_summary">Cambia la fuente por defecto en el reloj e la pantalla de bloqueo</string>
