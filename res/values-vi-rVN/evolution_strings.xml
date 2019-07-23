@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Hình giọt nước</string>
     <string name="qstile_badge">Huy hiệu</string>
     <string name="qstile_badgetwo">Huy hiệu hai</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Tùy chọn phông đồng hồ</string>
     <string name="lock_clock_font_summary">Thay đổi phông chữ mặc định của tiện ích đồng hồ trên màn hình khóa</string>
