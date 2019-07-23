@@ -98,7 +98,7 @@
     <string name="bluetooth_battery_summary">Zobrazit stav baterie připojeného bluetooth zařízení, je-li dostupné</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Omezit obtěžující plovoucí oznámení</string>
-    <string name="less_boring_heads_up_summary">Zobrazit plovoucí oznámení pouze pro aplikaci pro volání nebo zasílání zpráv, pokud neběží v popředí</string>
+    <string name="less_boring_heads_up_summary">Zobrazit plovoucí oznámení pouze pro aplikace Telefon, Hodiny nebo Zprávy</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Nastavení posuvníku jasu</string>
     <string name="qs_show_brightness_title">Posuvník jasu</string>
@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Slza</string>
     <string name="qstile_badge">Odznak</string>
     <string name="qstile_badgetwo">Odznak 2</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Možnosti písma hodin</string>
     <string name="lock_clock_font_summary">Změnit písmo widgetu hodin na zamykací obrazovce</string>
