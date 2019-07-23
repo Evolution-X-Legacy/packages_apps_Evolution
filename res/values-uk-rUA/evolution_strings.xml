@@ -131,7 +131,7 @@
     <string name="force_ambient_for_media_pref_summary">Налаштування Ambient music ticker</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker відображає інформацію про поточний трек для Ambient Display.\n\nВін також запускається, якщо Ambient Display вимкнений, коли починається новий трек й вмикає Ambient Display з інформацією про трек на середені екрану.\n\nВи також можете натиснути двічі на інформацію про трек, щоб пропустити його.</string>
     <string name="force_ambient_for_media_title">Активувати</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Зараз грає</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Годинник</string>
     <string name="status_bar_clock">Годинник та дата</string>
@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Сльоза</string>
     <string name="qstile_badge">Значок</string>
     <string name="qstile_badgetwo">Значок 2</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Параметри шрифту годинника</string>
     <string name="lock_clock_font_summary">Змінити шрифта годинника на екрані блокування</string>
@@ -463,10 +465,10 @@
     <string name="headset_connect_player_title">Запуск плеєра</string>
     <string name="headset_connect_player_disabled">Вимкнено</string>
     <string name="headset_connect_player_wired">Коли гарнітура підключена</string>
-    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
-    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
+    <string name="headset_connect_player_bt_no_carkit">Коли BT гарнітура (не автомобільна) під\'єднана</string>
+    <string name="headset_connect_player_bt">Коли BT гарнітура під\'єднана</string>
+    <string name="headset_connect_player_both_no_carkit">Коли дротова або BT гарнітура (не автомобільна) під\'єднана</string>
+    <string name="headset_connect_player_both">Коли дротова або BT гарнітура під\'єднана</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">Конфігурація USB</string>
     <string name="usb_default_config_summary">Вибрати поведінку за замовчуванням під час підключення пристрою через USB</string>
@@ -636,53 +638,53 @@
     <string name="button_wake_summary">Розбудити пристрій натисканням клавіши</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Приховати значки на екрані блокування</string>
-    <string name="hide_lockscreen_icon_summary">Change the lock screen icon visibility</string>
+    <string name="hide_lockscreen_icon_summary">Змінити видимість значка блокування екрану</string>
     <!-- Wakelock blocker -->
-    <string name="wakelock_blocker_title">Wakelock Blocker</string>
-    <string name="wakelock_blocker_save">Save</string>
-    <string name="wakelock_list_header">Available wakelocks</string>
-    <string name="wakelock_blocker_reload">Reload</string>
+    <string name="wakelock_blocker_title">Блокування Wakelock-ів</string>
+    <string name="wakelock_blocker_save">Зберегти</string>
+    <string name="wakelock_list_header">Доступні wakelock\'и</string>
+    <string name="wakelock_blocker_reload">Перезавантажити</string>
     <!-- Alarm blocker -->
-    <string name="alarm_blocker_title">Alarm blocker</string>
+    <string name="alarm_blocker_title">Блокування сповіщень</string>
     <string name="alarm_blocker_save">Зберегти</string>
     <string name="alarm_list_header">Доступні будильники</string>
     <string name="alarm_blocker_reload">Перезапустити</string>
     <!-- Gaming mode -->
     <string name="gaming_mode_title">Ігровий режим</string>
-    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
-    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
-    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
-    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
-    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
-    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
-    <string name="gaming_mode_headsup_title">Block notifications</string>
-    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
-    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
-    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
-    <string name="gaming_mode_gestures_title">Disable gestures</string>
-    <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
-    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
-    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
-    <string name="gaming_mode_ringer_off_title">Do not change</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
-    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
-    <string name="gaming_mode_ringer_silent_title">Silent</string>
-    <string name="gaming_mode_notifications_title">Notifications</string>
-    <string name="gaming_mode_notifications_off_title">Disabled</string>
-    <string name="gaming_mode_notifications_notif_title">Show notification</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_summary">Налаштувати ігровий режим</string>
+    <string name="gaming_mode_master_title">Включити ігровий режим</string>
+    <string name="gaming_mode_master_summary">Дозволити змінювати налаштування ігрового режиму</string>
+    <string name="gaming_mode_app_picker_title">Включати автоматично для наступних програм</string>
+    <string name="add_gaming_mode_package_title">Додати програми до ігрового режиму</string>
+    <string name="add_gaming_mode_package_summary">Ігровий режим буде активований для обраних додатків.</string>
+    <string name="gaming_mode_headsup_title">Блокувати повідомлення</string>
+    <string name="gaming_mode_headsup_summary">Блокувати всі повідомлення, крім дзвінків.</string>
+    <string name="gaming_mode_hardware_keys_title">Блокувати кнопки</string>
+    <string name="gaming_mode_hardware_keys_summary">Відключення апаратних кнопок при включеному ігровому режимі.</string>
+    <string name="gaming_mode_gestures_title">Вимкнути жести</string>
+    <string name="gaming_mode_gestures_summary">Відключити навігацію жестами, коли включений ігровий режим.</string>
+    <string name="gaming_mode_brightness_title">Вимкнути автоматичну яскравість</string>
+    <string name="gaming_mode_brightness_summary">Заблокувати яскравість екрана, якщо увімкнено ігровий режим.</string>
+    <string name="gaming_mode_ringer_title">Дзвінок в ігровому режимі</string>
+    <string name="gaming_mode_ringer_off_title">Не змінювати</string>
+    <string name="gaming_mode_ringer_vibrate_title">Вібрація</string>
+    <string name="gaming_mode_ringer_dnd_title">Не турбувати</string>
+    <string name="gaming_mode_ringer_silent_title">Без звуку</string>
+    <string name="gaming_mode_notifications_title">Повідомлення</string>
+    <string name="gaming_mode_notifications_off_title">Вимкнено</string>
+    <string name="gaming_mode_notifications_notif_title">Показати повідомлення</string>
+    <string name="gaming_mode_notifications_toast_title">Показати спливаючі повідомлення</string>
+    <string name="gaming_mode_notifications_all_title">Показати постійні сповіщення</string>
+    <string name="gaming_mode_dynamic_title">Динамічний ігровий режим</string>
+    <string name="gaming_mode_dynamic_summary">Всякий раз, коли ви відкриваєте якесь додаток і система виявляє, що воно є грою, воно буде автоматично додано в список ігор. Зверніть увагу, що це працює не для кожного ігрового програми.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">Примусово розширювати свовіщення</string>
+    <string name="force_expanded_notifications_summary">Доступно тільки для додатків, що підтримують розширені сповіщення</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">Дозволити підробку підписів</string>
+    <string name="allow_signature_fake_summary">Дозволити програмам для обходу систем безпеки, прикидаючись іншим додатком.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Тип скриншоту</string>
+    <string name="screenshot_type_fullscreen">Повний</string>
+    <string name="screenshot_type_partial">Частковий</string>
 </resources>
