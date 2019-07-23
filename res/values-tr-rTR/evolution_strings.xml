@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Gözyaşı</string>
     <string name="qstile_badge">Rozet</string>
     <string name="qstile_badgetwo">İkinci rozet</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Saat yazı tipi</string>
     <string name="lock_clock_font_summary">Kilit ekranı saat widgeti\'nin varsayılan yazı tipini değiştirme</string>
@@ -682,7 +684,7 @@
     <string name="allow_signature_fake">İmza sızdırmaya izin ver</string>
     <string name="allow_signature_fake_summary">Uygulamaların farklı bir uygulama gibi davranarak güvenlik sistemlerini atlamalarına izin verir.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Ekran görüntüsü tipi</string>
+    <string name="screenshot_type_fullscreen">Tam</string>
+    <string name="screenshot_type_partial">Kısmi</string>
 </resources>
