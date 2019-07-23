@@ -424,7 +424,7 @@
     <string name="qstile_teardrop">Капля</string>
     <string name="qstile_badge">Значок</string>
     <string name="qstile_badgetwo">Значок 2</string>
-    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_triangle">Треугольник</string>
     <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Настройки шрифта часов</string>
