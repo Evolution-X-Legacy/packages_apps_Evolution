@@ -129,7 +129,7 @@
     <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Text oznámení okolní hudby</string>
     <string name="force_ambient_for_media_pref_summary">Nastavení hudebního oznámení na Ambientním displeji</string>
-    <string name="ambient_ticker_footer">Hudební oznámení na Ambientním displeji zobrazuje informace o přehrávaných skladbách.\n\nJe spuštěno i v případě, že je při spuštění nové skladby zakázán Ambientní displej, což znamená, že se uprostřed obrazovky zobrazí informace o přehrávané skladbě.\n\nMůžete také dvojitým klepnutím na informaci o skladbě skladbu přeskočit.</string>
+    <string name="ambient_ticker_footer">Hudební oznámení na Ambientním displeji zobrazuje informace o přehrávaných skladbách.\n\nJe spuštěno i v případě, že je při spuštění nové skladby zakázán Ambientní displej, což znamená, že se uprostřed obrazovky zobrazí informace o přehrávané skladbě.\n\nMůžete také dvojitým klepnutím na informaci o skladbě skladbu přeskočit.\n\nPokud vlastníte Pixel (2. generace a vyšší) a povolíte „Nyní hraje“ a oznámení v nastavení zvuku systému, bude v něm fungovat i funkce Hudební oznámení na Ambientním displeji.</string>
     <string name="force_ambient_for_media_title">Zobrazit hudební oznámení na zamčené obrazovce</string>
     <string name="ambient_title">Okolní hudba</string>
     <!-- Status bar clock options -->
@@ -424,7 +424,7 @@
     <string name="qstile_teardrop">Slza</string>
     <string name="qstile_badge">Odznak</string>
     <string name="qstile_badgetwo">Odznak 2</string>
-    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_triangle">Trojúhelník</string>
     <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Možnosti písma hodin</string>
