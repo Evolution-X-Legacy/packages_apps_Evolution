@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">泪珠形</string>
     <string name="qstile_badge">徽章</string>
     <string name="qstile_badgetwo">徽章 2</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">时钟字体选项</string>
     <string name="lock_clock_font_summary">更改锁屏界面时钟小部件的默认字体</string>
