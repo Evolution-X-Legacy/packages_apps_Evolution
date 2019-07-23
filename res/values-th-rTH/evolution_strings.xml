@@ -385,12 +385,12 @@
     <string name="lockscreen_date_selection_str_box">กึ่งโปร่งใส</string>
     <string name="lockscreen_date_selection_str_round">กึ่งโปร่งใส (รอบๆ)</string>
     <string name="lockscreen_date_selection_qbeta_style">Android Q Beta pill</string>
-    <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
-    <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
-    <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
-    <string name="lockscreen_date_selection_str_accent_transparent_day">Rounded, transparent and with accent (alt)</string>
+    <string name="lockscreen_date_selection_str_accent">โค้งมน, ง่ายๆ และ กับ ธีมสี</string>
+    <string name="lockscreen_date_selection_str_accent_day">โค้งมน, ง่ายๆ และ กับ ธีมสี (alt)</string>
+    <string name="lockscreen_date_selection_str_accent_transparent">โค้งมน, โปร่งใส และ กับ ธีมสี</string>
+    <string name="lockscreen_date_selection_str_accent_transparent_day">โค้งมน, โปร่งใส และ กับ ธีมสี (alt)</string>
     <string name="lockscreen_date_selection_str_gradient">การไล่ระดับสี</string>
-    <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
+    <string name="lockscreen_date_selection_str_border_accent">มืดกับเส้นขอบที่ถูกเน้น</string>
     <string name="lockscreen_date_selection_str_border_gradient">มืดกับเส้นขอบไล่ระดับสี</string>
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">แสดงไอคอนปิดใช้งานข้อมูล</string>
@@ -424,7 +424,7 @@
     <string name="qstile_teardrop">หยดน้ำ</string>
     <string name="qstile_badge">ขอบหยักมน</string>
     <string name="qstile_badgetwo">ขอบหยัก</string>
-    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_triangle">สามเหลี่ยม</string>
     <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">ตัวเลือกรูปแบบอักษรของนาฬิกา</string>
@@ -445,8 +445,8 @@
     <string name="lock_fonts_medium_italic">Medium Italic</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
-    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
-    <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
+    <string name="lock_clock_font_themeable">Themeable (หรือ VCR OSD Mono)</string>
+    <string name="lock_dateown_font_themeable">Themeable (หรือ Fox and Cat)</string>
     <!-- Lock date fonts -->
     <string name="lock_date_font_title">ตัวเลือกแบบอักษรวันที่ ของหน้าจอล็อค</string>
     <string name="lock_date_font_summary">เปลี่ยนแบบอักษรเริ่มต้นของวันที่ในหน้าจอล็อค</string>
