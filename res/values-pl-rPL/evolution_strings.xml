@@ -40,7 +40,7 @@
     <string name="misc_summary">Dodatkowe ustawienia użytkownika</string>
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Reset</string>
+    <string name="reset">Resetuj</string>
     <string name="cancel">Anuluj</string>
     <string name="save">Zapisz</string>
     <string name="action_save">Zapisz</string>
