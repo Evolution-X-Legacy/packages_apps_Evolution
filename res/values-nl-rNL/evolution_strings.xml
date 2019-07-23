@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Traan</string>
     <string name="qstile_badge">Badge</string>
     <string name="qstile_badgetwo">Badge twee</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Klok lettertype instellingen</string>
     <string name="lock_clock_font_summary">Standaardlettertype van de klok widget wijzigen op het vergrendelscherm</string>
