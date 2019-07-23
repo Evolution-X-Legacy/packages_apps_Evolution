@@ -424,6 +424,8 @@
     <string name="qstile_teardrop">Łza</string>
     <string name="qstile_badge">Odznaka</string>
     <string name="qstile_badgetwo">Odznaka 2</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Ustawienia Czcionki Zegara</string>
     <string name="lock_clock_font_summary">Zmień domyślną czcionkę zegara na ekranie blokady</string>
@@ -679,7 +681,7 @@
     <string name="allow_signature_fake">Pozwól na fałszowanie podpisu</string>
     <string name="allow_signature_fake_summary">Zezwalaj aplikacji na ominięcie zabezpieczeń systemu poprzez udawanie innej aplikacji.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">Typ zrzutu ekranu</string>
+    <string name="screenshot_type_fullscreen">Pełny</string>
+    <string name="screenshot_type_partial">Częściowy</string>
 </resources>
