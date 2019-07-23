@@ -559,7 +559,7 @@
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">Tryb konserwacji dioda wskazuje minimalny czas bezczynności</string>
     <string name="SHORT_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">Tryb konserwacji dioda wskazuje maksymalny czas bezczynności</string>
     <string name="SHORT_MIN_LIGHT_MAINTENANCE_TIME">Tryb konserwacji dioda wskazuje maksymalny czas bezczynności</string>
-    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Maintenance mode full doze min timeout</string>
+    <string name="SHORT_MIN_DEEP_MAINTENANCE_TIME">Tryb konserwacji dioda wskazuje maksymalny czas bezczynności</string>
     <string name="SHORT_KEY_NOTIFICATION_WHITELIST_DURATION">Maksymalna długość białej listy powiadomień</string>
     <!-- Time In State & CPU State -->
     <string name="state_time_mode">Wybudzony</string>
@@ -569,9 +569,9 @@
     <string name="since_reset">Resetuj</string>
     <string name="since_unplug">Odłącz</string>
     <string name="other">Aktywność</string>
-    <string name="kernel_wakelocks">Kernel wakelocks</string>
-    <string name="partial_wakelocks">Partial wakelocks</string>
-    <string name="app_wakelocks">App wakelocks</string>
+    <string name="kernel_wakelocks">Wybudzanie Kernela</string>
+    <string name="partial_wakelocks">Częściowe wyburzanie</string>
+    <string name="app_wakelocks">Wybudzanie przez aplikację</string>
     <string name="create_ref">Resetuj</string>
     <string name="spinner_period_title">Od</string>
     <string name="spinner_type_title">Pokaż</string>
