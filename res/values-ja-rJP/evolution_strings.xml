@@ -31,19 +31,19 @@
     <string name="statusbar_title">ステータスバー</string>
     <string name="volume_title">音量ボタン</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">指紋</string>
+    <string name="hide_icons_category">アイコン</string>
     <string name="interface_category">インターフェース</string>
     <string name="lockscreen_shortcuts_category">ショートカット</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">音楽</string>
+    <string name="qs_style_category">クイック設定のスタイル</string>
+    <string name="status_bar_items">ステータスバーのアイコン</string>
+    <string name="system_category">システム</string>
     <!-- Summaries -->
     <string name="buttons_summary">端末の物理ボタンのアクションを設定する</string>
     <string name="gestures_summary">ジェスチャーのアクションを設定する</string>
     <string name="misc_summary">追加のシステム設定</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">シャットダウンオプションを編集する</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">リセット</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">ぼかし</string>
     <string name="lockscreen_cover_filter_grayblur">グレースケールとぼかし</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">ステータスバーのロゴ</string>
+    <string name="status_bar_logo_summary">カスタムロゴでステータスバーを素敵にしましょう</string>
     <string name="status_bar_logo_style_title">カスタムロゴのスタイル</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">透過度</string>
