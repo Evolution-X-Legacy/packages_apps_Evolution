@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">AOSP ジェスチャー</string>
     <string name="buttons_title">ハードウェアボタン</string>
     <string name="gestures_title">ジェスチャー</string>
-    <string name="interface_category">インターフェース</string>
     <string name="lockscreen_title">ロック画面</string>
-    <string name="lockscreen_shortcuts_category">ショートカット</string>
-    <string name="logo_category">ロゴ</string>
     <string name="misc_title">その他</string>
     <string name="navbar_title">ナビゲーションバー</string>
     <string name="notifications_title">通知</string>
     <string name="powermenu_title">電源メニュー</string>
     <string name="quicksettings_title">クイック設定</string>
-    <string name="qs_style_category">クイック設定のテーマ</string>
     <string name="statusbar_title">ステータスバー</string>
     <string name="volume_title">音量ボタン</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">インターフェース</string>
+    <string name="lockscreen_shortcuts_category">ショートカット</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">端末の物理ボタンのアクションを設定する</string>
     <string name="gestures_summary">ジェスチャーのアクションを設定する</string>
     <string name="misc_summary">追加のシステム設定</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">リセット</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">アクセント色</string>
     <string name="lockscreen_cover_filter_blur">ぼかし</string>
     <string name="lockscreen_cover_filter_grayblur">グレースケールとぼかし</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 ロゴ</string>
-    <string name="evolution_logo_summary">画面を見た人にあなたが Evolution X 2.0 を使っていることを知らせます</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">カスタムロゴのスタイル</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">透過度</string>
