@@ -424,8 +424,8 @@
     <string name="qstile_teardrop">Lágrima</string>
     <string name="qstile_badge">Distintivo</string>
     <string name="qstile_badgetwo">Distintivo dois</string>
-    <string name="qstile_triangle">Triangle</string>
-    <string name="qstile_oos">OxygenOS</string>
+    <string name="qstile_triangle">Triângulo</string>
+    <string name="qstile_oos">OxigOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Opções de fonte do relógio</string>
     <string name="lock_clock_font_summary">Alterar a fonte padrão do widget de relógio da tela de bloqueio</string>
@@ -687,4 +687,10 @@
     <string name="screenshot_type_title">Tipo de captura de tela</string>
     <string name="screenshot_type_fullscreen">Cheio</string>
     <string name="screenshot_type_partial">Parcial</string>
+    <!-- Battery Estimate -->
+    <string name="show_battery_estimate_title">Battery Estimates</string>
+    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
+    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
+    <string name="battery_estimate_position_qsheader">QS Header</string>
+    <string name="battery_estimate_position_qspanel">QS Panel</string>
 </resources>
