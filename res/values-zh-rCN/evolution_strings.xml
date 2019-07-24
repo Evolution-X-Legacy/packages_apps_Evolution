@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">AOSP 手势</string>
     <string name="buttons_title">实体按键</string>
     <string name="gestures_title">手势</string>
-    <string name="interface_category">界面</string>
     <string name="lockscreen_title">锁屏界面</string>
-    <string name="lockscreen_shortcuts_category">快捷操作</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">杂项设置</string>
     <string name="navbar_title">导航栏</string>
     <string name="notifications_title">通知</string>
     <string name="powermenu_title">电源菜单</string>
     <string name="quicksettings_title">快捷设置</string>
-    <string name="qs_style_category">面板主题</string>
     <string name="statusbar_title">状态栏</string>
     <string name="volume_title">音量调节</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">界面</string>
+    <string name="lockscreen_shortcuts_category">快捷操作</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">自定义此设备的实体按键操作</string>
     <string name="gestures_summary">手势基本选项/操作</string>
     <string name="misc_summary">拓展设置</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">确定</string>
     <string name="reset">重置</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">口红色</string>
     <string name="lockscreen_cover_filter_blur">模糊</string>
     <string name="lockscreen_cover_filter_grayblur">灰度和模糊</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">让每个看到你手机屏幕的人都知道你正在使用 Evolution X 2.0</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">自定义 logo 样式</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">透明度</string>
