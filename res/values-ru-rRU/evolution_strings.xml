@@ -688,7 +688,7 @@
     <string name="screenshot_type_partial">Частичный</string>
     <!-- Battery Estimate -->
     <string name="show_battery_estimate_title">Оценки батареи</string>
-    <string name="show_battery_estimate_summary">Показать оценки батареи в панели QS</string>
+    <string name="show_battery_estimate_summary">Показывать оценки батареи в панели QS</string>
     <string name="battery_estimate_position_title">Значок батареи &amp; Оценки</string>
     <string name="battery_estimate_position_qsheader">Заголовок QS</string>
     <string name="battery_estimate_position_qspanel">Панель QS</string>
