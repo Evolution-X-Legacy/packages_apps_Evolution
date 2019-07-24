@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">AOSP Gebaren</string>
     <string name="buttons_title">Fysieke knoppen</string>
     <string name="gestures_title">Gebaren</string>
-    <string name="interface_category">Uiterlijk</string>
     <string name="lockscreen_title">Vergrendelscherm</string>
-    <string name="lockscreen_shortcuts_category">Snelkoppelingen</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">Overige</string>
     <string name="navbar_title">Navigatiebalk</string>
     <string name="notifications_title">Meldingen</string>
     <string name="powermenu_title">Aan-/uit menu</string>
     <string name="quicksettings_title">Snelle instellingen</string>
-    <string name="qs_style_category">QS thema\'s</string>
     <string name="statusbar_title">Statusbalk</string>
     <string name="volume_title">Volumeknoppen</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Uiterlijk</string>
+    <string name="lockscreen_shortcuts_category">Snelkoppelingen</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">De acties van uw apparaten aanpassen aan fysieke knoppen</string>
     <string name="gestures_summary">Gebaar gebaseerde opties/acties</string>
     <string name="misc_summary">Extra systeeminstellingen</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Opnieuw instellen</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Tint toepassen met accent</string>
     <string name="lockscreen_cover_filter_blur">Blur/vervagen</string>
     <string name="lockscreen_cover_filter_grayblur">Grijstinten en blur/vervagen</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Laat iedereen weten dat je Evolution X 2.0 gebruikt wanneer ze je scherm zien</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Aangepast logo</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Doorzichtigheid</string>
