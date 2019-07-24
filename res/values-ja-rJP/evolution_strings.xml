@@ -685,9 +685,9 @@
     <string name="screenshot_type_fullscreen">全画面</string>
     <string name="screenshot_type_partial">一部</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">予想稼働時間</string>
+    <string name="show_battery_estimate_summary">バッテリー予想稼働時間をクイック設定パネルに表示する</string>
+    <string name="battery_estimate_position_title">アイコンと予想稼働時間の位置</string>
+    <string name="battery_estimate_position_qsheader">ヘッダー</string>
+    <string name="battery_estimate_position_qspanel">パネル</string>
 </resources>
