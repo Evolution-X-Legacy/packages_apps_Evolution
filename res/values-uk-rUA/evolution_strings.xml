@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="evolution_settings_title">Evolution X</string>
+    <string name="evolution_settings_title">Параметри Evolution</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">AOSP жести</string>
     <string name="buttons_title">Апаратні кнопки</string>
@@ -690,7 +690,7 @@
     <!-- Battery Estimate -->
     <string name="show_battery_estimate_title">Оцінка залишку батареї</string>
     <string name="show_battery_estimate_summary">Показувати оцінку залишку батареї в QS</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="battery_estimate_position_title">Іконка батареї &amp; Оцінки</string>
+    <string name="battery_estimate_position_qsheader">Заголовок QS</string>
+    <string name="battery_estimate_position_qspanel">Панель QS</string>
 </resources>
