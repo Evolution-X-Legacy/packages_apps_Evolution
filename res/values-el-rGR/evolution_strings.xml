@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Χειρονομίες AOSP</string>
     <string name="buttons_title">Φυσικά πλήκτρα</string>
     <string name="gestures_title">Χειρονομίες</string>
-    <string name="interface_category">Διεπαφή</string>
     <string name="lockscreen_title">Οθόνη κλειδώματος</string>
-    <string name="lockscreen_shortcuts_category">Συντομεύσεις</string>
-    <string name="logo_category">Λογότυπο</string>
     <string name="misc_title">Διάφορα</string>
     <string name="navbar_title">Γραμμή Πλοήγησης</string>
     <string name="notifications_title">Ειδοποιήσεις</string>
     <string name="powermenu_title">Μενού πλήκτρου απενεργοποίησης</string>
     <string name="quicksettings_title">Γρήγορες ρυθμίσεις</string>
-    <string name="qs_style_category">Θέματα γρήγορων ρυθμίσεων</string>
     <string name="statusbar_title">Γραμμή κατάστασης</string>
     <string name="volume_title">Πλήκτρα έντασης</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Διεπαφή</string>
+    <string name="lockscreen_shortcuts_category">Συντομεύσεις</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Βελτιστοποίηση των ενεργειών φυσικών πλήκτρων της συσκευής</string>
     <string name="gestures_summary">Επιλογές/Ενέργειες με βάσει τις χειρονομίες</string>
     <string name="misc_summary">Επιπλέον ρυθμίσεις συστήματος</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">ΟΚ</string>
     <string name="reset">Επαναφορά</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Χρωματισμός τόνου</string>
     <string name="lockscreen_cover_filter_blur">Θάμπωμα</string>
     <string name="lockscreen_cover_filter_grayblur">Κλίμακα του γκρι και θάμπωμα</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Λογότυπο Evolution X 2.0</string>
-    <string name="evolution_logo_summary">Επιτρέψτε σε όλους να ξέρουν ότι χρησιμοποιείτε Evolution X 2.0 όταν βλέπουν την οθόνη σας</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Προσαρμοσμένη εικόνα λογότυπου</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Αδιαφάνεια</string>
