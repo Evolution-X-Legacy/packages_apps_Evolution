@@ -31,19 +31,19 @@
     <string name="statusbar_title">Durum çubuğu</string>
     <string name="volume_title">Ses tuşları</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">Parmak izi</string>
+    <string name="hide_icons_category">Simgeler</string>
     <string name="interface_category">Arayüz</string>
     <string name="lockscreen_shortcuts_category">Kısayollar</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">Müzik</string>
+    <string name="qs_style_category">QS stili</string>
+    <string name="status_bar_items">Durum çubuğu simgeleri</string>
+    <string name="system_category">Sistem</string>
     <!-- Summaries -->
     <string name="buttons_summary">Cihazınızın fiziksel tuş hareketlerini düzenleyin</string>
     <string name="gestures_summary">Harekete dayalı seçenekler ve eylemler</string>
     <string name="misc_summary">Ekstra sistem ayarları</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">Kapatma seçeneklerinizi yapılandırın</string>
     <!-- General strings -->
     <string name="ok">Tamam</string>
     <string name="reset">Sıfırla</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">Bulanık</string>
     <string name="lockscreen_cover_filter_grayblur">Gri tonlama ve bulanık</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">Durum çubuğu logosu</string>
+    <string name="status_bar_logo_summary">Özel bir logo ile durum çubuğunun harika görünmesini sağlayın</string>
     <string name="status_bar_logo_style_title">Özel logo stili</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Şeffaflık</string>
@@ -430,7 +430,7 @@
     <string name="qstile_teardrop">Gözyaşı</string>
     <string name="qstile_badge">Rozet</string>
     <string name="qstile_badgetwo">İkinci rozet</string>
-    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_triangle">Üçgen</string>
     <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Saat yazı tipi</string>
@@ -694,9 +694,9 @@
     <string name="screenshot_type_fullscreen">Tam</string>
     <string name="screenshot_type_partial">Kısmi</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">Tahmini pil ömrü</string>
+    <string name="show_battery_estimate_summary">Tahmini pil ömrünü hızlı ayarlar panelinde göster</string>
+    <string name="battery_estimate_position_title">Pil simgesi ve Tahmini ömrü konumu</string>
+    <string name="battery_estimate_position_qsheader">Hızlı ayarlar başlığı</string>
+    <string name="battery_estimate_position_qspanel">Hızlı ayarlar paneli</string>
 </resources>
