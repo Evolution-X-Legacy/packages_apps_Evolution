@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Aosp hareketleri</string>
     <string name="buttons_title">Donanım tuşları</string>
     <string name="gestures_title">Hareketler</string>
-    <string name="interface_category">Arayüz</string>
     <string name="lockscreen_title">Kilit ekranı</string>
-    <string name="lockscreen_shortcuts_category">Kısayollar</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">Çeşitli</string>
     <string name="navbar_title">Gezinme çubuğu</string>
     <string name="notifications_title">Bildirimler</string>
     <string name="powermenu_title">Güç menüsü</string>
     <string name="quicksettings_title">Hızlı ayarlar</string>
-    <string name="qs_style_category">Hızlı ayarlar teması</string>
     <string name="statusbar_title">Durum çubuğu</string>
     <string name="volume_title">Ses tuşları</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Arayüz</string>
+    <string name="lockscreen_shortcuts_category">Kısayollar</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Cihazınızın fiziksel tuş hareketlerini düzenleyin</string>
     <string name="gestures_summary">Harekete dayalı seçenekler ve eylemler</string>
     <string name="misc_summary">Ekstra sistem ayarları</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">Tamam</string>
     <string name="reset">Sıfırla</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Vurgu renkli</string>
     <string name="lockscreen_cover_filter_blur">Bulanık</string>
     <string name="lockscreen_cover_filter_grayblur">Gri tonlama ve bulanık</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Herkes ekranınızı gördüğünde Evolution X 2.0 kullandığınızı bilmesini sağlayın</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Özel logo stili</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Şeffaflık</string>
