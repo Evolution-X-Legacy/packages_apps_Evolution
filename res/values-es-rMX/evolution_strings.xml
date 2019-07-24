@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Gestos AOSP</string>
     <string name="buttons_title">Botones Físicos</string>
     <string name="gestures_title">Gestos</string>
-    <string name="interface_category">Interfaz</string>
     <string name="lockscreen_title">Pantalla de bloqueo</string>
-    <string name="lockscreen_shortcuts_category">Accesos directos</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">Misceláneo</string>
     <string name="navbar_title">Barra de navegacion</string>
     <string name="notifications_title">Notificaciones</string>
     <string name="powermenu_title">Menu de apagado</string>
     <string name="quicksettings_title">Ajustes Rapidos</string>
-    <string name="qs_style_category">Tema QS</string>
     <string name="statusbar_title">Barra de estado</string>
     <string name="volume_title">Control de Volumen</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Interfaz</string>
+    <string name="lockscreen_shortcuts_category">Accesos directos</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Reajustar las acciones de los botones Físicos del dispositivo</string>
     <string name="gestures_summary">Gestos basados en Opciones/Aciones</string>
     <string name="misc_summary">Ajustes del sistema adicionales</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">Ok</string>
     <string name="reset">Reiniciar</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Acentuado tintado</string>
     <string name="lockscreen_cover_filter_blur">Desenfoque</string>
     <string name="lockscreen_cover_filter_grayblur">Escala de grises y desenfoque</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Logo de Evolution X 2.0</string>
-    <string name="evolution_logo_summary">Permite que vean que estas usando Evolution X 2.0 cuando vean tu pantalla</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Imágen de logo personalizada</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Opacidad</string>
