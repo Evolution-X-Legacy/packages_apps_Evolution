@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">AOSP Gestures</string>
     <string name="buttons_title">Fiziniai Mygtukai</string>
     <string name="gestures_title">Gestai</string>
-    <string name="interface_category">Sąsaja</string>
     <string name="lockscreen_title">Užrakinimo ekranas</string>
-    <string name="lockscreen_shortcuts_category">Nuorodos</string>
-    <string name="logo_category">Logotipas</string>
     <string name="misc_title">Įvairūs</string>
     <string name="navbar_title">Naršymo juosta</string>
     <string name="notifications_title">Pranešimai</string>
     <string name="powermenu_title">Maitinimo meniu</string>
     <string name="quicksettings_title">Spartieji nustatymai</string>
-    <string name="qs_style_category">QS temos</string>
     <string name="statusbar_title">Būsenos juosta</string>
     <string name="volume_title">Garso valdymas</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Sąsaja</string>
+    <string name="lockscreen_shortcuts_category">Nuorodos</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tvarkyti jūsų telefono fizinius mygtukus</string>
     <string name="gestures_summary">Gestų parinktys bei veiksmai</string>
     <string name="misc_summary">Papildomi sistemos nustatymai</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">Gerai</string>
     <string name="reset">Atstatyti</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Accent tinted</string>
     <string name="lockscreen_cover_filter_blur">Blur</string>
     <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Let everyone know that you\'re using Evolution X 2.0 when they see your screen</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Custom logo style</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Opacity</string>
