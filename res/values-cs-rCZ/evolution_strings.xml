@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Gesta AOSP</string>
     <string name="buttons_title">Hardwarová tlačítka</string>
     <string name="gestures_title">Gesta</string>
-    <string name="interface_category">Rozhraní</string>
     <string name="lockscreen_title">Zamykací obrazovka</string>
-    <string name="lockscreen_shortcuts_category">Zástupci</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">Různé</string>
     <string name="navbar_title">Navigační panel</string>
     <string name="notifications_title">Oznámení</string>
     <string name="powermenu_title">Menu napájení</string>
     <string name="quicksettings_title">Rychlá nastavení</string>
-    <string name="qs_style_category">Úprava motivů QS</string>
     <string name="statusbar_title">Stavová lišta</string>
     <string name="volume_title">Tlačítka hlasitosti</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Rozhraní</string>
+    <string name="lockscreen_shortcuts_category">Zástupci</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Upravte akce fyzických tlačítek zařízení</string>
     <string name="gestures_summary">Možnosti/akce založené na gestech</string>
     <string name="misc_summary">Širší systémová nastavení</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Restartovat</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Barva zvýraznění</string>
     <string name="lockscreen_cover_filter_blur">Rozostření</string>
     <string name="lockscreen_cover_filter_grayblur">Odstíny šedi a rozostření</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Logo Evolution X 2.0</string>
-    <string name="evolution_logo_summary">Ať všichni vědí, že používáte Evolution X 2.0, když uvidí vaši obrazovku</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Vlastní styl loga</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Průhlednost</string>
