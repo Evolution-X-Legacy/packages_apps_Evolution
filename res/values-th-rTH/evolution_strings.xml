@@ -475,7 +475,7 @@
     <!-- On-The-Go -->
     <string name="onthego_title">โหมด On-The-Go</string>
     <string name="global_actions_onthego_title">On-The-Go</string>
-    <string name="onthego_alpha_title">On-The-Go Alpha</string>
+    <string name="onthego_alpha_title">On-The-Go แอลฟา</string>
     <string name="onthego_alpha_summary">ค่าอัลฟ่าของการซ้อนทับ On-The-Go</string>
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">โหมดมือเดียว</string>
@@ -586,7 +586,7 @@
     <string name="battery_change">เปลี่ยนแบตเตอรี่</string>
     <string name="spinner_state_time_title">เวลา</string>
     <string name="total_time">ทั้งหมด</string>
-    <string name="wakelock_time">Wakelocks</string>
+    <string name="wakelock_time">ล็อคการปลุกอุปกรณ์</string>
     <string name="copy_as_text">คัดลอกเป็นข้อความ</string>
     <string name="google_it">Google for it</string>
     <string name="app_details">รายละเอียดแอป</string>
