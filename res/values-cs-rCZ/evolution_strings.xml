@@ -688,9 +688,9 @@
     <string name="screenshot_type_fullscreen">Úplný</string>
     <string name="screenshot_type_partial">Částečný</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">Odhady baterie</string>
+    <string name="show_battery_estimate_summary">Zobrazit odhady baterie v panelu QS</string>
+    <string name="battery_estimate_position_title">Ikona baterie &amp; odhady</string>
+    <string name="battery_estimate_position_qsheader">Záhlaví QS</string>
+    <string name="battery_estimate_position_qspanel">Panel QS</string>
 </resources>
