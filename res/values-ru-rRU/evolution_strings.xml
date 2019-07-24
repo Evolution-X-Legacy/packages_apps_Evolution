@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">AOSP жесты</string>
     <string name="buttons_title">Аппаратные кнопки</string>
     <string name="gestures_title">Жесты</string>
-    <string name="interface_category">Интерфейс</string>
     <string name="lockscreen_title">Экран блокировки</string>
-    <string name="lockscreen_shortcuts_category">Ярлыки на экране блокировки</string>
-    <string name="logo_category">Логотип</string>
     <string name="misc_title">Другие настройки</string>
     <string name="navbar_title">Панель навигации</string>
     <string name="notifications_title">Настройка уведомлений</string>
     <string name="powermenu_title">Меню выключения</string>
     <string name="quicksettings_title">Панель быстрых настроек</string>
-    <string name="qs_style_category">Темы быстрых настроек</string>
     <string name="statusbar_title">Строка состояния</string>
     <string name="volume_title">Кнопки регулировки громкости</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Интерфейс</string>
+    <string name="lockscreen_shortcuts_category">Ярлыки на экране блокировки</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Настройка действий аппаратных кнопок Вашего устройства</string>
     <string name="gestures_summary">Действия/настройки, основанные на жестах</string>
     <string name="misc_summary">Дополнительные настройки системы</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Сброс</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Тон акцента</string>
     <string name="lockscreen_cover_filter_blur">Размытие</string>
     <string name="lockscreen_cover_filter_grayblur">Оттенки серого и размытие</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Логотип Evolution X 2.0</string>
-    <string name="evolution_logo_summary">Покажите всем, что вы используете Evolution X 2.0, когда они видят ваш экран</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Пользовательский стиль логотипа</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Прозрачность</string>
