@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Gestur AOSP</string>
     <string name="buttons_title">Tombol fisik</string>
     <string name="gestures_title">Gestur</string>
-    <string name="interface_category">Tampilan</string>
     <string name="lockscreen_title">Kunci layar</string>
-    <string name="lockscreen_shortcuts_category">Pintasan</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">Lain-lain</string>
     <string name="navbar_title">Navigasi bar</string>
     <string name="notifications_title">Notifikasi</string>
     <string name="powermenu_title">Tombol Power</string>
     <string name="quicksettings_title">Pengaturan cepat</string>
-    <string name="qs_style_category">QS tema</string>
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume Rocker</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Tampilan</string>
+    <string name="lockscreen_shortcuts_category">Pintasan</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Ubah pengaturan tombol fisik perangkat</string>
     <string name="gestures_summary">Isyarat berdasarkan Pengaturan/Tindakan</string>
     <string name="misc_summary">Pengaturan tambahan sistem</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">Ok</string>
     <string name="reset">Reset</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Aksen diwarnai</string>
     <string name="lockscreen_cover_filter_blur">Mengaburkan</string>
     <string name="lockscreen_cover_filter_grayblur">Skala abu-abu dan kabur</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Biarkan semua orang tahu bahwa Anda menggunakan Evolution X 2.0 ketika mereka melihat layar Anda</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Kostum gambar logo</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Kegelapan</string>
