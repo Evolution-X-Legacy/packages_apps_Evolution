@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Cử chỉ AOSP</string>
     <string name="buttons_title">Phím cứng</string>
     <string name="gestures_title">Cử chỉ</string>
-    <string name="interface_category">Giao diện</string>
     <string name="lockscreen_title">Màn hình khoá</string>
-    <string name="lockscreen_shortcuts_category">Lối tắt</string>
-    <string name="logo_category">Biểu tượng</string>
     <string name="misc_title">Linh tinh</string>
     <string name="navbar_title">Thanh điều hướng</string>
     <string name="notifications_title">Thông báo</string>
     <string name="powermenu_title">Menu nguồn</string>
     <string name="quicksettings_title">Cài đặt nhanh</string>
-    <string name="qs_style_category">Chủ đề cài đặt nhanh</string>
     <string name="statusbar_title">Thanh trạng thái</string>
     <string name="volume_title">Phím Âm lượng</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Giao diện</string>
+    <string name="lockscreen_shortcuts_category">Lối tắt</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tinh chỉnh các hành động của các nút vật lý trên thiết bị của bạn</string>
     <string name="gestures_summary">Tùy chọn/hành động dựa trên cử chỉ</string>
     <string name="misc_summary">Cài đặt hệ thống bổ sung</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Đặt lại</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Đồng bộ màu nhấn</string>
     <string name="lockscreen_cover_filter_blur">Mờ</string>
     <string name="lockscreen_cover_filter_grayblur">Trắng đen và làm mờ</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Logo Evolution X 2.0</string>
-    <string name="evolution_logo_summary">Cho mọi người thấy rằng bạn đang dùng Evolution X 2.0 khi họ nhìn thấy màn hình bạn</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Logo tùy chỉnh</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Độ trong suốt</string>
