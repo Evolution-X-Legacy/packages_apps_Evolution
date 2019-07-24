@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">ท่าทาง AOSP</string>
     <string name="buttons_title">ปุ่มฮาร์ดแวร์</string>
     <string name="gestures_title">ท่าทาง</string>
-    <string name="interface_category">อินเตอร์เฟซ</string>
     <string name="lockscreen_title">หน้าจอล็อค</string>
-    <string name="lockscreen_shortcuts_category">ทาง​ลัด</string>
-    <string name="logo_category">โลโก้</string>
     <string name="misc_title">ตั้งค่าอื่นๆ</string>
     <string name="navbar_title">แถบนำทาง</string>
     <string name="notifications_title">การแจ้งเตือน</string>
     <string name="powermenu_title">เมนูเพาว์เวอร์</string>
     <string name="quicksettings_title">แถบการตั้งค่าด่วน</string>
-    <string name="qs_style_category">ชุดรูปแบบการตั้งค่าด่วน</string>
     <string name="statusbar_title">แถบสถานะ</string>
     <string name="volume_title">ปุ่มปรับระดับเสียง</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">อินเตอร์เฟซ</string>
+    <string name="lockscreen_shortcuts_category">ทาง​ลัด</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">ปรับแต่งการกระทำของปุ่มฮาร์ดแวร์ของอุปกรณ์ของคุณ</string>
     <string name="gestures_summary">ปรับแต่งตัวเลือก ท่าทาง/การกระทำ</string>
     <string name="misc_summary">การตั้งค่าระบบพิเศษ</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">ตกลง</string>
     <string name="reset">รีเซ็ต</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">ธีมสีอุปกรณ์</string>
     <string name="lockscreen_cover_filter_blur">เบลอ</string>
     <string name="lockscreen_cover_filter_grayblur">โทนสีเทาและเบลอ</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">โลโก้ Evolution X 2.0</string>
-    <string name="evolution_logo_summary">บอกให้ทุกคนรู้ว่าคุณกำลังใช้ Evolution X 2.0 เมื่อพวกเขาเห็นหน้าจอของคุณ</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">รูปแบบโลโก้ที่กำหนดเอง</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">ความทึบแสง</string>
