@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">מחוות AOSP</string>
     <string name="buttons_title">מקשי חומרה</string>
     <string name="gestures_title">מחוות</string>
-    <string name="interface_category">ממשק</string>
     <string name="lockscreen_title">מסך נעילה</string>
-    <string name="lockscreen_shortcuts_category">קיצורים</string>
-    <string name="logo_category">לוגו</string>
     <string name="misc_title">שונות</string>
     <string name="navbar_title">שורת הניווט</string>
     <string name="notifications_title">התראות</string>
     <string name="powermenu_title">תפריט הפעלה</string>
     <string name="quicksettings_title">הגדרות מהירות</string>
-    <string name="qs_style_category">ערכות נושא של הגדרות מהירות</string>
     <string name="statusbar_title">שורת מצב</string>
     <string name="volume_title">תפריט הווליום</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">ממשק</string>
+    <string name="lockscreen_shortcuts_category">קיצורים</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">כוונן את הפעולות של הלחצנים הפיזיים של המכשירים שלך</string>
     <string name="gestures_summary">מחוות המבוססות על אפשרויות/פעולות</string>
     <string name="misc_summary">הגדרות מערכת נוספות</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">אישור</string>
     <string name="reset">איפוס</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">צבע מודגש</string>
     <string name="lockscreen_cover_filter_blur">טשטוש</string>
     <string name="lockscreen_cover_filter_grayblur">גווני אפור וטשטוש</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">לוגו של Evolution X 2.0</string>
-    <string name="evolution_logo_summary">הראה לכולם שאתה משתמש ב- Evolution X 2.0 כאשר הם רואים את המסך שלך</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">לוגו מותאם אישית (תמונה)</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">אטימות</string>
