@@ -22,22 +22,28 @@
     <string name="aosp_gesture_title">Gestes AOSP</string>
     <string name="buttons_title">Boutons de volume</string>
     <string name="gestures_title">Gestes</string>
-    <string name="interface_category">Interface</string>
     <string name="lockscreen_title">Écran de verrouillage</string>
-    <string name="lockscreen_shortcuts_category">Raccourcis</string>
-    <string name="logo_category">Logo</string>
     <string name="misc_title">Divers</string>
     <string name="navbar_title">Barre de navigation</string>
     <string name="notifications_title">Notifications</string>
     <string name="powermenu_title">Menu marche/arrêt</string>
     <string name="quicksettings_title">Paramètres rapides</string>
-    <string name="qs_style_category">Thème des paramètres rapides</string>
     <string name="statusbar_title">Barre d\'état</string>
     <string name="volume_title">Boutons de volume</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Interface</string>
+    <string name="lockscreen_shortcuts_category">Raccourcis</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Changez les actions des touches physiques</string>
     <string name="gestures_summary">Options pour les gestes</string>
     <string name="misc_summary">Paramètres systèmes supplémentaires</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Réinitialiser</string>
@@ -344,9 +350,9 @@
     <string name="lockscreen_cover_filter_tint">Accent tinted</string>
     <string name="lockscreen_cover_filter_blur">Flou</string>
     <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Logo Evolution X 2.0</string>
-    <string name="evolution_logo_summary">Montre à tout le monde que tu utilise la meilleure ROM au monde, Evolution X 2.0</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Définir un logo</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Opacité</string>
