@@ -31,19 +31,19 @@
     <string name="statusbar_title">แถบสถานะ</string>
     <string name="volume_title">ปุ่มปรับระดับเสียง</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">ลายนิ้วมือ</string>
+    <string name="hide_icons_category">ไอคอน</string>
     <string name="interface_category">อินเตอร์เฟซ</string>
     <string name="lockscreen_shortcuts_category">ทาง​ลัด</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">เพลง</string>
+    <string name="qs_style_category">รูปแบบการตั้งค่าด่วน</string>
+    <string name="status_bar_items">รายการแถบสถานะ</string>
+    <string name="system_category">ระบบ</string>
     <!-- Summaries -->
     <string name="buttons_summary">ปรับแต่งการกระทำของปุ่มฮาร์ดแวร์ของอุปกรณ์ของคุณ</string>
     <string name="gestures_summary">ปรับแต่งตัวเลือก ท่าทาง/การกระทำ</string>
     <string name="misc_summary">การตั้งค่าระบบพิเศษ</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">กำหนดค่าตัวเลือกการปิดเครื่องของคุณ</string>
     <!-- General strings -->
     <string name="ok">ตกลง</string>
     <string name="reset">รีเซ็ต</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">เบลอ</string>
     <string name="lockscreen_cover_filter_grayblur">โทนสีเทาและเบลอ</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">โลโก้แถบสถานะ</string>
+    <string name="status_bar_logo_summary">ทำให้แถบสถานะของคุณดูยอดเยี่ยมด้วยโลโก้ที่คุณสามารถกำหนดเองได้</string>
     <string name="status_bar_logo_style_title">รูปแบบโลโก้ที่กำหนดเอง</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">ความทึบแสง</string>
@@ -693,9 +693,9 @@
     <string name="screenshot_type_fullscreen">เต็มหน้าจอ</string>
     <string name="screenshot_type_partial">บางส่วน</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">ค่าประมาณแบตเตอรี่</string>
+    <string name="show_battery_estimate_summary">แสดงการประมาณแบตเตอรี่ในแผงการตั้งค่าด่วน</string>
+    <string name="battery_estimate_position_title">ไอคอนแบตเตอรี่ &amp; ประมาณตำแหน่ง</string>
+    <string name="battery_estimate_position_qsheader">ส่วนหัวของแผงตั้งค่าด่วน</string>
+    <string name="battery_estimate_position_qspanel">แผงการตั้งค่าด่วน</string>
 </resources>
