@@ -31,19 +31,19 @@
     <string name="statusbar_title">状态栏</string>
     <string name="volume_title">音量调节</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">指纹</string>
+    <string name="hide_icons_category">图标</string>
     <string name="interface_category">界面</string>
     <string name="lockscreen_shortcuts_category">快捷操作</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">音乐</string>
+    <string name="qs_style_category">QS 样式</string>
+    <string name="status_bar_items">状态栏图标</string>
+    <string name="system_category">系统</string>
     <!-- Summaries -->
     <string name="buttons_summary">自定义此设备的实体按键操作</string>
     <string name="gestures_summary">手势基本选项/操作</string>
     <string name="misc_summary">拓展设置</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">配置您的关机选项</string>
     <!-- General strings -->
     <string name="ok">确定</string>
     <string name="reset">重置</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">模糊</string>
     <string name="lockscreen_cover_filter_grayblur">灰度和模糊</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">状态栏标志</string>
+    <string name="status_bar_logo_summary">在状态栏使用自定义徽标</string>
     <string name="status_bar_logo_style_title">自定义 logo 样式</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">透明度</string>
@@ -430,8 +430,8 @@
     <string name="qstile_teardrop">泪珠形</string>
     <string name="qstile_badge">徽章</string>
     <string name="qstile_badgetwo">徽章 2</string>
-    <string name="qstile_triangle">Triangle</string>
-    <string name="qstile_oos">OxygenOS</string>
+    <string name="qstile_triangle">三角形</string>
+    <string name="qstile_oos">氧OS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">时钟字体选项</string>
     <string name="lock_clock_font_summary">更改锁屏界面时钟小部件的默认字体</string>
@@ -692,9 +692,9 @@
     <string name="screenshot_type_fullscreen">全屏幕</string>
     <string name="screenshot_type_partial">局部屏幕</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">快速设置中的电池可用时间预测</string>
+    <string name="show_battery_estimate_summary">在QS面板中显示电池预估剩余时间</string>
+    <string name="battery_estimate_position_title">电池预估剩余位置</string>
+    <string name="battery_estimate_position_qsheader">QS 页眉</string>
+    <string name="battery_estimate_position_qspanel">QS 面板</string>
 </resources>
