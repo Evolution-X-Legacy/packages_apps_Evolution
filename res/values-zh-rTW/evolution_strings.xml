@@ -19,10 +19,10 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP 手勢</string>
-    <string name="buttons_title">實體按鈕</string>
+    <string name="aosp_gesture_title">AOSP手勢</string>
+    <string name="buttons_title">實體按鍵</string>
     <string name="gestures_title">手勢</string>
-    <string name="lockscreen_title">螢幕鎖定畫面</string>
+    <string name="lockscreen_title">螢幕鎖定</string>
     <string name="misc_title">雜項</string>
     <string name="navbar_title">導覽列</string>
     <string name="notifications_title">通知</string>
@@ -31,19 +31,19 @@
     <string name="statusbar_title">狀態列</string>
     <string name="volume_title">音量按鍵</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">指紋</string>
+    <string name="hide_icons_category">圖示</string>
     <string name="interface_category">介面</string>
     <string name="lockscreen_shortcuts_category">捷徑</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">音樂</string>
+    <string name="qs_style_category">QS樣式</string>
+    <string name="status_bar_items">狀態列項目</string>
+    <string name="system_category">系統</string>
     <!-- Summaries -->
     <string name="buttons_summary">更改裝置的實體按鍵行為</string>
     <string name="gestures_summary">透過手勢進行各項操作</string>
     <string name="misc_summary">額外系統設定</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">管理關機選項</string>
     <!-- General strings -->
     <string name="ok">完成</string>
     <string name="reset">重設</string>
@@ -137,7 +137,7 @@
     <string name="force_ambient_for_media_pref_summary">設定微光螢幕音樂指示器</string>
     <string name="ambient_ticker_footer">微光螢幕音樂指示器將於微光螢幕顯示目前播放中的音樂資訊\n\n就算未啟用微光螢幕，音樂切換時，仍將於螢幕中間顯示微光螢幕音樂指示器。\n\n您可輕觸兩下跳過目前播放中的音樂。</string>
     <string name="force_ambient_for_media_title">啟用</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">環境音樂</string>
     <!-- Status bar clock options -->
     <string name="clock_category">時鐘</string>
     <string name="status_bar_clock">時鐘與日期</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">模糊</string>
     <string name="lockscreen_cover_filter_grayblur">灰階模糊</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">狀態列圖示</string>
+    <string name="status_bar_logo_summary">使用自定義圖示使您的狀態列看起來很讚</string>
     <string name="status_bar_logo_style_title">自訂徽章樣式</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">透明度</string>
@@ -430,8 +430,8 @@
     <string name="qstile_teardrop">淚珠形</string>
     <string name="qstile_badge">徽章</string>
     <string name="qstile_badgetwo">徽章 2</string>
-    <string name="qstile_triangle">Triangle</string>
-    <string name="qstile_oos">OxygenOS</string>
+    <string name="qstile_triangle">三角形</string>
+    <string name="qstile_oos">氧OS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">時鐘字型設定</string>
     <string name="lock_clock_font_summary">更改螢幕鎖定畫面時鐘小工具字型</string>
@@ -469,12 +469,12 @@
     <string name="corner_fwvals_summary">適用於圓角螢幕</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">啟動音樂應用程式</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
-    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
-    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
-    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
+    <string name="headset_connect_player_disabled">已停用</string>
+    <string name="headset_connect_player_wired">當有線耳機插入時</string>
+    <string name="headset_connect_player_bt_no_carkit">當藍牙耳機 (無車充) 連線時</string>
+    <string name="headset_connect_player_bt">當藍牙耳機連線時</string>
+    <string name="headset_connect_player_both_no_carkit">當有線或藍牙耳機 (無車充) 插入/連線時</string>
+    <string name="headset_connect_player_both">當有線或藍牙耳機插入/連線時</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">USB 設定</string>
     <string name="usb_default_config_summary">選擇 USB 連線後的預設行為</string>
@@ -655,47 +655,48 @@
     <string name="alarm_list_header">可用的 Alarm</string>
     <string name="alarm_blocker_reload">重新載入</string>
     <!-- Gaming mode -->
-    <string name="gaming_mode_title">Gaming Mode</string>
-    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
-    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
-    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
-    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
-    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
-    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
-    <string name="gaming_mode_headsup_title">Block notifications</string>
-    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
-    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
-    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
-    <string name="gaming_mode_gestures_title">Disable gestures</string>
-    <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
-    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
-    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
-    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
-    <string name="gaming_mode_ringer_off_title">Do not change</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
-    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
-    <string name="gaming_mode_ringer_silent_title">Silent</string>
-    <string name="gaming_mode_notifications_title">Notifications</string>
-    <string name="gaming_mode_notifications_off_title">Disabled</string>
-    <string name="gaming_mode_notifications_notif_title">Show notification</string>
-    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
-    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
-    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_title">遊戲模式</string>
+    <string name="gaming_mode_summary">自定義遊戲模式設定</string>
+    <string name="gaming_mode_master_title">啟用遊戲模式功能</string>
+    <string name="gaming_mode_master_summary">允許自定義遊戲模式選項</string>
+    <string name="gaming_mode_app_picker_title">指定應用自動開啟</string>
+    <string name="add_gaming_mode_package_title">添加遊戲模式應用</string>
+    <string name="add_gaming_mode_package_summary">打開選擇的應用時會自動開啟遊戲模式</string>
+    <string name="gaming_mode_headsup_title">屏蔽通知</string>
+    <string name="gaming_mode_headsup_summary">屏蔽所有除了電話以外的懸浮通知</string>
+    <string name="gaming_mode_hardware_keys_title">鎖定按鍵</string>
+    <string name="gaming_mode_hardware_keys_summary">當遊戲模式啟用時關閉實體按鍵</string>
+    <string name="gaming_mode_gestures_title">關閉虛擬導航列</string>
+    <string name="gaming_mode_gestures_summary">當遊戲模式啟用時關閉虛擬導航列</string>
+    <string name="gaming_mode_brightness_title">關閉自動亮度</string>
+    <string name="gaming_mode_brightness_summary">當遊戲模式啟用時鎖定螢幕亮度</string>
+    <string name="gaming_mode_ringer_title">遊戲中的通知音效</string>
+    <string name="gaming_mode_ringer_off_title">不變更</string>
+    <string name="gaming_mode_ringer_vibrate_title">震動</string>
+    <string name="gaming_mode_ringer_dnd_title">勿擾模式</string>
+    <string name="gaming_mode_ringer_silent_title">靜音</string>
+    <string name="gaming_mode_notifications_title">遊戲模式提示</string>
+    <string name="gaming_mode_notifications_off_title">關閉</string>
+    <string name="gaming_mode_notifications_notif_title">顯示通知</string>
+    <string name="gaming_mode_notifications_toast_title">顯示提示訊息</string>
+    <string name="gaming_mode_notifications_all_title">顯示通知與提示訊息</string>
+    <string name="gaming_mode_dynamic_title">自動遊戲模式</string>
+    <string name="gaming_mode_dynamic_summary">當您打開程式並且系統認為這是遊戲時，系統會自動幫您添加至自動啟用列表
+請注意，不會正常運作在每個遊戲程式上</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">強制展開所有通知</string>
+    <string name="force_expanded_notifications_summary">僅適用於支援擴展通知的應用程式</string>
     <!-- Allow fake signature -->
     <string name="allow_signature_fake">Allow signature spoofing</string>
     <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
-    <string name="screenshot_type_fullscreen">Full</string>
-    <string name="screenshot_type_partial">Partial</string>
+    <string name="screenshot_type_title">螢幕截圖類型</string>
+    <string name="screenshot_type_fullscreen">完整的</string>
+    <string name="screenshot_type_partial">局部</string>
     <!-- Battery Estimate -->
     <string name="show_battery_estimate_title">Battery Estimates</string>
     <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
     <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="battery_estimate_position_qsheader">QS標題</string>
+    <string name="battery_estimate_position_qspanel">QS面板</string>
 </resources>
