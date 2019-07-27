@@ -31,19 +31,19 @@
     <string name="statusbar_title">Thanh trạng thái</string>
     <string name="volume_title">Phím Âm lượng</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">Vân tay</string>
+    <string name="hide_icons_category">Biểu tượng</string>
     <string name="interface_category">Giao diện</string>
     <string name="lockscreen_shortcuts_category">Lối tắt</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">Nhạc</string>
+    <string name="qs_style_category">Kiểu cài đặt nhanh</string>
+    <string name="status_bar_items">Biểu tượng thanh trạng thái</string>
+    <string name="system_category">Hệ thống</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tinh chỉnh các hành động của các nút vật lý trên thiết bị của bạn</string>
     <string name="gestures_summary">Tùy chọn/hành động dựa trên cử chỉ</string>
     <string name="misc_summary">Cài đặt hệ thống bổ sung</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">Tùy chọn cấu hình tắt máy của bạn</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Đặt lại</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">Mờ</string>
     <string name="lockscreen_cover_filter_grayblur">Trắng đen và làm mờ</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">Logo thanh trạng thái</string>
+    <string name="status_bar_logo_summary">Làm cho thanh trạng thái của bạn trông tuyệt vời với một logo tùy chỉnh</string>
     <string name="status_bar_logo_style_title">Logo tùy chỉnh</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Độ trong suốt</string>
@@ -694,9 +694,9 @@
     <string name="screenshot_type_fullscreen">Đầy đủ</string>
     <string name="screenshot_type_partial">Một phần</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">Ước tính thời lượng Pin còn lại</string>
+    <string name="show_battery_estimate_summary">Hiện Ước tính Pin trong Bảng cài đặt nhanh</string>
+    <string name="battery_estimate_position_title">Biểu tượng pin &amp; Vị trí Ước tính</string>
+    <string name="battery_estimate_position_qsheader">Tiêu đề Cài đặt nhanh</string>
+    <string name="battery_estimate_position_qspanel">Bảng Cài đặt nhanh</string>
 </resources>
