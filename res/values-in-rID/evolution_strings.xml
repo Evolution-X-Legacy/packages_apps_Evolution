@@ -31,19 +31,19 @@
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume Rocker</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">Sidik Jari</string>
+    <string name="hide_icons_category">Ikon</string>
     <string name="interface_category">Tampilan</string>
     <string name="lockscreen_shortcuts_category">Pintasan</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">Musik</string>
+    <string name="qs_style_category">Gaya QS</string>
+    <string name="status_bar_items">Item bilah status</string>
+    <string name="system_category">Sistem</string>
     <!-- Summaries -->
     <string name="buttons_summary">Ubah pengaturan tombol fisik perangkat</string>
     <string name="gestures_summary">Isyarat berdasarkan Pengaturan/Tindakan</string>
     <string name="misc_summary">Pengaturan tambahan sistem</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">Konfigurasikan opsi mematikan Anda</string>
     <!-- General strings -->
     <string name="ok">Ok</string>
     <string name="reset">Reset</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">Mengaburkan</string>
     <string name="lockscreen_cover_filter_grayblur">Skala abu-abu dan kabur</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">Logo bilah status</string>
+    <string name="status_bar_logo_summary">Jadikan bilah status Anda tampak luar biasa dengan logo khusus</string>
     <string name="status_bar_logo_style_title">Kostum gambar logo</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Kegelapan</string>
@@ -691,9 +691,9 @@
     <string name="screenshot_type_fullscreen">Penuh</string>
     <string name="screenshot_type_partial">Sebagian</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
+    <string name="show_battery_estimate_title">Perkiraan Baterai</string>
+    <string name="show_battery_estimate_summary">Tampilkan Perkiraan Baterai di Panel QS</string>
+    <string name="battery_estimate_position_title">Ikon Baterai &amp; Perkirakan Posisi</string>
     <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="battery_estimate_position_qspanel">Panel QS</string>
 </resources>
