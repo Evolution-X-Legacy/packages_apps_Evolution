@@ -31,19 +31,19 @@
     <string name="statusbar_title">Стасус бар</string>
     <string name="volume_title">Клавіши регулювання гучності</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">Відбиток пальця</string>
+    <string name="hide_icons_category">Іконки</string>
     <string name="interface_category">Інтерфейс</string>
     <string name="lockscreen_shortcuts_category">Ярлики</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">Музика</string>
+    <string name="qs_style_category">Стиль QS</string>
+    <string name="status_bar_items">Елементи статус бару</string>
+    <string name="system_category">Система</string>
     <!-- Summaries -->
     <string name="buttons_summary">Налаштування дій при натисканні фізичних клавіш вашого пристрою</string>
     <string name="gestures_summary">Параметри/дії на основі жестів</string>
     <string name="misc_summary">Додаткові налаштування системи</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">Налаштуйте параметри виключення</string>
     <!-- General strings -->
     <string name="ok">Добре</string>
     <string name="reset">Скинути</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">Розмиття</string>
     <string name="lockscreen_cover_filter_grayblur">Розмиті відтінки сірого</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">Логотип на рядку стану</string>
+    <string name="status_bar_logo_summary">Зробіть так, щоб ваш рядок стану виглядав приголомшливо з власним логотипом</string>
     <string name="status_bar_logo_style_title">Користувацький стиль логотипа</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Прозорість</string>
