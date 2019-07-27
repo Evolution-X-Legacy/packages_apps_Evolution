@@ -31,19 +31,19 @@
     <string name="statusbar_title">Barra de status</string>
     <string name="volume_title">Botões De Volume</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
+    <string name="fingerprint_category">Digital</string>
+    <string name="hide_icons_category">Ícones</string>
     <string name="interface_category">Interface</string>
     <string name="lockscreen_shortcuts_category">Atalhos</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="music_category">Música</string>
+    <string name="qs_style_category">Estilo QS</string>
+    <string name="status_bar_items">Itens da barra de status</string>
+    <string name="system_category">Sistema</string>
     <!-- Summaries -->
     <string name="buttons_summary">Ajustar as ações das teclas do seu dispositivo físico</string>
     <string name="gestures_summary">Gestos baseados em opções/ações</string>
     <string name="misc_summary">Configurações extras do sistema</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="powermenu_summary">Configure suas opções de desligamento</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Resetar</string>
@@ -351,8 +351,8 @@
     <string name="lockscreen_cover_filter_blur">Desfoque</string>
     <string name="lockscreen_cover_filter_grayblur">Tons de cinza e desfocado</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_title">Logo na barra de status</string>
+    <string name="status_bar_logo_summary">Faça sua barra de status parecer incrível com um logotipo personalizado</string>
     <string name="status_bar_logo_style_title">Imagem do logotipo personalizado</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Opacidade</string>
@@ -694,9 +694,9 @@
     <string name="screenshot_type_fullscreen">Cheio</string>
     <string name="screenshot_type_partial">Parcial</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
-    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <string name="show_battery_estimate_title">Estimativas de bateria</string>
+    <string name="show_battery_estimate_summary">Mostrar estimativas de bateria no Painel QS</string>
+    <string name="battery_estimate_position_title">Ícone de Bateria &amp; Estima a posição</string>
+    <string name="battery_estimate_position_qsheader">Cabeçalho QS</string>
+    <string name="battery_estimate_position_qspanel">Painel de Configurações Rápidas</string>
 </resources>
