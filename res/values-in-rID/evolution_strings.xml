@@ -20,10 +20,10 @@
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
     <string name="aosp_gesture_title">Gestur AOSP</string>
-    <string name="buttons_title">Tombol fisik</string>
+    <string name="buttons_title">Tombol perangkat</string>
     <string name="gestures_title">Gestur</string>
-    <string name="lockscreen_title">Kunci layar</string>
-    <string name="misc_title">Lain-lain</string>
+    <string name="lockscreen_title">Layar kunci</string>
+    <string name="misc_title">Pengaturan tambahan</string>
     <string name="navbar_title">Navigasi bar</string>
     <string name="notifications_title">Notifikasi</string>
     <string name="powermenu_title">Tombol Power</string>
