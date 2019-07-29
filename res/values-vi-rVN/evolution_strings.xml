@@ -638,9 +638,6 @@
     <string name="hardware_keys_disable_title">Vô hiệu phím cứng</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Lối tắt màn hình khóa</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Hiệu ứng sạc</string>
-    <string name="lockscreen_charging_animation_summary">Hiển thị hiệu ứng chớp khi thiết bị được cắm sạc</string>
     <string name="button_wake_summary">Đánh thức các thiết bị bằng cách nhấn nút</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Ẩn biểu tượng khóa màn hình</string>
