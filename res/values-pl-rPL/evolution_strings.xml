@@ -635,9 +635,6 @@
     <string name="hardware_keys_disable_title">Wyłącz przyciski sprzętowe</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Skróty ekranu blokady</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Animacja ładowania</string>
-    <string name="lockscreen_charging_animation_summary">Pokaż animacje pioruna w trakcie ładowania urządzenia</string>
     <string name="button_wake_summary">Wybudź urządzenie poprzez naciśnięcie przycisku</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Ukryj ikonę zablokowania ekranu</string>
