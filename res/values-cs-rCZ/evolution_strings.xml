@@ -638,9 +638,6 @@
     <string name="hardware_keys_disable_title">Zakázat hardwarová tlačítka</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Zkratky na zamykací obrazovce</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Animace nabíjení</string>
-    <string name="lockscreen_charging_animation_summary">Zobrazí animaci při nabíjení zařízení</string>
     <string name="button_wake_summary">Probudit zařízení stisknutím tlačítka hlasitosti</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Skrýt ikonu zámku obrazovky</string>
