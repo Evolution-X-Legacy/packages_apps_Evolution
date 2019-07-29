@@ -637,9 +637,6 @@
     <string name="hardware_keys_disable_title">停用實體導覽按鈕</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">螢幕鎖定畫面捷徑</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">充電動畫</string>
-    <string name="lockscreen_charging_animation_summary">裝置充電時，於螢幕鎖定畫面底部顯示閃電動畫</string>
     <string name="button_wake_summary">按下按鈕時喚醒裝置</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">隱藏鎖定圖示</string>
