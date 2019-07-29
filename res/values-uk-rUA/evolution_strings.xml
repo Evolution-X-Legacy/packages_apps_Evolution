@@ -638,9 +638,6 @@
     <string name="hardware_keys_disable_title">Вимкнути апаратні кнопки</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Ярлики екрану блокування</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Анімація заряджання</string>
-    <string name="lockscreen_charging_animation_summary">Показувати анімацію при підключенні зарядного пристрою</string>
     <string name="button_wake_summary">Розбудити пристрій натисканням клавіши</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Приховати значки на екрані блокування</string>
