@@ -635,9 +635,6 @@
     <string name="hardware_keys_disable_title">Nonaktifkan tombol fisik</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Pintasan layar kunci</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Animasi pengisian</string>
-    <string name="lockscreen_charging_animation_summary">Tampilkan animasi bolt ketika perangkat sedang diisi</string>
     <string name="button_wake_summary">Bangunkan perangkat dengan menekan tombol</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Sembunyikan ikon pengunci layar</string>
