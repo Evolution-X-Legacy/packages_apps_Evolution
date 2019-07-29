@@ -638,9 +638,6 @@
     <string name="hardware_keys_disable_title">Disabilita i tasti fisici</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Scorciatoie schermata di blocco</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Animazione di ricarica</string>
-    <string name="lockscreen_charging_animation_summary">Visualizza l\'animazione di un fulmine quando il dispositivo è in carica</string>
     <string name="button_wake_summary">Risveglia il dispositivo premendo il pulsante</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
