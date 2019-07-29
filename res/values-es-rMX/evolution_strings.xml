@@ -638,9 +638,6 @@
     <string name="hardware_keys_disable_title">Desactivar los botones físicos</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Accesos directos en pantalla de bloqueo</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Animación de carga</string>
-    <string name="lockscreen_charging_animation_summary">Mostrar una animación de bolt cuando el dispositivo está cargando</string>
     <string name="button_wake_summary">Despertar dispositivo pulsando el botón</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Ocultar icono de pantalla de bloqueo</string>
