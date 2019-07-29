@@ -635,9 +635,6 @@
     <string name="hardware_keys_disable_title">השבתת כפתורי חומרה</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">קיצורי דרך מסך הנעילה</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">אנימציית טעינה</string>
-    <string name="lockscreen_charging_animation_summary">הצגת הנפשה בולטת כאשר המכשיר נטען</string>
     <string name="button_wake_summary">הער את המכשיר ע\"י הקשה על מקש</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">הסתר את סמל הנעילה</string>
