@@ -638,9 +638,6 @@
     <string name="hardware_keys_disable_title">Donanım tuşlarını devre dışı bırak</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Kilit ekranı kısayolları</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Şarj animasyonu</string>
-    <string name="lockscreen_charging_animation_summary">Cihaz şarj olurken bir cıvata animasyonu görüntüle</string>
     <string name="button_wake_summary">Tuşa basıldığında cihazı uyandır</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Kilit ekranı simgesini gizle</string>
