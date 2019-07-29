@@ -637,9 +637,6 @@
     <string name="hardware_keys_disable_title">ปิดใช้งานปุ่มบนตัวเครื่อง</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">ปุ่มลัดบนหน้าจอล็อค</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">อนิเมชั่นการชาร์จ</string>
-    <string name="lockscreen_charging_animation_summary">แสดงภาพเอนิเมชั่นสายฟ้าเมื่ออุปกรณ์กำลังชาร์จ</string>
     <string name="button_wake_summary">ปลุกอุปกรณ์โดยกดปุ่ม</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">ซ่อนไอคอนหน้าจอล็อค</string>
