@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Styl názvu operátora</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Barva názvu operátora</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Skrýt výřez</string>
-    <string name="hide_notch_summary">Pokud je povoleno, skryje výřez a vyplní postranní mezery</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Indikátor roamingu</string>
     <string name="roaming_indicator_icon_summary">V režimu roamingu zobrazit indikátor v ikoně signálu</string>
