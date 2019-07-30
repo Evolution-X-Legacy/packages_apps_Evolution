@@ -19,7 +19,7 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP手勢</string>
+    <string name="aosp_gesture_title">AOSP 手勢</string>
     <string name="buttons_title">實體按鍵</string>
     <string name="gestures_title">手勢</string>
     <string name="lockscreen_title">螢幕鎖定</string>
@@ -36,7 +36,7 @@
     <string name="interface_category">介面</string>
     <string name="lockscreen_shortcuts_category">捷徑</string>
     <string name="music_category">音樂</string>
-    <string name="qs_style_category">QS樣式</string>
+    <string name="qs_style_category">QS 樣式</string>
     <string name="status_bar_items">狀態列項目</string>
     <string name="system_category">系統</string>
     <!-- Summaries -->
@@ -101,7 +101,7 @@
     <string name="wake_when_plugged_or_unplugged_summary">接上或拔除電源時喚醒裝置</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">藍牙電池狀態</string>
-    <string name="bluetooth_battery_summary">可用時，顯示已連接的藍牙裝置電池狀態</string>
+    <string name="bluetooth_battery_summary">顯示當前連接的藍牙裝置電量 (如果支持)。</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">關閉不必要的彈出通知</string>
     <string name="less_boring_heads_up_summary">僅顯示來自通話及簡訊的彈出通知</string>
@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">電信商名稱字型</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">電信商名稱色彩</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">隱藏螢幕缺口</string>
-    <string name="hide_notch_summary">於螢幕缺口旁側填充黑色背景</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">漫遊指示器</string>
     <string name="roaming_indicator_icon_summary">在漫遊時顯示漫遊圖示</string>
@@ -431,7 +428,7 @@
     <string name="qstile_badge">徽章</string>
     <string name="qstile_badgetwo">徽章 2</string>
     <string name="qstile_triangle">三角形</string>
-    <string name="qstile_oos">氧OS</string>
+    <string name="qstile_oos">氧Os</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">時鐘字型設定</string>
     <string name="lock_clock_font_summary">更改螢幕鎖定畫面時鐘小工具字型</string>
@@ -694,6 +691,6 @@
     <string name="show_battery_estimate_title">Battery Estimates</string>
     <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
     <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
-    <string name="battery_estimate_position_qsheader">QS標題</string>
-    <string name="battery_estimate_position_qspanel">QS面板</string>
+    <string name="battery_estimate_position_qsheader">QS 標題</string>
+    <string name="battery_estimate_position_qspanel">QS 面板</string>
 </resources>
