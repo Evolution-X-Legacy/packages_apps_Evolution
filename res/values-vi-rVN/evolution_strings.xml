@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Phông chữ tên nhà mạng</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Màu tên nhà mạng</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Ẩn tai thỏ</string>
-    <string name="hide_notch_summary">Vùng xung quanh tai thỏ sẽ hiển thị màu đen để ẩn nó đi</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Hiển thị cảnh báo chuyển vùng</string>
     <string name="roaming_indicator_icon_summary">Hiển thị chỉ báo chuyển vùng trong biểu tượng tín hiệu khi ở chế độ chuyển vùng</string>
