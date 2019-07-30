@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Fuente de nombre de operadora</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Color del nombre de la operadora</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Ocultar notch</string>
-    <string name="hide_notch_summary">Al activarse se oculta el notch y se rellena el espacio de los laterales</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Indicador de roaming</string>
     <string name="roaming_indicator_icon_summary">Mostrar indicador de roaming en el icono de señal cuando esta en modo roaming</string>
