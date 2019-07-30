@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Carattere etichetta operatore</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Colore etichetta operatore</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Nascondi notch</string>
-    <string name="hide_notch_summary">Se abilitato nasconde il notch e riempe gli spazi laterali</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Indicatore roaming</string>
     <string name="roaming_indicator_icon_summary">Mostra l\'indicatore di roaming nell\'icona del segnale quando si è in modalità roaming</string>
