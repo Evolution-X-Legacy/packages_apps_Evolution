@@ -19,9 +19,9 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">Gestos AOSP</string>
-    <string name="buttons_title">Botões físicos</string>
-    <string name="gestures_title">Gestos</string>
+    <string name="aosp_gesture_title">Gestos padrões AOSP</string>
+    <string name="buttons_title">Botões de navegação</string>
+    <string name="gestures_title">Gestos em tela cheia</string>
     <string name="lockscreen_title">Tela de bloqueio</string>
     <string name="misc_title">Diversos</string>
     <string name="navbar_title">Barra de navegação</string>
@@ -40,7 +40,7 @@
     <string name="status_bar_items">Itens da barra de status</string>
     <string name="system_category">Sistema</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Ajustar as ações das teclas do seu dispositivo físico</string>
+    <string name="buttons_summary">Ajustar as ações dos seus botões físicos</string>
     <string name="gestures_summary">Gestos baseados em opções/ações</string>
     <string name="misc_summary">Configurações extras do sistema</string>
     <string name="powermenu_summary">Configure suas opções de desligamento</string>
@@ -77,15 +77,15 @@
     <!-- Status bar battery style-->
     <string name="status_bar_battery_style_title">Estilo do ícone da bateria</string>
     <string name="status_bar_battery_style_port">Retrato</string>
-    <string name="status_bar_battery_style_q">Estilo Q</string>
+    <string name="status_bar_battery_style_q">Estilo Android Q</string>
     <string name="status_bar_battery_style_circle">Círculo</string>
     <string name="status_bar_battery_style_dotted_circle">Círculo Pontilhado</string>
     <string name="status_bar_battery_style_big_circle">Círculo grande</string>
     <string name="status_bar_battery_style_big_dotted_circle">Círculo Pontilhado Grande</string>
-    <string name="status_bar_battery_style_text">Texto</string>
+    <string name="status_bar_battery_style_text">Texto Android Q</string>
     <string name="status_bar_battery_style_hidden">Escondido</string>
     <!-- Power Menu -->
-    <string name="powermenu_category_title">Alterna o menu de energia</string>
+    <string name="powermenu_category_title">Alterar o menu de energia</string>
     <string name="powermenu_screenshot">Captura de tela</string>
     <string name="powermenu_power">Energia</string>
     <string name="powermenu_restart">Reiniciar</string>
@@ -100,7 +100,7 @@
     <string name="wake_when_plugged_or_unplugged_title">Acordar ao conectar</string>
     <string name="wake_when_plugged_or_unplugged_summary">Ativar a tela quando conectar ou desconectar o carregador</string>
     <!-- Bluetooth battery status -->
-    <string name="bluetooth_battery_title">Status da bateria Bluetooth</string>
+    <string name="bluetooth_battery_title">Status de bateria em dispositivos Bluetooth</string>
     <string name="bluetooth_battery_summary">Exibir o status da bateria para o dispositivo bluetooth conectado, se disponível</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Torne as notificações pop-up menos irritantes</string>
@@ -108,18 +108,18 @@
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Configurações do controle deslizante de brilho</string>
     <string name="qs_show_brightness_title">Controle de brilho</string>
-    <string name="qs_show_brightness_summary">Mostrar um controle deslizante de brilho no painel de configurações rápidas</string>
+    <string name="qs_show_brightness_summary">Mostrar o controle deslizante de brilho no painel de configurações rápidas</string>
     <string name="qs_brightness_position_bottom_title">Controle deslizante de brilho em baixo das configurações rápidas</string>
     <string name="qs_brightness_position_bottom_summary">Mostrar controle deslizante de brilho na parte de baixo do painel de configurações rápidas</string>
-    <string name="qs_show_auto_brightness_title">Botão de brilho adaptável</string>
-    <string name="qs_show_auto_brightness_summary">Mostrar botão de brilho adaptável</string>
-    <string name="qs_auto_brightness_right_title">Posição direita para o botão de brilho adaptável</string>
+    <string name="qs_show_auto_brightness_title">Botão de brilho automático</string>
+    <string name="qs_show_auto_brightness_summary">Mostrar botão de brilho automático</string>
+    <string name="qs_auto_brightness_right_title">Posição direita para o botão de brilho automático</string>
     <string name="qs_auto_brightness_right_summary">Mova o botão de brilho adaptável para a direita do controle deslizante de brilho</string>
     <string name="qs_show_brightness_buttons_title">Botões de controle de brilho</string>
     <string name="qs_show_brightness_buttons_summary">Mostrar botões para aumentar ou diminuir o brilho</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">Nenhum menu liga/desliga está bloqueado</string>
-    <string name="lockscreen_power_menu_disabled_summary">Desativar o menu liga/desliga na tela de bloqueio segura</string>
+    <string name="lockscreen_power_menu_disabled_title">Sem opções de liga/desliga quando bloqueado</string>
+    <string name="lockscreen_power_menu_disabled_summary">Desativar o menu liga/desliga na tela de bloqueio</string>
     <string name="notification_sound_vib_screen_on_title">Sons de notificações com tela ligada</string>
     <string name="notification_sound_vib_screen_on_summary">Desativar bloqueio do som e vibração de notificações quando a tela estiver ativa</string>
     <!-- Less Notification sounds -->
@@ -133,9 +133,9 @@
     <string name="incall_notifications_vibrate">Notificações de chamadas menos irritantes</string>
     <string name="incall_notifications_vibrate_summary">Vibrar em vez de reproduzir um som para notificações durante as chamadas</string>
     <!-- Ambient Music Ticker -->
-    <string name="force_ambient_for_media_pref_title">Ícone de Música em Ambiente</string>
+    <string name="force_ambient_for_media_pref_title">Ícone de Música do Ambiente</string>
     <string name="force_ambient_for_media_pref_summary">Configurar o ícone de música ambiente</string>
-    <string name="ambient_ticker_footer">O Ambient Music Ticker mostra a informação da música sendo tocada dentro da tela de exibição ambiente.\n\nEle também é acionado se a Exibição Ambiente está desativada quando uma nova faixa é iniciada, forçando uma tela ambiente limpa com informações da faixa no meio da tela.\n\nVocê também pode tocar duas vezes nas informações da faixa para pular a música.</string>
+    <string name="ambient_ticker_footer">O Ambient Music Ticker mostra a informação da música sendo tocada dentro da Tela Ambiente.\n\nEle também é acionado se a Tela Ambiente está desativada quando uma nova música é iniciada, forçando uma Tela Ambiente limpa com informações da música no meio da tela.\n\nVocê também pode tocar duas vezes nas informações da faixa para pular a música.</string>
     <string name="force_ambient_for_media_title">Ativar</string>
     <string name="ambient_title">Música Ambiente</string>
     <!-- Status bar clock options -->
@@ -149,11 +149,11 @@
     <string name="status_bar_show_clock_title">Mostrar relógio e data</string>
     <string name="status_bar_clock_seconds_title">Mostrar segundos</string>
     <string name="status_bar_am_pm_title">AM/PM</string>
-    <string name="status_bar_am_pm_info">O relógio de 24 horas está ativado</string>
+    <string name="status_bar_am_pm_info">O relógio estilo 24 horas está ativado</string>
     <string name="enable_clock_weekday">Dia da semana</string>
     <string name="enable_clock_weekday_summary">Abreviar dia da semana antes do relógio</string>
-    <string name="right_clock">Relógio a direita</string>
-    <string name="center_clock">Relógio ao centro</string>
+    <string name="right_clock">Relógio à direita</string>
+    <string name="center_clock">Relógio centralizado</string>
     <string name="left_clock">Relógio à esquerda</string>
     <string name="dont_show">Não mostrar</string>
     <string name="clock_date_display">Data</string>
@@ -172,7 +172,7 @@
     <string name="clock_date_style_lowercase">Letras minúsculas</string>
     <string name="clock_date_style_uppercase">Letras maiúsculas</string>
     <string name="clock_date_format_custom">Formato java personalizado</string>
-    <string name="clock_date_right">Direita do relógio</string>
+    <string name="clock_date_right">À direita do relógio</string>
     <string name="clock_date_left">À esquerda do relógio</string>
     <string name="clock_date_position">Posição da data</string>
     <string name="date_cat">Data</string>
@@ -182,7 +182,7 @@
     <string name="status_bar_clock_font_size_title">Tamanho da fonte</string>
     <string name="status_bar_clock_color_title">Cor da fonte</string>
     <!-- Lockscreen cover art -->
-    <string name="media_art_title">Mostrar capa do album da música</string>
+    <string name="media_art_title">Mostrar capa do álbum da música</string>
     <string name="media_art_summary">Mostrar a capa do álbum na tela de bloqueio</string>
     <!-- Lock screen visualizer -->
     <string name="lockscreen_visualizer_category">Visualizador</string>
@@ -212,8 +212,8 @@
     <string name="qs_tile_animation_interpolator_accelerateInterpolator">Acelerar</string>
     <string name="qs_tile_animation_interpolator_decelerateInterpolator">Desacelerar</string>
     <string name="qs_tile_animation_interpolator_accelerateDecelerateInterpolator">Acelerar e desacelerar</string>
-    <string name="qs_tile_animation_interpolator_bounceInterpolator">Salto</string>
-    <string name="qs_tile_animation_interpolator_overshootInterpolator">Sobreatirar</string>
+    <string name="qs_tile_animation_interpolator_bounceInterpolator">Pular</string>
+    <string name="qs_tile_animation_interpolator_overshootInterpolator">Se jogar</string>
     <string name="qs_tile_animation_interpolator_anticipateInterpolator">Antecipar</string>
     <string name="qs_tile_animation_interpolator_anticipateOvershootInterpolator">Antecipar e ultrapassar</string>
     <string name="qs_set_animation_style">%1$s</string>
@@ -221,7 +221,7 @@
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
     <string name="screen_off_animation_title">Animação ao desligar a tela</string>
-    <string name="screen_off_animation_fade">Desvanecer simples</string>
+    <string name="screen_off_animation_fade">Escurecer simples</string>
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Escala</string>
     <!-- Heads up -->
@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Fonte do Nome da Operadora</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Cor do rótulo da operadora</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Ocultar notch</string>
-    <string name="hide_notch_summary">Se habilitado, esconde notch e preenche lacunas laterals</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Indicador de roaming</string>
     <string name="roaming_indicator_icon_summary">Mostrar indicador de roaming no ícone de sinal quando em modo de roaming</string>
