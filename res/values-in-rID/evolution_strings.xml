@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Huruf label operator</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Warna label operator</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Sembunyikan notch</string>
-    <string name="hide_notch_summary">Menyalakan ini akan menyembunyikan torehan dan mengisi celah samping</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Indikator jelajah</string>
     <string name="roaming_indicator_icon_summary">Tampilkan indikator jelajah di ikon sinyal saat dalam mode jelajah</string>
