@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Χρώμα ονόματος παρόχου</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Χρώμα ονόματος παρόχου</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Απόκρυψη εγκοπής</string>
-    <string name="hide_notch_summary">Αν ενεργοποιηθεί κρύβει την εγκοπή</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Ένδειξη περιαγωγής</string>
     <string name="roaming_indicator_icon_summary">Εμφάνιση δείκτη περιαγωγής στο εικονίδιο σήματος στη λειτουργία περιαγωγής</string>
