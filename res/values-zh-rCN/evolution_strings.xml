@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">运营商标签字体</string>
     <string name="status_bar_carrier_font_style_summary">%1$s:</string>
     <string name="status_bar_carrier_color">运营商标签颜色</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">隐藏刘海</string>
-    <string name="hide_notch_summary">隐藏刘海将会填充刘海周围的缝隙</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">漫游标志</string>
     <string name="roaming_indicator_icon_summary">显示漫游标志</string>
