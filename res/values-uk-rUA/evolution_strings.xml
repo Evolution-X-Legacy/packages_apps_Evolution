@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Шрифт назви оператора</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Колір мітки оператора</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Сховати виріз</string>
-    <string name="hide_notch_summary">Коли ввімкнено, приховує виріз та заповнює бокові проміжки</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Індикатор роумінгу</string>
     <string name="roaming_indicator_icon_summary">Відображати індикатор роумінгу на іконці сигналу коли у роумінгу</string>
