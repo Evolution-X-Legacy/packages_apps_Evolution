@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">キャリアラベルのフォント</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">キャリアラベルの色</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">ノッチを隠す</string>
-    <string name="hide_notch_summary">可能な場合ノッチを隠し両側の隙間を埋める</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">ローミング表示</string>
     <string name="roaming_indicator_icon_summary">ローミング中は電波アイコンにローミング表示する</string>
