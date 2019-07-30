@@ -275,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Providernaam lettertype</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Provider labelkleur</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Notch verbergen</string>
-    <string name="hide_notch_summary">Indien ingeschakeld wordt de notch verborgen en worden de vlakken aan de zijkant gevuld</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Roaming indicatie</string>
     <string name="roaming_indicator_icon_summary">Toon roaming indicator in het signaal pictogram wanneer het toestel aan het roamen is</string>
