@@ -700,4 +700,10 @@
     <string name="incall_vibrate_call_wait_summary">Включить вибрацию во время ожидания</string>
     <string name="incall_vibrate_disconnect_title">Вибрация при отключении</string>
     <string name="incall_vibrate_disconnect_summary">Включить вибрацию после подключения</string>
+    <!-- Double Tap Lockscreen to Sleep -->
+    <string name="double_tap_to_sleep_lockscreen_title">Двойное нажатие для выключения экрана</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Дважды нажмите на верхней трети или в нижней зоне области ярлыков блокировки экрана, чтобы перевести устройство в режим сна</string>
+    <!-- Double tap Status bar to Sleep -->
+    <string name="double_tap_to_sleep_title">Двойное нажатие по строке состояния для перехода в спящий режим</string>
+    <string name="double_tap_to_sleep_summary">Дважды коснитесь строки состояния, чтобы перевести устройство в спящий режим</string>
 </resources>
