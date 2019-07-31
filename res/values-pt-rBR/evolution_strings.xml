@@ -694,11 +694,11 @@
     <string name="battery_estimate_position_qsheader">Cabeçalho QS</string>
     <string name="battery_estimate_position_qspanel">Painel de Configurações Rápidas</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Vibração na chamada</string>
+    <string name="incall_vibrate_connect_title">Vibrar ao conectar</string>
+    <string name="incall_vibrate_connect_summary">Ativar vibração após a conexão de chamadas</string>
+    <string name="incall_vibrate_call_wait_title">Vibrar ao esperar chamada</string>
+    <string name="incall_vibrate_call_wait_summary">Ativar vibração enquanto a chamada está em espera</string>
+    <string name="incall_vibrate_disconnect_title">Vibrar ao desconectar</string>
+    <string name="incall_vibrate_disconnect_summary">Ativar vibração após desconectar a chamada</string>
 </resources>
