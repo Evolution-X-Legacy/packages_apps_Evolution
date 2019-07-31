@@ -701,4 +701,10 @@
     <string name="incall_vibrate_call_wait_summary">Bật rung trong khi cuộc gọi đang chờ</string>
     <string name="incall_vibrate_disconnect_title">Rung khi ngắt kết nối</string>
     <string name="incall_vibrate_disconnect_summary">Bật rung sau khi ngắt kết nối cuộc gọi</string>
+    <!-- Double Tap Lockscreen to Sleep -->
+    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <!-- Double tap Status bar to Sleep -->
+    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
+    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
 </resources>
