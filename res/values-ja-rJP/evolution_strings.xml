@@ -699,9 +699,9 @@
     <string name="incall_vibrate_disconnect_title">切断時に振動</string>
     <string name="incall_vibrate_disconnect_summary">電話切断後に振動を有効にする</string>
     <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_title">ロック画面をダブルタップ</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">ロック画面の上の1/3または最下部のショートカット領域をダブルタップして端末をスリープする</string>
     <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">ステータスバーをダブルタップ</string>
+    <string name="double_tap_to_sleep_summary">ステータスバーをダブルタップして端末をスリープする</string>
 </resources>
