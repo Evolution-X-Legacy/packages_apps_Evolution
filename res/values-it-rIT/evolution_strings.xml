@@ -694,17 +694,17 @@
     <string name="battery_estimate_position_qsheader">Intestazione impostazioni rapide</string>
     <string name="battery_estimate_position_qspanel">Pannello impostazioni rapide</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Vibrazione in chiamata</string>
+    <string name="incall_vibrate_connect_title">Vibra alla risposta</string>
+    <string name="incall_vibrate_connect_summary">Attiva per attivare la vibrazione quando inizia la chiamata</string>
+    <string name="incall_vibrate_call_wait_title">Vibra quando la chiamata è in attesa</string>
+    <string name="incall_vibrate_call_wait_summary">Attiva la vibrazione mentre la chiamata è in attesa</string>
+    <string name="incall_vibrate_disconnect_title">Vibra alla chiusura</string>
+    <string name="incall_vibrate_disconnect_summary">Attiva la vibrazione dopo aver terminato la chiamata</string>
     <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_title">Doppio tocco sulla schermata di blocco per spegnere lo schermo</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Tocca due volte la parte superiore o inferiore della schermata di blocco per spegnere lo schermo</string>
     <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Doppio tocco sulla barra di stato per spegnere lo schermo</string>
+    <string name="double_tap_to_sleep_summary">Doppio tocco sulla barra di stato per spegnere lo schermo</string>
 </resources>
