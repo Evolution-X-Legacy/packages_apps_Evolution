@@ -698,4 +698,10 @@
     <string name="incall_vibrate_call_wait_summary">割込着信中の振動を有効にする</string>
     <string name="incall_vibrate_disconnect_title">切断時に振動</string>
     <string name="incall_vibrate_disconnect_summary">電話切断後に振動を有効にする</string>
+    <!-- Double Tap Lockscreen to Sleep -->
+    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <!-- Double tap Status bar to Sleep -->
+    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
+    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
 </resources>
