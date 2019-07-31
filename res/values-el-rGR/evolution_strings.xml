@@ -691,11 +691,11 @@
     <string name="battery_estimate_position_qsheader">Κεφαλίδα γρήγορων ρυθμίσεων</string>
     <string name="battery_estimate_position_qspanel">Πίνακας γρήγορων ρυθμίσεων</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Δόνηση κατά την κλήση</string>
+    <string name="incall_vibrate_connect_title">Δόνηση κατά τη σύνδεση</string>
+    <string name="incall_vibrate_connect_summary">Ενεργοποίηση δόνησης όταν η κλήση συνδεθεί</string>
+    <string name="incall_vibrate_call_wait_title">Δόνηση στην αναμονή</string>
+    <string name="incall_vibrate_call_wait_summary">Ενεργοποίηση δόνησης κλήσης σε αναμονή</string>
+    <string name="incall_vibrate_disconnect_title">Δόνηση κατά την αποσύνδεση</string>
+    <string name="incall_vibrate_disconnect_summary">Ενεργοποίηση δόνησης όταν η κλήση αποσυνδεθεί</string>
 </resources>
