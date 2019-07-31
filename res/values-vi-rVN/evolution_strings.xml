@@ -694,11 +694,11 @@
     <string name="battery_estimate_position_qsheader">Tiêu đề Cài đặt nhanh</string>
     <string name="battery_estimate_position_qspanel">Bảng Cài đặt nhanh</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Rung khi đang nghe máy</string>
+    <string name="incall_vibrate_connect_title">Rung khi kết nối</string>
+    <string name="incall_vibrate_connect_summary">Bật rung sau khi kết nối cuộc gọi</string>
+    <string name="incall_vibrate_call_wait_title">Rung khi chờ cuộc gọi</string>
+    <string name="incall_vibrate_call_wait_summary">Bật rung trong khi cuộc gọi đang chờ</string>
+    <string name="incall_vibrate_disconnect_title">Rung khi ngắt kết nối</string>
+    <string name="incall_vibrate_disconnect_summary">Bật rung sau khi ngắt kết nối cuộc gọi</string>
 </resources>
