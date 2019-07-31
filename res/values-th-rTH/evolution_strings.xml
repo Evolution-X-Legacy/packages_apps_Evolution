@@ -694,10 +694,10 @@
     <string name="battery_estimate_position_qspanel">แผงการตั้งค่าด่วน</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">สั่นในขณะใช้สาย</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibrate_connect_title">สั่นเมื่อเชื่อมต่อ</string>
+    <string name="incall_vibrate_connect_summary">เปิดใช้งานการสั่นหลังจากเชื่อมต่อการโทร</string>
+    <string name="incall_vibrate_call_wait_title">สั่นเมื่อรอสาย</string>
+    <string name="incall_vibrate_call_wait_summary">เปิดใช้งานการสั่นขณะรอสาย</string>
+    <string name="incall_vibrate_disconnect_title">สั่นเมื่อวางสาย</string>
+    <string name="incall_vibrate_disconnect_summary">เปิดใช้งานการสั่นหลังจากตัดการเชื่อมต่อ</string>
 </resources>
