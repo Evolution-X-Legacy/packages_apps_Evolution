@@ -309,7 +309,7 @@
     <string name="audio_panel_view_position_title">音量パネルの左側表示</string>
     <!-- Network traffic Settings -->
     <string name="traffic_title">通信速度</string>
-    <string name="traffic_summary">通信速度を表示</string>
+    <string name="traffic_summary">通信速度を表示する</string>
     <string name="traffic_category">通信速度</string>
     <string name="network_traffic_state_title">通信速度の表示</string>
     <string name="network_traffic_autohide">自動非表示</string>
@@ -690,4 +690,12 @@
     <string name="battery_estimate_position_title">アイコンと予想稼働時間の位置</string>
     <string name="battery_estimate_position_qsheader">ヘッダー</string>
     <string name="battery_estimate_position_qspanel">パネル</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">In-call vibration</string>
+    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
+    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
+    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
+    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
+    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
 </resources>
