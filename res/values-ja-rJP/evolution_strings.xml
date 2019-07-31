@@ -691,11 +691,11 @@
     <string name="battery_estimate_position_qsheader">ヘッダー</string>
     <string name="battery_estimate_position_qspanel">パネル</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">通話中の振動</string>
+    <string name="incall_vibrate_connect_title">接続時に振動</string>
+    <string name="incall_vibrate_connect_summary">電話接続後に振動を有効にする</string>
+    <string name="incall_vibrate_call_wait_title">割込通話時に振動</string>
+    <string name="incall_vibrate_call_wait_summary">割込着信中の振動を有効にする</string>
+    <string name="incall_vibrate_disconnect_title">切断時に振動</string>
+    <string name="incall_vibrate_disconnect_summary">電話切断後に振動を有効にする</string>
 </resources>
