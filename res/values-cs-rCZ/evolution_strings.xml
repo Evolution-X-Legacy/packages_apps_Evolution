@@ -694,11 +694,11 @@
     <string name="battery_estimate_position_qsheader">Záhlaví QS</string>
     <string name="battery_estimate_position_qspanel">Panel QS</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Vibrace při hovoru</string>
+    <string name="incall_vibrate_connect_title">Vibrovat při připojení</string>
+    <string name="incall_vibrate_connect_summary">Povolit vibrace při připojení</string>
+    <string name="incall_vibrate_call_wait_title">Vibrovat při čekajícím hovoru</string>
+    <string name="incall_vibrate_call_wait_summary">Povolit vibrace při čekajícím hovoru</string>
+    <string name="incall_vibrate_disconnect_title">Vibrovat při odpojení</string>
+    <string name="incall_vibrate_disconnect_summary">Povolit vibrace při odpojení</string>
 </resources>
