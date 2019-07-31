@@ -702,9 +702,9 @@
     <string name="incall_vibrate_disconnect_title">Vibrovat při odpojení</string>
     <string name="incall_vibrate_disconnect_summary">Povolit vibrace při odpojení</string>
     <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_title">Dvojím poklepáním na zamykací obrazovku uspat zařízení</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Dvojí poklepání na horní nebo dolní třetinu zamykací obrazovky uvede zařízení do režimu spánku</string>
     <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Dvojím poklepáním na stavovou lištu uspat zařízení</string>
+    <string name="double_tap_to_sleep_summary">Dvojí poklepání na stavovou lištu uvede zařízení do režimu spánku</string>
 </resources>
