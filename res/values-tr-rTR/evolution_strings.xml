@@ -694,17 +694,17 @@
     <string name="battery_estimate_position_qsheader">Hızlı ayarlar başlığı</string>
     <string name="battery_estimate_position_qspanel">Hızlı ayarlar paneli</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Arama titreşimi</string>
+    <string name="incall_vibrate_connect_title">Arama bağlandığında titret</string>
+    <string name="incall_vibrate_connect_summary">Arama bağlandığında titreşimi etkinleştir</string>
+    <string name="incall_vibrate_call_wait_title">Arama bekletildiğinde titret</string>
+    <string name="incall_vibrate_call_wait_summary">Arama bekletildiğinde titreşimi etkinleştir</string>
+    <string name="incall_vibrate_disconnect_title">Arama bağlantısı kesildiğinde titret</string>
+    <string name="incall_vibrate_disconnect_summary">Arama bağlantısı kesildikten sonra titreşimi etkinleştir</string>
     <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_title">Kilit ekranı</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Cihazı uyutmak için kilit ekranının boş bir alanına iki kez hafifçe dokunun</string>
     <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Durum çubuğu</string>
+    <string name="double_tap_to_sleep_summary">Cihazı uyutmak için durum çubuğuna iki kez hafifçe dokunun</string>
 </resources>
