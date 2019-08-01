@@ -40,10 +40,10 @@
     <string name="status_bar_items">Olekuriba punktid</string>
     <string name="system_category">Süsteem</string>
     <!-- Summaries -->
-    <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
-    <string name="gestures_summary">Gesture based options/actions</string>
-    <string name="misc_summary">Extra system settings</string>
-    <string name="powermenu_summary">Configure your shutdown options</string>
+    <string name="buttons_summary">Seadme riistvaranuppude toimingute seadistamine</string>
+    <string name="gestures_summary">Žestidel põhinevad toimingud/seaded</string>
+    <string name="misc_summary">Süsteemi täpsemad seaded</string>
+    <string name="powermenu_summary">Seadistage väljalülitusvalikud</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Lähtesta</string>
@@ -65,12 +65,12 @@
     <string name="set">Määra</string>
     <string name="color_default">Vaikimisi</string>
     <string name="battery_category">Aku</string>
-    <string name="notifications_category_title">Annoying notifications protection</string>
+    <string name="notifications_category_title">Kaitse tüütute teatiste eest</string>
     <!-- Battery percentage -->
     <string name="battery_style_category_title">Aku ikooni stiil</string>
-    <string name="battery_style_category_summary">Change the style of the status bar battery icon</string>
+    <string name="battery_style_category_summary">Akuikooni stiili muutmine olekuribal</string>
     <string name="status_bar_battery_percentage_title">Aku protsent</string>
-    <string name="status_bar_battery_percentage_summary">Show the current battery level percentage</string>
+    <string name="status_bar_battery_percentage_summary">Näita praegust akutaseme protsenti</string>
     <string name="status_bar_battery_percentage_default">Peidetud</string>
     <string name="status_bar_battery_percentage_text_next">Ikooni kõrval</string>
     <string name="status_bar_battery_percentage_text_inside">Ikooni sees</string>
@@ -101,7 +101,7 @@
     <string name="wake_when_plugged_or_unplugged_summary">Ärata ekraan toiteallika juhtme ühendamisel või eemaldamisel</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Bluetooth seadme aku olek</string>
-    <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
+    <string name="bluetooth_battery_summary">Kuvage ühendatud Bluetooth-seadme aku olekut, kui see on saadaval</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Vähem häirivad hüpikaknad</string>
     <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
@@ -113,8 +113,8 @@
     <string name="qs_brightness_position_bottom_summary">Näita heleduse liugurit kiirseadete paneeli allosas</string>
     <string name="qs_show_auto_brightness_title">Heleduse kohanduvuse nupp</string>
     <string name="qs_show_auto_brightness_summary">Kuva heleduse kohanduvuse nupp</string>
-    <string name="qs_auto_brightness_right_title">Right position for adaptive brightness button</string>
-    <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
+    <string name="qs_auto_brightness_right_title">Paremal kohandatava heleduse nupp</string>
+    <string name="qs_auto_brightness_right_summary">Liigutage kohandatava heleduse nuppu heleduse liugurist paremale</string>
     <string name="qs_show_brightness_buttons_title">Heleduse juhtnupud</string>
     <string name="qs_show_brightness_buttons_summary">Näita heleduse suurendamise või vähendamise nuppe</string>
     <!-- Power menu on secure lockscreen -->
@@ -130,14 +130,14 @@
     <string name="less_notification_sounds_30s">Iga 30 sek. järel</string>
     <string name="less_notification_sounds_1m">Iga  minuti järel</string>
     <string name="less_notification_sounds_2m">Iga 2 minuti järel</string>
-    <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
-    <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
+    <string name="incall_notifications_vibrate">Vähem tüütuid teateid kõne ajal</string>
+    <string name="incall_notifications_vibrate_summary">Kõne ajal ainult vibratsiooni teatised</string>
     <!-- Ambient Music Ticker -->
     <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
     <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
     <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
     <string name="force_ambient_for_media_title">Enable</string>
-    <string name="ambient_title">Ambient Music</string>
+    <string name="ambient_title">Praegu mängib</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Kell</string>
     <string name="status_bar_clock">Kellaaeg ja kuupäev</string>
@@ -189,19 +189,19 @@
     <string name="lockscreen_visualizer_title">Lukustusekraani visualiseerija</string>
     <string name="lockscreen_visualizer_summary">Näita visualiseerijat lukustusekraanil muusika esitamise ajal</string>
     <string name="lockscreen_visualizer_enable_custom">Kasutage kohandatud värvi</string>
-    <string name="lockscreen_visualizer_enable_custom_summary">Use a preset color instead of the generated color</string>
-    <string name="lockscreen_visualizer_custom_color">Visualizer Color</string>
+    <string name="lockscreen_visualizer_enable_custom_summary">Kasutage genereeritud värvi asemel oma värvi</string>
+    <string name="lockscreen_visualizer_custom_color">Visualiseerija värv</string>
     <!-- Ambient visualizer -->
     <string name="ambient_visualizer_title">Ambientne muusika visualiseeria</string>
-    <string name="ambient_visualizer_summary">Shows the visualization bars also on ambient display (but less opaque)</string>
+    <string name="ambient_visualizer_summary">Kuva muusika visualiseerimine ümbritseval ekraanil (kuid vähem läbipaistev)</string>
     <!--Vol button rotation swap-->
-    <string name="swap_volume_buttons">Rotation Swap</string>
-    <string name="volume_keys_swap_summary">Swap volume buttons based on device rotation</string>
+    <string name="swap_volume_buttons">Suuna muutus seadme pööramisel</string>
+    <string name="volume_keys_swap_summary">Helitugevuse nupud vahetage vastavalt seadme orientatsioonile</string>
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_title">Animatsioon</string>
     <string name="qs_tile_animation_style_title">Animatsiooni stiil</string>
     <string name="qs_tile_animation_duration_title">Animatsiooni kestus</string>
-    <string name="qs_tile_animation_interpolator_title">Tiles animation interpolator</string>
+    <string name="qs_tile_animation_interpolator_title">Animatsiooni interpoleerimine</string>
     <string name="qs_tile_animation_style_off">Animatsioonita</string>
     <string name="qs_tile_animation_style_flip">Pööra ümber</string>
     <string name="qs_tile_animation_style_rotate">Pööra</string>
@@ -221,7 +221,7 @@
     <string name="qs_set_animation_interpolator">%1$s</string>
     <!-- Screen Off animation -->
     <string name="screen_off_animation_title">Ekraani väljalülitamine</string>
-    <string name="screen_off_animation_fade">Simple fade</string>
+    <string name="screen_off_animation_fade">Lihtne summutus</string>
     <string name="screen_off_animation_crt">CRT</string>
     <string name="screen_off_animation_scale">Mõõtkava</string>
     <!-- Heads up -->
@@ -258,7 +258,7 @@
     <string name="volume_answer_call_title">Helitugevusklahvidega vastamine</string>
     <string name="volume_answer_call_summary">Võtke kõne vastu helitugevusklahve vajutades</string>
     <!-- Old Style Mobile -->
-    <string name="use_old_mobiletype_title">Use old mobile signal</string>
+    <string name="use_old_mobiletype_title">Kasutage vana võrguikooni</string>
     <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">Kärjeteate kuvamine</string>
@@ -318,7 +318,7 @@
     <string name="network_traffic_hidearrow">Peida nooled</string>
     <string name="network_traffic_hidearrow_summary">Peida internetiliikluse indikaatornooled</string>
     <string name="network_traffic_state_summary">Show upload &amp; download network speed</string>
-    <string name="network_traffic_location_title">Traffic indicator placement</string>
+    <string name="network_traffic_location_title">Liiklusindikaatori asukoht</string>
     <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
     <string name="network_traffic_statusbar">Olekuriba</string>
     <string name="network_traffic_header">Laiendatud päis</string>
@@ -605,9 +605,9 @@
     <string name="mt_share">Jaga</string>
     <string name="mt_reset">Lähtesta</string>
     <string name="time_in_state_title">Kohalik aeg</string>
-    <string name="time_in_state_summary">Show CPU frequency statistics</string>
+    <string name="time_in_state_summary">Kuva protsessori sageduse statistika</string>
     <!-- Sensor block per-package -->
-    <string name="sensor_block_title">Sensor block per-package</string>
+    <string name="sensor_block_title">Andurite lukk</string>
     <string name="sensor_block_summary">Block access to certain sensors for some apps to save battery</string>
     <!-- QS edit icon -->
     <string name="qs_edit_title">QS edit icon</string>
