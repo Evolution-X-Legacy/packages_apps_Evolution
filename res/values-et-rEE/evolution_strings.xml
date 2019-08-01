@@ -108,25 +108,25 @@
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Ereduse liuguri seaded</string>
     <string name="qs_show_brightness_title">Ereduse liugur</string>
-    <string name="qs_show_brightness_summary">Show a brightness slider in the quick settings panel</string>
-    <string name="qs_brightness_position_bottom_title">Bottom brightness slider</string>
-    <string name="qs_brightness_position_bottom_summary">Show brightness slider on the bottom of the quick settings panel</string>
-    <string name="qs_show_auto_brightness_title">Adaptive brightness button</string>
-    <string name="qs_show_auto_brightness_summary">Show adaptive brightness button</string>
+    <string name="qs_show_brightness_summary">Näita heleduse liugurit kiirseadete paneelis</string>
+    <string name="qs_brightness_position_bottom_title">Alumise heleduse liugur</string>
+    <string name="qs_brightness_position_bottom_summary">Näita heleduse liugurit kiirseadete paneeli allosas</string>
+    <string name="qs_show_auto_brightness_title">Heleduse kohanduvuse nupp</string>
+    <string name="qs_show_auto_brightness_summary">Kuva heleduse kohanduvuse nupp</string>
     <string name="qs_auto_brightness_right_title">Right position for adaptive brightness button</string>
     <string name="qs_auto_brightness_right_summary">Move the adaptive brightness button to the right of the brightness slider</string>
-    <string name="qs_show_brightness_buttons_title">Brightness control buttons</string>
-    <string name="qs_show_brightness_buttons_summary">Show buttons to increase or decrease the brightness</string>
+    <string name="qs_show_brightness_buttons_title">Heleduse juhtnupud</string>
+    <string name="qs_show_brightness_buttons_summary">Näita heleduse suurendamise või vähendamise nuppe</string>
     <!-- Power menu on secure lockscreen -->
-    <string name="lockscreen_power_menu_disabled_title">No power menu when locked</string>
-    <string name="lockscreen_power_menu_disabled_summary">Disable power menu on secure lockscreen</string>
-    <string name="notification_sound_vib_screen_on_title">Noisy notifications if screen on</string>
-    <string name="notification_sound_vib_screen_on_summary">Disable to block notifications sound and vibration when the screen is awake</string>
+    <string name="lockscreen_power_menu_disabled_title">Toitemenüü pole saadaval, kui seade on lukus</string>
+    <string name="lockscreen_power_menu_disabled_summary">Keela toitemenüü turvalisel lukustuskuval</string>
+    <string name="notification_sound_vib_screen_on_title">Lärmakad märguanded, kui ekraan on sisse lülitatud</string>
+    <string name="notification_sound_vib_screen_on_summary">Keela teadete heli ja vibratsiooni blokeerimine, kui ekraan on ärkvel</string>
     <!-- Less Notification sounds -->
-    <string name="less_notification_sounds_title">Smart notification sounds</string>
-    <string name="less_notification_sounds_summary">Play the notification sound of each app only once per set time period</string>
-    <string name="less_notification_sounds_default">App default</string>
-    <string name="less_notification_sounds_10s">Every 10 seconds</string>
+    <string name="less_notification_sounds_title">Nutikas teavitusheli</string>
+    <string name="less_notification_sounds_summary">Esita iga rakenduse teavitusheli ainult üks kord määratud ajavahemiku jooksul</string>
+    <string name="less_notification_sounds_default">Rakendus vaikimisi</string>
+    <string name="less_notification_sounds_10s">Iga 10 sek. järel</string>
     <string name="less_notification_sounds_30s">Iga 30 sek. järel</string>
     <string name="less_notification_sounds_1m">Iga  minuti järel</string>
     <string name="less_notification_sounds_2m">Iga 2 minuti järel</string>
