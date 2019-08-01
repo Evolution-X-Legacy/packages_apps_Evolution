@@ -546,12 +546,12 @@
     <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Ajavahemik enne puhkeolekusse minekut</string>
     <string name="SHORT_IDLE_PENDING_TIMEOUT">Idle pending timeout</string>
     <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string>
-    <string name="SHORT_IDLE_PENDING_FACTOR">Idle pending factor</string>
-    <string name="SHORT_IDLE_TIMEOUT">Idle timeout</string>
-    <string name="SHORT_MAX_IDLE_TIMEOUT">Max idle timeout</string>
-    <string name="SHORT_IDLE_FACTOR">Idle factor</string>
-    <string name="SHORT_MIN_TIME_TO_ALARM">Min time to alarm</string>
-    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Max temp app whitelist duration</string>
+    <string name="SHORT_IDLE_PENDING_FACTOR">Jõudeoleku oote tegur</string>
+    <string name="SHORT_IDLE_TIMEOUT">Jõudeoleku aeg</string>
+    <string name="SHORT_MAX_IDLE_TIMEOUT">Max jõudeoleku aeg</string>
+    <string name="SHORT_IDLE_FACTOR">Jõudeoleku tegur</string>
+    <string name="SHORT_MIN_TIME_TO_ALARM">Min. aeg äratuseni</string>
+    <string name="SHORT_MAX_TEMP_APP_WHITELIST_DURATION">Rakenduste ajutise valge nimekirja maksimaalne kestus</string>
     <string name="SHORT_MMS_TEMP_APP_WHITELIST_DURATION">Max MMS app whitelist duration</string>
     <string name="SHORT_SMS_TEMP_APP_WHITELIST_DURATION">Max SMS app whitelist duration</string>
     <string name="SHORT_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">Light idle after inactive timeout</string>
@@ -676,7 +676,7 @@
     <string name="gaming_mode_notifications_toast_title">Teatiste kuvamine</string>
     <string name="gaming_mode_notifications_all_title">Kuva kõik teated</string>
     <string name="gaming_mode_dynamic_title">Dünaamiline mängurežiim</string>
-    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <string name="gaming_mode_dynamic_summary">Kui avate mõne rakenduse ja süsteem leiab, et see on mäng, lisatakse see automaatselt mängude loendisse. See ei toimi kõigi mängurakenduste puhul.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Sunniviisiliselt laiendatud teatised</string>
     <string name="force_expanded_notifications_summary">Sunniviisiliselt laiendatud teatiseid toetavatele rakendustele</string>
@@ -689,8 +689,8 @@
     <string name="screenshot_type_partial">Osaline</string>
     <!-- Battery Estimate -->
     <string name="show_battery_estimate_title">Aku hinnangud</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
+    <string name="show_battery_estimate_summary">Näita QS-paneelis aku hinnangulist väärtust</string>
+    <string name="battery_estimate_position_title">Aku ikoon &amp; Hinnanguline positsioon</string>
     <string name="battery_estimate_position_qsheader">Kiirseadete päis</string>
     <string name="battery_estimate_position_qspanel">Kiirseadete paneel</string>
     <!-- Incall vibrate options -->
