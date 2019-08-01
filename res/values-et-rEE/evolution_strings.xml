@@ -321,7 +321,7 @@
     <string name="network_traffic_location_title">Traffic indicator placement</string>
     <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
     <string name="network_traffic_statusbar">Olekuriba</string>
-    <string name="network_traffic_header">Expanded header</string>
+    <string name="network_traffic_header">Laiendatud päis</string>
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">QS panel tuner</string>
     <string name="show_secure_title">Turvainfo</string>
@@ -479,7 +479,7 @@
     <string name="onthego_title">Liikumisrežiim</string>
     <string name="global_actions_onthego_title">Liikumisrežiim</string>
     <string name="onthego_alpha_title">Liikumisrežiimi läbipaistvus</string>
-    <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
+    <string name="onthego_alpha_summary">Liikumisrežiimi läbipaistvuse tase</string>
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Ühe käe režiim</string>
     <string name="one_hand_mode_summary">Luba libistades navigeerimisnuppu paremale või vasakule, et seda käivitada</string>
@@ -500,9 +500,9 @@
     <string name="volume_key_cursor_control_on">Helitugevuse üles/alla vajutamine liigutab kursorit vasakule/paremale</string>
     <string name="volume_key_cursor_control_on_reverse">Helitugevuse üles/alla vajutamine liigutab kursorit paremale/vasakule</string>
     <!-- Doze settings editor -->
-    <string name="advanced_doze_settings">Advanced Doze</string>
+    <string name="advanced_doze_settings">Täpsemad uneseadistused</string>
     <string name="doze_settings_title">Uinaku seaded</string>
-    <string name="doze_settings_summary">Edit doze config settings</string>
+    <string name="doze_settings_summary">Uneseadistuste muutmine</string>
     <string name="action_restoredefault">Taasta vaikesätted</string>
     <string name="action_profile">Profiilid</string>
     <string name="action_save_as_profile">Salvesta profiilina</string>
@@ -538,14 +538,14 @@
     <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a light doze</string>
     <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a full doze</string>
     <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Amount of time we would like to whitelist an app that is handling a notification</string>
-    <string name="SHORT_INACTIVE_TIMEOUT">Inactive timeout</string>
-    <string name="SHORT_SENSING_TIMEOUT">Sensing timeout</string>
-    <string name="SHORT_LOCATING_TIMEOUT">Locating timeout</string>
-    <string name="SHORT_LOCATION_ACCURACY">Location accuracy</string>
+    <string name="SHORT_INACTIVE_TIMEOUT">Ooteaeg</string>
+    <string name="SHORT_SENSING_TIMEOUT">Liikumise ooteaeg</string>
+    <string name="SHORT_LOCATING_TIMEOUT">Asukoha aegumine</string>
+    <string name="SHORT_LOCATION_ACCURACY">Asukoha täpsus</string>
     <string name="SHORT_MOTION_INACTIVE_TIMEOUT">Liikumise tuvastamise ajavahemik</string>
     <string name="SHORT_IDLE_AFTER_INACTIVE_TIMEOUT">Ajavahemik enne puhkeolekusse minekut</string>
-    <string name="SHORT_IDLE_PENDING_TIMEOUT">Idle pending timeout</string>
-    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max idle pending timeout</string>
+    <string name="SHORT_IDLE_PENDING_TIMEOUT">Jõudeoleku ooteaeg</string>
+    <string name="SHORT_MAX_IDLE_PENDING_TIMEOUT">Max jõudeoleku ooteaeg</string>
     <string name="SHORT_IDLE_PENDING_FACTOR">Jõudeoleku oote tegur</string>
     <string name="SHORT_IDLE_TIMEOUT">Jõudeoleku aeg</string>
     <string name="SHORT_MAX_IDLE_TIMEOUT">Max jõudeoleku aeg</string>
