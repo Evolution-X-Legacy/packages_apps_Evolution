@@ -691,17 +691,17 @@
     <string name="battery_estimate_position_qsheader">QS Header</string>
     <string name="battery_estimate_position_qspanel">Panel QS</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">Getaran saat menelepon</string>
+    <string name="incall_vibrate_connect_title">Bergetar saat terhubung</string>
+    <string name="incall_vibrate_connect_summary">Aktifkan untuk bergetar setelah panggilan terhubung</string>
+    <string name="incall_vibrate_call_wait_title">Bergetar menunggu panggilan</string>
+    <string name="incall_vibrate_call_wait_summary">Aktifkan untuk bergetar saat panggilan sedang menunggu</string>
+    <string name="incall_vibrate_disconnect_title">Getar saat terputus</string>
+    <string name="incall_vibrate_disconnect_summary">Mengaktifkan getaran setelah panggilan tersambung</string>
     <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_title">Ketuk dua kali pada layar kunci untuk tidur</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">Ketuk dua kali pada bagian atas atau bawah layar kunci akan membuat perangkat menjadi mode tidur</string>
     <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">Ketuk dua kali pada bilah status untuk tidur</string>
+    <string name="double_tap_to_sleep_summary">Ketuk dua kali pada bar status untuk mematikan layar</string>
 </resources>
