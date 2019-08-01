@@ -407,21 +407,21 @@
     <string name="qstile_circle_trim">Värvivarjega ring</string>
     <string name="qstile_dual_tone_circle">Kahevärviline ring</string>
     <string name="qstile_squircle_trim">Värvivarjega ellips</string>
-    <string name="qstile_circle_gradient">Circle with Gradient</string>
+    <string name="qstile_circle_gradient">Gradirnt ring</string>
     <string name="qstile_cookie">Küpsis</string>
-    <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
-    <string name="qstile_pokesign">Pokesign</string>
+    <string name="qstile_wavey">Laine</string>
+    <string name="qstile_circle_dualtone">Kahe värviga ring</string>
+    <string name="qstile_pokesign">Pokemon pall</string>
     <string name="qstile_ninja">Ninja</string>
     <string name="qstile_dottedcircle">Täppidest ring</string>
-    <string name="qstile_attemptmountain">An attempt of a mountain</string>
-    <string name="qstile_squaremedo">The Squaremedo</string>
+    <string name="qstile_attemptmountain">Mäed</string>
+    <string name="qstile_squaremedo">Rombis ruut</string>
     <string name="qstile_hexagon">Kuusnurk</string>
     <string name="qstile_star">Märgi lemmikuks</string>
     <string name="qstile_gear">Kuusnurk</string>
     <string name="qstile_diamond">Teemant</string>
-    <string name="qstile_circleoutline">CircleOutline</string>
-    <string name="qstile_roundedrect">Rounded Rectangle</string>
+    <string name="qstile_circleoutline">Kontuuriga ring</string>
+    <string name="qstile_roundedrect">Ümardatud ristkülik</string>
     <string name="qstile_square">Ruut</string>
     <string name="qstile_squircle">Ümarruut</string>
     <string name="qstile_teardrop">Tilk</string>
@@ -448,8 +448,8 @@
     <string name="lock_fonts_medium_italic">Keskmine kursiiv</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
-    <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
-    <string name="lock_dateown_font_themeable">Themeable (or Fox and Cat)</string>
+    <string name="lock_clock_font_themeable">Temaatiline (või VCR OSD Mono)</string>
+    <string name="lock_dateown_font_themeable">Temaatiline (või Fox ja Cat)</string>
     <!-- Lock date fonts -->
     <string name="lock_date_font_title">Kuup. fondi valikud</string>
     <string name="lock_date_font_summary">Lukustuskuva kuup. vidina vaikefondi muutmine</string>
@@ -476,9 +476,9 @@
     <string name="usb_default_config_title">USB konfiguratsioon</string>
     <string name="usb_default_config_summary">Valige vaikekäitumine, kui seade on USB-ühenduse kaudu ühendatud</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">On-The-Go Mode</string>
+    <string name="onthego_title">Liikumisrežiim</string>
     <string name="global_actions_onthego_title">Liikumisrežiim</string>
-    <string name="onthego_alpha_title">On-The-Go Alpha</string>
+    <string name="onthego_alpha_title">Liikumisrežiimi läbipaistvus</string>
     <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
     <!-- Onehand UI mode -->
     <string name="one_hand_mode_title">Ühe käe režiim</string>
