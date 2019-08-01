@@ -245,47 +245,47 @@
     <string name="heads_up_snooze_5min">5 minutes</string>
     <string name="heads_up_snooze_10min">10 minutes</string>
     <string name="heads_up_snooze_15min">15 minutes</string>
-    <string name="heads_up_snooze_20min">20 minutes</string>
-    <string name="add_heads_up_package">Add app</string>
-    <string name="add_heads_up_stoplist_summary">Disable heads up notifications in these applications</string>
-    <string name="add_heads_up_blacklist_summary">Disable heads up from these applications</string>
-    <string name="heads_up_stoplist_title">Stoplist</string>
-    <string name="heads_up_blacklist_title">Blacklist</string>
+    <string name="heads_up_snooze_20min">20 minutit</string>
+    <string name="add_heads_up_package">Lisa rakendus</string>
+    <string name="add_heads_up_stoplist_summary">Keela nendes rakendustes juhtimise teated</string>
+    <string name="add_heads_up_blacklist_summary">Keelake nendest rakendustest pea üles seadmine</string>
+    <string name="heads_up_stoplist_title">Valge nimekiri</string>
+    <string name="heads_up_blacklist_title">Must nimekiri</string>
     <!-- QuickSettings haptic feedback -->
-    <string name="quick_settings_vibrate_title">Vibrate on touch</string>
-    <string name="quick_settings_vibrate_summary">Vibrate when touching QS tiles</string>
+    <string name="quick_settings_vibrate_title">Vibreeri puudutusel</string>
+    <string name="quick_settings_vibrate_summary">Vibratsioon Kiir seadete plaatide puudutamisel</string>
     <!-- The volume key answer -->
-    <string name="volume_answer_call_title">Volume keys answer</string>
-    <string name="volume_answer_call_summary">Answer the call when volume keys pressed</string>
+    <string name="volume_answer_call_title">Helitugevusklahvidega vastamine</string>
+    <string name="volume_answer_call_summary">Võtke kõne vastu helitugevusklahve vajutades</string>
     <!-- Old Style Mobile -->
     <string name="use_old_mobiletype_title">Use old mobile signal</string>
     <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
     <!-- Custom carrier label and position -->
-    <string name="carrier_category">Carrier Label</string>
-    <string name="carrier_label_settings_summary">Customize the carrier label</string>
-    <string name="custom_carrier_label_title">Custom carrier label</string>
-    <string name="custom_carrier_label_explain">Please enter a new label. Leave blank to revert to stock label.</string>
-    <string name="custom_carrier_label_notset">Custom label currently not set</string>
-    <string name="show_carrier_title">Carrier label</string>
-    <string name="show_carrier_disabled">Disabled</string>
-    <string name="show_carrier_keyguard">Lockscreen only</string>
-    <string name="show_carrier_statusbar">Statusbar only</string>
-    <string name="show_carrier_enabled">Lockscreen &amp; statusbar</string>
-    <string name="status_bar_carrier_size">Carrier label size</string>
-    <string name="status_bar_carrier_font_style_title">Carrier label font</string>
+    <string name="carrier_category">Kärjeteate kuvamine</string>
+    <string name="carrier_label_settings_summary">Kärjeteate kohandamine</string>
+    <string name="custom_carrier_label_title">Kohandatud kärjeteade</string>
+    <string name="custom_carrier_label_explain">Palun sisestage uus silt. Jätke tühjaks, kui tahate silti tagasi originaali.</string>
+    <string name="custom_carrier_label_notset">Kohandatud silt pole seatud</string>
+    <string name="show_carrier_title">Kärjeteate silt</string>
+    <string name="show_carrier_disabled">Keelatud</string>
+    <string name="show_carrier_keyguard">Ainult lukustuskuva</string>
+    <string name="show_carrier_statusbar">Ainult olekuriba</string>
+    <string name="show_carrier_enabled">Lukustuskuva &amp; olekuriba</string>
+    <string name="status_bar_carrier_size">Kärjeteate sildi teksti suurus</string>
+    <string name="status_bar_carrier_font_style_title">Kärjeteate sildi font</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
-    <string name="status_bar_carrier_color">Carrier label color</string>
+    <string name="status_bar_carrier_color">Kärjeteate sildi värvus</string>
     <!-- Roaming indicator icon -->
-    <string name="roaming_indicator_icon_title">Roaming indicator</string>
-    <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
+    <string name="roaming_indicator_icon_title">Rändlusindikaator</string>
+    <string name="roaming_indicator_icon_summary">Rändluse režiimis kuvatakse rändluse indikaator signaalikuval</string>
     <!-- Brightness control -->
-    <string name="status_bar_toggle_brightness">Brightness control</string>
-    <string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across the status bar</string>
+    <string name="status_bar_toggle_brightness">Heleduse reguleerimine</string>
+    <string name="status_bar_toggle_brightness_summary">Reguleeri heledust, libistades mööda ülariba</string>
     <!-- Volume keys control rint tone stream -->
-    <string name="volume_keys_control_ring_tone_title">Control ring volume</string>
+    <string name="volume_keys_control_ring_tone_title">Muuta helina tugevust</string>
     <string name="volume_keys_control_ring_tone_summary">Keys control media slider by default. Enable to switch to ring tone slider.</string>
     <!-- Volume Steps -->
-    <string name="volume_steps_title">Volume steps</string>
+    <string name="volume_steps_title">Helitugevuse astmed</string>
     <string name="volume_steps_summary">Customize number of steps in volume panel</string>
     <string name="volume_steps_alarm_title">Volume steps: Alarm</string>
     <string name="volume_steps_dtmf_title">Volume steps: DTMF</string>
@@ -304,121 +304,121 @@
     <string name="audio_panel_view_notification_title">Notification</string>
     <string name="audio_panel_view_notification_disabled">Ring &amp; notification volumes are linked</string>
     <string name="audio_panel_view_alarm_title">Alarm</string>
-    <string name="audio_panel_view_voice_title">Voice</string>
+    <string name="audio_panel_view_voice_title">Hääl</string>
     <string name="audio_panel_view_bt_sco_title">Bluetooth</string>
-    <string name="audio_panel_view_position_title">Volume panel on left</string>
+    <string name="audio_panel_view_position_title">Helitugevuse paneel vasakul</string>
     <!-- Network traffic Settings -->
-    <string name="traffic_title">Traffic indicators</string>
-    <string name="traffic_summary">Show net activity in statusbar</string>
-    <string name="traffic_category">Network Traffic</string>
+    <string name="traffic_title">Võrguliikluse indikaatorid</string>
+    <string name="traffic_summary">Näita staatuseribal võrguaktiivsust</string>
+    <string name="traffic_category">Võrguliiklus</string>
     <string name="network_traffic_state_title">Network traffic display</string>
-    <string name="network_traffic_autohide">Auto hide</string>
-    <string name="network_traffic_autohide_summary">Hide the traffic monitor when there is no activity</string>
-    <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
-    <string name="network_traffic_hidearrow">Hide arrows</string>
-    <string name="network_traffic_hidearrow_summary">Hide the network traffic indicator arrows</string>
+    <string name="network_traffic_autohide">Peida automaatselt</string>
+    <string name="network_traffic_autohide_summary">Peida võrguliikluse jälgija, kui tegevus puudub</string>
+    <string name="network_traffic_autohide_threshold_title">Võrgu aktiivsuse automaatne peitmine (KB/s)</string>
+    <string name="network_traffic_hidearrow">Peida nooled</string>
+    <string name="network_traffic_hidearrow_summary">Peida internetiliikluse indikaatornooled</string>
     <string name="network_traffic_state_summary">Show upload &amp; download network speed</string>
     <string name="network_traffic_location_title">Traffic indicator placement</string>
     <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
-    <string name="network_traffic_statusbar">Status bar</string>
+    <string name="network_traffic_statusbar">Olekuriba</string>
     <string name="network_traffic_header">Expanded header</string>
     <!-- QS panel tuner -->
     <string name="qs_panel_tuner_category_title">QS panel tuner</string>
-    <string name="show_secure_title">Security footer</string>
+    <string name="show_secure_title">Turvainfo</string>
     <string name="show_secure_summary">Shows VPN status on top of the QS panel</string>
-    <string name="show_info_header_title">Information header</string>
+    <string name="show_info_header_title">Teabe päis</string>
     <string name="show_info_header_summary">Shows information on top of the QS panel</string>
-    <string name="profile_choose_app">Choose app</string>
+    <string name="profile_choose_app">Vali rakendus</string>
     <string name="dialog_delete_title">Delete</string>
-    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="dialog_delete_message">Eemaldada valitud üksus?</string>
     <!-- Dashboard conditions -->
-    <string name="dashboard_category">Dashboard options</string>
-    <string name="dashboard_conditions_title">Dashboard conditions</string>
-    <string name="summary_dashboard_conditions_enabled">Dashboard conditions are enabled</string>
-    <string name="summary_dashboard_conditions_disabled">Dashboard conditions are disabled</string>
+    <string name="dashboard_category">Armatuurlaua valikud</string>
+    <string name="dashboard_conditions_title">Armatuurlaua tingimused</string>
+    <string name="summary_dashboard_conditions_enabled">Armatuurlaua tingimused on lubatud</string>
+    <string name="summary_dashboard_conditions_disabled">Armatuurlaua tingimused on keelatud</string>
     <!-- Dashboard suggestions -->
-    <string name="dashboard_suggestions_title">Dashboard suggestions</string>
-    <string name="summary_dashboard_suggestions_enabled">Dashboard suggestions are enabled</string>
-    <string name="summary_dashboard_suggestions_disabled">Dashboard suggestions are disabled</string>
+    <string name="dashboard_suggestions_title">Armatuurlaua soovitused</string>
+    <string name="summary_dashboard_suggestions_enabled">Armatuurlaua soovitused on lubatud</string>
+    <string name="summary_dashboard_suggestions_disabled">Armatuurlaua soovitused on keelatud</string>
     <!-- Lockscreen cover art filter -->
     <string name="lockscreen_cover_filter_title">Lockscreen album art filter</string>
-    <string name="lockscreen_cover_filter_none">None</string>
-    <string name="lockscreen_cover_filter_grayscale">Grayscale</string>
+    <string name="lockscreen_cover_filter_none">Mitte ükski</string>
+    <string name="lockscreen_cover_filter_grayscale">Hallskaala</string>
     <string name="lockscreen_cover_filter_tint">Accent tinted</string>
-    <string name="lockscreen_cover_filter_blur">Blur</string>
+    <string name="lockscreen_cover_filter_blur">Hägu</string>
     <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
     <!-- Status bar logo -->
-    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_title">Olekuriba logo</string>
     <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
-    <string name="status_bar_logo_style_title">Custom logo style</string>
+    <string name="status_bar_logo_style_title">Kohandatud logo stiil</string>
     <!-- QS themes -->
-    <string name="qs_panel_alpha_title">Opacity</string>
-    <string name="qs_panel_color_title">Color</string>
+    <string name="qs_panel_alpha_title">Läbipaistmatus</string>
+    <string name="qs_panel_color_title">Värv</string>
     <string name="qs_bg_wall_title">Use Wallpaper colors</string>
     <string name="qs_bg_wall_summary">Set QS background color from Wallpaper</string>
     <string name="qs_bg_use_fw">Use default colors</string>
     <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
     <!-- Hide On Lockscreen -->
-    <string name="hide_lockscreen_status_bar_title">Hide status bar</string>
-    <string name="hide_lockscreen_status_bar_summary">Touch status bar to toggle visibility</string>
+    <string name="hide_lockscreen_status_bar_title">Peida olekuriba</string>
+    <string name="hide_lockscreen_status_bar_summary">Puuduta olekuriba, et lülitada nähtavust sisse või välja</string>
     <!-- Lockscreen items -->
     <string name="lockscreen_hide_items_category">Hide items</string>
-    <string name="lockscreen_clock_title">Clock widget</string>
-    <string name="lockscreen_clock_summary">Show the clock widget on the lockscreen</string>
-    <string name="lockscreen_info_title">Items underneath the clock</string>
-    <string name="lockscreen_info_summary">Show the date, weather, alarms and zen on the lockscreen</string>
+    <string name="lockscreen_clock_title">Kella vidin</string>
+    <string name="lockscreen_clock_summary">Kuva lukustusekraanil kella vidinat</string>
+    <string name="lockscreen_info_title">Kella all olevad elemendid</string>
+    <string name="lockscreen_info_summary">Kuva lukustusekraanil kuupäeva, ilma, äratusi ja zeni</string>
     <!-- Lockscreen clock styles -->
-    <string name="lockscreen_clock_selection_title">Clock style</string>
-    <string name="lockscreen_clock_selection_digital">Default</string>
-    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
-    <string name="lockscreen_clock_selection_analog">Analog</string>
-    <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
-    <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
-    <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy with accent (alt)</string>
+    <string name="lockscreen_clock_selection_title">Kella stiil</string>
+    <string name="lockscreen_clock_selection_digital">Vaikimisi</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digitaalne (rasvane)</string>
+    <string name="lockscreen_clock_selection_analog">Analoog</string>
+    <string name="lockscreen_clock_selection_sammy">Vertikaalne</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Vertikaalne (rasvane)</string>
+    <string name="lockscreen_clock_selection_sammy_accent">Vertikaalne aktsendiga</string>
+    <string name="lockscreen_clock_selection_sammy_accent_alt">Vertikaalne aktsendiga (alternatiiv)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
     <string name="lockscreen_clock_selection_gradient_btlglogo">Gradient clock (with bootleg logo)</string>
     <string name="lockscreen_clock_selection_gradient_shishu">Gradient clock (with shishu logo)</string>
-    <string name="lockscreen_clock_selection_gradient_full">Full gradient clock</string>
-    <string name="lockscreen_clock_selection_gradient_likeqs">Monochrome gradient clock</string>
-    <string name="lockscreen_clock_selection_text">Text</string>
+    <string name="lockscreen_clock_selection_gradient_full">Täielik gradientkell</string>
+    <string name="lockscreen_clock_selection_gradient_likeqs">Mustvalge gradientkell</string>
+    <string name="lockscreen_clock_selection_text">Tekst</string>
     <!-- Lockscreen Date styles -->
-    <string name="lockscreen_date_selection_title">Date style</string>
-    <string name="lockscreen_date_selection_default">Default</string>
-    <string name="lockscreen_date_selection_str_box">Semi-transparent box</string>
-    <string name="lockscreen_date_selection_str_round">Semi-transparent box (round)</string>
+    <string name="lockscreen_date_selection_title">Kuupäeva laad</string>
+    <string name="lockscreen_date_selection_default">Vaikimisi</string>
+    <string name="lockscreen_date_selection_str_box">Pool-läbipaistev kast</string>
+    <string name="lockscreen_date_selection_str_round">Pool-läbipaistev kast (ümarate servadega)</string>
     <string name="lockscreen_date_selection_qbeta_style">Q Beta pill</string>
     <string name="lockscreen_date_selection_str_accent">Rounded, simple and with accent</string>
     <string name="lockscreen_date_selection_str_accent_day">Rounded, simple and with accent (alt)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Rounded, transparent and with accent (alt)</string>
-    <string name="lockscreen_date_selection_str_gradient">Gradient</string>
+    <string name="lockscreen_date_selection_str_gradient">Kalle</string>
     <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
     <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
     <!-- Data disabled icon -->
-    <string name="data_disabled_icon_title">Show data disabled icon</string>
-    <string name="data_disabled_icon_summary">Display the cross sign next to signal bar when data is disabled</string>
+    <string name="data_disabled_icon_title">Näita andmesideme keelatud ikooni</string>
+    <string name="data_disabled_icon_summary">Kui andmed on keelatud, kuvatakse signaaliriba kõrval olev ristmärk</string>
     <!-- Notification guts kill app button -->
-    <string name="notification_guts_kill_app_button_title">Kill app button</string>
-    <string name="notification_guts_kill_app_button_summary">Show a kill app button in the notification\'s longpress menu</string>
+    <string name="notification_guts_kill_app_button_title">Rakendusest väljumise nupp</string>
+    <string name="notification_guts_kill_app_button_summary">Näita sulge rakendus nuppu teate menüüle pikal vajutusel</string>
     <!-- QS tile styles -->
-    <string name="qs_tile_style_title">QS tile style</string>
-    <string name="qstile_default">Default</string>
+    <string name="qs_tile_style_title">QS plaatide stiil</string>
+    <string name="qstile_default">Vaikimisi</string>
     <string name="qstile_circle_trim">Circle with trim</string>
     <string name="qstile_dual_tone_circle">Dual-toned circle</string>
     <string name="qstile_squircle_trim">Squircle with trim</string>
     <string name="qstile_circle_gradient">Circle with Gradient</string>
-    <string name="qstile_cookie">Cookie</string>
+    <string name="qstile_cookie">Küpsis</string>
     <string name="qstile_wavey">Wavey</string>
     <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
     <string name="qstile_pokesign">Pokesign</string>
     <string name="qstile_ninja">Ninja</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
+    <string name="qstile_dottedcircle">Täppidest ring</string>
     <string name="qstile_attemptmountain">An attempt of a mountain</string>
     <string name="qstile_squaremedo">The Squaremedo</string>
-    <string name="qstile_hexagon">Hexagon</string>
-    <string name="qstile_star">Star</string>
-    <string name="qstile_gear">Gear</string>
+    <string name="qstile_hexagon">Kuusnurk</string>
+    <string name="qstile_star">Märgi lemmikuks</string>
+    <string name="qstile_gear">Kuusnurk</string>
     <string name="qstile_diamond">Teemant</string>
     <string name="qstile_circleoutline">CircleOutline</string>
     <string name="qstile_roundedrect">Rounded Rectangle</string>
@@ -426,26 +426,26 @@
     <string name="qstile_squircle">Ümarruut</string>
     <string name="qstile_teardrop">Tilk</string>
     <string name="qstile_badge">Märk</string>
-    <string name="qstile_badgetwo">Badge two</string>
-    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_badgetwo">Märk 2</string>
+    <string name="qstile_triangle">Kolmnurk</string>
     <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
-    <string name="lock_clock_font_title">Clock font options</string>
-    <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
-    <string name="lock_clock_font_dialog_title">Select lock clock font</string>
+    <string name="lock_clock_font_title">Kella fondi valikud</string>
+    <string name="lock_clock_font_summary">Lukustuskuva kellavidina vaikefondi muutmine</string>
+    <string name="lock_clock_font_dialog_title">Lukustuskuva kella fondi valimine</string>
     <!-- Lockscreen fonts - Common strings -->
-    <string name="lock_fonts_stock">Normal (default)</string>
-    <string name="lock_fonts_bold">Bold</string>
-    <string name="lock_fonts_italic">Italic</string>
-    <string name="lock_fonts_bold_italic">Bold Italic</string>
-    <string name="lock_fonts_light_italic">Light Italic</string>
-    <string name="lock_fonts_light">Light</string>
-    <string name="lock_fonts_condensed_normal">Condensed</string>
-    <string name="lock_fonts_condensed_italic">Condensed Italic</string>
-    <string name="lock_fonts_condensed_bold">Condensed Bold</string>
-    <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_fonts_medium_normal">Medium</string>
-    <string name="lock_fonts_medium_italic">Medium Italic</string>
+    <string name="lock_fonts_stock">Tavaline (vaikimisi)</string>
+    <string name="lock_fonts_bold">Paks kiri</string>
+    <string name="lock_fonts_italic">Kaldkiri</string>
+    <string name="lock_fonts_bold_italic">Paks kursiiv</string>
+    <string name="lock_fonts_light_italic">Kerge kursiiv</string>
+    <string name="lock_fonts_light">Hele</string>
+    <string name="lock_fonts_condensed_normal">Kärbitud</string>
+    <string name="lock_fonts_condensed_italic">Lühendatud kursiiv</string>
+    <string name="lock_fonts_condensed_bold">Lühendatud rasvane</string>
+    <string name="lock_fonts_condensed_bold_italic">Lühendatud rasvane kursiiv</string>
+    <string name="lock_fonts_medium_normal">Keskmine</string>
+    <string name="lock_fonts_medium_italic">Keskmine kursiiv</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
     <string name="lock_clock_font_themeable">Themeable (or VCR OSD Mono)</string>
@@ -459,25 +459,25 @@
     <string name="lock_owner_font_summary">Change the default font of the lockscreen owner info</string>
     <string name="lock_owner_font_dialog_title">Select lock owner font</string>
     <!-- Rounded corners -->
-    <string name="corners_category">Corners</string>
-    <string name="corner_radius">Rounded corner radius</string>
-    <string name="content_padding">Corner content padding</string>
-    <string name="corner_fwvals">Use framework values</string>
-    <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
+    <string name="corners_category">Nurgad</string>
+    <string name="corner_radius">Ümardatud nurkade raadius</string>
+    <string name="content_padding">Nurga sisu täitmine</string>
+    <string name="corner_fwvals">Kasutage raames väärtuseid</string>
+    <string name="corner_fwvals_summary">Kasulik, kui seadmel on ümarad nurgad</string>
     <!-- Launch music player when headset is connected -->
-    <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_disabled">Disabled</string>
+    <string name="headset_connect_player_title">Käivita muusikamängija</string>
+    <string name="headset_connect_player_disabled">Keelatud</string>
     <string name="headset_connect_player_wired">When wired headset is plugged in</string>
-    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
+    <string name="headset_connect_player_bt_no_carkit">Bluetooth peakomplekt (mitte autoseade) ühendatud</string>
     <string name="headset_connect_player_bt">When BT headset is plugged in</string>
-    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
-    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
+    <string name="headset_connect_player_both_no_carkit">Bluetooth peakomplekt (mitte autoseade) ühendatud</string>
+    <string name="headset_connect_player_both">Bluetooth peakomplekt ühendatud</string>
     <!-- USB configuration -->
-    <string name="usb_default_config_title">USB configuration</string>
+    <string name="usb_default_config_title">USB konfiguratsioon</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
     <!-- On-The-Go -->
     <string name="onthego_title">On-The-Go Mode</string>
-    <string name="global_actions_onthego_title">On-The-Go</string>
+    <string name="global_actions_onthego_title">Liikumisrežiim</string>
     <string name="onthego_alpha_title">On-The-Go Alpha</string>
     <string name="onthego_alpha_summary">Alpha value of the On-The-Go overlay</string>
     <!-- Onehand UI mode -->
