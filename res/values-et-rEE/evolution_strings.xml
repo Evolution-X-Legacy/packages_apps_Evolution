@@ -678,17 +678,17 @@
     <string name="gaming_mode_dynamic_title">Dünaamiline mängurežiim</string>
     <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
     <!-- Force expanded notifications -->
-    <string name="force_expanded_notifications_title">Force expanded notifications</string>
-    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <string name="force_expanded_notifications_title">Sunniviisiliselt laiendatud teatised</string>
+    <string name="force_expanded_notifications_summary">Sunniviisiliselt laiendatud teatiseid toetavatele rakendustele</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">Luba allkirjade võltsimist</string>
+    <string name="allow_signature_fake_summary">Laske rakendustel turvasüsteemidest mööda minna, teeseldes, et tegemist on teise rakendusega.</string>
     <!-- Screenshot type -->
-    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_title">Ekraanipildi tüüp</string>
     <string name="screenshot_type_fullscreen">Täielik</string>
     <string name="screenshot_type_partial">Osaline</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
+    <string name="show_battery_estimate_title">Aku hinnangud</string>
     <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
     <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
     <string name="battery_estimate_position_qsheader">Kiirseadete päis</string>
