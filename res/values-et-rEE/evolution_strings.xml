@@ -19,26 +19,26 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP Gestures</string>
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
+    <string name="aosp_gesture_title">AOSP viiped</string>
+    <string name="buttons_title">Riistvaralised nupud</string>
+    <string name="gestures_title">Viiped</string>
+    <string name="lockscreen_title">Ekraanilukk</string>
+    <string name="misc_title">Varia</string>
+    <string name="navbar_title">Navigeerimisriba</string>
+    <string name="notifications_title">Teavitused</string>
+    <string name="powermenu_title">Toitemenüü</string>
+    <string name="quicksettings_title">Kiirseaded</string>
+    <string name="statusbar_title">Olekuriba</string>
+    <string name="volume_title">Helitugevuse muutjad</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
-    <string name="interface_category">Interface</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="fingerprint_category">Sõrmejälg</string>
+    <string name="hide_icons_category">Ikoonid</string>
+    <string name="interface_category">Kasutajaliides</string>
+    <string name="lockscreen_shortcuts_category">Otseteed</string>
+    <string name="music_category">Muusika</string>
+    <string name="qs_style_category">QS stiil</string>
+    <string name="status_bar_items">Olekuriba punktid</string>
+    <string name="system_category">Süsteem</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
     <string name="gestures_summary">Gesture based options/actions</string>
@@ -46,15 +46,15 @@
     <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
-    <string name="reset">Reset</string>
-    <string name="cancel">Cancel</string>
-    <string name="save">Save</string>
-    <string name="action_save">Save</string>
-    <string name="action_cancel">Cancel</string>
+    <string name="reset">Lähtesta</string>
+    <string name="cancel">Tühista</string>
+    <string name="save">Salvesta</string>
+    <string name="action_save">Salvesta</string>
+    <string name="action_cancel">Tühista</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_on">On</string>
+    <string name="switch_bar_on">Sees</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
-    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_off">Väljas</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Color Picker</string>
     <string name="press_color_to_apply">Press on color below to apply</string>
