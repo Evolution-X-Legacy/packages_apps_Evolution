@@ -393,8 +393,8 @@
     <string name="lockscreen_date_selection_str_accent_transparent">Rounded, transparent and with accent</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Rounded, transparent and with accent (alt)</string>
     <string name="lockscreen_date_selection_str_gradient">Kalle</string>
-    <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
-    <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
+    <string name="lockscreen_date_selection_str_border_accent">Tume, rõhutatud ääristega</string>
+    <string name="lockscreen_date_selection_str_border_gradient">Tume gradiendi piiridega</string>
     <!-- Data disabled icon -->
     <string name="data_disabled_icon_title">Näita andmesideme keelatud ikooni</string>
     <string name="data_disabled_icon_summary">Kui andmed on keelatud, kuvatakse signaaliriba kõrval olev ristmärk</string>
@@ -519,10 +519,10 @@
     <string name="DESC_MOTION_INACTIVE_TIMEOUT">This is the time, after seeing motion, that we wait after becoming inactive from that until we start looking for motion again</string>
     <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after the inactive timeout elapses, that we will wait looking for significant motion until we truly consider the device to be idle</string>
     <string name="DESC_IDLE_PENDING_TIMEOUT">This is the initial time, after being idle, that we will allow ourself to be back in the IDLE_PENDING state allowing the system to run normally until we return to idle</string>
-    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Maximum pending idle timeout (time spent running) we will be allowed to use</string>
-    <string name="DESC_IDLE_PENDING_FACTOR">Scaling factor to apply to current pending idle timeout each time we cycle through that state</string>
+    <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Maksimaalne ooteaeg (algusaeg), pärast mida seda funktsiooni saab kasutada</string>
+    <string name="DESC_IDLE_PENDING_FACTOR">Mastaabitegur, mida kasutatakse praeguse ooteaja suhtes, iga kord, kui seda funktsiooni kasutame</string>
     <string name="DESC_IDLE_TIMEOUT">This is the initial time that we want to sit in the idle state before waking up again to return to pending idle and allowing normal work to run</string>
-    <string name="DESC_MAX_IDLE_TIMEOUT">Maximum idle duration we will be allowed to use</string>
+    <string name="DESC_MAX_IDLE_TIMEOUT">Maksimaalne jõudeoleku aeg, mida meil lubatakse kasutada</string>
     <string name="DESC_IDLE_FACTOR">Mastaabitegur, mida kohaldatakse praeguse ooteaja suhtes, iga kord, kui seda funktsiooni kasutame</string>
     <string name="DESC_MIN_TIME_TO_ALARM">This is the minimum time we will allow until the next upcoming alarm for us to actually go in to idle mode</string>
     <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">Ajutise valge nimekirja lisamise maksimaalne aeg rakenduses, kui kasutati suurt teavitusloendurit</string>
