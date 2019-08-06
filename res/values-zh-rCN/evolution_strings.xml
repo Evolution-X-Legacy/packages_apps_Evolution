@@ -692,17 +692,17 @@
     <string name="battery_estimate_position_qsheader">QS 页眉</string>
     <string name="battery_estimate_position_qspanel">QS 面板</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">来电时振动</string>
+    <string name="incall_vibrate_connect_title">接通时振动</string>
+    <string name="incall_vibrate_connect_summary">启用接通时振动</string>
+    <string name="incall_vibrate_call_wait_title">呼叫保持时振动</string>
+    <string name="incall_vibrate_call_wait_summary">启用呼叫保持时振动</string>
+    <string name="incall_vibrate_disconnect_title">挂断时振动</string>
+    <string name="incall_vibrate_disconnect_summary">启用挂断时振动</string>
     <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
+    <string name="double_tap_to_sleep_lockscreen_title">双击锁屏界面休眠</string>
+    <string name="double_tap_to_sleep_lockscreen_summary">双击锁屏界面上下空白区域锁屏</string>
     <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <string name="double_tap_to_sleep_title">双击状态栏锁屏</string>
+    <string name="double_tap_to_sleep_summary">双击状态栏锁屏</string>
 </resources>
