@@ -101,7 +101,7 @@
     <string name="wake_when_plugged_or_unplugged_summary">Ενεργοποίηση της οθόνης κατά την σύνδεση ή αποσύνδεση μιας πηγής ισχύος</string>
     <!-- Bluetooth battery status -->
     <string name="bluetooth_battery_title">Κατάσταση μπαταρίας Bluetooth</string>
-    <string name="bluetooth_battery_summary">Εμφάνιση της κατάστασης μπαταρίας της συνδεδεμένης συσκευής bluetooth εαν ειναι διαθέσιμη</string>
+    <string name="bluetooth_battery_summary">Εμφάνιση της κατάστασης μπαταρίας της συνδεδεμένης συσκευής bluetooth εαν είναι διαθέσιμη</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Κάντε τις κεφαλίδες λιγότερο ενοχλητικές</string>
     <string name="less_boring_heads_up_summary">Εμφάνιση κεφαλίδων μόνο για εφαρμογές κλήσης ή μηνυμάτων, αν δεν βρίσκονται στο προσκήνιο</string>
