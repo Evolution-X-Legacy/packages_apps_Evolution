@@ -259,7 +259,7 @@
     <string name="volume_answer_call_summary">Võtke kõne vastu helitugevusklahve vajutades</string>
     <!-- Old Style Mobile -->
     <string name="use_old_mobiletype_title">Kasutage vana võrguikooni</string>
-    <string name="use_old_mobiletype_summary">Use the mobile icons from oreo and before\nSystemUI will restart</string>
+    <string name="use_old_mobiletype_summary">Kasutage Android Oreo ja varasemaid võrguikoone\nSystemUI taaskäivitatakse</string>
     <!-- Custom carrier label and position -->
     <string name="carrier_category">Kärjeteate kuvamine</string>
     <string name="carrier_label_settings_summary">Kärjeteate kohandamine</string>
@@ -283,7 +283,7 @@
     <string name="status_bar_toggle_brightness_summary">Reguleeri heledust, libistades mööda ülariba</string>
     <!-- Volume keys control rint tone stream -->
     <string name="volume_keys_control_ring_tone_title">Muuta helina tugevust</string>
-    <string name="volume_keys_control_ring_tone_summary">Keys control media slider by default. Enable to switch to ring tone slider.</string>
+    <string name="volume_keys_control_ring_tone_summary">Vaikimisi kontrollivad klahvid meediumite helitugevust. Helina helitugevuse reguleerimiseks lülitage sisse.</string>
     <!-- Volume Steps -->
     <string name="volume_steps_title">Helitugevuse astmed</string>
     <string name="volume_steps_summary">Kohandage helitugevuse paneeli sammude arvu</string>
@@ -317,9 +317,9 @@
     <string name="network_traffic_autohide_threshold_title">Võrgu aktiivsuse automaatne peitmine (KB/s)</string>
     <string name="network_traffic_hidearrow">Peida nooled</string>
     <string name="network_traffic_hidearrow_summary">Peida internetiliikluse indikaatornooled</string>
-    <string name="network_traffic_state_summary">Show upload &amp; download network speed</string>
+    <string name="network_traffic_state_summary">Näita allalaadimise &amp; üleslaadimise kiirust</string>
     <string name="network_traffic_location_title">Liiklusindikaatori asukoht</string>
-    <string name="network_traffic_location_summary">Place indicator in either status bar or expanded header (recommended for displays with notch cutouts)</string>
+    <string name="network_traffic_location_summary">Indikaatori asukoht olekuribal või kiirsätete päises (soovitatav väljalülitustega seadmetele)</string>
     <string name="network_traffic_statusbar">Olekuriba</string>
     <string name="network_traffic_header">Laiendatud päis</string>
     <!-- QS panel tuner -->
@@ -349,7 +349,7 @@
     <string name="lockscreen_cover_filter_grayblur">Halltoon ja hägusus</string>
     <!-- Status bar logo -->
     <string name="status_bar_logo_title">Olekuriba logo</string>
-    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
+    <string name="status_bar_logo_summary">Muutke oma olekuribal asuvat logo</string>
     <string name="status_bar_logo_style_title">Kohandatud logo stiil</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Läbipaistmatus</string>
@@ -357,7 +357,7 @@
     <string name="qs_bg_wall_title">Kasutage taustapildi värve</string>
     <string name="qs_bg_wall_summary">Määrake taustavärv taustapildi kiir seadetest</string>
     <string name="qs_bg_use_fw">Kasutage vaikevärve</string>
-    <string name="qs_bg_use_fw_summary">Disable custom quick settings styles for external theme engines</string>
+    <string name="qs_bg_use_fw_summary">Keela väliste teemamootorite kohandatud kiirseadete stiilid</string>
     <!-- Hide On Lockscreen -->
     <string name="hide_lockscreen_status_bar_title">Peida olekuriba</string>
     <string name="hide_lockscreen_status_bar_summary">Puuduta olekuriba, et lülitada nähtavust sisse või välja</string>
@@ -512,31 +512,31 @@
     <string name="string_default">Vaikimisi</string>
     <string name="action_filter">Filter</string>
     <string name="doze_settings_applied">Sätted on rakendatud</string>
-    <string name="DESC_INACTIVE_TIMEOUT">This is the time, after becoming inactive, at which we start looking at the motion sensor to determine if the device is being left alone. We don\'t do this immediately after going inactive just because we don\'t want to be continually running the significant motion sensor whenever the screen is off</string>
-    <string name="DESC_SENSING_TIMEOUT">If we don\'t receive a callback from AnyMotion in this amount of time + locating_to, we will change from STATE_SENSING to STATE_INACTIVE, and any AnyMotion callbacks while not in STATE_SENSING will be ignored</string>
-    <string name="DESC_LOCATING_TIMEOUT">This is how long we will wait to try to get a good location fix before going in to idle mode</string>
-    <string name="DESC_LOCATION_ACCURACY">The desired maximum accuracy (in meters) we consider the location to be good enough to go on to idle. We will be trying to get an accuracy fix at least this good or until locating_to expires</string>
-    <string name="DESC_MOTION_INACTIVE_TIMEOUT">This is the time, after seeing motion, that we wait after becoming inactive from that until we start looking for motion again</string>
-    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after the inactive timeout elapses, that we will wait looking for significant motion until we truly consider the device to be idle</string>
-    <string name="DESC_IDLE_PENDING_TIMEOUT">This is the initial time, after being idle, that we will allow ourself to be back in the IDLE_PENDING state allowing the system to run normally until we return to idle</string>
+    <string name="DESC_INACTIVE_TIMEOUT">Aeg puhkeolekus, mille jooksul telefoni kasutamine määratakse liikumisanduri abil. Võimaldab teil pärast ekraani väljalülitamist liikumisandurile taotluste sagedust vähendada aku säästmiseks</string>
+    <string name="DESC_SENSING_TIMEOUT">Kui selle aja jooksul AnyMotionilt vastust ei saada, muutub olek STATE_SENSING väärtuseks STATE_INACTIVE. Kõiki järgnevaid kõnesid eiratakse</string>
+    <string name="DESC_LOCATING_TIMEOUT">Positsioneerimine periood enne üleminekut puhkeolekusse</string>
+    <string name="DESC_LOCATION_ACCURACY">Soovitud maksimaalse täpsuse (meetrites), pärast mida me usume, et asukoht on piisavalt hea minna ooterežiimi. Proovime saada täpsusfaili, vähemalt selle väärtuseni või kuni locating_to aegub</string>
+    <string name="DESC_MOTION_INACTIVE_TIMEOUT">Aeg pärast liikumise tuvastamist, mis oodatakse enne liikumisotsingu uuesti alustamist</string>
+    <string name="DESC_IDLE_AFTER_INACTIVE_TIMEOUT">Ootuse pikkus alates tegevusetuse perioodi algusest liikumise tuvastamiseks, mille järel oleme kindlad, et seadet ei kasutata</string>
+    <string name="DESC_IDLE_PENDING_TIMEOUT">See on esimene aeg pärast seisakuid, mille jooksul laseme end tagasi IDLE_PENDING jõudeolekusse, mis võimaldab süsteemil töötada normaalselt, kuni naaseme ooterežiimi</string>
     <string name="DESC_MAX_IDLE_PENDING_TIMEOUT">Maksimaalne ooteaeg (algusaeg), pärast mida seda funktsiooni saab kasutada</string>
     <string name="DESC_IDLE_PENDING_FACTOR">Mastaabitegur, mida kasutatakse praeguse ooteaja suhtes, iga kord, kui seda funktsiooni kasutame</string>
-    <string name="DESC_IDLE_TIMEOUT">This is the initial time that we want to sit in the idle state before waking up again to return to pending idle and allowing normal work to run</string>
+    <string name="DESC_IDLE_TIMEOUT">See on esimene aeg, mille jooksul tahame enne uuesti ärkamist ooterežiimi jõuda, et naasta ooterežiimi ja lubada normaalset tööd</string>
     <string name="DESC_MAX_IDLE_TIMEOUT">Maksimaalne jõudeoleku aeg, mida meil lubatakse kasutada</string>
     <string name="DESC_IDLE_FACTOR">Mastaabitegur, mida kohaldatakse praeguse ooteaja suhtes, iga kord, kui seda funktsiooni kasutame</string>
-    <string name="DESC_MIN_TIME_TO_ALARM">This is the minimum time we will allow until the next upcoming alarm for us to actually go in to idle mode</string>
+    <string name="DESC_MIN_TIME_TO_ALARM">See on minimaalne aeg, mida kulub kuni järgmise eelseisva äratuseni, et tõesti ooterežiimi minna</string>
     <string name="DESC_MAX_TEMP_APP_WHITELIST_DURATION">Ajutise valge nimekirja lisamise maksimaalne aeg rakenduses, kui kasutati suurt teavitusloendurit</string>
     <string name="DESC_MMS_TEMP_APP_WHITELIST_DURATION">Periood, mille jooksul MMS-i saanud rakendus on lubatud</string>
     <string name="DESC_SMS_TEMP_APP_WHITELIST_DURATION">Periood, mille jooksul SMS-i saanud rakendus on lubatud</string>
-    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">This is the time, after becoming inactive, that we go in to the first light-weight idle mode</string>
-    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">This is amount of time we will wait from the point where we decide we would like to go idle until we actually do, while waiting for jobs and other current activity to finish</string>
-    <string name="DESC_LIGHT_IDLE_TIMEOUT">This is the initial time that we will run in idle maintenance mode</string>
+    <string name="DESC_LIGHT_IDLE_AFTER_INACTIVE_TIMEOUT">See on aeg alates passiivsuse perioodi algusest kuni kergemale puhkerežiimile üleminekule</string>
+    <string name="DESC_LIGHT_PRE_IDLE_TIMEOUT">Ooterežiimi jõudmise otsusest tegelikule ooterežiimile ülemineku ootamise kestus, mille jooksul tuleks praegused ülesanded ja tegevused lõpule viia</string>
+    <string name="DESC_LIGHT_IDLE_TIMEOUT">See algne aeg, mille järel läheme ooterežiimile</string>
     <string name="DESC_LIGHT_IDLE_FACTOR">Iga kord, kui tsükel lõpule viia, saab tühikäigurežiimi ajal kasutada skaleerimistegurit</string>
-    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">This is the maximum time we will run in idle maintenence mode</string>
-    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">This is the minimum amount of time we want to make available for maintenance mode when lightly idling</string>
-    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">This is the maximum amount of time we want to make available for maintenance mode when lightly idling</string>
-    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a light doze</string>
-    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">This is the minimum amount of time that we will stay in maintenance mode after a full doze</string>
+    <string name="DESC_LIGHT_MAX_IDLE_TIMEOUT">See on maksimaalne aeg, mille möödudes me ooterežiimi läheme</string>
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MIN_BUDGET">See on minimaalne aeg, mille tahame kerge seisakuajaga hooldusrežiimi jaoks kättesaadavaks teha</string>
+    <string name="DESC_LIGHT_IDLE_MAINTENANCE_MAX_BUDGET">See on maksimaalne aeg, mille tahame kerge seisakuajaga hooldusrežiimi jaoks kättesaadavaks teha</string>
+    <string name="DESC_MIN_LIGHT_MAINTENANCE_TIME">See on minimaalne aeg, mille jooksul jääme pärast kerget uinumist hooldusrežiimi</string>
+    <string name="DESC_MIN_DEEP_MAINTENANCE_TIME">See on minimaalne aeg, mille jooksul jääme pärast täielikku uinumist hooldusrežiimi</string>
     <string name="DESC_KEY_NOTIFICATION_WHITELIST_DURATION">Ajavahemik, mille tahame lisada teatist töötlevate rakenduste valgesse loendisse</string>
     <string name="SHORT_INACTIVE_TIMEOUT">Ooteaeg</string>
     <string name="SHORT_SENSING_TIMEOUT">Liikumise ooteaeg</string>
@@ -581,7 +581,7 @@
     <string name="screen_on_time">Ekraan sees</string>
     <string name="awake_time">Ärkvel</string>
     <string name="deep_sleep_time">Sügav uni</string>
-    <string name="no_kernel_wakelock_file_found">No kernel wakelock stats file /proc/wakelocks or /sys/kernel/debug/wakeup_sources found.</string>
+    <string name="no_kernel_wakelock_file_found">Ärkamisstatistika faili /proc/wakelocks või /sys/kernel/debug/wakeup_sources ei leitud.</string>
     <string name="more_line_text">veel\u2026</string>
     <string name="state_core_mode">Tuumad</string>
     <string name="kernel_wakelock_time">Tuuma ärkamine</string>
@@ -596,10 +596,10 @@
     <string name="no_stat_because_reset_state">Sisselülitatud andmete kogumise alustamiseks vajutage lähtestamisnuppu</string>
     <string name="no_stat_because_reset_wakelock">Äratusandmete kogumise alustamiseks vajutage lähtestamise nuppu</string>
     <string name="no_stat_because_plugged">Äratusandmete kogumise alustamiseks lahutage laadija</string>
-    <string name="no_states_file_found">No states file found. Are you sure your phone is 
-        compatible?\n\nIf you are running a custom ROM or kernel, try 
-        contacting its developer to inform him that the states file is not 
-        readable.</string>
+    <string name="no_states_file_found">Olekute faili ei leitud. Kas olete kindel, et teie telefon 
+        ühildub?\n\nKui teil on kohandatud ROM või kernel, 
+         pöörduge selle arendaja poole. Et teda teavitada, 
+        olekute faili mitteloetavusest.</string>
     <string name="deep_sleep">"Sügav uni"</string>
     <string name="mt_refresh">Värskenda</string>
     <string name="mt_share">Jaga</string>
