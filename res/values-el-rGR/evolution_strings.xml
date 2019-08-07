@@ -455,7 +455,7 @@
     <string name="lock_date_font_summary">Αλλάξετε την προεπιλεγμένη γραμματοσειρά της ημερομηνίας κλειδώματος οθόνης</string>
     <string name="lock_date_font_dialog_title">Επιλέξτε γραμματοσειρά για την ημερομηνία κλειδώματος</string>
     <!-- Lock owner test -->
-    <string name="lock_owner_font_title">Ρυθμίσεις γραμματοσειράς ιδιοκτήτη</string>
+    <string name="lock_owner_font_title">Ρυθμίσεις γραμματοσειράς ημερομηνίας</string>
     <string name="lock_owner_font_summary">Αλλάξετε την προεπιλεγμένη γραμματοσειρά των πληροφοριών του ιδιοκτήτη στην οθόνη κλειδώματος</string>
     <string name="lock_owner_font_dialog_title">Επιλέξτε γραμματοσειρά κλειδώματος ιδιοκτήτη</string>
     <!-- Rounded corners -->
@@ -649,7 +649,7 @@
     <!-- Gaming mode -->
     <string name="gaming_mode_title">Λειτουργία παιχνιδιού</string>
     <string name="gaming_mode_summary">Προτιμήσεις λειτουργίας παιχνιδιού</string>
-    <string name="gaming_mode_master_title">Ενεργοποίηση χαρακτιριστικών λειτουργίας παιχνιδιού</string>
+    <string name="gaming_mode_master_title">Ενεργοποίηση χαρακτηριστικών λειτουργίας παιχνιδιού</string>
     <string name="gaming_mode_master_summary">Επιτρέψτε την επεξεργασία ρυθμίσεων λειτουργίας παιχνιδιού</string>
     <string name="gaming_mode_app_picker_title">Ενεργοποιημένο αυτόματα για τις παρακάτω εφαρμογές</string>
     <string name="add_gaming_mode_package_title">Προσθήκη εφαρμογών στην λειτουργία παιχνιδιού</string>
