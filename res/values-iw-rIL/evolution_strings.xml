@@ -698,10 +698,7 @@
     <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
     <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
     <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Double-tap on lockscreen to sleep</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Double tap on the top third or bottom shortcut area of the lock screen to put the device to sleep</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Double-tap on status bar to sleep</string>
-    <string name="double_tap_to_sleep_summary">Double-tap status bar to put the device to sleep</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
