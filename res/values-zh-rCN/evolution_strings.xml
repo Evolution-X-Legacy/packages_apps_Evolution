@@ -699,10 +699,7 @@
     <string name="incall_vibrate_call_wait_summary">启用呼叫保持时振动</string>
     <string name="incall_vibrate_disconnect_title">挂断时振动</string>
     <string name="incall_vibrate_disconnect_summary">启用挂断时振动</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">双击锁屏界面休眠</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">双击锁屏界面上下空白区域锁屏</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">双击状态栏锁屏</string>
-    <string name="double_tap_to_sleep_summary">双击状态栏锁屏</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
