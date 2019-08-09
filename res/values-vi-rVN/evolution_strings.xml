@@ -701,10 +701,7 @@
     <string name="incall_vibrate_call_wait_summary">Bật rung trong khi cuộc gọi đang chờ</string>
     <string name="incall_vibrate_disconnect_title">Rung khi ngắt kết nối</string>
     <string name="incall_vibrate_disconnect_summary">Bật rung sau khi ngắt kết nối cuộc gọi</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Nhấn hai lần trên màn hình khoá để tắt</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Nhấn đúp vào trên ba hoặc dưới cùng khu vực phím tắt của màn hình khóa để tắt màn hình</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Nhấn hai lần trên thanh trạng thái để tắt</string>
-    <string name="double_tap_to_sleep_summary">Chạm hai lần vào thanh trạng thái để tắt màn hình</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
