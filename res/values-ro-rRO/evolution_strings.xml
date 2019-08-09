@@ -19,25 +19,31 @@
     <!-- App Title -->
     <string name="evolution_settings_title">Evolution X</string>
     <!-- Categories -->
-    <string name="aosp_gesture_title">AOSP Gestures</string>
-    <string name="buttons_title">Hardware buttons</string>
-    <string name="gestures_title">Gestures</string>
-    <string name="interface_category">Interface</string>
-    <string name="lockscreen_title">Lock screen</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
-    <string name="logo_category">Logo</string>
-    <string name="misc_title">Miscellaneous</string>
-    <string name="navbar_title">Navigation bar</string>
+    <string name="aosp_gesture_title">Gesturi AOSP</string>
+    <string name="buttons_title">Butoane fizice</string>
+    <string name="gestures_title">Gesturi</string>
+    <string name="lockscreen_title">Ecran de blocare</string>
+    <string name="misc_title">Diverse</string>
+    <string name="navbar_title">Bara de navigație</string>
     <string name="notifications_title">Notifications</string>
     <string name="powermenu_title">Power menu</string>
     <string name="quicksettings_title">Quick settings</string>
-    <string name="qs_style_category">QS theming</string>
     <string name="statusbar_title">Status bar</string>
     <string name="volume_title">Volume rockers</string>
+    <!-- Other categories -->
+    <string name="fingerprint_category">Fingerprint</string>
+    <string name="hide_icons_category">Icons</string>
+    <string name="interface_category">Interface</string>
+    <string name="lockscreen_shortcuts_category">Shortcuts</string>
+    <string name="music_category">Music</string>
+    <string name="qs_style_category">QS style</string>
+    <string name="status_bar_items">Status bar items</string>
+    <string name="system_category">System</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
     <string name="gestures_summary">Gesture based options/actions</string>
     <string name="misc_summary">Extra system settings</string>
+    <string name="powermenu_summary">Configure your shutdown options</string>
     <!-- General strings -->
     <string name="ok">OK</string>
     <string name="reset">Reset</string>
@@ -98,7 +104,7 @@
     <string name="bluetooth_battery_summary">Display battery status for the connected bluetooth device, if available</string>
     <!-- Heads up options -->
     <string name="less_boring_heads_up_title">Make heads up less annoying</string>
-    <string name="less_boring_heads_up_summary">Show heads up only for dialer or messaging app if they are not in foreground</string>
+    <string name="less_boring_heads_up_summary">Show heads up only for dialer, alarm clock and messaging app</string>
     <!-- Brightness slider tweaks -->
     <string name="brightness_slider_title">Brightness slider tweaks</string>
     <string name="qs_show_brightness_title">Brightness slider</string>
@@ -126,11 +132,12 @@
     <string name="less_notification_sounds_2m">Every 2 minutes</string>
     <string name="incall_notifications_vibrate">Less annoying in-call notifications</string>
     <string name="incall_notifications_vibrate_summary">Vibrate instead of playing a sound for in-call notifications</string>
-    <!-- Ambient display music ticker -->
-    <string name="force_ambient_for_media_pref_title">Ambient music ticker</string>
-    <string name="force_ambient_for_media_pref_summary">Configure the Ambient music ticker</string>
-    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info within Ambient display screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on track info to skip track.</string>
-    <string name="force_ambient_for_media_title">Enable</string>
+    <!-- Ambient Music Ticker -->
+    <string name="force_ambient_for_media_pref_title">Ambient Music Ticker</string>
+    <string name="force_ambient_for_media_pref_summary">Configure the Ambient Music Ticker</string>
+    <string name="ambient_ticker_footer">Ambient Music Ticker shows playing music track info on the lock screen and ambient screen.\n\nIt\'s triggered also if Ambient Display is disabled when a new track is started, forcing a clean ambient screen with track info in the middle of the screen.\n\nYou can also double tap on the track info to skip to the next track.\n\nIf you own a Pixel (2nd generation and higher) and enable \"Now Playing\" and its notification in system Audio settings, Ambient Music Ticker will also work within it.</string>
+    <string name="force_ambient_for_media_title">Show music ticker on lock screen</string>
+    <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">Clock</string>
     <string name="status_bar_clock">Clock and Date</string>
@@ -268,9 +275,6 @@
     <string name="status_bar_carrier_font_style_title">Carrier label font</string>
     <string name="status_bar_carrier_font_style_summary">%1$s</string>
     <string name="status_bar_carrier_color">Carrier label color</string>
-    <!-- Hide notch -->
-    <string name="hide_notch_title">Hide notch</string>
-    <string name="hide_notch_summary">If enabled it hides notch and fills in side gaps</string>
     <!-- Roaming indicator icon -->
     <string name="roaming_indicator_icon_title">Roaming indicator</string>
     <string name="roaming_indicator_icon_summary">Display roaming indicator in signal icon when in roaming mode</string>
@@ -343,9 +347,9 @@
     <string name="lockscreen_cover_filter_tint">Accent tinted</string>
     <string name="lockscreen_cover_filter_blur">Blur</string>
     <string name="lockscreen_cover_filter_grayblur">Grayscale and blurred</string>
-    <!-- Evolution X 2.0 logo -->
-    <string name="evolution_logo_title">Evolution X 2.0 Logo</string>
-    <string name="evolution_logo_summary">Let everyone know that you\'re using Evolution X 2.0 when they see your screen</string>
+    <!-- Status bar logo -->
+    <string name="status_bar_logo_title">Status bar logo</string>
+    <string name="status_bar_logo_summary">Make your status bar look awesome with a custom logo</string>
     <string name="status_bar_logo_style_title">Custom logo style</string>
     <!-- QS themes -->
     <string name="qs_panel_alpha_title">Opacity</string>
@@ -423,6 +427,8 @@
     <string name="qstile_teardrop">Teardrop</string>
     <string name="qstile_badge">Badge</string>
     <string name="qstile_badgetwo">Badge two</string>
+    <string name="qstile_triangle">Triangle</string>
+    <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
     <string name="lock_clock_font_title">Clock font options</string>
     <string name="lock_clock_font_summary">Change the default font of the lockscreen clock widget</string>
@@ -460,7 +466,12 @@
     <string name="corner_fwvals_summary">Useful if the device actually has rounded corners</string>
     <!-- Launch music player when headset is connected -->
     <string name="headset_connect_player_title">Launch music app</string>
-    <string name="headset_connect_player_summary">Launch the default music app when headset is connected</string>
+    <string name="headset_connect_player_disabled">Disabled</string>
+    <string name="headset_connect_player_wired">When wired headset is plugged in</string>
+    <string name="headset_connect_player_bt_no_carkit">When BT headset (no carkit) is plugged in</string>
+    <string name="headset_connect_player_bt">When BT headset is plugged in</string>
+    <string name="headset_connect_player_both_no_carkit">When wired or BT headset (no carkit) is plugged in</string>
+    <string name="headset_connect_player_both">When wired or BT headset is plugged in</string>
     <!-- USB configuration -->
     <string name="usb_default_config_title">USB configuration</string>
     <string name="usb_default_config_summary">Choose the default behavior when connected to a device via USB</string>
@@ -624,9 +635,6 @@
     <string name="hardware_keys_disable_title">Disable hardware buttons</string>
     <!-- Lockscreen icons -->
     <string name="lockscreen_tuner_title">Lockscreen Shortcuts</string>
-    <!-- Charging animation -->
-    <string name="lockscreen_charging_animation_title">Charging animation</string>
-    <string name="lockscreen_charging_animation_summary">Display a bolt animation when the device is charging</string>
     <string name="button_wake_summary">Wake device by pressing the button</string>
     <!-- Hide Lockscreen icon -->
     <string name="hide_lockscreen_icon_title">Hide lock screen icon</string>
@@ -641,4 +649,59 @@
     <string name="alarm_blocker_save">Save</string>
     <string name="alarm_list_header">Available alarms</string>
     <string name="alarm_blocker_reload">Reload</string>
+    <!-- Gaming mode -->
+    <string name="gaming_mode_title">Gaming Mode</string>
+    <string name="gaming_mode_summary">Customize gaming mode preferences</string>
+    <string name="gaming_mode_master_title">Enable Gaming Mode features</string>
+    <string name="gaming_mode_master_summary">Allow to customize Gaming Mode options</string>
+    <string name="gaming_mode_app_picker_title">Automatically turn on for these apps</string>
+    <string name="add_gaming_mode_package_title">Add apps for Gaming Mode</string>
+    <string name="add_gaming_mode_package_summary">Gaming mode will automatically be turned on for the selected apps.</string>
+    <string name="gaming_mode_headsup_title">Block notifications</string>
+    <string name="gaming_mode_headsup_summary">Block all headsup messages except calls.</string>
+    <string name="gaming_mode_hardware_keys_title">Lock buttons</string>
+    <string name="gaming_mode_hardware_keys_summary">Disable hardware buttons when Gaming mode is turned on.</string>
+    <string name="gaming_mode_gestures_title">Disable gestures</string>
+    <string name="gaming_mode_gestures_summary">Disable gesture navigation when Gaming mode is turned on.</string>
+    <string name="gaming_mode_brightness_title">Disable automatic brightness</string>
+    <string name="gaming_mode_brightness_summary">Lock screen brightness when Gaming mode is turned on.</string>
+    <string name="gaming_mode_ringer_title">Ringer in gaming mode</string>
+    <string name="gaming_mode_ringer_off_title">Do not change</string>
+    <string name="gaming_mode_ringer_vibrate_title">Vibrate</string>
+    <string name="gaming_mode_ringer_dnd_title">Do Not Disturb</string>
+    <string name="gaming_mode_ringer_silent_title">Silent</string>
+    <string name="gaming_mode_notifications_title">Notifications</string>
+    <string name="gaming_mode_notifications_off_title">Disabled</string>
+    <string name="gaming_mode_notifications_notif_title">Show notification</string>
+    <string name="gaming_mode_notifications_toast_title">Show toasts</string>
+    <string name="gaming_mode_notifications_all_title">Show toasts and notifications</string>
+    <string name="gaming_mode_dynamic_title">Dynamic Gaming mode</string>
+    <string name="gaming_mode_dynamic_summary">Whenever you open any app and the system finds it to be a game, it will be added in gaming list automatically. Please note that this does not work for every game app.</string>
+    <!-- Force expanded notifications -->
+    <string name="force_expanded_notifications_title">Force expanded notifications</string>
+    <string name="force_expanded_notifications_summary">Force apps that support expanded notifications</string>
+    <!-- Allow fake signature -->
+    <string name="allow_signature_fake">Allow signature spoofing</string>
+    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <!-- Screenshot type -->
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Full</string>
+    <string name="screenshot_type_partial">Partial</string>
+    <!-- Battery Estimate -->
+    <string name="show_battery_estimate_title">Battery Estimates</string>
+    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
+    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
+    <string name="battery_estimate_position_qsheader">QS Header</string>
+    <string name="battery_estimate_position_qspanel">QS Panel</string>
+    <!-- Incall vibrate options -->
+    <string name="incall_vibration_category">In-call vibration</string>
+    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
+    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
+    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
+    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
+    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
+    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
