@@ -698,10 +698,7 @@
     <string name="incall_vibrate_call_wait_summary">Aktifkan untuk bergetar saat panggilan sedang menunggu</string>
     <string name="incall_vibrate_disconnect_title">Getar saat terputus</string>
     <string name="incall_vibrate_disconnect_summary">Mengaktifkan getaran setelah panggilan tersambung</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Ketuk dua kali pada layar kunci untuk tidur</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Ketuk dua kali pada bagian atas atau bawah layar kunci akan membuat perangkat menjadi mode tidur</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Ketuk dua kali pada bilah status untuk tidur</string>
-    <string name="double_tap_to_sleep_summary">Ketuk dua kali pada bar status untuk mematikan layar</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
