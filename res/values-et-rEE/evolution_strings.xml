@@ -701,10 +701,7 @@
     <string name="incall_vibrate_call_wait_summary">Luba vibreerida, kui kõne ootab</string>
     <string name="incall_vibrate_disconnect_title">Vibreeri katkemisel</string>
     <string name="incall_vibrate_disconnect_summary">Luba vibreerida pärast kõne katkestamist</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Topelttoksake ekraani lukustamiseks</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Seadme unerežiimi seadmiseks topelt koputage lukustusekraani kolmandal või alumisel otsetee peal</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Topeltkoputusga olekuribal unerežiimi</string>
-    <string name="double_tap_to_sleep_summary">Koputage kaks korda  olekuribale, et seade unerežiimi panna</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
