@@ -698,10 +698,7 @@
     <string name="incall_vibrate_call_wait_summary">Włącz wibracje podczas oczekiwania na połączenie</string>
     <string name="incall_vibrate_disconnect_title">Wibracje przy rozłączeniu</string>
     <string name="incall_vibrate_disconnect_summary">Włącz wibracje po rozłączeniu</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Podwójnie stuknij na ekranie blokady aby uśpić urządzenie</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Podwójnie stuknij na trzeciej górnej bądź dolnej strefie skrótów aby uśpić urządzenie</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Podwójne dotknięcie paska stanu usypia urządzenie</string>
-    <string name="double_tap_to_sleep_summary">Dwukrotnie dotknij pasek stanu by uśpić urządzenie</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
