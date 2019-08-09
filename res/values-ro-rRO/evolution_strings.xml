@@ -25,20 +25,20 @@
     <string name="lockscreen_title">Ecran de blocare</string>
     <string name="misc_title">Diverse</string>
     <string name="navbar_title">Bara de navigație</string>
-    <string name="notifications_title">Notifications</string>
-    <string name="powermenu_title">Power menu</string>
-    <string name="quicksettings_title">Quick settings</string>
-    <string name="statusbar_title">Status bar</string>
-    <string name="volume_title">Volume rockers</string>
+    <string name="notifications_title">Notificări</string>
+    <string name="powermenu_title">Meniu de pornire</string>
+    <string name="quicksettings_title">Setări rapide</string>
+    <string name="statusbar_title">Bara de stare</string>
+    <string name="volume_title">Butoanele de volum</string>
     <!-- Other categories -->
-    <string name="fingerprint_category">Fingerprint</string>
-    <string name="hide_icons_category">Icons</string>
-    <string name="interface_category">Interface</string>
-    <string name="lockscreen_shortcuts_category">Shortcuts</string>
-    <string name="music_category">Music</string>
-    <string name="qs_style_category">QS style</string>
-    <string name="status_bar_items">Status bar items</string>
-    <string name="system_category">System</string>
+    <string name="fingerprint_category">Amprentă</string>
+    <string name="hide_icons_category">Iconițe</string>
+    <string name="interface_category">Interfață</string>
+    <string name="lockscreen_shortcuts_category">Scurtături</string>
+    <string name="music_category">Muzică</string>
+    <string name="qs_style_category">Stil setări rapide</string>
+    <string name="status_bar_items">Elementele barei de stare</string>
+    <string name="system_category">Sistem</string>
     <!-- Summaries -->
     <string name="buttons_summary">Tweak the actions of your devices physical buttons</string>
     <string name="gestures_summary">Gesture based options/actions</string>
