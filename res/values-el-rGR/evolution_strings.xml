@@ -698,10 +698,7 @@
     <string name="incall_vibrate_call_wait_summary">Ενεργοποίηση δόνησης κλήσης σε αναμονή</string>
     <string name="incall_vibrate_disconnect_title">Δόνηση κατά την αποσύνδεση</string>
     <string name="incall_vibrate_disconnect_summary">Ενεργοποίηση δόνησης όταν η κλήση αποσυνδεθεί</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Διπλό πάτημα στην οθόνη κλειδώματος για να κλείσει η οθόνη</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Πατήστε δύο φορές στο πάνω μέρος της οθόνης ή την κάτω περιοχή συντόμευσης της οθόνης κλειδώματος για να θέσετε τη συσκευή σε αναστολή λειτουργίας</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Πατήστε 2 φορές στην γραμμή κατάστασης για να κλείσει η οθόνη</string>
-    <string name="double_tap_to_sleep_summary">Διπλό χτύπημα στην γραμμή κατάστασης για απενεργοποιήση οθόνης</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
