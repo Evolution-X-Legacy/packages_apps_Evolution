@@ -701,10 +701,7 @@
     <string name="incall_vibrate_call_wait_summary">Attiva la vibrazione mentre la chiamata è in attesa</string>
     <string name="incall_vibrate_disconnect_title">Vibra alla chiusura</string>
     <string name="incall_vibrate_disconnect_summary">Attiva la vibrazione dopo aver terminato la chiamata</string>
-    <!-- Double Tap Lockscreen to Sleep -->
-    <string name="double_tap_to_sleep_lockscreen_title">Doppio tocco sulla schermata di blocco per spegnere lo schermo</string>
-    <string name="double_tap_to_sleep_lockscreen_summary">Tocca due volte la parte superiore o inferiore della schermata di blocco per spegnere lo schermo</string>
-    <!-- Double tap Status bar to Sleep -->
-    <string name="double_tap_to_sleep_title">Doppio tocco sulla barra di stato per spegnere lo schermo</string>
-    <string name="double_tap_to_sleep_summary">Doppio tocco sulla barra di stato per spegnere lo schermo</string>
+    <!-- Double tap to sleep on status bar or lockscreen -->
+    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
 </resources>
