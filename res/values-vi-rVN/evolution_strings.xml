@@ -702,6 +702,6 @@
     <string name="incall_vibrate_disconnect_title">Rung khi ngắt kết nối</string>
     <string name="incall_vibrate_disconnect_summary">Bật rung sau khi ngắt kết nối cuộc gọi</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">Nhấn đúp để tắt màn hình</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Chạm hai lần vào thanh trạng thái hoặc màn hình khoá để tắt màn hình</string>
 </resources>
