@@ -702,6 +702,6 @@
     <string name="incall_vibrate_disconnect_title">Vibrar ao desconectar</string>
     <string name="incall_vibrate_disconnect_summary">Ativar vibração após desconectar a chamada</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">Toque duplo para dormir</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Toque duas vezes na barra de status ou na tela de bloqueio para desligar a tela</string>
 </resources>
