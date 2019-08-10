@@ -699,6 +699,6 @@
     <string name="incall_vibrate_disconnect_title">Δόνηση κατά την αποσύνδεση</string>
     <string name="incall_vibrate_disconnect_summary">Ενεργοποίηση δόνησης όταν η κλήση αποσυνδεθεί</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">Διπλό πάτημα για αναστολή</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Πατήστε δύο φορές στη γραμμή κατάστασης ή στην οθόνη κλειδώματος για αναστολή της συσκευής</string>
 </resources>
