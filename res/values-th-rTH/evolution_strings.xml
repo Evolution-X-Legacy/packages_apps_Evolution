@@ -701,6 +701,6 @@
     <string name="incall_vibrate_disconnect_title">สั่นเมื่อวางสาย</string>
     <string name="incall_vibrate_disconnect_summary">เปิดใช้งานการสั่นหลังจากตัดการเชื่อมต่อ</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">แตะหน้าจอสองครั้งเพื่อปิดหน้าจอ</string>
+    <string name="status_bar_double_tap_to_sleep_summary">แตะสองครั้งที่แถบสถานะเพื่อปิดหน้าจอ</string>
 </resources>
