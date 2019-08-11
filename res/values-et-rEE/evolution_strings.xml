@@ -702,6 +702,6 @@
     <string name="incall_vibrate_disconnect_title">Vibreeri katkemisel</string>
     <string name="incall_vibrate_disconnect_summary">Luba vibreerida pärast kõne katkestamist</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">Topeltkoputus ekraani väljalülitamiseks</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Topeltkoputa olekuriba ekraani väljalülitamiseks</string>
 </resources>
