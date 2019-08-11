@@ -702,6 +702,6 @@
     <string name="incall_vibrate_disconnect_title">Arama bağlantısı kesildiğinde titret</string>
     <string name="incall_vibrate_disconnect_summary">Arama bağlantısı kesildikten sonra titreşimi etkinleştir</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">Çift dokunuşla uyutma</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Ekranı kapatmak için durum çubuğuna veya kilit ekranına çift dokunun</string>
 </resources>
