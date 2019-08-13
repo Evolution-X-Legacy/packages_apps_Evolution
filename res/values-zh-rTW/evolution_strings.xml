@@ -681,27 +681,27 @@
     <string name="force_expanded_notifications_title">強制展開所有通知</string>
     <string name="force_expanded_notifications_summary">僅適用於支援擴展通知的應用程式</string>
     <!-- Allow fake signature -->
-    <string name="allow_signature_fake">Allow signature spoofing</string>
-    <string name="allow_signature_fake_summary">Allow apps to bypass security systems by pretending to be a different app.</string>
+    <string name="allow_signature_fake">允許虛擬簽名</string>
+    <string name="allow_signature_fake_summary">允許應用程式偽裝成其他應用程式以繞過安全機制。</string>
     <!-- Screenshot type -->
     <string name="screenshot_type_title">螢幕截圖類型</string>
     <string name="screenshot_type_fullscreen">完整的</string>
     <string name="screenshot_type_partial">局部</string>
     <!-- Battery Estimate -->
-    <string name="show_battery_estimate_title">Battery Estimates</string>
-    <string name="show_battery_estimate_summary">Show Battery Estimates in QS Panel</string>
-    <string name="battery_estimate_position_title">Battery Icon &amp; Estimates Position</string>
+    <string name="show_battery_estimate_title">預計電池可用時間</string>
+    <string name="show_battery_estimate_summary">於快速設定面板顯示電池可用時間</string>
+    <string name="battery_estimate_position_title">電池圖示及可用時間位置</string>
     <string name="battery_estimate_position_qsheader">QS 標題</string>
     <string name="battery_estimate_position_qspanel">QS 面板</string>
     <!-- Incall vibrate options -->
-    <string name="incall_vibration_category">In-call vibration</string>
-    <string name="incall_vibrate_connect_title">Vibrate on connect</string>
-    <string name="incall_vibrate_connect_summary">Enable to vibrate after call connect</string>
-    <string name="incall_vibrate_call_wait_title">Vibrate on call waiting</string>
-    <string name="incall_vibrate_call_wait_summary">Enable to vibrate while call is on waiting</string>
-    <string name="incall_vibrate_disconnect_title">Vibrate on disconnect</string>
-    <string name="incall_vibrate_disconnect_summary">Enable to vibrate after call disconnect</string>
+    <string name="incall_vibration_category">來電震動</string>
+    <string name="incall_vibrate_connect_title">接通時震動</string>
+    <string name="incall_vibrate_connect_summary">接聽通話時震動</string>
+    <string name="incall_vibrate_call_wait_title">等待時震動</string>
+    <string name="incall_vibrate_call_wait_summary">等待通話時震動</string>
+    <string name="incall_vibrate_disconnect_title">掛斷時震動</string>
+    <string name="incall_vibrate_disconnect_summary">掛斷通話時震動</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">輕觸兩下休眠</string>
+    <string name="status_bar_double_tap_to_sleep_summary">輕觸兩下狀態列來關閉螢幕</string>
 </resources>
