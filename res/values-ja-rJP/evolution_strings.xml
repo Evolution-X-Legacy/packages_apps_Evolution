@@ -37,7 +37,7 @@
     <string name="lockscreen_shortcuts_category">ショートカット</string>
     <string name="music_category">音楽</string>
     <string name="qs_style_category">クイック設定のスタイル</string>
-    <string name="status_bar_items">ステータスバーのアイコン</string>
+    <string name="status_bar_items">ステータスバーの項目</string>
     <string name="system_category">システム</string>
     <!-- Summaries -->
     <string name="buttons_summary">端末の物理ボタンのアクションを設定する</string>
@@ -607,7 +607,7 @@
     <string name="sensor_block_title">パッケージごとのセンサーの無効化</string>
     <string name="sensor_block_summary">バッテリーを節約するためにアプリから特定のセンサーへのアクセスを無効化する</string>
     <!-- QS edit icon -->
-    <string name="qs_edit_title">クイック設定アイコンを編集</string>
+    <string name="qs_edit_title">編集アイコン</string>
     <string name="qs_edit_summary">クイック設定のフッターに編集アイコンを表示する</string>
     <!-- Evolution navigation -->
     <string name="navigation_category">ナビゲーション</string>
