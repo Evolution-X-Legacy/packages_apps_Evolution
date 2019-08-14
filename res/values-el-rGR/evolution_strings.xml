@@ -721,7 +721,4 @@
     <string name="flashlight_on_call_not_dnd">Ο φακός αναβοσβήνει μόνο στη λειτουργία κουδουνίσματος</string>
     <string name="flashlight_on_call_dnd">Ο φακός αναβοσβήνει μόνο στη λειτουργία DND</string>
     <string name="flashlight_on_call_always">Ο φακός αναβοσβήνει πάντα</string>
-    <!-- Charging options -->
-    <string name="vibration_on_charge_state_changed_title">Vibrate on plug/unplug</string>
-    <string name="vibration_on_charge_state_changed_summary">Enable/disable vibration on plug/unplug</string>
 </resources>
