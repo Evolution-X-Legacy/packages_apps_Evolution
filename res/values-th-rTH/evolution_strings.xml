@@ -706,10 +706,10 @@
     <string name="status_bar_double_tap_to_sleep_summary">แตะสองครั้งที่แถบสถานะเพื่อปิดหน้าจอ</string>
     <!-- Safe headset volume restore checkbox -->
     <string name="safe_headset_volume_title">ระดับเสียงปลอดภัยต่อชุดหูฟัง</string>
-    <string name="safe_headset_volume_summary">Prevent loud volume levels when headset is first plugged in</string>
-    <string name="safe_headset_volume_warning_dialog_text">Listening at high volume for long periods may damage your hearing. Disable it with caution.</string>
+    <string name="safe_headset_volume_summary">ป้องกันระดับเสียงดังเมื่อเสียบชุดหูฟังเป็นครั้งแรก</string>
+    <string name="safe_headset_volume_warning_dialog_text">การฟังในระดับเสียงที่ดังเป็นระยะเวลานานอาจทำให้การได้ยินของคุณบกพร่อง  ปิดใช้งานด้วยความระมัดระวัง</string>
     <!-- Statusbar ticker -->
-    <string name="statusbar_notifi_cat">Notifications Ticker</string>
+    <string name="statusbar_notifi_cat">รายงานการแจ้งเตือน</string>
     <string name="status_bar_ticker_title">Ticker</string>
     <string name="status_bar_show_ticker_title">Ticker</string>
     <string name="status_bar_show_ticker_summary">Notification preview in status bar</string>
