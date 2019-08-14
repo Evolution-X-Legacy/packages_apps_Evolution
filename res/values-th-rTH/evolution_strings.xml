@@ -51,7 +51,7 @@
     <string name="save">บันทึก</string>
     <string name="action_save">บันทึก</string>
     <string name="action_cancel">ยกเลิก</string>
-    <string name="attention">Attention</string>
+    <string name="attention">โปรดทราบ</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">เปิด</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -705,7 +705,7 @@
     <string name="status_bar_double_tap_to_sleep_title">แตะหน้าจอสองครั้งเพื่อปิดหน้าจอ</string>
     <string name="status_bar_double_tap_to_sleep_summary">แตะสองครั้งที่แถบสถานะเพื่อปิดหน้าจอ</string>
     <!-- Safe headset volume restore checkbox -->
-    <string name="safe_headset_volume_title">Safe headset volume</string>
+    <string name="safe_headset_volume_title">ระดับเสียงปลอดภัยต่อชุดหูฟัง</string>
     <string name="safe_headset_volume_summary">Prevent loud volume levels when headset is first plugged in</string>
     <string name="safe_headset_volume_warning_dialog_text">Listening at high volume for long periods may damage your hearing. Disable it with caution.</string>
     <!-- Statusbar ticker -->
