@@ -51,6 +51,7 @@
     <string name="save">保存</string>
     <string name="action_save">保存</string>
     <string name="action_cancel">取消</string>
+    <string name="attention">注意</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">打开</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -700,6 +701,25 @@
     <string name="incall_vibrate_disconnect_title">挂断时振动</string>
     <string name="incall_vibrate_disconnect_summary">启用挂断时振动</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
-    <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
-    <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <string name="status_bar_double_tap_to_sleep_title">双击睡眠</string>
+    <string name="status_bar_double_tap_to_sleep_summary">双击状态栏睡眠</string>
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">安全耳机音量</string>
+    <string name="safe_headset_volume_summary">当耳机首次插入时防止音量过大</string>
+    <string name="safe_headset_volume_warning_dialog_text">长时间音量过大可能会损坏您的听力。禁用前请三思。</string>
+    <!-- Statusbar ticker -->
+    <string name="statusbar_notifi_cat">通知提示</string>
+    <string name="status_bar_ticker_title">状态栏通知</string>
+    <string name="status_bar_show_ticker_title">状态栏通知</string>
+    <string name="status_bar_show_ticker_summary">状态栏通知预览</string>
+    <string name="ticker_animation_mode_title">状态栏通知动画</string>
+    <string name="ticker_animation_mode_alpha_fade">淡入淡出</string>
+    <string name="ticker_animation_mode_scroll">滚动</string>
+    <string name="ticker_tick_duration_title">状态栏通知时长</string>
+    <!-- Blink flashlight for incoming calls -->
+    <string name="flashlight_on_call_title">来电话时闪烁闪光灯</string>
+    <string name="flashlight_on_call_disabled">已禁用</string>
+    <string name="flashlight_on_call_not_dnd">仅在铃声模式下闪烁闪光灯</string>
+    <string name="flashlight_on_call_dnd">仅在勿扰模式下闪烁闪光灯</string>
+    <string name="flashlight_on_call_always">总是闪烁闪光灯</string>
 </resources>
