@@ -723,7 +723,4 @@
     <string name="flashlight_on_call_not_dnd">Мигание фонарика только в режиме вызовов</string>
     <string name="flashlight_on_call_dnd">Мигание фонарика только в режиме \"не беспокоить\"</string>
     <string name="flashlight_on_call_always">Мигание фонарика - всегда</string>
-    <!-- Charging options -->
-    <string name="vibration_on_charge_state_changed_title">Vibrate on plug/unplug</string>
-    <string name="vibration_on_charge_state_changed_summary">Enable/disable vibration on plug/unplug</string>
 </resources>
