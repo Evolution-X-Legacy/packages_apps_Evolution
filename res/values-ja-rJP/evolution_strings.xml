@@ -51,7 +51,7 @@
     <string name="save">保存</string>
     <string name="action_save">保存</string>
     <string name="action_cancel">中止</string>
-    <string name="attention">Attention</string>
+    <string name="attention">注意</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">ON</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -703,25 +703,25 @@
     <string name="status_bar_double_tap_to_sleep_title">ダブルタップでスリープ</string>
     <string name="status_bar_double_tap_to_sleep_summary">ステータスバーかロック画面をダブルタップして画面を消灯する</string>
     <!-- Safe headset volume restore checkbox -->
-    <string name="safe_headset_volume_title">Safe headset volume</string>
-    <string name="safe_headset_volume_summary">Prevent loud volume levels when headset is first plugged in</string>
-    <string name="safe_headset_volume_warning_dialog_text">Listening at high volume for long periods may damage your hearing. Disable it with caution.</string>
+    <string name="safe_headset_volume_title">安全なヘッドセット音量</string>
+    <string name="safe_headset_volume_summary">ヘッドセットの接続時に音量を上げすぎることを防ぐ</string>
+    <string name="safe_headset_volume_warning_dialog_text">大音量で長時間聞き続けると聴力を損なうおそれがあります。無効化する際はよく注意して下さい。</string>
     <!-- Statusbar ticker -->
-    <string name="statusbar_notifi_cat">Notifications Ticker</string>
-    <string name="status_bar_ticker_title">Ticker</string>
-    <string name="status_bar_show_ticker_title">Ticker</string>
-    <string name="status_bar_show_ticker_summary">Notification preview in status bar</string>
-    <string name="ticker_animation_mode_title">Ticker animation</string>
-    <string name="ticker_animation_mode_alpha_fade">Fade</string>
-    <string name="ticker_animation_mode_scroll">Scroll</string>
-    <string name="ticker_tick_duration_title">Ticker duration</string>
+    <string name="statusbar_notifi_cat">通知ティッカー</string>
+    <string name="status_bar_ticker_title">ティッカー</string>
+    <string name="status_bar_show_ticker_title">ティッカー</string>
+    <string name="status_bar_show_ticker_summary">ステータスバーでの通知プレビュー</string>
+    <string name="ticker_animation_mode_title">ティッカーのアニメーション</string>
+    <string name="ticker_animation_mode_alpha_fade">フェード</string>
+    <string name="ticker_animation_mode_scroll">スクロール</string>
+    <string name="ticker_tick_duration_title">ティッカーの動作時間</string>
     <!-- Blink flashlight for incoming calls -->
-    <string name="flashlight_on_call_title">Blink Flashlight on call</string>
-    <string name="flashlight_on_call_disabled">Disabled</string>
-    <string name="flashlight_on_call_not_dnd">Blink flashlight only in ringer mode</string>
-    <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
-    <string name="flashlight_on_call_always">Always blink flashlight</string>
+    <string name="flashlight_on_call_title">着信時にフラッシュライト点滅</string>
+    <string name="flashlight_on_call_disabled">無効</string>
+    <string name="flashlight_on_call_not_dnd">鳴動モードのみ</string>
+    <string name="flashlight_on_call_dnd">マナーモードのみ</string>
+    <string name="flashlight_on_call_always">常時</string>
     <!-- Charging options -->
-    <string name="vibration_on_charge_state_changed_title">Vibrate on plug/unplug</string>
-    <string name="vibration_on_charge_state_changed_summary">Enable/disable vibration on plug/unplug</string>
+    <string name="vibration_on_charge_state_changed_title">電源抜き差し時に振動</string>
+    <string name="vibration_on_charge_state_changed_summary">電源抜き差し時の振動の有無を切り替える</string>
 </resources>
