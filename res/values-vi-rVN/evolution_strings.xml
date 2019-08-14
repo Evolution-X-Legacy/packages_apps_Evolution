@@ -711,13 +711,13 @@
     <string name="safe_headset_volume_warning_dialog_text">Nghe ở âm lượng cao trong thời gian dài có thể gây hại cho thính giác của bạn. Hãy cẩn thận khi tắt hóa tính năng này.</string>
     <!-- Statusbar ticker -->
     <string name="statusbar_notifi_cat">Thông báo Tường thuật</string>
-    <string name="status_bar_ticker_title">Ticker</string>
-    <string name="status_bar_show_ticker_title">Ticker</string>
+    <string name="status_bar_ticker_title">Thông báo tường thuật</string>
+    <string name="status_bar_show_ticker_title">Thông báo tường thuật</string>
     <string name="status_bar_show_ticker_summary">Xem trước thông báo trên thanh trạng thái</string>
-    <string name="ticker_animation_mode_title">Ticker animation</string>
-    <string name="ticker_animation_mode_alpha_fade">Fade</string>
-    <string name="ticker_animation_mode_scroll">Scroll</string>
-    <string name="ticker_tick_duration_title">Ticker duration</string>
+    <string name="ticker_animation_mode_title">Hiệu ứng thông báo tường thuật</string>
+    <string name="ticker_animation_mode_alpha_fade">Làm mờ</string>
+    <string name="ticker_animation_mode_scroll">Cuộn</string>
+    <string name="ticker_tick_duration_title">Thời gian tường thuật</string>
     <!-- Blink flashlight for incoming calls -->
     <string name="flashlight_on_call_title">Nháy đèn pin khi có cuộc gọi</string>
     <string name="flashlight_on_call_disabled">Đã tắt</string>
