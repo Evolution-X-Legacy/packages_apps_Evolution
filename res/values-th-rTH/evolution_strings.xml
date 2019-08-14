@@ -51,6 +51,7 @@
     <string name="save">บันทึก</string>
     <string name="action_save">บันทึก</string>
     <string name="action_cancel">ยกเลิก</string>
+    <string name="attention">โปรดทราบ</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">เปิด</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -703,4 +704,23 @@
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">แตะหน้าจอสองครั้งเพื่อปิดหน้าจอ</string>
     <string name="status_bar_double_tap_to_sleep_summary">แตะสองครั้งที่แถบสถานะเพื่อปิดหน้าจอ</string>
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">ระดับเสียงปลอดภัยต่อชุดหูฟัง</string>
+    <string name="safe_headset_volume_summary">ป้องกันระดับเสียงดังเมื่อเสียบชุดหูฟังเป็นครั้งแรก</string>
+    <string name="safe_headset_volume_warning_dialog_text">การฟังในระดับเสียงที่ดังเป็นระยะเวลานานอาจทำให้การได้ยินของคุณบกพร่อง  ปิดใช้งานด้วยความระมัดระวัง</string>
+    <!-- Statusbar ticker -->
+    <string name="statusbar_notifi_cat">สัญลักษณ์การแจ้งเตือน</string>
+    <string name="status_bar_ticker_title">สัญลักษณ์</string>
+    <string name="status_bar_show_ticker_title">สัญลักษณ์</string>
+    <string name="status_bar_show_ticker_summary">แสดงตัวอย่างการแจ้งเตือนในแถบสถานะ</string>
+    <string name="ticker_animation_mode_title">สัญลักษณ์ภาพอนิเมชั่น</string>
+    <string name="ticker_animation_mode_alpha_fade">ค่อยๆ จาง</string>
+    <string name="ticker_animation_mode_scroll">เลื่อน</string>
+    <string name="ticker_tick_duration_title">ระยะเวลาสัญลักษณ์</string>
+    <!-- Blink flashlight for incoming calls -->
+    <string name="flashlight_on_call_title">ไฟฉายกระพริบเมื่อมีสายเรียกเข้า</string>
+    <string name="flashlight_on_call_disabled">ปิดใช้งาน</string>
+    <string name="flashlight_on_call_not_dnd">ไฟฉายกระพริบในโหมด สั่น เท่านั้น</string>
+    <string name="flashlight_on_call_dnd">ไฟฉายกระพริบในโหมด ห้ามรบกวน เท่านั้น</string>
+    <string name="flashlight_on_call_always">ไฟฉายกระพริบเสมอ</string>
 </resources>

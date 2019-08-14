@@ -51,6 +51,7 @@
     <string name="save">Сохранить</string>
     <string name="action_save">Сохранить</string>
     <string name="action_cancel">Отменить</string>
+    <string name="attention">Внимание</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Вкл</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -703,4 +704,23 @@
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">Двойное нажатие для отключения экрана</string>
     <string name="status_bar_double_tap_to_sleep_summary">Дважды коснитесь строки состояния или экрана блокировки, чтобы перевести устройство в спящий режим</string>
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">Безопасная громкость гарнитуры</string>
+    <string name="safe_headset_volume_summary">Предотвратить громкий звук, когда впервые подключена гарнитура</string>
+    <string name="safe_headset_volume_warning_dialog_text">Длительное прослушивание музыки на большой громкости может повредить слух. Пользуйтесь с осторожностью.</string>
+    <!-- Statusbar ticker -->
+    <string name="statusbar_notifi_cat">Бегущая строка</string>
+    <string name="status_bar_ticker_title">Бегущая строка</string>
+    <string name="status_bar_show_ticker_title">Бегущая строка</string>
+    <string name="status_bar_show_ticker_summary">Предварительный просмотр уведомлений в строке состояния</string>
+    <string name="ticker_animation_mode_title">Анимация бегущей строки</string>
+    <string name="ticker_animation_mode_alpha_fade">Затухание</string>
+    <string name="ticker_animation_mode_scroll">Прокрутка</string>
+    <string name="ticker_tick_duration_title">Время бегущей строки</string>
+    <!-- Blink flashlight for incoming calls -->
+    <string name="flashlight_on_call_title">Мигание фонарика во время входящего вызова</string>
+    <string name="flashlight_on_call_disabled">Отключено</string>
+    <string name="flashlight_on_call_not_dnd">Мигание фонарика только в режиме вызовов</string>
+    <string name="flashlight_on_call_dnd">Мигание фонарика только в режиме \"не беспокоить\"</string>
+    <string name="flashlight_on_call_always">Мигание фонарика - всегда</string>
 </resources>
