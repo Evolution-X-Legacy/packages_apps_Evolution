@@ -51,6 +51,7 @@
     <string name="save">Зберегти</string>
     <string name="action_save">Зберегти</string>
     <string name="action_cancel">Відміна</string>
+    <string name="attention">Увага</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Вкл</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -704,4 +705,26 @@
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">Двічі торкніться для блокування</string>
     <string name="status_bar_double_tap_to_sleep_summary">Двічі торкніться рядка стану або блокування екрана, щоб перевести пристрій в сплячий режим</string>
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">Безпечна гучність гарнітури</string>
+    <string name="safe_headset_volume_summary">Запобігання великій гучності, коли гарнітуру вперше підключено</string>
+    <string name="safe_headset_volume_warning_dialog_text">Прослуховування на високій гучності протягом тривалого часу може погіршити слух. Вас попереджено. Будьте обережні.</string>
+    <!-- Statusbar ticker -->
+    <string name="statusbar_notifi_cat">Показ сповіщень</string>
+    <string name="status_bar_ticker_title">Рухомий рядок</string>
+    <string name="status_bar_show_ticker_title">Рухомий рядок</string>
+    <string name="status_bar_show_ticker_summary">Попередній перегляд сповіщень в рядку стану</string>
+    <string name="ticker_animation_mode_title">Анімація рухомого рядка</string>
+    <string name="ticker_animation_mode_alpha_fade">Затухання</string>
+    <string name="ticker_animation_mode_scroll">Прокрутка</string>
+    <string name="ticker_tick_duration_title">Тривалість рухомого рядка</string>
+    <!-- Blink flashlight for incoming calls -->
+    <string name="flashlight_on_call_title">Спалах ліхтарика при дзвінку</string>
+    <string name="flashlight_on_call_disabled">Вимкнено</string>
+    <string name="flashlight_on_call_not_dnd">Блимати ліхтариком тільки в режим дзвінка</string>
+    <string name="flashlight_on_call_dnd">Блимати ліхтариком лише в режимі Не турбувати</string>
+    <string name="flashlight_on_call_always">Завжди блимати ліхтариком</string>
+    <!-- Charging options -->
+    <string name="vibration_on_charge_state_changed_title">Vibrate on plug/unplug</string>
+    <string name="vibration_on_charge_state_changed_summary">Enable/disable vibration on plug/unplug</string>
 </resources>
