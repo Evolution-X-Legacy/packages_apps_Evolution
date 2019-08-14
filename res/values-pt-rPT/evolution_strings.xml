@@ -51,6 +51,7 @@
     <string name="save">Guardar</string>
     <string name="action_save">Guardar</string>
     <string name="action_cancel">Cancelar</string>
+    <string name="attention">Attention</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Ligado</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -649,34 +650,6 @@
     <string name="alarm_blocker_save">Guardar</string>
     <string name="alarm_list_header">Alarmes disponíveis</string>
     <string name="alarm_blocker_reload">Recarregar</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Modo de jogo</string>
-    <string name="gaming_mode_summary">Personalizar as definições do modo de jogo</string>
-    <string name="gaming_mode_master_title">Ativar recursos do modo de jogo</string>
-    <string name="gaming_mode_master_summary">Permitir a personalização das opções do modo de jogo</string>
-    <string name="gaming_mode_app_picker_title">Ativar automaticamente para estas aplicações</string>
-    <string name="add_gaming_mode_package_title">Adicionar aplicações para o modo de jogo</string>
-    <string name="add_gaming_mode_package_summary">O modo de jogo será automaticamente ativado para as aplicações selecionadas.</string>
-    <string name="gaming_mode_headsup_title">Bloquear notificações</string>
-    <string name="gaming_mode_headsup_summary">Bloquear todas as notificações flutuantes, exceto chamadas.</string>
-    <string name="gaming_mode_hardware_keys_title">Bloquear botões</string>
-    <string name="gaming_mode_hardware_keys_summary">Desativar botões físicos quando o modo de jogo estiver ativado.</string>
-    <string name="gaming_mode_gestures_title">Desativar gestos</string>
-    <string name="gaming_mode_gestures_summary">Desative a navegação por gestos quando o modo de jogo estiver ativado.</string>
-    <string name="gaming_mode_brightness_title">Desativar o brilho automático</string>
-    <string name="gaming_mode_brightness_summary">Bloquear o brilho do ecrã de bloqueio quando o modo de jogo estiver ativado.</string>
-    <string name="gaming_mode_ringer_title">Toque no modo de jogo</string>
-    <string name="gaming_mode_ringer_off_title">Não alterar</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrar</string>
-    <string name="gaming_mode_ringer_dnd_title">Não incomodar</string>
-    <string name="gaming_mode_ringer_silent_title">Silêncio</string>
-    <string name="gaming_mode_notifications_title">Notificações</string>
-    <string name="gaming_mode_notifications_off_title">Desativado</string>
-    <string name="gaming_mode_notifications_notif_title">Mostrar notificação</string>
-    <string name="gaming_mode_notifications_toast_title">Mostrar alertas</string>
-    <string name="gaming_mode_notifications_all_title">Mostrar alertas e notificações</string>
-    <string name="gaming_mode_dynamic_title">Modo de jogo dinâmico</string>
-    <string name="gaming_mode_dynamic_summary">Sempre que abrir qualquer aplicação e o sistema achar que é um jogo, ele será adicionado automaticamente na lista de jogos. Por favor, note que isso não funciona para cada jogo.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Forçar as notificações expandidas</string>
     <string name="force_expanded_notifications_summary">Forçar as aplicações para que ofereçam suporte às notificações expandidas</string>
@@ -704,4 +677,23 @@
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">Double tap to sleep</string>
     <string name="status_bar_double_tap_to_sleep_summary">Double tap on the status bar or lockscreen to turn off the display</string>
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">Safe headset volume</string>
+    <string name="safe_headset_volume_summary">Prevent loud volume levels when headset is first plugged in</string>
+    <string name="safe_headset_volume_warning_dialog_text">Listening at high volume for long periods may damage your hearing. Disable it with caution.</string>
+    <!-- Statusbar ticker -->
+    <string name="statusbar_notifi_cat">Notifications Ticker</string>
+    <string name="status_bar_ticker_title">Ticker</string>
+    <string name="status_bar_show_ticker_title">Ticker</string>
+    <string name="status_bar_show_ticker_summary">Notification preview in status bar</string>
+    <string name="ticker_animation_mode_title">Ticker animation</string>
+    <string name="ticker_animation_mode_alpha_fade">Fade</string>
+    <string name="ticker_animation_mode_scroll">Scroll</string>
+    <string name="ticker_tick_duration_title">Ticker duration</string>
+    <!-- Blink flashlight for incoming calls -->
+    <string name="flashlight_on_call_title">Blink Flashlight on call</string>
+    <string name="flashlight_on_call_disabled">Disabled</string>
+    <string name="flashlight_on_call_not_dnd">Blink flashlight only in ringer mode</string>
+    <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
+    <string name="flashlight_on_call_always">Always blink flashlight</string>
 </resources>
