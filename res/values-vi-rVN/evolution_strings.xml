@@ -51,6 +51,7 @@
     <string name="save">Lưu</string>
     <string name="action_save">Lưu</string>
     <string name="action_cancel">Hủy</string>
+    <string name="attention">Cảnh báo</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
     <string name="switch_bar_on">Bật</string>
     <!-- Label for feature switch [CHAR LIMIT=30] -->
@@ -704,4 +705,23 @@
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">Nhấn đúp để tắt màn hình</string>
     <string name="status_bar_double_tap_to_sleep_summary">Chạm hai lần vào thanh trạng thái hoặc màn hình khoá để tắt màn hình</string>
+    <!-- Safe headset volume restore checkbox -->
+    <string name="safe_headset_volume_title">Âm lượng tai nghe an toàn</string>
+    <string name="safe_headset_volume_summary">Ngăn chặn các mức âm lượng lớn khi tai nghe được cắm vào lần đầu</string>
+    <string name="safe_headset_volume_warning_dialog_text">Nghe ở âm lượng cao trong thời gian dài có thể gây hại cho thính giác của bạn. Hãy cẩn thận khi tắt hóa tính năng này.</string>
+    <!-- Statusbar ticker -->
+    <string name="statusbar_notifi_cat">Thông báo Tường thuật</string>
+    <string name="status_bar_ticker_title">Ticker</string>
+    <string name="status_bar_show_ticker_title">Ticker</string>
+    <string name="status_bar_show_ticker_summary">Xem trước thông báo trên thanh trạng thái</string>
+    <string name="ticker_animation_mode_title">Ticker animation</string>
+    <string name="ticker_animation_mode_alpha_fade">Fade</string>
+    <string name="ticker_animation_mode_scroll">Scroll</string>
+    <string name="ticker_tick_duration_title">Ticker duration</string>
+    <!-- Blink flashlight for incoming calls -->
+    <string name="flashlight_on_call_title">Nháy đèn pin khi có cuộc gọi</string>
+    <string name="flashlight_on_call_disabled">Đã tắt</string>
+    <string name="flashlight_on_call_not_dnd">Nháy đèn chỉ khi ở chế độ chuông</string>
+    <string name="flashlight_on_call_dnd">Nháy đèn chỉ khi đang bật Không làm phiền</string>
+    <string name="flashlight_on_call_always">Luôn nháy đèn</string>
 </resources>
