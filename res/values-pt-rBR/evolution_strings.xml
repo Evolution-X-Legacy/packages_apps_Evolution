@@ -149,7 +149,7 @@
     <string name="status_bar_clock_style_reset">Redefinir a cor</string>
     <string name="status_bar_show_clock_title">Mostrar relógio e data</string>
     <string name="status_bar_clock_seconds_title">Mostrar segundos</string>
-    <string name="status_bar_am_pm_title">AM/PM</string>
+    <string name="status_bar_am_pm_title">Estilo AM/PM</string>
     <string name="status_bar_am_pm_info">O relógio estilo 24 horas está ativado</string>
     <string name="enable_clock_weekday">Dia da semana</string>
     <string name="enable_clock_weekday_summary">Abreviar dia da semana antes do relógio</string>
