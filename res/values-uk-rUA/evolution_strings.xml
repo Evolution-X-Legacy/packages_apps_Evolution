@@ -650,34 +650,6 @@
     <string name="alarm_blocker_save">Зберегти</string>
     <string name="alarm_list_header">Доступні будильники</string>
     <string name="alarm_blocker_reload">Перезапустити</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Ігровий режим</string>
-    <string name="gaming_mode_summary">Налаштувати ігровий режим</string>
-    <string name="gaming_mode_master_title">Включити ігровий режим</string>
-    <string name="gaming_mode_master_summary">Дозволити змінювати налаштування ігрового режиму</string>
-    <string name="gaming_mode_app_picker_title">Включати автоматично для наступних програм</string>
-    <string name="add_gaming_mode_package_title">Додати програми до ігрового режиму</string>
-    <string name="add_gaming_mode_package_summary">Ігровий режим буде активований для обраних додатків.</string>
-    <string name="gaming_mode_headsup_title">Блокувати повідомлення</string>
-    <string name="gaming_mode_headsup_summary">Блокувати всі повідомлення, крім дзвінків.</string>
-    <string name="gaming_mode_hardware_keys_title">Блокувати кнопки</string>
-    <string name="gaming_mode_hardware_keys_summary">Відключення апаратних кнопок при включеному ігровому режимі.</string>
-    <string name="gaming_mode_gestures_title">Вимкнути жести</string>
-    <string name="gaming_mode_gestures_summary">Відключити навігацію жестами, коли включений ігровий режим.</string>
-    <string name="gaming_mode_brightness_title">Вимкнути автоматичну яскравість</string>
-    <string name="gaming_mode_brightness_summary">Заблокувати яскравість екрана, якщо увімкнено ігровий режим.</string>
-    <string name="gaming_mode_ringer_title">Дзвінок в ігровому режимі</string>
-    <string name="gaming_mode_ringer_off_title">Не змінювати</string>
-    <string name="gaming_mode_ringer_vibrate_title">Вібрація</string>
-    <string name="gaming_mode_ringer_dnd_title">Не турбувати</string>
-    <string name="gaming_mode_ringer_silent_title">Без звуку</string>
-    <string name="gaming_mode_notifications_title">Повідомлення</string>
-    <string name="gaming_mode_notifications_off_title">Вимкнено</string>
-    <string name="gaming_mode_notifications_notif_title">Показати повідомлення</string>
-    <string name="gaming_mode_notifications_toast_title">Показати спливаючі повідомлення</string>
-    <string name="gaming_mode_notifications_all_title">Показати постійні сповіщення</string>
-    <string name="gaming_mode_dynamic_title">Динамічний ігровий режим</string>
-    <string name="gaming_mode_dynamic_summary">Всякий раз, коли ви відкриваєте якесь додаток і система виявляє, що воно є грою, воно буде автоматично додано в список ігор. Зверніть увагу, що це працює не для кожного ігрового програми.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Примусово розширювати свовіщення</string>
     <string name="force_expanded_notifications_summary">Доступно тільки для додатків, що підтримують розширені сповіщення</string>
