@@ -649,34 +649,6 @@
     <string name="alarm_blocker_save">บันทึก</string>
     <string name="alarm_list_header">สัญญาณเตือนที่เปิดใช้งานได้</string>
     <string name="alarm_blocker_reload">รีโหลด</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">โหมดเกมมิ่ง</string>
-    <string name="gaming_mode_summary">กำหนดการตั้งค่าโหมดเกมมิ่งด้วยตัวเอง</string>
-    <string name="gaming_mode_master_title">เปิดใช้งานคุณสมบัติโหมดเกมมิ่ง</string>
-    <string name="gaming_mode_master_summary">อนุญาตให้ปรับแต่งตัวเลือกโหมดเกมมิ่ง</string>
-    <string name="gaming_mode_app_picker_title">เปิดโดยอัตโนมัติสำหรับแอปพลิเคชันเหล่านี้</string>
-    <string name="add_gaming_mode_package_title">เพิ่มแอพสำหรับโหมดเกมมิ่ง</string>
-    <string name="add_gaming_mode_package_summary">โหมดเกมมิ่งจะเปิดโดยอัตโนมัติสำหรับแอพพลิเคชั่นที่เลือกไว้</string>
-    <string name="gaming_mode_headsup_title">ปิดกั้นการแจ้งเตือน</string>
-    <string name="gaming_mode_headsup_summary">ปิดกั้นการแจ้งเตือนแบบป๊อปอัพทั้งหมดยกเว้นการโทร</string>
-    <string name="gaming_mode_hardware_keys_title">ล็อคปุ่มฮาร์ดแวร์</string>
-    <string name="gaming_mode_hardware_keys_summary">ปิดใช้งานปุ่มฮาร์ดแวร์เมื่อเปิดโหมดเกม</string>
-    <string name="gaming_mode_gestures_title">ปิดใช้งานท่าทางสัมผัส</string>
-    <string name="gaming_mode_gestures_summary">ปิดใช้งานการนำทางด้วยท่าทางเมื่อเปิดโหมดเกม</string>
-    <string name="gaming_mode_brightness_title">ปิดใช้งานความสว่างอัตโนมัติ</string>
-    <string name="gaming_mode_brightness_summary">ล็อคความสว่างหน้าจอเมื่อเปิดโหมดเกม</string>
-    <string name="gaming_mode_ringer_title">สั่นในโหมดเกมมิ่ง</string>
-    <string name="gaming_mode_ringer_off_title">ไม่เปลี่ยน</string>
-    <string name="gaming_mode_ringer_vibrate_title">สั่น</string>
-    <string name="gaming_mode_ringer_dnd_title">ห้ามรบกวน</string>
-    <string name="gaming_mode_ringer_silent_title">ปิดเสียง</string>
-    <string name="gaming_mode_notifications_title">การแจ้งเตือน</string>
-    <string name="gaming_mode_notifications_off_title">ปิดใช้งาน</string>
-    <string name="gaming_mode_notifications_notif_title">แสดงการแจ้งเตือน</string>
-    <string name="gaming_mode_notifications_toast_title">แสดงการแจ้งเตือนอย่างรวดเร็ว</string>
-    <string name="gaming_mode_notifications_all_title">แสดงการแจ้งเตือนทั้งหมด</string>
-    <string name="gaming_mode_dynamic_title">โหมดเกมมิ่งแบบไดนามิก</string>
-    <string name="gaming_mode_dynamic_summary">เมื่อใดก็ตามที่คุณเปิดแอพใด ๆ และระบบพบว่ามันเป็นเกมมันจะถูกเพิ่มในรายการเกมโดยอัตโนมัติ  โปรดทราบว่านี่ไม่สามารถใช้ได้กับทุกแอพเกม</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">บังคับให้มีการแจ้งเตือนแบบขยาย</string>
     <string name="force_expanded_notifications_summary">พร้อมใช้งานเฉพาะสำหรับแอปพลิเคชันที่สนับสนุนการแจ้งเตือนที่ปรับใช้ได้</string>
