@@ -647,34 +647,6 @@
     <string name="alarm_blocker_save">שמור</string>
     <string name="alarm_list_header">שעונים מעוררים זמינים</string>
     <string name="alarm_blocker_reload">טעינה מחדש</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">מצב משחק</string>
-    <string name="gaming_mode_summary">התאם אישית ביצועי מצב משחק</string>
-    <string name="gaming_mode_master_title">אפשר תכונות מצב משחק</string>
-    <string name="gaming_mode_master_summary">אפשר להתאים אישית את אפשרויות מצב המשחק</string>
-    <string name="gaming_mode_app_picker_title">הפעל את היישומים האלה באופן אוטומטי</string>
-    <string name="add_gaming_mode_package_title">הוסף יישומים למצב משחק</string>
-    <string name="add_gaming_mode_package_summary">מצב משחקים יופעל באופן אוטומטי עבור היישומים שנבחרו.</string>
-    <string name="gaming_mode_headsup_title">חסום את כל ההתראות</string>
-    <string name="gaming_mode_headsup_summary">חסום את כל סמלי ההתראות חוץ משיחות.</string>
-    <string name="gaming_mode_hardware_keys_title">מקשי נעילה</string>
-    <string name="gaming_mode_hardware_keys_summary">השבת את מקשי החומרה כאשר מצב משחק מופעל.</string>
-    <string name="gaming_mode_gestures_title">השבת מחוות</string>
-    <string name="gaming_mode_gestures_summary">השבת את מחוות הניווט כאשר מצב משחק מופעל.</string>
-    <string name="gaming_mode_brightness_title">השבת את הבהירות האוטומטית</string>
-    <string name="gaming_mode_brightness_summary">נעל את בהירות המסך כאשר מצב משחק מופעל.</string>
-    <string name="gaming_mode_ringer_title">צילצול במצב משחק</string>
-    <string name="gaming_mode_ringer_off_title">ללא שינוי</string>
-    <string name="gaming_mode_ringer_vibrate_title">רטט</string>
-    <string name="gaming_mode_ringer_dnd_title">נא לא להפריע</string>
-    <string name="gaming_mode_ringer_silent_title">שקט</string>
-    <string name="gaming_mode_notifications_title">התראות</string>
-    <string name="gaming_mode_notifications_off_title">מושבת</string>
-    <string name="gaming_mode_notifications_notif_title">הצג התראות</string>
-    <string name="gaming_mode_notifications_toast_title">הצג הודעות טוסט</string>
-    <string name="gaming_mode_notifications_all_title">הצג הודעות טוסט והתראות</string>
-    <string name="gaming_mode_dynamic_title">מצב משחק דינמי</string>
-    <string name="gaming_mode_dynamic_summary">בכל פעם שאתה פותח יישום המערכת תבדוק אם זה משחק. אם כן, זה יתווסף אוטומטית רשימת המשחקים. לידיעתך, פעולה זו אינה פועלת עבור כל יישומי המשחקים.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">אלץ התראות מורחבות</string>
     <string name="force_expanded_notifications_summary">אלץ יישומים אשר תומכים בהתראות מורחבות</string>
