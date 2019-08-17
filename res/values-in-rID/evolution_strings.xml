@@ -647,34 +647,6 @@
     <string name="alarm_blocker_save">Simpan</string>
     <string name="alarm_list_header">Alarm tersedia</string>
     <string name="alarm_blocker_reload">Muat Ulang</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Mode Permainan</string>
-    <string name="gaming_mode_summary">Kustomisasi preferensi mode permainan</string>
-    <string name="gaming_mode_master_title">Aktifkan fitur Mode Permainan</string>
-    <string name="gaming_mode_master_summary">Izinkan untuk menyesuaikan opsi Mode Permainan</string>
-    <string name="gaming_mode_app_picker_title">Secara otomatis hidup untuk aplikasi ini</string>
-    <string name="add_gaming_mode_package_title">Tambahkan aplikasi untuk Mode Gaming</string>
-    <string name="add_gaming_mode_package_summary">Mode permainan akan secara otomatis dihidupkan untuk aplikasi yang dipilih.</string>
-    <string name="gaming_mode_headsup_title">Blokir notifikasi</string>
-    <string name="gaming_mode_headsup_summary">Blokir semua pesan kepala yang ada kecuali panggilan.</string>
-    <string name="gaming_mode_hardware_keys_title">Tombol kunci</string>
-    <string name="gaming_mode_hardware_keys_summary">Nonaktifkan tombol perangkat keras saat mode Permainan dihidupkan.</string>
-    <string name="gaming_mode_gestures_title">Aktifkan gerakan</string>
-    <string name="gaming_mode_gestures_summary">Nonaktifkan navigasi gerakan ketika mode Permainan dihidupkan.</string>
-    <string name="gaming_mode_brightness_title">Nonaktifkan kecerahan otomatis</string>
-    <string name="gaming_mode_brightness_summary">Kunci kecerahan layar saat mode Gaming dihidupkan.</string>
-    <string name="gaming_mode_ringer_title">Dering dalam mode permainan</string>
-    <string name="gaming_mode_ringer_off_title">Jangan berubah</string>
-    <string name="gaming_mode_ringer_vibrate_title">Getar</string>
-    <string name="gaming_mode_ringer_dnd_title">Jangan ganggu</string>
-    <string name="gaming_mode_ringer_silent_title">Diam</string>
-    <string name="gaming_mode_notifications_title">Notifikasi</string>
-    <string name="gaming_mode_notifications_off_title">Dinonaktifkan</string>
-    <string name="gaming_mode_notifications_notif_title">Tampilkan pemberitahuan</string>
-    <string name="gaming_mode_notifications_toast_title">Tampilkan toast</string>
-    <string name="gaming_mode_notifications_all_title">Tampilkan toasts dan pemberitahuan</string>
-    <string name="gaming_mode_dynamic_title">Mode Permainan Dinamis</string>
-    <string name="gaming_mode_dynamic_summary">Setiap kali Anda membuka aplikasi apa pun dan sistem menemukan itu sebagai permainan, itu akan ditambahkan dalam daftar game secara otomatis.  Harap dicatat bahwa ini tidak berfungsi untuk setiap aplikasi game.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Paksa pemberitahuan yang diperluas</string>
     <string name="force_expanded_notifications_summary">paksa aplikasi yang mendukung membuka pemberitahuan</string>
