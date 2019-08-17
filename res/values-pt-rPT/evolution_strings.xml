@@ -650,34 +650,6 @@
     <string name="alarm_blocker_save">Guardar</string>
     <string name="alarm_list_header">Alarmes disponíveis</string>
     <string name="alarm_blocker_reload">Recarregar</string>
-    <!-- Gaming mode -->
-    <string name="gaming_mode_title">Modo de jogo</string>
-    <string name="gaming_mode_summary">Personalizar as definições do modo de jogo</string>
-    <string name="gaming_mode_master_title">Ativar recursos do modo de jogo</string>
-    <string name="gaming_mode_master_summary">Permitir a personalização das opções do modo de jogo</string>
-    <string name="gaming_mode_app_picker_title">Ativar automaticamente para estas aplicações</string>
-    <string name="add_gaming_mode_package_title">Adicionar aplicações para o modo de jogo</string>
-    <string name="add_gaming_mode_package_summary">O modo de jogo será automaticamente ativado para as aplicações selecionadas.</string>
-    <string name="gaming_mode_headsup_title">Bloquear notificações</string>
-    <string name="gaming_mode_headsup_summary">Bloquear todas as notificações flutuantes, exceto chamadas.</string>
-    <string name="gaming_mode_hardware_keys_title">Bloquear botões</string>
-    <string name="gaming_mode_hardware_keys_summary">Desativar botões físicos quando o modo de jogo estiver ativado.</string>
-    <string name="gaming_mode_gestures_title">Desativar gestos</string>
-    <string name="gaming_mode_gestures_summary">Desative a navegação por gestos quando o modo de jogo estiver ativado.</string>
-    <string name="gaming_mode_brightness_title">Desativar o brilho automático</string>
-    <string name="gaming_mode_brightness_summary">Bloquear o brilho do ecrã de bloqueio quando o modo de jogo estiver ativado.</string>
-    <string name="gaming_mode_ringer_title">Toque no modo de jogo</string>
-    <string name="gaming_mode_ringer_off_title">Não alterar</string>
-    <string name="gaming_mode_ringer_vibrate_title">Vibrar</string>
-    <string name="gaming_mode_ringer_dnd_title">Não incomodar</string>
-    <string name="gaming_mode_ringer_silent_title">Silêncio</string>
-    <string name="gaming_mode_notifications_title">Notificações</string>
-    <string name="gaming_mode_notifications_off_title">Desativado</string>
-    <string name="gaming_mode_notifications_notif_title">Mostrar notificação</string>
-    <string name="gaming_mode_notifications_toast_title">Mostrar alertas</string>
-    <string name="gaming_mode_notifications_all_title">Mostrar alertas e notificações</string>
-    <string name="gaming_mode_dynamic_title">Modo de jogo dinâmico</string>
-    <string name="gaming_mode_dynamic_summary">Sempre que abrir qualquer aplicação e o sistema achar que é um jogo, ele será adicionado automaticamente na lista de jogos. Por favor, note que isso não funciona para cada jogo.</string>
     <!-- Force expanded notifications -->
     <string name="force_expanded_notifications_title">Forçar as notificações expandidas</string>
     <string name="force_expanded_notifications_summary">Forçar as aplicações para que ofereçam suporte às notificações expandidas</string>
