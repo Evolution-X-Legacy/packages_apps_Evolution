@@ -32,6 +32,16 @@
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:key="category_fingerprint_custom_icon"
+        android:title="@string/fingerprint_category_custom_icon">
+
+        <Preference
+            android:title="@string/fingerprint_file"
+            android:key="custom_fingerprint_icon" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
         android:title="@string/fingerprint_category">
 
         <com.evolution.settings.preferences.SystemSettingSwitchPreference

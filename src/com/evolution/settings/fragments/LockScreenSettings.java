@@ -26,15 +26,23 @@ import android.content.ContentResolver;
 import android.app.WallpaperManager;
 import android.content.Intent;
 import android.content.res.Resources;
+import android.graphics.Bitmap;
+import android.graphics.BitmapFactory;
+import android.graphics.Color;
+import android.graphics.drawable.ColorDrawable;
+import android.graphics.drawable.Drawable;
+import android.graphics.drawable.BitmapDrawable;
 import android.hardware.fingerprint.FingerprintManager;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.ParcelFileDescriptor;
 import android.os.UserHandle;
 import android.support.v14.preference.SwitchPreference;
 import android.support.v7.preference.ListPreference;
 import android.support.v7.preference.Preference;
 import android.support.v7.preference.PreferenceCategory;
 import android.support.v7.preference.PreferenceScreen;
+import android.text.TextUtils;
 
 import android.provider.SearchIndexableResource;
 import android.provider.Settings;
@@ -44,6 +52,7 @@ import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.search.Indexable;
 import net.margaritov.preference.colorpicker.ColorPickerPreference;
 
+import java.io.FileDescriptor;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -59,12 +68,16 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
     private static final String LOCK_OWNER_FONTS = "lock_owner_fonts";
     private static final String CLOCK_FONT_SIZE  = "lockclock_font_size";
     private static final String DATE_FONT_SIZE  = "lockdate_font_size";
+    private static final String FINGERPRINT_CUSTOM_ICON = "custom_fingerprint_icon";
+    private static final String FINGERPRINT_CATEGORY = "category_fingerprint_custom_icon";
+    private static final int GET_CUSTOM_FP_ICON = 69;
 
     ListPreference mLockClockFonts;
     ListPreference mLockDateFonts;
     ListPreference mLockOwnerFonts;
 
     private ColorPickerPreference mVisualizerColor;
+    private Preference mFilePicker;
     private SystemSettingSeekBarPreference mClockFontSize;
     private SystemSettingSeekBarPreference mDateFontSize;
 
@@ -76,6 +89,7 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
         ContentResolver resolver = getActivity().getContentResolver();
         final PreferenceScreen prefScreen = getPreferenceScreen();
         Resources resources = getResources();
+        mFilePicker = (Preference) findPreference(FINGERPRINT_CUSTOM_ICON);
 
         // Lockscren Clock Fonts
         mLockClockFonts = (ListPreference) findPreference(LOCK_CLOCK_FONTS);
@@ -119,6 +133,50 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
         mVisualizerColor.setNewPreviewColor(visColor);
         mVisualizerColor.setAlphaSliderEnabled(true);
         mVisualizerColor.setOnPreferenceChangeListener(this);
+
+        boolean isFODDevice = getResources().getBoolean(com.android.internal.R.bool.config_needCustomFODView);
+        if (!isFODDevice){
+            removePreference(FINGERPRINT_CATEGORY);
+        } else {
+            final String customIconURI = Settings.System.getString(getContext().getContentResolver(),
+                Settings.System.CUSTOM_FP_ICON);
+
+            if (!TextUtils.isEmpty(customIconURI)) {
+                setPickerIcon(customIconURI);
+                mFilePicker.setSummary(customIconURI);
+            }
+
+            mFilePicker.setOnPreferenceClickListener(new Preference.OnPreferenceClickListener() {
+                @Override
+                public boolean onPreferenceClick(Preference preference) {
+                    Intent intent = new Intent(Intent.ACTION_PICK);
+                    intent.setType("image/png");
+
+                    startActivityForResult(intent, GET_CUSTOM_FP_ICON);
+
+                    return true;
+                }
+            });
+        }
+    }
+
+    @Override
+    public void onActivityResult(int requestCode, int resultCode,
+        Intent resultData) {
+        if (requestCode == GET_CUSTOM_FP_ICON && resultCode == Activity.RESULT_OK) {
+            Uri uri = null;
+            if (resultData != null) {
+                uri = resultData.getData();
+                mFilePicker.setSummary(uri.toString());
+                setPickerIcon(uri.toString());
+                Settings.System.putString(getContentResolver(), Settings.System.CUSTOM_FP_ICON,
+                    uri.toString());
+            }
+        } else if (requestCode == GET_CUSTOM_FP_ICON && resultCode == Activity.RESULT_CANCELED) {
+            mFilePicker.setSummary("");
+            mFilePicker.setIcon(new ColorDrawable(Color.TRANSPARENT));
+            Settings.System.putString(getContentResolver(), Settings.System.CUSTOM_FP_ICON, "");
+        }
     }
 
     public boolean onPreferenceChange(Preference preference, Object newValue) {
@@ -161,6 +219,19 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
             return true;
         }
         return false;
+    }
+
+    private void setPickerIcon(String uri) {
+        try {
+                ParcelFileDescriptor parcelFileDescriptor =
+                    getContext().getContentResolver().openFileDescriptor(Uri.parse(uri), "r");
+                FileDescriptor fileDescriptor = parcelFileDescriptor.getFileDescriptor();
+                Bitmap image = BitmapFactory.decodeFileDescriptor(fileDescriptor);
+                parcelFileDescriptor.close();
+                Drawable d = new BitmapDrawable(getResources(), image);
+                mFilePicker.setIcon(d);
+            }
+            catch (Exception e) {}
     }
 
     @Override
