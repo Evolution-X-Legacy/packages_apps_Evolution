@@ -674,7 +674,7 @@
     <string name="incall_vibrate_disconnect_summary">启用挂断时振动</string>
     <!-- Double tap to sleep on status bar or lockscreen -->
     <string name="status_bar_double_tap_to_sleep_title">双击睡眠</string>
-    <string name="status_bar_double_tap_to_sleep_summary">双击状态栏睡眠</string>
+    <string name="status_bar_double_tap_to_sleep_summary">双击状态栏或锁屏睡眠</string>
     <!-- Safe headset volume restore checkbox -->
     <string name="safe_headset_volume_title">安全耳机音量</string>
     <string name="safe_headset_volume_summary">当耳机首次插入时防止音量过大</string>
