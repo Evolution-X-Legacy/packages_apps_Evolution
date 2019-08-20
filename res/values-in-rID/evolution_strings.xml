@@ -442,11 +442,11 @@
     <string name="lock_fonts_light_italic">Tipis Miring</string>
     <string name="lock_fonts_light">Tipis</string>
     <string name="lock_fonts_condensed_normal">Rapat</string>
-    <string name="lock_fonts_condensed_italic">Condensed Italic</string>
-    <string name="lock_fonts_condensed_bold">Condensed Bold</string>
-    <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
-    <string name="lock_fonts_medium_normal">Medium</string>
-    <string name="lock_fonts_medium_italic">Medium Italic</string>
+    <string name="lock_fonts_condensed_italic">Rapat Miring</string>
+    <string name="lock_fonts_condensed_bold">Rapat Tebal</string>
+    <string name="lock_fonts_condensed_bold_italic">Rapat Tebal Miring</string>
+    <string name="lock_fonts_medium_normal">Sedang</string>
+    <string name="lock_fonts_medium_italic">Sedang Miring</string>
     <!-- Lockscreen fonts - other fonts, unstranslatable by default -->
     <!-- Custom fonts -->
     <string name="lock_clock_font_themeable">Bisa ditemakan (atau VCR OSD Mono)</string>
@@ -584,7 +584,7 @@
     <string name="deep_sleep_time">Tidur nyenyak</string>
     <string name="no_kernel_wakelock_file_found">Tidak ada statistik file Kernel wakelock atau sys/kernel/debug/wakeup_sources found yang ditemukan.</string>
     <string name="more_line_text">lainnya\u2026</string>
-    <string name="state_core_mode">Cores</string>
+    <string name="state_core_mode">Inti</string>
     <string name="kernel_wakelock_time">Kernel wakelocks</string>
     <string name="user_wakelock_time">Wakelocks sebagian</string>
     <string name="battery_change">Pengisian baterai</string>
@@ -608,7 +608,7 @@
     <string name="sensor_block_title">Sensor blok per-paket</string>
     <string name="sensor_block_summary">Blokir akses ke sensor tertentu untuk beberapa aplikasi untuk menghemat baterai</string>
     <!-- QS edit icon -->
-    <string name="qs_edit_title">QS edit icon</string>
+    <string name="qs_edit_title">Ikon sunting QS</string>
     <string name="qs_edit_summary">Tampilkan ikon edit ubin di footer pengaturan cepat</string>
     <!-- Evolution navigation -->
     <string name="navigation_category">Navigasi</string>
@@ -661,7 +661,7 @@
     <string name="show_battery_estimate_title">Perkiraan Baterai</string>
     <string name="show_battery_estimate_summary">Tampilkan Perkiraan Baterai di Panel QS</string>
     <string name="battery_estimate_position_title">Ikon Baterai &amp; Perkirakan Posisi</string>
-    <string name="battery_estimate_position_qsheader">QS Header</string>
+    <string name="battery_estimate_position_qsheader">Tajuk QS</string>
     <string name="battery_estimate_position_qspanel">Panel QS</string>
     <!-- Incall vibrate options -->
     <string name="incall_vibration_category">Getaran saat menelepon</string>
