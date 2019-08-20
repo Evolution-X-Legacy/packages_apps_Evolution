@@ -301,7 +301,7 @@
     <string name="audio_panel_view_summary">Sesuaikan dialog panel pengatur suara</string>
     <string name="audio_panel_view_info">Volume stream aktif akan ditampilkan pada layar bahkan jika dimatikan disini. Volume stream diaktifkan disini akan ditampilkan secara paksa.</string>
     <string name="audio_panel_view_media_title">Media</string>
-    <string name="audio_panel_view_ringer_title">Ring</string>
+    <string name="audio_panel_view_ringer_title">Dering</string>
     <string name="audio_panel_view_notification_title">Pemberitahuan</string>
     <string name="audio_panel_view_notification_disabled">Hubungkan suara dering &amp; pemberitahuan</string>
     <string name="audio_panel_view_alarm_title">Alarm</string>
@@ -324,7 +324,7 @@
     <string name="network_traffic_statusbar">Bar Status</string>
     <string name="network_traffic_header">Mode diperluas</string>
     <!-- QS panel tuner -->
-    <string name="qs_panel_tuner_category_title">QS panel tuner</string>
+    <string name="qs_panel_tuner_category_title">Penyetem panel QS</string>
     <string name="show_secure_title">Tampilkan footer keamanan</string>
     <string name="show_secure_summary">Memperlihatkan status VPN di atas panel QS</string>
     <string name="show_info_header_title">Informasi header</string>
@@ -371,10 +371,10 @@
     <!-- Lockscreen clock styles -->
     <string name="lockscreen_clock_selection_title">Gaya jam</string>
     <string name="lockscreen_clock_selection_digital">Standar</string>
-    <string name="lockscreen_clock_selection_digital_bold">Digital (bold)</string>
+    <string name="lockscreen_clock_selection_digital_bold">Digital (tebal)</string>
     <string name="lockscreen_clock_selection_analog">Analog</string>
     <string name="lockscreen_clock_selection_sammy">Sammy</string>
-    <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
+    <string name="lockscreen_clock_selection_sammy_bold">Sammy (tebal)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Sammy dengan aksen</string>
     <string name="lockscreen_clock_selection_sammy_accent_alt">Sammy dengan aksen (alt)</string>
     <string name="lockscreen_clock_selection_shishu_nerves">Shishu Nerves</string>
@@ -393,7 +393,7 @@
     <string name="lockscreen_date_selection_str_accent_day">Bulat, sederhana dan dengan aksen (alt)</string>
     <string name="lockscreen_date_selection_str_accent_transparent">Bulat, transparan dan dengan aksen</string>
     <string name="lockscreen_date_selection_str_accent_transparent_day">Bulat, transparan dan dengan aksen (alt)</string>
-    <string name="lockscreen_date_selection_str_gradient">Gradient</string>
+    <string name="lockscreen_date_selection_str_gradient">Gradien</string>
     <string name="lockscreen_date_selection_str_border_accent">Gelap dengan aksen bingkai</string>
     <string name="lockscreen_date_selection_str_border_gradient">Gelap dengan bingkai gradient</string>
     <!-- Data disabled icon -->
@@ -405,8 +405,8 @@
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Gaya bingkai QS</string>
     <string name="qstile_default">Standar</string>
-    <string name="qstile_circle_trim">Circle with trim</string>
-    <string name="qstile_dual_tone_circle">Dual-toned circle</string>
+    <string name="qstile_circle_trim">Lingkaran dengan potongan</string>
+    <string name="qstile_dual_tone_circle">Lingkaran warna ganda</string>
     <string name="qstile_squircle_trim">Squircle with trim</string>
     <string name="qstile_circle_gradient">Circle with Gradient</string>
     <string name="qstile_cookie">Cookie</string>
