@@ -438,10 +438,10 @@
     <string name="lock_fonts_stock">Normal (standar)</string>
     <string name="lock_fonts_bold">Tebal</string>
     <string name="lock_fonts_italic">Cetak miring</string>
-    <string name="lock_fonts_bold_italic">Bold Italic</string>
-    <string name="lock_fonts_light_italic">Light Italic</string>
-    <string name="lock_fonts_light">Light</string>
-    <string name="lock_fonts_condensed_normal">Condensed</string>
+    <string name="lock_fonts_bold_italic">Tebal Miring</string>
+    <string name="lock_fonts_light_italic">Tipis Miring</string>
+    <string name="lock_fonts_light">Tipis</string>
+    <string name="lock_fonts_condensed_normal">Rapat</string>
     <string name="lock_fonts_condensed_italic">Condensed Italic</string>
     <string name="lock_fonts_condensed_bold">Condensed Bold</string>
     <string name="lock_fonts_condensed_bold_italic">Condensed Bold Italic</string>
