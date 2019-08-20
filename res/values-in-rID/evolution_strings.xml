@@ -405,29 +405,29 @@
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Gaya bingkai QS</string>
     <string name="qstile_default">Standar</string>
-    <string name="qstile_circle_trim">Lingkaran dengan potongan</string>
-    <string name="qstile_dual_tone_circle">Lingkaran warna ganda</string>
-    <string name="qstile_squircle_trim">Squircle with trim</string>
-    <string name="qstile_circle_gradient">Circle with Gradient</string>
-    <string name="qstile_cookie">Cookie</string>
-    <string name="qstile_wavey">Wavey</string>
-    <string name="qstile_circle_dualtone">Circle with Dual Tone</string>
+    <string name="qstile_circle_trim">Lingkaran dengan trim</string>
+    <string name="qstile_dual_tone_circle">Lingkaran warna ganda dengan trim</string>
+    <string name="qstile_squircle_trim">Squircle dengan trim</string>
+    <string name="qstile_circle_gradient">Lingkaran dengan gradien</string>
+    <string name="qstile_cookie">Biskuit</string>
+    <string name="qstile_wavey">Bergelombang</string>
+    <string name="qstile_circle_dualtone">Lingkaran warna ganda</string>
     <string name="qstile_pokesign">Pokemon</string>
     <string name="qstile_ninja">Ninja</string>
-    <string name="qstile_dottedcircle">Dotted Circle</string>
-    <string name="qstile_attemptmountain">An attempt of a mountain</string>
+    <string name="qstile_dottedcircle">Lingkaran putus-putus</string>
+    <string name="qstile_attemptmountain">Pegunungan</string>
     <string name="qstile_squaremedo">The Squaremedo</string>
-    <string name="qstile_hexagon">Hexagon</string>
+    <string name="qstile_hexagon">Segi enam</string>
     <string name="qstile_star">Bintang</string>
     <string name="qstile_gear">Gigi</string>
     <string name="qstile_diamond">Berlian</string>
-    <string name="qstile_circleoutline">CircleOutline</string>
-    <string name="qstile_roundedrect">Rounded Rectangle</string>
-    <string name="qstile_square">Square</string>
-    <string name="qstile_squircle">Squircle</string>
-    <string name="qstile_teardrop">Teardrop</string>
-    <string name="qstile_badge">Badge</string>
-    <string name="qstile_badgetwo">Badge two</string>
+    <string name="qstile_circleoutline">Garis lingkaran</string>
+    <string name="qstile_roundedrect">Persegi panjang bulat</string>
+    <string name="qstile_square">Kotak</string>
+    <string name="qstile_squircle">Persegi membulat</string>
+    <string name="qstile_teardrop">Tetesan Air</string>
+    <string name="qstile_badge">Lencana</string>
+    <string name="qstile_badgetwo">Lencana dua</string>
     <string name="qstile_triangle">Segitiga</string>
     <string name="qstile_oos">OxygenOS</string>
     <!-- Lock Clock Fonts -->
@@ -436,8 +436,8 @@
     <string name="lock_clock_font_dialog_title">Pilih tulisan jam kunci</string>
     <!-- Lockscreen fonts - Common strings -->
     <string name="lock_fonts_stock">Normal (standar)</string>
-    <string name="lock_fonts_bold">Bold</string>
-    <string name="lock_fonts_italic">Italic</string>
+    <string name="lock_fonts_bold">Tebal</string>
+    <string name="lock_fonts_italic">Cetak miring</string>
     <string name="lock_fonts_bold_italic">Bold Italic</string>
     <string name="lock_fonts_light_italic">Light Italic</string>
     <string name="lock_fonts_light">Light</string>
