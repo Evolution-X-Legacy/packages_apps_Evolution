@@ -58,7 +58,7 @@
     <string name="switch_bar_off">Tắt</string>
     <!-- Color Picker -->
     <string name="dialog_color_picker">Bảng chọn màu</string>
-    <string name="press_color_to_apply">Bấm vào màu bên dưới để áp dụng</string>
+    <string name="press_color_to_apply">Nhấn vào màu bên dưới để áp dụng</string>
     <string name="arrow_right">→</string>
     <string name="arrow_down">↓</string>
     <string name="hex">Hex:</string>
