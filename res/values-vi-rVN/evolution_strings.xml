@@ -626,9 +626,9 @@
     <string name="hardware_keys_appswitch_key_title">Nút Tổng quan</string>
     <string name="hardware_keys_back_key_title">Nút Quay lại</string>
     <string name="hardware_keys_double_tap_summary">Đặt hành động khi chạm hai lần</string>
-    <string name="hardware_keys_single_tap_summary">Đặt hành động khi nhấn một lần</string>
+    <string name="hardware_keys_single_tap_summary">Đặt hành động khi chạm một lần</string>
     <string name="hardware_keys_long_press_summary">Đặt hành động khi nhấn giữ</string>
-    <string name="hardware_keys_single_tap_title">Hành động khi nhấn một lần</string>
+    <string name="hardware_keys_single_tap_title">Hành động khi chạm một lần</string>
     <string name="hardware_keys_long_press_title">Hành động khi nhấn giữ</string>
     <string name="hardware_keys_double_tap_title">Hành động chạm hai lần</string>
     <string name="hardware_keys_category">Phím cứng</string>
