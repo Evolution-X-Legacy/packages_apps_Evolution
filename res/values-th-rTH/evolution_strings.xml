@@ -137,7 +137,7 @@
     <string name="force_ambient_for_media_pref_title">แสดงรายละเอียดเพลงบนจอ Ambient</string>
     <string name="force_ambient_for_media_pref_summary">ปรับการแสดงรายละเอียดเพลงบนจอ Ambient</string>
     <string name="ambient_ticker_footer">หน้าจอAmbianจะแสดงเพลงที่กำลังเล่นพร้อมรายละเอียด\n\nถ้าปิดการใช้งานเมื่อเริ่มต้นเพลงใหม่จะแสดงข้อมูลที่กลางจอ\n\nสามารถแตะ2ครั้งที่ข้อมูลเพื่อข้ามเพลงใด้</string>
-    <string name="force_ambient_for_media_title">เปิดใช้งาน</string>
+    <string name="force_ambient_for_media_title">แสดงการ์ดการเล่นเพลงบนหน้าจอล็อค</string>
     <string name="ambient_title">Ambient Music</string>
     <!-- Status bar clock options -->
     <string name="clock_category">นาฬิกา</string>
@@ -682,13 +682,13 @@
     <string name="safe_headset_volume_warning_dialog_text">การฟังในระดับเสียงที่ดังเป็นระยะเวลานานอาจทำให้การได้ยินของคุณบกพร่อง  ปิดใช้งานด้วยความระมัดระวัง</string>
     <!-- Statusbar ticker -->
     <string name="statusbar_notifi_cat">สัญลักษณ์การแจ้งเตือน</string>
-    <string name="status_bar_ticker_title">สัญลักษณ์</string>
-    <string name="status_bar_show_ticker_title">สัญลักษณ์</string>
+    <string name="status_bar_ticker_title">ตัวอย่างการแจ้งเตือน</string>
+    <string name="status_bar_show_ticker_title">ตัวอย่างการแจ้งเตือน</string>
     <string name="status_bar_show_ticker_summary">แสดงตัวอย่างการแจ้งเตือนในแถบสถานะ</string>
-    <string name="ticker_animation_mode_title">สัญลักษณ์ภาพอนิเมชั่น</string>
+    <string name="ticker_animation_mode_title">อนิเมชั่นตัวอย่างแจ้งเตือน</string>
     <string name="ticker_animation_mode_alpha_fade">ค่อยๆ จาง</string>
     <string name="ticker_animation_mode_scroll">เลื่อน</string>
-    <string name="ticker_tick_duration_title">ระยะเวลาสัญลักษณ์</string>
+    <string name="ticker_tick_duration_title">ระยะเวลาตัวอย่างแจ้งเตือน</string>
     <!-- Blink flashlight for incoming calls -->
     <string name="flashlight_on_call_title">ไฟฉายกระพริบเมื่อมีสายเรียกเข้า</string>
     <string name="flashlight_on_call_disabled">ปิดใช้งาน</string>
