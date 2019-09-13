@@ -85,6 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Lingkaran bertitik besar</string>
     <string name="status_bar_battery_style_text">Teks</string>
     <string name="status_bar_battery_style_hidden">Tersembunyi</string>
+    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Fungsi Tombol Power</string>
     <string name="powermenu_screenshot">Tangkapan layar</string>
@@ -693,4 +694,7 @@
     <string name="flashlight_on_call_not_dnd">Flashlight berkedip hanya pada mode suara</string>
     <string name="flashlight_on_call_dnd">Flashlight berkedip hanya pada mode DND</string>
     <string name="flashlight_on_call_always">Flashlight selalu berkedip saat telepon</string>
+    <!-- Fingerprint icon -->
+    <string name="fingerprint_category_custom_icon">Custom icon</string>
+    <string name="fingerprint_file">Select a custom file</string>
 </resources>

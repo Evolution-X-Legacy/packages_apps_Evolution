@@ -85,6 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Большой пунктирный круг</string>
     <string name="status_bar_battery_style_text">Текст</string>
     <string name="status_bar_battery_style_hidden">Скрыть</string>
+    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Меню питания</string>
     <string name="powermenu_screenshot">Снимок экрана</string>
@@ -695,4 +696,7 @@
     <string name="flashlight_on_call_not_dnd">Мигание фонарика только в режиме вызовов</string>
     <string name="flashlight_on_call_dnd">Мигание фонарика только в режиме \"не беспокоить\"</string>
     <string name="flashlight_on_call_always">Мигание фонарика - всегда</string>
+    <!-- Fingerprint icon -->
+    <string name="fingerprint_category_custom_icon">Custom icon</string>
+    <string name="fingerprint_file">Select a custom file</string>
 </resources>

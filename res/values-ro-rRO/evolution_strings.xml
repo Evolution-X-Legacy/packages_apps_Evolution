@@ -85,6 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Big dotted circle</string>
     <string name="status_bar_battery_style_text">Text</string>
     <string name="status_bar_battery_style_hidden">Hidden</string>
+    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Power menu toggles</string>
     <string name="powermenu_screenshot">Screenshot</string>
@@ -696,4 +697,7 @@
     <string name="flashlight_on_call_not_dnd">Blink flashlight only in ringer mode</string>
     <string name="flashlight_on_call_dnd">Blink flashlight only in DND mode</string>
     <string name="flashlight_on_call_always">Always blink flashlight</string>
+    <!-- Fingerprint icon -->
+    <string name="fingerprint_category_custom_icon">Custom icon</string>
+    <string name="fingerprint_file">Select a custom file</string>
 </resources>
