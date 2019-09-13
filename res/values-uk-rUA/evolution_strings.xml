@@ -697,4 +697,7 @@
     <string name="flashlight_on_call_not_dnd">Блимати ліхтариком тільки в режим дзвінка</string>
     <string name="flashlight_on_call_dnd">Блимати ліхтариком лише в режимі Не турбувати</string>
     <string name="flashlight_on_call_always">Завжди блимати ліхтариком</string>
+    <!-- Fingerprint icon -->
+    <string name="fingerprint_category_custom_icon">Custom icon</string>
+    <string name="fingerprint_file">Select a custom file</string>
 </resources>
