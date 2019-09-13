@@ -696,4 +696,7 @@
     <string name="flashlight_on_call_not_dnd">Мигание фонарика только в режиме вызовов</string>
     <string name="flashlight_on_call_dnd">Мигание фонарика только в режиме \"не беспокоить\"</string>
     <string name="flashlight_on_call_always">Мигание фонарика - всегда</string>
+    <!-- Fingerprint icon -->
+    <string name="fingerprint_category_custom_icon">Custom icon</string>
+    <string name="fingerprint_file">Select a custom file</string>
 </resources>
