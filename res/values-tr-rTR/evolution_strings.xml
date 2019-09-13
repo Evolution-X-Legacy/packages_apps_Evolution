@@ -85,6 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Büyük noktalı daire</string>
     <string name="status_bar_battery_style_text">Metin</string>
     <string name="status_bar_battery_style_hidden">Gizli</string>
+    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Güç menüsü geçişleri</string>
     <string name="powermenu_screenshot">Ekran görüntüsü</string>
