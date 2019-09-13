@@ -697,4 +697,7 @@
     <string name="flashlight_on_call_not_dnd">Taskulamp vilgub ainult kõnerežiimis</string>
     <string name="flashlight_on_call_dnd">Taskulambi vilkumine ainult DND-režiimis</string>
     <string name="flashlight_on_call_always">Taskulamp vilgub - alati</string>
+    <!-- Fingerprint icon -->
+    <string name="fingerprint_category_custom_icon">Custom icon</string>
+    <string name="fingerprint_file">Select a custom file</string>
 </resources>
