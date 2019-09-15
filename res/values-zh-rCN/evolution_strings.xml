@@ -85,7 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">大环形虚线</string>
     <string name="status_bar_battery_style_text">文本</string>
     <string name="status_bar_battery_style_hidden">隐藏</string>
-    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
+    <string name="status_bar_battery_style_pa_circle">环形虚线</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">电源菜单按钮</string>
     <string name="powermenu_screenshot">屏幕截图</string>
@@ -695,7 +695,4 @@
     <string name="flashlight_on_call_not_dnd">仅在铃声模式下闪烁闪光灯</string>
     <string name="flashlight_on_call_dnd">仅在勿扰模式下闪烁闪光灯</string>
     <string name="flashlight_on_call_always">总是闪烁闪光灯</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
