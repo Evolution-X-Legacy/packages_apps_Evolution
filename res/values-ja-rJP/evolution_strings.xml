@@ -694,7 +694,4 @@
     <string name="flashlight_on_call_not_dnd">鳴動モードのみ</string>
     <string name="flashlight_on_call_dnd">マナーモードのみ</string>
     <string name="flashlight_on_call_always">常時</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
