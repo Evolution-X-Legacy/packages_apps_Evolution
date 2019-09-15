@@ -85,7 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Círculo Pontilhado Grande</string>
     <string name="status_bar_battery_style_text">Texto Android Q</string>
     <string name="status_bar_battery_style_hidden">Escondido</string>
-    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
+    <string name="status_bar_battery_style_pa_circle">Círculo (Preenchido)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Alterar o menu de energia</string>
     <string name="powermenu_screenshot">Captura de tela</string>
@@ -697,7 +697,4 @@
     <string name="flashlight_on_call_not_dnd">Pisca lanterna somente no modo de toque</string>
     <string name="flashlight_on_call_dnd">Pisca lanterna somente no modo de toque</string>
     <string name="flashlight_on_call_always">Sempre a piscar lanterna</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
