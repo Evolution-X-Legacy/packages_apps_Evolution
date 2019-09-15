@@ -697,7 +697,4 @@
     <string name="flashlight_on_call_not_dnd">Torcia lampeggiante solo a suoneria attivata</string>
     <string name="flashlight_on_call_dnd">Torcia lampeggiante solo in modalità Non disturbare</string>
     <string name="flashlight_on_call_always">Lampeggia sempre</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
