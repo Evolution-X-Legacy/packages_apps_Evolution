@@ -85,7 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Suur täppidest ring</string>
     <string name="status_bar_battery_style_text">Tekst</string>
     <string name="status_bar_battery_style_hidden">Peidetud</string>
-    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
+    <string name="status_bar_battery_style_pa_circle">Täppidest ring</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Toite menüü</string>
     <string name="powermenu_screenshot">Kuvatõmmis</string>
@@ -697,7 +697,4 @@
     <string name="flashlight_on_call_not_dnd">Taskulamp vilgub ainult kõnerežiimis</string>
     <string name="flashlight_on_call_dnd">Taskulambi vilkumine ainult DND-režiimis</string>
     <string name="flashlight_on_call_always">Taskulamp vilgub - alati</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
