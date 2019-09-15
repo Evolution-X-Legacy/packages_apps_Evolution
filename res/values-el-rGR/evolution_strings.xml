@@ -85,7 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">Μεγάλος κύκλος με τελείες</string>
     <string name="status_bar_battery_style_text">Κείμενο</string>
     <string name="status_bar_battery_style_hidden">Κρυφό</string>
-    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
+    <string name="status_bar_battery_style_pa_circle">Κύκλος (Γεμισμένα)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">Εναλλαγή εξοικονόμησης ενέργειας</string>
     <string name="powermenu_screenshot">Στιγμιότυπο οθόνης</string>
@@ -694,7 +694,4 @@
     <string name="flashlight_on_call_not_dnd">Ο φακός αναβοσβήνει μόνο στη λειτουργία κουδουνίσματος</string>
     <string name="flashlight_on_call_dnd">Ο φακός αναβοσβήνει μόνο στη λειτουργία DND</string>
     <string name="flashlight_on_call_always">Ο φακός αναβοσβήνει πάντα</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
