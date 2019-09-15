@@ -85,7 +85,7 @@
     <string name="status_bar_battery_style_big_dotted_circle">วงกลมใหญ่แบบจุด</string>
     <string name="status_bar_battery_style_text">ข้อความ</string>
     <string name="status_bar_battery_style_hidden">ซ่อน</string>
-    <string name="status_bar_battery_style_pa_circle">Circle (Filled)</string>
+    <string name="status_bar_battery_style_pa_circle">วงกลม (เต็ม)</string>
     <!-- Power Menu -->
     <string name="powermenu_category_title">สลับเมนูเพาว์เวอร์</string>
     <string name="powermenu_screenshot">บันทึกภาพหน้าจอ</string>
@@ -696,7 +696,4 @@
     <string name="flashlight_on_call_not_dnd">ไฟฉายกระพริบในโหมด สั่น เท่านั้น</string>
     <string name="flashlight_on_call_dnd">ไฟฉายกระพริบในโหมด ห้ามรบกวน เท่านั้น</string>
     <string name="flashlight_on_call_always">ไฟฉายกระพริบเสมอ</string>
-    <!-- Fingerprint icon -->
-    <string name="fingerprint_category_custom_icon">Custom icon</string>
-    <string name="fingerprint_file">Select a custom file</string>
 </resources>
